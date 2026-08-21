@@ -1,0 +1,397 @@
+
+/* =========================================================
+   Derecho Administrativo UK 2026
+   Estilo para Quarto Reveal.js
+   ========================================================= */
+
+/* ---------- Variables ---------- */
+
+:root {
+  --da-navy: #17324d;
+  --da-blue: #2f5d8a;
+  --da-light-blue: #eaf2f8;
+  --da-gold: #c79b3b;
+  --da-burgundy: #7b2d3a;
+  --da-green: #4f6f52;
+  --da-ink: #1f2933;
+  --da-muted: #64748b;
+  --da-paper: #fbfaf7;
+  --da-line: #d9e0e7;
+}
+
+
+/* ---------- Base general ---------- */
+
+.reveal {
+  font-family: "Aptos", "Segoe UI", Arial, sans-serif;
+  color: var(--da-ink);
+}
+
+.reveal .slides {
+  text-align: left;
+}
+
+.reveal .slides section {
+  padding: 34px 46px;
+  box-sizing: border-box;
+}
+
+.reveal .slides section:not(.title-slide) {
+  background:
+    linear-gradient(
+      90deg,
+      rgba(23, 50, 77, 0.035) 0,
+      rgba(23, 50, 77, 0.035) 10px,
+      transparent 10px,
+      transparent 100%
+    );
+}
+
+
+/* ---------- Títulos ---------- */
+
+.reveal h1,
+.reveal h2,
+.reveal h3 {
+  font-family: "Aptos Display", "Segoe UI Semibold", Arial, sans-serif;
+  text-transform: none;
+  letter-spacing: -0.02em;
+}
+
+.reveal h1 {
+  color: var(--da-navy);
+  font-size: 1.75em;
+  margin-bottom: 0.55em;
+  padding-bottom: 0.18em;
+  border-bottom: 4px solid var(--da-gold);
+}
+
+.reveal h2 {
+  color: var(--da-blue);
+  font-size: 1.18em;
+  margin-top: 0.65em;
+  margin-bottom: 0.35em;
+}
+
+.reveal h3 {
+  color: var(--da-burgundy);
+  font-size: 0.95em;
+}
+
+
+/* ---------- Portada ---------- */
+
+.reveal .title-slide {
+  background:
+    linear-gradient(135deg, rgba(23, 50, 77, 0.97), rgba(47, 93, 138, 0.92)),
+    radial-gradient(circle at top right, rgba(199, 155, 59, 0.28), transparent 36%);
+  color: white;
+}
+
+.reveal .title-slide h1 {
+  color: white;
+  border-bottom: 5px solid var(--da-gold);
+  font-size: 2.25em;
+}
+
+.reveal .title-slide .subtitle {
+  color: #e8eef5;
+  font-size: 1.15em;
+}
+
+.reveal .title-slide p,
+.reveal .title-slide .author,
+.reveal .title-slide .date {
+  color: #dbe5ee;
+}
+
+
+/* ---------- Texto ---------- */
+
+.reveal p,
+.reveal li {
+  line-height: 1.34;
+}
+
+.reveal strong {
+  color: var(--da-navy);
+  font-weight: 700;
+}
+
+.reveal em {
+  color: var(--da-burgundy);
+}
+
+.reveal small,
+.reveal .small {
+  color: var(--da-muted);
+}
+
+
+/* ---------- Listas ---------- */
+
+.reveal ul,
+.reveal ol {
+  margin-top: 0.35em;
+}
+
+.reveal ul li::marker {
+  color: var(--da-blue);
+}
+
+.reveal ol li::marker {
+  color: var(--da-burgundy);
+  font-weight: 700;
+}
+
+
+/* ---------- Citas y bloques destacados ---------- */
+
+.reveal blockquote {
+  width: auto;
+  margin: 0.8em 0;
+  padding: 0.7em 1em;
+  border-left: 6px solid var(--da-gold);
+  background: #fffdf8;
+  color: #334155;
+  box-shadow: none;
+  font-style: normal;
+}
+
+.reveal blockquote p {
+  margin: 0;
+}
+
+
+/* ---------- Código / esquemas ---------- */
+
+.reveal pre {
+  width: 100%;
+  box-shadow: none;
+  border: 1px solid var(--da-line);
+  border-radius: 10px;
+  background: #f7f9fb;
+}
+
+.reveal code {
+  color: #17324d;
+}
+
+.reveal pre code {
+  padding: 0.8em 1em;
+  line-height: 1.3;
+  max-height: 520px;
+}
+
+
+/* ---------- Tablas ---------- */
+
+.reveal table {
+  margin: 0.8em auto;
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.82em;
+}
+
+.reveal table th {
+  background: var(--da-navy);
+  color: white;
+  padding: 0.55em 0.7em;
+  border: 1px solid #cbd5e1;
+}
+
+.reveal table td {
+  padding: 0.5em 0.7em;
+  border: 1px solid #d6dde5;
+  vertical-align: top;
+}
+
+.reveal table tr:nth-child(even) td {
+  background: #f7f9fb;
+}
+
+
+/* ---------- Clases visuales reutilizables ---------- */
+
+.reveal .regla,
+.reveal .problema,
+.reveal .fallo,
+.reveal .caso,
+.reveal .idea {
+  border-radius: 12px;
+  padding: 0.75em 0.95em;
+  margin: 0.75em 0;
+  border: 1px solid transparent;
+}
+
+.reveal .regla {
+  background: #eef5fb;
+  border-color: #bdd2e6;
+  border-left: 7px solid var(--da-blue);
+}
+
+.reveal .problema {
+  background: #fff7ea;
+  border-color: #efd9ae;
+  border-left: 7px solid var(--da-gold);
+}
+
+.reveal .fallo {
+  background: #f8eef1;
+  border-color: #dfbdc5;
+  border-left: 7px solid var(--da-burgundy);
+}
+
+.reveal .caso {
+  background: #eef5ef;
+  border-color: #c5d8c8;
+  border-left: 7px solid var(--da-green);
+}
+
+.reveal .idea {
+  background: #f5f6f8;
+  border-color: #d9dee5;
+  border-left: 7px solid #64748b;
+}
+
+.reveal .regla::before,
+.reveal .problema::before,
+.reveal .fallo::before,
+.reveal .caso::before,
+.reveal .idea::before {
+  display: block;
+  font-size: 0.65em;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  margin-bottom: 0.25em;
+}
+
+.reveal .regla::before {
+  content: "REGLA";
+  color: var(--da-blue);
+}
+
+.reveal .problema::before {
+  content: "PROBLEMA";
+  color: #8a6218;
+}
+
+.reveal .fallo::before {
+  content: "JURISPRUDENCIA";
+  color: var(--da-burgundy);
+}
+
+.reveal .caso::before {
+  content: "CASO";
+  color: var(--da-green);
+}
+
+.reveal .idea::before {
+  content: "IDEA CENTRAL";
+  color: #475569;
+}
+
+
+/* ---------- Slides de sección ---------- */
+
+.reveal section.seccion {
+  background:
+    linear-gradient(135deg, rgba(23, 50, 77, 0.98), rgba(47, 93, 138, 0.94));
+  color: white;
+}
+
+.reveal section.seccion h1,
+.reveal section.seccion h2 {
+  color: white;
+}
+
+.reveal section.seccion h1 {
+  border-bottom-color: var(--da-gold);
+}
+
+.reveal section.seccion p,
+.reveal section.seccion li,
+.reveal section.seccion strong {
+  color: white;
+}
+
+
+/* ---------- Énfasis ---------- */
+
+.reveal .accent {
+  color: var(--da-burgundy);
+  font-weight: 700;
+}
+
+.reveal .gold {
+  color: #9b751f;
+  font-weight: 700;
+}
+
+.reveal .muted {
+  color: var(--da-muted);
+}
+
+.reveal .big {
+  font-size: 1.25em;
+}
+
+.reveal .center {
+  text-align: center;
+}
+
+
+/* ---------- Número de slide ---------- */
+
+.reveal .slide-number {
+  background: rgba(23, 50, 77, 0.9);
+  color: white;
+  border-radius: 7px 0 0 0;
+  padding: 5px 10px;
+}
+
+
+/* ---------- Links ---------- */
+
+.reveal a {
+  color: var(--da-blue);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+
+.reveal a:hover {
+  color: var(--da-burgundy);
+}
+
+
+/* ---------- Ajustes para slides densas ---------- */
+
+.reveal .dense {
+  font-size: 0.82em;
+}
+
+.reveal .very-dense {
+  font-size: 0.72em;
+}
+
+.reveal .compact p {
+  margin-top: 0.35em;
+  margin-bottom: 0.35em;
+}
+
+.reveal .compact li {
+  margin-bottom: 0.12em;
+}
+
+
+/* ---------- Responsive ---------- */
+
+@media (max-width: 900px) {
+  .reveal h1 {
+    font-size: 1.45em;
+  }
+
+  .reveal .slides section {
+    padding: 24px 28px;
+  }
+}

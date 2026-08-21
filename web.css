@@ -1,0 +1,122 @@
+:root {
+  --azul-profundo: #102A43;
+  --azul: #1F5A7A;
+  --azul-claro: #DCEAF3;
+  --dorado: #C59A3D;
+  --crema: #F7F3E8;
+  --gris: #5B6573;
+  --gris-claro: #EEF1F4;
+}
+
+/* PORTADA */
+
+.hero {
+  background: linear-gradient(135deg, #102A43, #1F5A7A);
+  color: white;
+  padding: 3.5rem;
+  border-radius: 16px;
+  margin-bottom: 3rem;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  font-weight: 750;
+  margin-bottom: 0.4rem;
+}
+
+.hero h2 {
+  color: #DCEAF3;
+  font-weight: 400;
+  margin-top: 0;
+}
+
+.hero p {
+  font-size: 1.1rem;
+}
+
+/* TÍTULOS */
+
+h2 {
+  color: #102A43;
+  font-weight: 700;
+  margin-top: 2rem;
+}
+
+h3 {
+  color: #1F5A7A;
+  margin-top: 2.5rem;
+}
+
+/* GRILLA DE MATERIALES */
+
+.material-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+  gap: 1.4rem;
+  margin: 1.5rem 0 3rem 0;
+}
+
+/* TARJETAS */
+
+.material-card {
+  background: white;
+  border: 1px solid #e2e6ea;
+  border-top: 5px solid #1F5A7A;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.06);
+  transition: transform .2s ease, box-shadow .2s ease;
+}
+
+.material-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 7px 18px rgba(0,0,0,0.10);
+}
+
+.material-card h4 {
+  color: #102A43;
+  font-size: 1.25rem;
+  margin-top: 0;
+}
+
+/* BOTÓN */
+
+.btn-class {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.65rem 1.1rem;
+  background: #102A43;
+  color: white !important;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 600;
+}
+
+.btn-class:hover {
+  background: #1F5A7A;
+  color: white !important;
+}
+
+/* SEPARADORES */
+
+hr {
+  border: 0;
+  border-top: 1px solid #e2e6ea;
+  margin: 3rem 0;
+}
+
+/* MÓVIL */
+
+@media (max-width: 768px) {
+  .hero {
+    padding: 2rem;
+  }
+
+  .hero h1 {
+    font-size: 2.2rem;
+  }
+
+  .material-grid {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Derecho Administrativo"
+  navbar:
+    background: "#102A43"
+    foreground: "#FFFFFF"
+    left:
+      - href: index.qmd
+        text: Inicio
+
+format:
+  html:
+    theme: cosmo
+    css: web.css
+    toc: false
+
+execute:
+  freeze: auto

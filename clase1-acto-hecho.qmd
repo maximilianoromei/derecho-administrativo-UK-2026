@@ -1,0 +1,629 @@
+---
+title: "Derecho Administrativo"
+subtitle: "Clase 1 · Bases, fuentes y función administrativa"
+format:
+  revealjs:
+    slide-level: 1
+    slide-number: true
+    scrollable: true
+    hash: true
+    transition: slide
+    navigation-mode: linear
+    width: 1600
+    height: 900
+    center: false
+    controls: true
+    progress: true
+    css: styles.css
+lang: es
+---
+
+# Función administrativa
+
+## Concepto
+
+La función administrativa comprende:
+
+- la actividad desarrollada por los **órganos administrativos**, centralizados o descentralizados;
+- y también la actividad administrativa desarrollada por los **órganos legislativos y judiciales**.
+
+Por lo tanto:
+
+> **Función administrativa ≠ actividad exclusiva del Poder Ejecutivo.**
+
+# Formas de la actividad administrativa
+
+La actividad administrativa puede analizarse a partir de dos distinciones:
+
+1. **Actos ↔ Hechos**
+2. **Actividad jurídica ↔ Actividad no jurídica**
+
+De la combinación de ambos criterios surgen cuatro categorías:
+
+| | Jurídicos | No jurídicos |
+|---|---|---|
+| **Actos** | Actos jurídicos | Actos no jurídicos |
+| **Hechos** | Hechos jurídicos | Hechos no jurídicos |
+
+# Primera distinción: actos y hechos
+
+## ACTO
+
+Los actos son:
+
+- decisiones;
+- declaraciones;
+- manifestaciones de voluntad;
+- manifestaciones de conocimiento;
+- manifestaciones de juicio.
+
+Lo característico del acto es la existencia de una **exteriorización intelectiva** de la voluntad administrativa.
+
+## HECHO
+
+Los hechos son:
+
+- actuaciones materiales;
+- operaciones técnicas;
+
+realizadas en ejercicio de la función administrativa.
+
+> **Acto = declaración**
+>
+> **Hecho = actuación material**
+
+# Acto administrativo
+
+En el acto existe una declaración proveniente de la Administración dirigida al intelecto de sus destinatarios.
+
+Puede exteriorizarse mediante:
+
+- palabra escrita;
+- palabra oral;
+- signos;
+- otras formas capaces de transmitir intelectualmente una decisión.
+
+### Ejemplo
+
+La Administración dispone:
+
+> **"Debe demolerse este inmueble".**
+
+Existe una decisión exteriorizada como tal.
+
+Estamos ante un **acto**.
+
+# Hecho administrativo
+
+En el hecho no encontramos esa declaración separada de su ejecución.
+
+Existe una:
+
+## actuación física o material.
+
+### Ejemplo
+
+La Administración procede materialmente a:
+
+> **demoler el inmueble.**
+
+La demolición constituye un **hecho administrativo**.
+
+# Acto y hecho: la diferencia
+
+La distinción puede sintetizarse así:
+
+```text
+DECIDIR
+   ↓
+proceso intelectual
+
+COMUNICAR LA DECISIÓN
+   ↓
+ACTO
+
+EJECUTAR MATERIALMENTE
+   ↓
+HECHO
+```
+
+La ejecución material constituye un hecho aunque exista previamente un acto que la ordene.
+
+# Acto previo + hecho
+
+Puede existir una secuencia completa:
+
+```text
+DECISIÓN
+   ↓
+ACTO ADMINISTRATIVO
+   ↓
+EJECUCIÓN
+   ↓
+HECHO ADMINISTRATIVO
+```
+
+### Ejemplo
+
+1. La Administración decide retirar determinados obstáculos de una calle.
+2. Exterioriza formalmente esa decisión.
+3. Los agentes proceden materialmente a retirarlos.
+
+Tenemos:
+
+- un **acto**;
+- seguido de un **hecho**.
+
+# ¿Puede existir un hecho sin acto previo?
+
+## Sí.
+
+La decisión puede exteriorizarse directamente mediante su ejecución material.
+
+```text
+DECISIÓN INTERNA
+       ↓
+EJECUCIÓN DIRECTA
+       ↓
+HECHO ADMINISTRATIVO
+```
+
+En ese supuesto existe una actuación administrativa material, pero:
+
+> **no existe necesariamente un acto administrativo previo exteriorizado.**
+
+# Ejemplo
+
+La Administración destruye directamente una construcción sin haber exteriorizado previamente una decisión de demolición.
+
+La voluntad administrativa puede inferirse de la conducta material.
+
+Pero eso:
+
+> **no convierte al hecho en acto.**
+
+Para que exista acto debe haber una declaración de voluntad exteriorizada como tal y no simplemente su ejecución material.
+
+# Una distinción importante
+
+No debemos confundir:
+
+## decisión interna
+
+con:
+
+## acto administrativo.
+
+Puede existir una decisión del funcionario antes de realizar una actuación material.
+
+Sin embargo:
+
+> la existencia psicológica o interna de una decisión no basta para que exista un acto.
+
+El acto exige una **exteriorización intelectiva de esa decisión**.
+
+# Segunda distinción: actividad jurídica y no jurídica
+
+Ahora utilizamos un criterio diferente.
+
+La pregunta es:
+
+> **¿la actividad administrativa produce efectos jurídicos directos?**
+
+### ACTIVIDAD JURÍDICA
+
+Produce efectos jurídicos directos.
+
+### ACTIVIDAD NO JURÍDICA
+
+No produce efectos jurídicos directos respecto de un sujeto de derecho.
+
+# Dos clasificaciones diferentes
+
+Tenemos entonces dos preguntas independientes:
+
+## Primera pregunta
+
+¿Estamos ante una declaración o una actuación material?
+
+- declaración → **ACTO**
+- actuación material → **HECHO**
+
+## Segunda pregunta
+
+¿Produce efectos jurídicos directos?
+
+- sí → **JURÍDICO**
+- no → **NO JURÍDICO**
+
+# Las cuatro categorías
+
+De la combinación de ambas clasificaciones obtenemos:
+
+```text
+             ACTIVIDAD ADMINISTRATIVA
+                      │
+          ┌───────────┴───────────┐
+          │                       │
+        ACTOS                   HECHOS
+          │                       │
+     ┌────┴────┐             ┌────┴────┐
+     │         │             │         │
+ JURÍDICOS   NO JURÍDICOS  JURÍDICOS  NO JURÍDICOS
+```
+
+# Actos jurídicos
+
+Son:
+
+> decisiones o declaraciones de voluntad, conocimiento o juicio que producen un **efecto jurídico directo**.
+
+El efecto puede consistir en:
+
+- nacimiento;
+- modificación;
+- extinción;
+
+de un derecho o deber jurídico de un sujeto.
+
+# Elemento decisivo
+
+Para determinar si el acto es jurídico debemos preguntarnos:
+
+> **¿produce directamente una modificación en la situación jurídica de una persona?**
+
+Si la respuesta es afirmativa:
+
+## estamos ante un acto jurídico.
+
+# Actos no jurídicos
+
+Son:
+
+> decisiones, declaraciones o manifestaciones realizadas en ejercicio de la función administrativa que **no producen efectos jurídicos directos** respecto de un sujeto de derecho.
+
+Existe una manifestación intelectiva.
+
+Por eso son:
+
+## ACTOS
+
+Pero no producen directamente el nacimiento, modificación o extinción de derechos u obligaciones.
+
+Por eso son:
+
+## NO JURÍDICOS
+
+# Ejemplos de actos no jurídicos
+
+Dentro de esta categoría pueden encontrarse numerosas actuaciones propias de un expediente administrativo:
+
+- informes;
+- dictámenes;
+- opiniones;
+- recomendaciones;
+- consultas;
+- averiguaciones;
+- informes técnicos.
+
+También pueden incluirse determinadas medidas de prueba:
+
+- pericias;
+- declaraciones testimoniales;
+- prueba documental;
+- copias;
+- certificaciones;
+- grabaciones;
+- videograbaciones.
+
+# El dictamen
+
+Un funcionario u órgano competente emite una opinión jurídica respecto de una determinada cuestión.
+
+Tenemos:
+
+### una declaración
+
+→ es un **acto**.
+
+Pero, si esa opinión no modifica directamente la situación jurídica del interesado:
+
+### no produce efecto jurídico directo
+
+→ es un **acto no jurídico**.
+
+# Acto definitivo y actuaciones preparatorias
+
+Esto permite advertir una diferencia importante dentro del procedimiento administrativo.
+
+No toda actuación incorporada a un expediente:
+
+> **produce por sí misma efectos jurídicos directos.**
+
+Puede haber:
+
+- informes;
+- opiniones;
+- dictámenes;
+- medidas probatorias;
+
+que preparan una decisión posterior.
+
+# Hechos no jurídicos
+
+Son:
+
+> actuaciones materiales de la Administración que no producen un efecto jurídico directo y no constituyen declaraciones o manifestaciones intelectivas.
+
+Tenemos:
+
+### actuación material
+
+→ **HECHO**
+
+### sin efecto jurídico directo
+
+→ **NO JURÍDICO**
+
+# Ejemplos de hechos no jurídicos
+
+- un profesor dicta su clase de pie o sentado;
+- escribe en el pizarrón;
+- proyecta diapositivas;
+- un agente policial traslada un expediente;
+- un ordenanza limpia un aula;
+- un empleado lleva documentación de una oficina a otra.
+
+Existe:
+
+## actividad material de la Administración.
+
+Pero no existe necesariamente:
+
+## efecto jurídico directo.
+
+# Hechos jurídicos
+
+Son conductas materiales de la Administración que:
+
+> **producen un efecto jurídico determinado.**
+
+Ese efecto puede consistir en:
+
+- creación de un derecho o deber;
+- modificación de una situación jurídica;
+- extinción de un derecho o deber;
+- nacimiento de responsabilidad del agente;
+- nacimiento de responsabilidad de la Administración.
+
+# Ejemplo: detención ilegítima
+
+Un agente policial detiene a una persona sin orden de autoridad competente.
+
+¿Qué tenemos?
+
+### Es una actuación material
+
+→ **HECHO**
+
+Pero esa actuación produce consecuencias jurídicas.
+
+Puede generar:
+
+- afectación de derechos;
+- responsabilidad del agente;
+- responsabilidad de la Administración.
+
+Por lo tanto:
+
+## HECHO JURÍDICO
+
+# Otro ejemplo
+
+Un funcionario incumple una orden judicial de pronto despacho en el marco de un amparo por mora.
+
+Su conducta puede generar:
+
+## responsabilidad.
+
+Por lo tanto, la actuación posee consecuencias jurídicas.
+
+Estamos ante un:
+
+## HECHO JURÍDICO
+
+# El cuadro completo
+
+| Categoría | ¿Declaración? | ¿Actuación material? | ¿Efecto jurídico directo? |
+|---|:---:|:---:|:---:|
+| **Acto jurídico** | ✓ | — | ✓ |
+| **Acto no jurídico** | ✓ | — | — |
+| **Hecho jurídico** | — | ✓ | ✓ |
+| **Hecho no jurídico** | — | ✓ | — |
+
+# Cómo resolver un caso
+
+Frente a una determinada actividad administrativa podemos seguir dos pasos.
+
+## PASO 1
+
+Preguntar:
+
+> **¿Existe una declaración o una actuación material?**
+
+### Declaración
+
+→ ACTO
+
+### Actuación material
+
+→ HECHO
+
+# Segundo paso
+
+## PASO 2
+
+Preguntar:
+
+> **¿Produce efectos jurídicos directos?**
+
+### Sí
+
+→ JURÍDICO
+
+### No
+
+→ NO JURÍDICO
+
+# Método completo
+
+```text
+              ACTIVIDAD ADMINISTRATIVA
+                       │
+             ¿Cómo se exterioriza?
+                       │
+           ┌───────────┴───────────┐
+           │                       │
+      DECLARACIÓN             ACTUACIÓN MATERIAL
+           │                       │
+         ACTO                    HECHO
+           │                       │
+     ¿produce efecto          ¿produce efecto
+     jurídico directo?        jurídico?
+           │                       │
+       ┌───┴───┐               ┌───┴───┐
+       │       │               │       │
+      SÍ      NO              SÍ      NO
+       │       │               │       │
+     ACTO     ACTO           HECHO    HECHO
+  JURÍDICO  NO JURÍDICO   JURÍDICO NO JURÍDICO
+```
+
+# Para pensar
+
+La Administración decide clausurar un establecimiento y notifica formalmente esa decisión al titular.
+
+### ¿Acto o hecho?
+
+Existe una declaración formal.
+
+→ **ACTO**
+
+### ¿Jurídico o no jurídico?
+
+Produce directamente efectos sobre la situación jurídica del titular.
+
+→ **JURÍDICO**
+
+## ACTO JURÍDICO
+
+# Para pensar
+
+Antes de decidir una clausura, el servicio jurídico emite un dictamen aconsejando adoptar la medida.
+
+### ¿Acto o hecho?
+
+Existe una manifestación intelectual.
+
+→ **ACTO**
+
+### ¿Produce directamente la clausura?
+
+No.
+
+→ **NO JURÍDICO**
+
+## ACTO NO JURÍDICO
+
+# Para pensar
+
+Luego de dictada una decisión administrativa, agentes públicos colocan materialmente una faja de clausura.
+
+### ¿Acto o hecho?
+
+Existe una actuación material.
+
+→ **HECHO**
+
+### ¿Tiene consecuencias jurídicas?
+
+La actuación material ejecuta la decisión y afecta concretamente la actividad del establecimiento.
+
+→ **HECHO JURÍDICO**
+
+# Para pensar
+
+Un empleado administrativo lleva físicamente el expediente de una oficina a otra.
+
+### ¿Acto o hecho?
+
+Existe una actuación material.
+
+→ **HECHO**
+
+### ¿Produce por sí misma efectos jurídicos directos?
+
+No.
+
+→ **NO JURÍDICO**
+
+## HECHO NO JURÍDICO
+
+# No confundir
+
+## ACTO / HECHO
+
+responde a:
+
+> **¿cómo se exterioriza la actividad administrativa?**
+
+Mientras que:
+
+## JURÍDICO / NO JURÍDICO
+
+responde a:
+
+> **¿qué efectos produce esa actividad?**
+
+Son dos criterios distintos que luego se combinan.
+
+# Síntesis
+
+```text
+ACTO
+=
+DECLARACIÓN
+
+HECHO
+=
+ACTUACIÓN MATERIAL
+
+
+JURÍDICO
+=
+PRODUCE EFECTOS JURÍDICOS DIRECTOS
+
+NO JURÍDICO
+=
+NO PRODUCE EFECTOS JURÍDICOS DIRECTOS
+```
+
+# Idea final
+
+La función administrativa no se manifiesta únicamente mediante:
+
+## actos administrativos.
+
+También comprende:
+
+- declaraciones sin efectos jurídicos directos;
+- actuaciones materiales con efectos jurídicos;
+- actuaciones materiales sin efectos jurídicos.
+
+Por eso, para analizar correctamente la actividad administrativa debemos distinguir:
+
+> **ACTO / HECHO**
+
+y, separadamente:
+
+> **JURÍDICO / NO JURÍDICO**

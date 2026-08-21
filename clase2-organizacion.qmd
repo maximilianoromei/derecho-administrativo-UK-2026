@@ -1,0 +1,2391 @@
+---
+title: "Derecho Administrativo"
+subtitle: "Clase 2 · Organización administrativa"
+format:
+  revealjs:
+    slide-level: 1
+    slide-number: true
+    scrollable: true
+    hash: true
+    transition: slide
+    navigation-mode: linear
+    width: 1600
+    height: 900
+    center: false
+    controls: true
+    progress: true
+    css: styles.css
+lang: es
+---
+
+# Derecho Administrativo
+
+## Clase 2
+
+**Organización administrativa**
+
+Administración Pública · Personas jurídicas públicas · Órganos · Competencia · Jerarquía · Conflictos de competencia · Delegación · Avocación
+
+# Temario
+
+1. **Administración Pública: concepto y distintas concepciones**
+2. **Principios de la organización administrativa**
+3. **Persona jurídica pública en el Código Civil y Comercial**
+4. **Órgano y funcionario**
+5. **Competencia: concepto y clasificación**
+6. **Jerarquía**
+7. **Cuestiones y conflictos de competencia**
+8. **Recusación y excusación**
+9. **Excepciones a la improrrogabilidad: delegación y avocación**
+
+# 1 · Administración Pública
+
+## El problema inicial
+
+En la clase anterior analizamos:
+
+- función administrativa;
+- Derecho Administrativo;
+- ejercicio del poder estatal.
+
+Ahora debemos preguntarnos:
+
+> **¿Cómo se organiza el Estado para ejercer esas funciones?**
+
+La respuesta nos conduce al estudio de la:
+
+# ORGANIZACIÓN ADMINISTRATIVA
+
+# Administración Pública
+
+El Word distingue dos aproximaciones.
+
+### Sentido restringido
+
+Comprende el conjunto de órganos encabezados por el:
+
+## Poder Ejecutivo.
+
+### Sentido amplio
+
+Incluye también:
+
+## entidades jurídicamente descentralizadas.
+
+# La organización administrativa
+
+La Administración no constituye una estructura indiferenciada.
+
+Está compuesta por:
+
+- órganos;
+- entes;
+- competencias;
+- relaciones jurídicas;
+- agentes;
+- recursos materiales.
+
+Balbín presenta esta estructura como el modo en que el Poder Ejecutivo distribuye y ejerce las competencias estatales.
+
+# Una primera distinción
+
+Para comprender la organización administrativa debemos separar:
+
+## ESTADO
+
+de
+
+## ÓRGANOS
+
+y de
+
+## ENTES.
+
+No son conceptos equivalentes.
+
+# El Estado como persona jurídica
+
+Históricamente se discutió si el Estado tenía:
+
+- una personalidad pública;
+- y otra personalidad privada.
+
+Esta concepción de la:
+
+## DOBLE PERSONALIDAD
+
+ha sido abandonada.
+
+# Una sola personalidad
+
+El Estado es:
+
+> **un único sujeto jurídico.**
+
+Puede actuar sometido a:
+
+- Derecho Público;
+- Derecho Privado;
+
+pero ello no significa que existan dos personas jurídicas estatales diferentes.
+
+```text
+ESTADO
+  │
+  ├── actúa bajo Derecho Público
+  │
+  └── puede actuar bajo Derecho Privado
+```
+
+## Un sujeto → distintos regímenes jurídicos
+
+# ¿Cómo actúa una persona jurídica?
+
+Aquí aparece un problema.
+
+El Estado es una construcción jurídica.
+
+No puede físicamente:
+
+- hablar;
+- firmar;
+- decidir;
+- ordenar;
+- contratar.
+
+Necesita personas físicas que exterioricen su voluntad.
+
+La pregunta es:
+
+> **¿Cómo atribuimos jurídicamente al Estado lo que hace una persona física?**
+
+# Respuesta
+
+## TEORÍA DEL ÓRGANO
+
+La organización estatal se construye sobre órganos.
+
+Cuando el órgano actúa dentro del marco jurídico:
+
+> **actúa el propio Estado.**
+
+No actúa un tercero que representa externamente al Estado.
+
+# Administración y organización
+
+Podemos representar el problema así:
+
+```text
+ESTADO
+persona jurídica
+     │
+     ↓
+ORGANIZACIÓN
+     │
+ ┌───┴────┐
+ │        │
+ÓRGANOS  ENTES
+ │        │
+ ↓        ↓
+competencias estatales
+```
+
+# 2 · Principios de la organización administrativa
+
+El Word identifica cuatro principios fundamentales:
+
+1. **competencia**
+2. **jerarquía**
+3. **centralización**
+4. **descentralización**
+
+Estos principios permiten comprender cómo se:
+
+- estructura;
+- distribuye;
+- coordina;
+- controla
+
+el ejercicio del poder administrativo.
+
+# Dos preguntas distintas
+
+La organización administrativa debe responder dos problemas.
+
+### ¿Quién puede decidir?
+
+Nos conduce a:
+
+## COMPETENCIA
+
+### ¿Cómo se relacionan los órganos?
+
+Nos conduce a:
+
+## JERARQUÍA
+
+# Un tercer problema
+
+El Estado también debe decidir:
+
+> **¿Dónde ubicar las competencias?**
+
+Puede hacerlo:
+
+### dentro del Estado central
+
+→ desconcentración.
+
+### en sujetos con personalidad propia
+
+→ descentralización.
+
+# El modelo organizativo
+
+Balbín explica que las estructuras estatales modernas combinan dos grandes criterios:
+
+### División del trabajo
+
+Las competencias son distribuidas entre distintos centros.
+
+### Unidad o pluralidad de mando
+
+Según exista:
+
+- estructura centralizada;
+- estructura descentralizada.
+
+# Centralización y descentralización
+
+El criterio básico para distinguirlas es:
+
+## el grado de autonomía respecto del poder central.
+
+Balbín utiliza como punto de inflexión fundamental:
+
+# LA PERSONALIDAD JURÍDICA
+
+# Modelo centralizado
+
+En la estructura centralizada encontramos:
+
+## ÓRGANOS
+
+Los órganos:
+
+- forman parte del Estado;
+- no poseen personalidad jurídica propia;
+- se relacionan fundamentalmente mediante jerarquía.
+
+Ejemplos:
+
+- Ministerio;
+- Secretaría;
+- Subsecretaría;
+- Dirección Nacional.
+
+# Modelo descentralizado
+
+En la estructura descentralizada encontramos:
+
+## ENTES
+
+Los entes:
+
+- poseen personalidad jurídica;
+- integran la estructura estatal;
+- cuentan con competencias propias;
+- presentan mayor autonomía respecto del poder central.
+
+# Idea central
+
+```text
+ESTADO CENTRAL
+     │
+   ÓRGANOS
+     │
+SIN personalidad jurídica propia
+
+
+ESTADO DESCENTRALIZADO
+     │
+    ENTES
+     │
+CON personalidad jurídica propia
+```
+
+# El modelo real
+
+Balbín advierte que los Estados actuales no son:
+
+- absolutamente centralizados;
+- ni absolutamente descentralizados.
+
+Ambas técnicas:
+
+## SE COMBINAN.
+
+El Estado moderno presenta distintos grados de:
+
+- autonomía;
+- descentralización;
+- control;
+- dependencia.
+
+# Una mirada contemporánea
+
+Para Balbín, el modelo de Administración Pública actual debería tender hacia estructuras:
+
+- más descentralizadas;
+- abiertas;
+- participativas;
+- transparentes;
+- eficientes.
+
+La organización administrativa no es simplemente un problema burocrático.
+
+También condiciona:
+
+## la calidad de los derechos.
+
+# 3 · Personas jurídicas públicas
+
+## Código Civil y Comercial
+
+El art. 141 CCyC define a las personas jurídicas como los entes a los que el ordenamiento reconoce aptitud para:
+
+- adquirir derechos;
+- contraer obligaciones;
+
+para el cumplimiento de:
+
+- su objeto;
+- los fines de su creación.
+
+# Personas jurídicas públicas
+
+El art. 146 CCyC incluye, entre otras:
+
+- Estado nacional;
+- provincias;
+- Ciudad Autónoma de Buenos Aires;
+- municipios;
+- entidades autárquicas;
+- otras organizaciones a las que el ordenamiento atribuya carácter público;
+- Estados extranjeros;
+- organizaciones internacionales;
+- Iglesia Católica.
+
+# Régimen jurídico
+
+El art. 147 CCyC establece que las personas jurídicas públicas se rigen respecto de:
+
+- reconocimiento;
+- comienzo;
+- capacidad;
+- funcionamiento;
+- organización;
+- fin de su existencia;
+
+por:
+
+## las leyes y ordenamientos de su constitución.
+
+# Participación estatal
+
+El art. 149 CCyC establece una regla importante:
+
+> **La participación del Estado en una persona jurídica privada no modifica por sí misma el carácter privado de esta.**
+
+Por lo tanto:
+
+```text
+PARTICIPACIÓN ESTATAL
+        ≠
+PERSONA JURÍDICA PÚBLICA
+```
+
+# ¿Por qué importa distinguirlas?
+
+Porque determinar si una persona es:
+
+## pública
+
+o
+
+## privada
+
+tiene consecuencias sobre:
+
+- régimen jurídico;
+- competencias;
+- controles;
+- procedimientos;
+- responsabilidad;
+- contratación;
+- régimen patrimonial.
+
+# Criterios tradicionales
+
+El Word menciona distintos criterios utilizados para identificar una persona jurídica pública:
+
+- creación legal;
+- calificación expresa del legislador;
+- finalidad de interés general;
+- prerrogativas públicas;
+- intensidad del control estatal.
+
+Pero ninguno de estos criterios, aisladamente, resuelve necesariamente todos los casos.
+
+# Balbín: órganos y entes
+
+Balbín formula una distinción particularmente útil.
+
+### Órgano
+
+Centro de imputación de competencias:
+
+## sin personalidad jurídica propia.
+
+### Ente
+
+Centro de imputación de competencias:
+
+## con personalidad jurídica propia.
+
+# El ente estatal
+
+Para Balbín:
+
+> **el ente estatal es un centro de imputación de competencias desempeñado por un sujeto jurídico con personalidad propia e inserto en las estructuras del Estado.**
+
+Esto permite distinguirlo claramente del órgano.
+
+# Comparación
+
+| Órgano | Ente |
+|---|---|
+| No tiene personalidad jurídica propia | Tiene personalidad jurídica propia |
+| Integra el Estado central | Integra la estructura descentralizada |
+| Relación predominantemente jerárquica | Relación de control o tutela |
+| Centro de competencias | Centro de competencias + sujeto jurídico |
+| Ej.: Ministerio | Ej.: ente autárquico |
+
+# El punto de inflexión
+
+La diferencia fundamental entre:
+
+## centralización
+
+y
+
+## descentralización
+
+aparece cuando el ordenamiento reconoce:
+
+# PERSONALIDAD JURÍDICA
+
+al centro de competencias.
+
+# Personas jurídicas públicas: estatales y no estatales
+
+Balbín agrega una distinción central dentro de las:
+
+## PERSONAS JURÍDICAS PÚBLICAS
+
+Estas pueden ser:
+
+### ESTATALES
+
+o
+
+### NO ESTATALES
+
+El criterio decisivo es:
+
+> **su inserción o no dentro de la estructura estatal.**
+
+# Personas públicas estatales
+
+Forman parte de la estructura del Estado.
+
+Balbín incluye, entre ellas:
+
+- Estado nacional;
+- provincias;
+- Ciudad Autónoma de Buenos Aires;
+- municipios;
+- entes autónomos;
+- entes descentralizados;
+- entes autárquicos;
+- empresas y sociedades estatales.
+
+```text
+PERSONA JURÍDICA PÚBLICA
+          ↓
+       ESTATAL
+          ↓
+forma parte de
+la estructura del Estado
+```
+
+# Personas públicas no estatales
+
+Son personas jurídicas:
+
+## PÚBLICAS
+
+pero:
+
+## NO forman parte de la estructura estatal.
+
+Balbín menciona especialmente:
+
+- Iglesia Católica;
+- colegios o consejos profesionales;
+- cajas de previsión;
+- obras sociales.
+
+# ¿Cómo puede ser pública pero no estatal?
+
+Porque:
+
+> **público ≠ estatal.**
+
+Una persona puede:
+
+- perseguir fines colectivos;
+- ejercer potestades públicas;
+- encontrarse regulada por normas públicas;
+
+sin integrar orgánicamente el aparato estatal.
+
+# Ejemplo: colegio profesional
+
+Un colegio profesional puede ejercer potestades sobre el ejercicio de una profesión:
+
+- matriculación;
+- regulación;
+- control;
+- disciplina;
+- sanciones.
+
+Estas potestades poseen naturaleza:
+
+## PÚBLICA.
+
+Pero el colegio:
+
+> **no integra necesariamente la estructura estatal.**
+
+Por eso constituye una:
+
+# PERSONA PÚBLICA NO ESTATAL
+
+# ¿De dónde surge su carácter público?
+
+Balbín señala distintos elementos relevantes:
+
+- creación o reconocimiento estatal;
+- finalidad colectiva;
+- ejercicio de potestades públicas;
+- control estatal;
+- recursos;
+- regulación de su funcionamiento.
+
+Pero el análisis no depende de un único criterio aislado.
+
+# El Estado puede transferir potestades públicas
+
+Balbín destaca que el Estado puede:
+
+1. crear o reconocer estas personas;
+2. regular sus aspectos centrales;
+3. imponer incluso incorporación o contribución obligatoria;
+4. transferirles determinadas potestades públicas.
+
+Entre ellas:
+
+## potestades regulatorias
+
+y especialmente:
+
+## potestades sancionatorias.
+
+# Público no estatal
+
+```text
+ESTADO
+   │
+   │ reconoce / regula
+   │
+   │ transfiere potestades
+   ↓
+PERSONA PÚBLICA NO ESTATAL
+   │
+   ├── fin colectivo
+   ├── potestades públicas
+   └── no integra la estructura estatal
+```
+
+# Balbín distingue dos categorías
+
+Dentro de los sujetos públicos no estatales distingue:
+
+### PERSONA PÚBLICA NO ESTATAL
+
+y
+
+### ENTE PÚBLICO NO ESTATAL.
+
+No son exactamente lo mismo.
+
+# Persona pública no estatal
+
+Balbín caracteriza como tales, por ejemplo, a:
+
+## los colegios profesionales.
+
+En estos casos existe:
+
+- regulación estatal;
+- control estatal;
+
+pero con una intensidad:
+
+## relativamente menor.
+
+# Ente público no estatal
+
+En cambio, el:
+
+## ente público no estatal
+
+presenta una regulación y fiscalización estatal:
+
+# MÁS INTENSA.
+
+El Estado puede incluso ejercer una intervención importante sobre:
+
+- gobierno;
+- administración;
+- patrimonio;
+- formación de las decisiones.
+
+# Diferencia según Balbín
+
+| Persona pública no estatal | Ente público no estatal |
+|---|---|
+| No integra la estructura estatal | Tampoco integra la Administración Nacional |
+| Regulación estatal menos intensa | Regulación estatal más intensa |
+| Control estatal más débil | Control estatal fuerte |
+| Ej.: colegios profesionales | Mayor incidencia estatal en patrimonio o decisiones |
+
+# Ley 24.156
+
+Balbín utiliza el art. 8 inc. c de la Ley 24.156 para caracterizar al:
+
+## ENTE PÚBLICO NO ESTATAL.
+
+Se trata de una organización:
+
+- no empresarial;
+- con autarquía financiera;
+- con personalidad jurídica;
+- con patrimonio propio;
+
+en la que el Estado posee una fuerte incidencia sobre:
+
+- el patrimonio;
+- o la formación de las decisiones.
+
+# El criterio de Balbín
+
+Por tanto, dentro de lo público encontramos:
+
+```text
+PERSONAS JURÍDICAS PÚBLICAS
+            │
+      ┌─────┴─────┐
+      │           │
+  ESTATALES    NO ESTATALES
+      │           │
+integran         no integran
+el Estado        el Estado
+                  │
+          ┌───────┴────────┐
+          │                │
+ persona pública      ente público
+  no estatal          no estatal
+          │                │
+ control estatal      control estatal
+ menos intenso        más intenso
+```
+
+# Régimen jurídico
+
+Aquí aparece una cuestión particularmente importante.
+
+Las personas públicas estatales se encuentran principalmente sometidas a:
+
+## DERECHO PÚBLICO.
+
+En las personas públicas no estatales existe, según Balbín, una combinación más intensa de:
+
+## DERECHO PÚBLICO
+
++
+
+## DERECHO PRIVADO.
+
+# Un régimen mixto
+
+Balbín rechaza la idea de resolver abstractamente todo el régimen jurídico de estas personas.
+
+Propone analizar:
+
+## caso por caso.
+
+Debe examinarse separadamente:
+
+- personal;
+- bienes;
+- actos;
+- contratos;
+- recursos;
+- potestades.
+
+# Ejemplo: colegio profesional
+
+En un colegio profesional puede ocurrir que:
+
+### Personal
+
+→ Derecho Privado.
+
+### Bienes
+
+→ Derecho Privado.
+
+### Contratos
+
+→ Derecho Privado.
+
+Pero:
+
+### Constitución y regulación
+
+→ Derecho Público.
+
+### Potestad disciplinaria
+
+→ Derecho Público.
+
+### Potestad sancionatoria
+
+→ Derecho Público.
+
+# La consecuencia
+
+Una misma persona puede estar sometida a:
+
+```text
+DERECHO PRIVADO
+     +
+DERECHO PÚBLICO
+```
+
+según:
+
+## qué actividad se esté analizando.
+
+# Aplicación de la LPA
+
+Balbín señala que la Ley de Procedimientos Administrativos se aplica:
+
+## SUPLETORIAMENTE
+
+a las personas jurídicas públicas no estatales cuando ejercen:
+
+> **potestades públicas otorgadas por ley.**
+
+Por lo tanto:
+
+```text
+PERSONA PÚBLICA NO ESTATAL
+           ↓
+¿ejerce potestad pública otorgada por ley?
+           │
+      ┌────┴────┐
+      │         │
+     SÍ         NO
+      │         │
+LPA supletoria  régimen correspondiente
+```
+
+# Sus actos
+
+También debemos distinguir el tipo de actuación.
+
+Como regla:
+
+> los actos de las personas públicas no estatales no son automáticamente actos administrativos.
+
+Solo cabe aplicar el régimen administrativo cuando ejercen:
+
+## potestades públicas legalmente atribuidas.
+
+# Un punto fundamental
+
+Por eso no debemos razonar así:
+
+```text
+PERSONA PÚBLICA
+      ↓
+todos sus actos
+son administrativos
+```
+
+Eso sería incorrecto.
+
+La pregunta correcta es:
+
+> **¿qué potestad está ejerciendo en este caso?**
+
+# Ejemplo
+
+Un colegio profesional:
+
+### compra muebles para su sede
+
+→ relación predominantemente privada.
+
+### celebra un contrato laboral
+
+→ Derecho Privado.
+
+### suspende disciplinariamente una matrícula
+
+→ ejercicio de una potestad pública.
+
+En este último supuesto entra con mayor intensidad:
+
+## el Derecho Administrativo.
+
+# Clasificación ampliada
+
+```text
+PERSONAS JURÍDICAS
+        │
+   ┌────┴────┐
+   │         │
+PRIVADAS   PÚBLICAS
+              │
+         ┌────┴────┐
+         │         │
+     ESTATALES   NO ESTATALES
+         │         │
+         │    ┌────┴─────┐
+         │    │          │
+         │ persona     ente
+         │ pública     público
+         │ no estatal  no estatal
+         │
+         ↓
+Estado nacional
+provincias
+CABA
+municipios
+entes autónomos
+entes descentralizados
+```
+
+# Idea para recordar
+
+## PÚBLICO ≠ ESTATAL
+
+“Público” se vincula con:
+
+- fines;
+- potestades;
+- régimen jurídico;
+- funciones colectivas.
+
+“Estatal” se vincula con:
+
+> **la pertenencia a la estructura del Estado.**
+
+Por eso puede existir una:
+
+# PERSONA JURÍDICA PÚBLICA NO ESTATAL.
+
+# 4 · Órgano y funcionario
+
+## El problema
+
+El Estado es una persona jurídica.
+
+Pero las personas jurídicas necesitan personas humanas que:
+
+- formen su voluntad;
+- adopten decisiones;
+- ejecuten conductas.
+
+¿Cómo se atribuye esa conducta al Estado?
+
+# Teorías anteriores
+
+Históricamente se intentó explicar la relación mediante categorías de Derecho Privado.
+
+### Mandato
+
+El funcionario sería mandatario del Estado.
+
+### Representación
+
+El funcionario actuaría como representante de la persona jurídica.
+
+Estas teorías resultaron insuficientes.
+
+# Teoría del órgano
+
+La teoría del órgano cambia la explicación.
+
+El agente no actúa simplemente:
+
+> **en nombre del Estado.**
+
+Cuando actúa como titular del órgano:
+
+# ACTÚA EL ESTADO.
+
+# Una comparación
+
+```text
+MANDATO / REPRESENTACIÓN
+
+ESTADO
+  │
+  ↓
+TERCERO
+representa al Estado
+
+
+TEORÍA DEL ÓRGANO
+
+ESTADO
+  │
+  └── ÓRGANO
+        │
+        └── AGENTE
+
+La voluntad orgánica
+se imputa directamente al Estado
+```
+
+# Balbín: concepto de órgano
+
+Para Balbín, el órgano presenta tres aspectos:
+
+### Aspecto objetivo
+
+## competencias estatales.
+
+### Aspecto subjetivo
+
+## personas físicas titulares.
+
+### Aspecto material
+
+## recursos necesarios para ejercer las funciones.
+
+# Concepto
+
+Podemos entonces pensar al órgano como:
+
+> **un centro de imputación de competencias estatales, integrado por personas físicas y dotado de los recursos necesarios para ejercerlas.**
+
+# El órgano no es una persona jurídica
+
+Este punto es fundamental.
+
+El órgano:
+
+- no posee personalidad jurídica;
+- no constituye un sujeto distinto del Estado;
+- forma parte de la estructura estatal.
+
+Ejemplos:
+
+- Ministerio de Justicia;
+- Secretaría;
+- Dirección Nacional.
+
+# Sin personalidad, pero con subjetividad
+
+Balbín introduce un matiz importante.
+
+Aunque el órgano:
+
+## no es sujeto de derecho,
+
+posee cierto grado de:
+
+## subjetividad.
+
+¿Por qué?
+
+Porque puede establecer relaciones con otros órganos.
+
+# Relaciones interorgánicas
+
+Se producen entre órganos que pertenecen a:
+
+## la misma persona jurídica.
+
+Por ejemplo:
+
+```text
+MINISTERIO
+     ↕
+SECRETARÍA
+     ↕
+SUBSECRETARÍA
+```
+
+Estas relaciones pueden estructurarse mediante:
+
+- jerarquía;
+- cooperación;
+- coordinación;
+- asesoramiento;
+- control.
+
+# Relaciones entre entes
+
+Cuando intervienen sujetos con:
+
+## personalidad jurídica diferente,
+
+ya no estamos simplemente ante relaciones interorgánicas.
+
+La estructura jurídica cambia porque existen:
+
+# sujetos jurídicos diferentes.
+
+# Agente y órgano
+
+No debemos confundir:
+
+## órgano
+
+con
+
+## agente público.
+
+El órgano constituye una categoría organizativa.
+
+El agente es:
+
+> **la persona humana titular o integrante del órgano.**
+
+# Dos planos
+
+La misma persona humana puede actuar:
+
+### como individuo
+
+con derechos y obligaciones propios;
+
+o:
+
+### como titular del órgano
+
+exteriorizando la voluntad estatal.
+
+# Ejemplo
+
+Un ministro compra un automóvil para uso personal.
+
+→ actúa como **persona humana**.
+
+El mismo ministro firma una resolución dentro de sus competencias.
+
+→ actúa como **titular de un órgano estatal**.
+
+La segunda conducta se imputa jurídicamente:
+
+# AL ESTADO.
+
+# ¿Por qué importa la teoría del órgano?
+
+Tiene consecuencias en:
+
+- validez de los actos;
+- imputación de las conductas;
+- responsabilidad estatal.
+
+Lo realizado por el órgano dentro del marco jurídico:
+
+> **es una conducta estatal.**
+
+# 5 · Competencia
+
+## Concepto
+
+La competencia determina:
+
+> **qué puede hacer legítimamente cada órgano o ente estatal.**
+
+Es la medida jurídica del poder estatal.
+
+# Competencia ≠ capacidad
+
+En Derecho Privado:
+
+## capacidad = regla.
+
+En Derecho Público:
+
+## competencia = habilitación jurídica.
+
+Balbín formula una regla de cierre especialmente clara:
+
+> **Respecto del Estado, todo lo que no está permitido está prohibido.**
+
+# Particular y Estado
+
+```text
+PARTICULAR
+
+todo lo que no está prohibido
+        ↓
+está permitido
+
+
+ESTADO
+
+todo lo que no está permitido
+        ↓
+está prohibido
+```
+
+# La competencia como límite
+
+El Estado no puede justificar su actuación diciendo:
+
+> “La ley no me lo prohíbe”.
+
+Debe demostrar:
+
+> **qué norma lo habilita para actuar.**
+
+Por eso la competencia constituye simultáneamente:
+
+- una potestad;
+- y un límite.
+
+# Fuentes de la competencia
+
+La competencia surge del ordenamiento jurídico.
+
+Balbín analiza:
+
+1. competencias expresas;
+2. competencias implícitas;
+3. teoría de la especialidad;
+4. cláusulas generales de apoderamiento.
+
+# Competencias expresas
+
+Son aquellas atribuidas de manera explícita por:
+
+- Constitución;
+- ley;
+- reglamento jurídicamente habilitado.
+
+Ejemplo:
+
+> La Constitución atribuye al Presidente determinadas competencias concretas.
+
+# Competencias implícitas
+
+Aquí aparece una cuestión problemática.
+
+¿Puede un órgano ejercer una competencia que:
+
+## no está escrita literalmente?
+
+Balbín responde:
+
+## sí, pero con límites estrictos.
+
+# Test de Balbín
+
+Primero debemos buscar:
+
+## la competencia expresa.
+
+Si existe:
+
+→ el órgano es competente.
+
+Si no existe literalmente:
+
+→ debemos analizar si puede inferirse una potestad implícita.
+
+# Requisito decisivo
+
+La competencia implícita debe ser:
+
+> **necesaria para ejercer razonablemente una competencia expresa.**
+
+No alcanza con que sea:
+
+- conveniente;
+- útil;
+- deseable.
+
+Debe ser necesaria para hacer posible la potestad expresamente reconocida.
+
+# Esquema
+
+```text
+¿EXISTE COMPETENCIA EXPRESA?
+          │
+    ┌─────┴─────┐
+    │           │
+   SÍ           NO
+    │           │
+competente      ↓
+           ¿puede deducirse
+           lógicamente?
+                │
+                ↓
+          ¿es NECESARIA
+          para ejercer la
+          competencia expresa?
+                │
+        ┌───────┴───────┐
+        │               │
+       SÍ              NO
+        │               │
+  competencia       incompetencia
+    implícita
+```
+
+# CSJN, “Peláez” (1995)
+
+Balbín utiliza este precedente para precisar el alcance de las competencias implícitas.
+
+La idea central es que:
+
+> los poderes públicos necesitan una norma de habilitación.
+
+Las potestades implícitas no pueden convertirse en una herramienta para destruir los límites de las competencias expresas.
+
+# “Peláez”: regla
+
+Las potestades implícitas son:
+
+- auxiliares;
+- subordinadas;
+- necesarias;
+
+respecto de las competencias expresas.
+
+No son:
+
+## facultades autónomas e independientes.
+
+# El riesgo
+
+Si admitimos un campo excesivamente amplio de competencias implícitas:
+
+```text
+EXCEPCIÓN
+competencias implícitas
+        ↓
+se expande
+        ↓
+termina destruyendo
+        ↓
+REGLA DE LEGALIDAD
+```
+
+Por eso Balbín adopta un criterio restrictivo.
+
+# Cláusulas generales de apoderamiento
+
+Existe otro supuesto.
+
+La ley puede reconocer expresamente:
+
+> **un conjunto general de potestades.**
+
+No porque sea posible identificar cada situación previamente, sino porque los supuestos fácticos pueden ser indeterminados.
+
+# Límite
+
+Estas cláusulas generales no son poderes ilimitados.
+
+Sus límites son:
+
+- ámbito material;
+- finalidad pública;
+- derechos;
+- principios jurídicos.
+
+# Tipos de competencia
+
+Balbín mantiene la clasificación tradicional:
+
+1. **materia**
+2. **territorio**
+3. **tiempo**
+4. **grado**
+
+# Competencia por materia
+
+Se refiere al:
+
+## contenido de las facultades.
+
+Pregunta:
+
+> **¿Sobre qué asuntos puede decidir este órgano?**
+
+Ejemplo:
+
+un órgano sanitario no puede ejercer competencias propias de la autoridad tributaria.
+
+# Competencia territorial
+
+Se refiere al:
+
+## ámbito espacial.
+
+Pregunta:
+
+> **¿Dónde puede ejercer sus competencias?**
+
+Ejemplo:
+
+una autoridad provincial ejerce sus potestades dentro de su jurisdicción territorial.
+
+# Competencia temporal
+
+Se refiere al:
+
+## período durante el cual el órgano puede ejercer válidamente determinada competencia.
+
+Ejemplo:
+
+una habilitación conferida por plazo determinado.
+
+# Competencia por grado
+
+Se refiere a la ubicación del órgano en la:
+
+## estructura jerárquica.
+
+Pregunta:
+
+> **¿A qué nivel de la organización corresponde adoptar la decisión?**
+
+# ¿Por qué importa la clasificación?
+
+Porque la incompetencia puede afectar la:
+
+# VALIDEZ DEL ACTO.
+
+Balbín destaca que el régimen vigente diferencia las consecuencias según el tipo de incompetencia.
+
+# Incompetencia y nulidad
+
+La LPA considera especialmente graves los vicios de competencia por:
+
+- materia;
+- territorio;
+- tiempo.
+
+En cambio, la incompetencia por:
+
+## grado
+
+puede, en determinados casos, admitir saneamiento.
+
+# Una excepción
+
+Si la competencia por grado fue asignada:
+
+## exclusivamente
+
+a un órgano por razón de una:
+
+## idoneidad especial,
+
+el tratamiento jurídico cambia.
+
+La especialización puede limitar el poder jerárquico del superior.
+
+# 6 · Jerarquía
+
+## Concepto
+
+La jerarquía es:
+
+> **el modo de relación entre órganos ubicados en distintos niveles o grados de una misma estructura administrativa.**
+
+La estructura presenta:
+
+- órganos superiores;
+- órganos inferiores;
+- relaciones de subordinación.
+
+# Esquema clásico
+
+```text
+PRESIDENTE
+     │
+     ↓
+MINISTRO
+     │
+     ↓
+SECRETARIO
+     │
+     ↓
+SUBSECRETARIO
+     │
+     ↓
+DIRECCIÓN
+```
+
+El esquema es:
+
+## PIRAMIDAL.
+
+# Condiciones de la jerarquía
+
+La jerarquía presupone:
+
+1. **superioridad de grado**;
+2. **identidad o proximidad material de competencias**.
+
+No existe jerarquía simplemente porque dos órganos pertenezcan al Estado.
+
+# Contenido del poder jerárquico
+
+En términos teóricos, el superior puede:
+
+- dirigir;
+- ordenar;
+- coordinar;
+- fiscalizar;
+- controlar;
+- sancionar;
+- delegar;
+- avocarse;
+- revisar decisiones;
+- resolver conflictos entre inferiores.
+
+# Derecho positivo
+
+Balbín señala que el decreto reglamentario de la LPA reconoce al superior, entre otras, facultades para:
+
+1. dirigir o impulsar la actividad;
+2. dictar órdenes, instrucciones y circulares;
+3. delegar facultades;
+4. intervenir;
+5. avocarse.
+
+# Pero la jerarquía tiene límites
+
+El esquema piramidal no significa:
+
+> **que el superior pueda decidir absolutamente todo.**
+
+Existen órganos inferiores con competencias:
+
+# EXCLUSIVAS.
+
+# Competencia exclusiva por especialidad
+
+Balbín menciona especialmente:
+
+- órganos de asesoramiento;
+- órganos de selección;
+- órganos con especialidad técnica o científica.
+
+En estos casos:
+
+## el superior no puede sustituir libremente el criterio técnico del inferior.
+
+# Ejemplo
+
+Supongamos que un servicio jurídico permanente debe emitir un dictamen técnico.
+
+El ministro puede:
+
+- requerir el dictamen;
+- organizar el funcionamiento;
+- controlar el cumplimiento.
+
+Pero no debería:
+
+> **ordenarle qué conclusión jurídica debe emitir.**
+
+La especialidad limita el contenido del poder jerárquico.
+
+# De jerarquía a dirección
+
+En estos casos, Balbín propone distinguir:
+
+## JERARQUÍA PLENA
+
+de
+
+## DIRECCIÓN.
+
+El superior puede dirigir la organización.
+
+Pero no puede necesariamente:
+
+## predeterminar el contenido de la decisión especializada.
+
+# Cooperación
+
+Cuando existen órganos con:
+
+## funciones materialmente diferentes,
+
+la relación puede no ser jerárquica.
+
+Aparece entonces el principio de:
+
+# COOPERACIÓN.
+
+# Cooperación
+
+La cooperación:
+
+- excluye el poder de mando;
+- supone colaboración;
+- permite intercambio de información;
+- facilita el ejercicio de competencias diferentes.
+
+No existe subordinación entre los órganos.
+
+# Coordinación
+
+También puede existir:
+
+## COORDINACIÓN.
+
+Se produce entre órganos con competencias:
+
+- distintas;
+- pero interdependientes.
+
+Su finalidad es evitar:
+
+- contradicciones;
+- duplicidad de tareas;
+- desperdicio de recursos.
+
+# Jerarquía, cooperación y coordinación
+
+| Relación | Poder de mando | Finalidad |
+|---|---:|---|
+| Jerarquía | Sí | Unidad de acción |
+| Dirección | Limitado | Orientación general |
+| Cooperación | No | Colaboración |
+| Coordinación | Puede existir | Evitar contradicciones y duplicidades |
+
+# Una cuestión actual
+
+Balbín plantea un problema respecto del:
+
+## Jefe de Gabinete.
+
+Desde su interpretación constitucional, considera que existen argumentos para sostener que debería ocupar una posición jerárquica superior respecto de los ministros.
+
+Sin embargo, el régimen reglamentario lo ha tratado de modo diferente.
+
+# Presidente y jefe de Gabinete
+
+El régimen positivo considera al:
+
+## Presidente
+
+superior jerárquico del:
+
+## Jefe de Gabinete.
+
+# Jefe de Gabinete y ministros
+
+Balbín destaca una tensión.
+
+Su interpretación constitucional:
+
+> el jefe de Gabinete debería ser superior jerárquico de los ministros.
+
+Pero el régimen reglamentario tradicional lo ubica como:
+
+> un ministro más respecto de los restantes ministros.
+
+# Importancia práctica
+
+La discusión no es puramente teórica.
+
+Determina, por ejemplo:
+
+- quién resuelve recursos;
+- quién resuelve conflictos de competencia;
+- quién dirige a quién;
+- cómo se agota la vía administrativa.
+
+# 7 · Cuestiones de competencia
+
+## El problema
+
+Las normas no siempre distribuyen las competencias con absoluta claridad.
+
+Pueden aparecer:
+
+- ambigüedades;
+- superposiciones;
+- vacíos;
+- interpretaciones contradictorias.
+
+Entonces surge:
+
+# EL CONFLICTO DE COMPETENCIA.
+
+# Conflicto positivo
+
+Existe cuando:
+
+> **dos órganos consideran que son competentes para resolver el mismo asunto.**
+
+```text
+ÓRGANO A
+“soy competente”
+       ↘
+        ASUNTO
+       ↗
+ÓRGANO B
+“soy competente”
+```
+
+# Conflicto negativo
+
+Existe cuando:
+
+> **ningún órgano acepta ser competente.**
+
+```text
+ÓRGANO A
+“no soy competente”
+       ↓
+     ASUNTO
+       ↑
+ÓRGANO B
+“yo tampoco”
+```
+
+# ¿Por qué importa?
+
+Porque la Administración tiene:
+
+## deber de resolver.
+
+Los conflictos internos de organización no deberían traducirse en:
+
+> indefensión o demora para las personas.
+
+# Resolución del conflicto
+
+El principio general es que intervenga:
+
+## el superior jerárquico común.
+
+Una de las potestades propias de la jerarquía es justamente:
+
+> resolver los conflictos de competencia entre órganos inferiores.
+
+# Conflictos dentro de un mismo ámbito
+
+Cuando los órganos dependen de una misma autoridad superior:
+
+```text
+SUPERIOR COMÚN
+      ↓
+resuelve el conflicto
+      ↓
+ ┌────┴────┐
+ÓRGANO A  ÓRGANO B
+```
+
+# Conflictos entre ministerios
+
+El Word parte del régimen clásico de la LPA.
+
+Balbín 2025 incorpora las modificaciones recientes y señala que la:
+
+## Ley de Bases
+
+modificó aspectos del régimen de resolución de conflictos.
+
+En particular, contempla intervención del:
+
+## jefe de Gabinete
+
+en conflictos entre ministros por delegación presidencial.
+
+# El procedimiento
+
+Frente a un conflicto negativo:
+
+1. un órgano se declara incompetente;
+2. remite las actuaciones al que considera competente;
+3. el segundo también rechaza la competencia;
+4. la cuestión debe elevarse a la autoridad habilitada para resolver.
+
+# Conflicto positivo
+
+Si dos órganos se consideran competentes:
+
+1. ambos pretenden conocer;
+2. el último interviniente plantea el conflicto;
+3. se eleva a la autoridad competente;
+4. esta determina quién debe resolver.
+
+# Caso
+
+Una Secretaría sostiene:
+
+> “El asunto corresponde a mi competencia material.”
+
+Otra Secretaría del mismo Ministerio responde:
+
+> “No. La competencia corresponde a esta Secretaría.”
+
+### Pregunta
+
+¿Quién debe resolver?
+
+## El superior jerárquico común.
+
+# Competencia e interpretación
+
+La cuestión puede volverse más compleja cuando no existe una atribución expresa.
+
+Balbín propone seguir este orden:
+
+1. buscar competencia expresa;
+2. analizar competencias implícitas;
+3. verificar necesidad;
+4. rechazar la extensión si no existe fundamento suficiente.
+
+# Competencia e interés del particular
+
+El conflicto de competencia es:
+
+## un problema interno de la organización.
+
+Pero sus consecuencias pueden recaer sobre:
+
+## los derechos del particular.
+
+Por eso la organización administrativa no puede convertirse en un obstáculo para:
+
+- tutela administrativa;
+- decisión en plazo razonable;
+- acceso posterior a la justicia.
+
+# 8 · Recusación y excusación
+
+## El problema
+
+La Administración debe actuar con:
+
+- objetividad;
+- imparcialidad;
+- juridicidad.
+
+¿Qué ocurre si existen circunstancias que ponen en duda la imparcialidad del funcionario?
+
+Aparecen dos institutos:
+
+# RECUSACIÓN
+
+y
+
+# EXCUSACIÓN.
+
+# Recusación
+
+La recusación supone que:
+
+> **el interesado solicita el apartamiento del funcionario.**
+
+La iniciativa proviene de:
+
+## la persona interesada.
+
+# Excusación
+
+La excusación supone que:
+
+> **el propio funcionario reconoce la existencia de una circunstancia que justifica su apartamiento.**
+
+La iniciativa proviene del:
+
+## funcionario.
+
+# Finalidad
+
+Ambos institutos procuran asegurar:
+
+## IMPARCIALIDAD.
+
+No se trata solamente de evitar decisiones efectivamente parciales.
+
+También interesa evitar situaciones que comprometan razonablemente:
+
+## la objetividad del procedimiento.
+
+# Vinculación con Balbín
+
+Balbín coloca la imparcialidad dentro de los principios contemporáneos de organización y funcionamiento administrativo.
+
+La Administración debe decidir:
+
+- con objetividad;
+- según los hechos;
+- conforme al marco jurídico;
+- sin preferencias;
+- sin favores;
+- sin prejuicios.
+
+# Transparencia e imparcialidad
+
+Balbín vincula la transparencia con:
+
+1. publicidad;
+2. objetividad;
+3. imparcialidad;
+4. certeza y previsibilidad.
+
+Por ello:
+
+> **la imparcialidad no es solamente una regla procesal, sino un principio de la actuación administrativa.**
+
+# Recusación / excusación
+
+```text
+POSIBLE FALTA DE IMPARCIALIDAD
+          │
+     ┌────┴────┐
+     │         │
+INTERESADO   FUNCIONARIO
+     │         │
+RECUSACIÓN  EXCUSACIÓN
+     │         │
+     └────┬────┘
+          ↓
+APARTAMIENTO
+si corresponde
+```
+
+# 9 · Improrrogabilidad de la competencia
+
+## Regla
+
+La competencia no puede modificarse libremente por voluntad del órgano.
+
+Como principio:
+
+## es improrrogable.
+
+¿Por qué?
+
+Porque fue atribuida por:
+
+## EL ORDENAMIENTO JURÍDICO.
+
+# Pero existen técnicas de redistribución
+
+Balbín distingue cuidadosamente:
+
+## distribución originaria de competencias
+
+de
+
+## redistribución posterior.
+
+# Distribución
+
+Las dos grandes técnicas son:
+
+### desconcentración
+
+y
+
+### descentralización.
+
+En ellas se distribuyen:
+
+## titularidad + ejercicio.
+
+# Redistribución
+
+Las técnicas son:
+
+### delegación
+
+y
+
+### avocación.
+
+En ellas:
+
+> **no se traslada la titularidad.**
+
+Se modifica solamente:
+
+## el ejercicio de una competencia concreta.
+
+# Cuadro esencial
+
+| | Desconcentración | Descentralización | Delegación | Avocación |
+|---|---|---|---|---|
+| Tipo | Distribución | Distribución | Redistribución | Redistribución |
+| Titularidad | Se traslada | Se traslada | No | No |
+| Ejercicio | Se traslada | Se traslada | Sí | Sí |
+| Destino | Órgano | Ente | Inferior | Superior |
+| Duración | Permanente | Permanente | Transitoria | Transitoria |
+| Alcance | Bloque | Bloque | Singular | Singular |
+
+# Desconcentración
+
+Es la distribución de competencias:
+
+## entre órganos
+
+del Estado central.
+
+Características señaladas por Balbín:
+
+- norma de alcance general;
+- traslado de titularidad y ejercicio;
+- bloque de competencias;
+- carácter permanente.
+
+# Descentralización
+
+Tiene características semejantes, pero agrega un elemento decisivo:
+
+## PERSONALIDAD JURÍDICA.
+
+```text
+DESCONCENTRACIÓN
+competencia
+    ↓
+ÓRGANO
+sin personalidad
+
+
+DESCENTRALIZACIÓN
+competencia
+    ↓
+ENTE
+con personalidad
+```
+
+# Delegación
+
+## Concepto
+
+La delegación consiste en:
+
+> **transferir el ejercicio de una competencia específica desde un órgano superior hacia un órgano inferior.**
+
+El superior:
+
+## conserva la titularidad.
+
+# Delegación: dirección
+
+```text
+SUPERIOR
+titular de la competencia
+      │
+      │ delega ejercicio
+      ↓
+INFERIOR
+ejerce temporalmente
+```
+
+# Caracteres de la delegación
+
+Para Balbín:
+
+- recae sobre competencias específicas;
+- no sobre bloques generales;
+- es transitoria;
+- traslada el ejercicio;
+- no la titularidad;
+- requiere vínculo jerárquico;
+- exige competencia material compatible.
+
+# La responsabilidad
+
+Como el delegante conserva la titularidad:
+
+> **no desaparece su vínculo con la competencia.**
+
+Balbín señala que el órgano delegante continúa siendo responsable junto con el órgano delegado por su ejercicio.
+
+# Reasunción
+
+El delegante puede:
+
+## reasumir
+
+el ejercicio de las competencias delegadas.
+
+Esto puede ocurrir:
+
+- expresamente;
+- o mediante el ejercicio nuevamente de la competencia.
+
+# Delegación ≠ desconcentración
+
+No deben confundirse.
+
+### Desconcentración
+
+```text
+NORMA GENERAL
+    ↓
+traslada titularidad + ejercicio
+    ↓
+PERMANENTE
+```
+
+### Delegación
+
+```text
+ACTO PARTICULAR
+    ↓
+traslada solo ejercicio
+    ↓
+TRANSITORIA
+```
+
+# Avocación
+
+## Concepto
+
+La avocación funciona en dirección inversa.
+
+El superior:
+
+> **atrae hacia sí el conocimiento de un asunto que corresponde al órgano inferior.**
+
+# Avocación: dirección
+
+```text
+INFERIOR
+titular de competencia
+      │
+      ↑
+SUPERIOR
+atrae un asunto concreto
+```
+
+# Caracteres
+
+La avocación:
+
+- traslada solamente el ejercicio;
+- recae sobre una competencia específica;
+- es transitoria;
+- opera mediante un acto particular;
+- no modifica la titularidad.
+
+# Delegación y avocación
+
+```text
+DELEGACIÓN
+
+SUPERIOR
+   ↓
+INFERIOR
+
+
+AVOCACIÓN
+
+SUPERIOR
+   ↑
+INFERIOR
+```
+
+En ambos casos:
+
+## cambia el ejercicio
+
+pero:
+
+## no cambia la titularidad.
+
+# Regla sobre avocación
+
+Balbín destaca que la LPA establece como principio:
+
+> **la avocación es procedente salvo que una norma disponga lo contrario.**
+
+Sin embargo existen límites.
+
+# Límite fundamental
+
+La avocación no procede cuando:
+
+> **una norma atribuye competencia exclusiva al órgano inferior.**
+
+Esto vuelve a conectarse con:
+
+- especialidad;
+- idoneidad;
+- funciones técnicas;
+- independencia funcional.
+
+# Caso problemático
+
+Una ley atribuye a una comisión técnica especializada la competencia exclusiva para evaluar determinados antecedentes científicos.
+
+El ministro no coincide con el criterio que probablemente adoptará.
+
+### ¿Puede avocarse?
+
+## No necesariamente.
+
+Si la competencia fue atribuida con carácter:
+
+# EXCLUSIVO
+
+por razón de especialidad:
+
+> el poder jerárquico encuentra un límite.
+
+# El mapa completo
+
+```text
+                  ESTADO
+                    │
+                    ↓
+         ORGANIZACIÓN ADMINISTRATIVA
+                    │
+          ┌─────────┴─────────┐
+          │                   │
+       ÓRGANOS              ENTES
+          │                   │
+sin personalidad       con personalidad
+          │                   │
+          └─────────┬─────────┘
+                    │
+              COMPETENCIAS
+                    │
+        ┌───────────┴───────────┐
+        │                       │
+   DISTRIBUCIÓN             REDISTRIBUCIÓN
+        │                       │
+ ┌──────┴──────┐          ┌─────┴─────┐
+ │             │          │           │
+desconcen-  descentra-  delegación  avocación
+tración      lización
+```
+
+# Cinco distinciones esenciales
+
+## 1.
+
+**Estado ≠ órgano**
+
+## 2.
+
+**Órgano ≠ ente**
+
+## 3.
+
+**Competencia ≠ capacidad**
+
+## 4.
+
+**Desconcentración ≠ delegación**
+
+## 5.
+
+**Jerarquía ≠ poder ilimitado del superior**
+
+# Caso integrador
+
+El Ministerio de Salud posee una Dirección Nacional especializada.
+
+Una ley atribuye a esa Dirección competencia técnica exclusiva para autorizar determinado producto.
+
+El ministro considera que debería autorizarse y pretende:
+
+1. ordenar al Director que decida favorablemente;
+2. avocarse personalmente;
+3. reemplazar el dictamen técnico;
+4. dictar él mismo la autorización.
+
+### Pregunta
+
+¿Puede hacerlo simplemente porque es el superior jerárquico?
+
+# Respuesta
+
+## NO NECESARIAMENTE.
+
+Debemos analizar:
+
+- quién tiene la competencia;
+- si es exclusiva;
+- por qué fue atribuida al inferior;
+- si existe especialidad técnica;
+- cuáles son los límites de la jerarquía;
+- si la avocación está permitida.
+
+# Otro caso
+
+Una Secretaría posee una competencia determinada.
+
+El ministro decide que, durante seis meses, una Dirección inferior ejercerá esa competencia específica.
+
+### ¿Qué figura aparece?
+
+## DELEGACIÓN
+
+Porque:
+
+- existe vínculo jerárquico;
+- se traslada el ejercicio;
+- no la titularidad;
+- la medida es singular y transitoria.
+
+# Otro caso
+
+Una ley crea un organismo con:
+
+- personalidad jurídica;
+- patrimonio;
+- competencias propias.
+
+### ¿Delegación?
+
+## No.
+
+### ¿Desconcentración?
+
+## No.
+
+Estamos frente a una:
+
+# DESCENTRALIZACIÓN.
+
+# Otro caso
+
+Una ley distribuye permanentemente un conjunto de competencias desde el Ministerio hacia una Secretaría.
+
+La Secretaría:
+
+- no tiene personalidad jurídica propia;
+- integra la misma persona estatal.
+
+Estamos ante:
+
+# DESCONCENTRACIÓN.
+
+# Cuadro comparativo final
+
+| Instituto | ¿Personalidad propia? | ¿Traslada titularidad? | ¿Traslada ejercicio? | ¿Permanente? |
+|---|---:|---:|---:|---:|
+| Órgano | No | — | — | — |
+| Ente | Sí | — | — | — |
+| Desconcentración | No | Sí | Sí | Sí |
+| Descentralización | Sí | Sí | Sí | Sí |
+| Delegación | No | No | Sí | No |
+| Avocación | No | No | Sí | No |
+
+# Ideas centrales de la clase
+
+1. El **Estado es una sola persona jurídica**, aunque pueda actuar bajo regímenes jurídicos diferentes.
+
+2. Los **órganos** no tienen personalidad jurídica; los **entes**, sí.
+
+3. La **competencia** constituye la medida jurídica del poder estatal.
+
+4. La **jerarquía** relaciona órganos, pero encuentra límites en competencias exclusivas y especializadas.
+
+5. La **desconcentración y descentralización** distribuyen competencias de modo estructural y permanente.
+
+6. La **delegación y avocación** redistribuyen solamente el ejercicio de competencias singulares y de modo transitorio.
+
+# Regla de cierre sobre la competencia
+
+Balbín propone una regla fundamental para entender toda la organización administrativa:
+
+```text
+PERSONAS
+
+todo lo que no está prohibido
+        ↓
+está permitido
+
+
+ESTADO
+
+todo lo que no está permitido
+        ↓
+está prohibido
+```
+
+# Organización y legalidad
+
+La organización administrativa no es solamente:
+
+## un organigrama.
+
+Es un sistema jurídico que determina:
+
+- quién puede actuar;
+- sobre qué materia;
+- en qué territorio;
+- durante qué tiempo;
+- en qué grado;
+- con qué relación respecto de otros órganos;
+- y bajo qué controles.
+
+# Cierre
+
+## ORGANIZAR EL ESTADO
+
+significa:
+
+## DISTRIBUIR PODER
+
+y distribuir poder supone necesariamente:
+
+## DEFINIR COMPETENCIAS
+
++
+
+## ESTABLECER LÍMITES
+
++
+
+## GARANTIZAR DERECHOS

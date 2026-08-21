@@ -1,0 +1,555 @@
+---
+title: "Derecho Administrativo"
+subtitle: "Clase 1 · Concepto, fuentes, reglamentos, régimen exorbitante y función administrativa"
+format:
+  revealjs:
+    slide-level: 1
+    slide-number: true
+    scrollable: true
+    hash: true
+    transition: slide
+    navigation-mode: linear
+    width: 1600
+    height: 900
+    center: false
+    controls: true
+    progress: true
+    css: styles.css
+lang: es
+---
+
+# Historia del Derecho Administrativo
+
+## Punto de partida
+
+El Derecho Administrativo nace históricamente como una respuesta frente al:
+
+## PODER DEL ESTADO
+
+Su desarrollo está ligado a la necesidad de:
+
+- reconocer jurídicamente determinadas potestades estatales;
+- limitar su ejercicio;
+- proteger los derechos de las personas;
+- establecer mecanismos de control.
+
+Para Balbín, su génesis se vincula con el paso del Estado absoluto al:
+
+## ESTADO DE DERECHO
+
+# Dos modelos históricos
+
+Luego de las revoluciones liberales del siglo XIX se desarrollaron dos modelos institucionales distintos.
+
+La diferencia fundamental estuvo en cómo interpretar:
+
+## la división de poderes
+
+y, especialmente:
+
+## la relación entre Poder Ejecutivo y Poder Judicial.
+
+# Modelo anglosajón
+
+## Inglaterra
+
+En el modelo anglosajón se entendió que la división de poderes:
+
+> **no impide que los jueces controlen al gobierno y sus decisiones.**
+
+Por lo tanto:
+
+```text
+ADMINISTRACIÓN
+      ↓
+dicta una decisión
+      ↓
+PODER JUDICIAL
+      ↓
+puede revisarla
+```
+
+El control judicial de la Administración no es considerado una intromisión ilegítima del Poder Judicial en el Poder Ejecutivo.
+
+# La lógica del modelo inglés
+
+La idea central puede resumirse así:
+
+## el Ejecutivo está sometido al control de los jueces.
+
+La división de poderes no significa:
+
+> aislamiento absoluto de cada poder.
+
+Significa que el Poder Judicial puede controlar la juridicidad de las decisiones adoptadas por el gobierno.
+
+# Modelo continental europeo
+
+## Francia
+
+El modelo francés partió históricamente de una interpretación diferente de la división de poderes.
+
+Se sostuvo que:
+
+> **los jueces ordinarios no debían controlar las decisiones del Poder Ejecutivo.**
+
+La intervención judicial sobre la Administración podía ser considerada una intromisión del Poder Judicial en una esfera propia del Ejecutivo.
+
+# El problema francés
+
+Si los jueces ordinarios no podían controlar al Ejecutivo:
+
+## ¿quién controlaba a la Administración?
+
+La respuesta fue crear:
+
+# órganos administrativos encargados de controlar a la propia Administración.
+
+# Primera etapa francesa
+
+## Jurisdicción retenida
+
+En los orígenes del sistema francés:
+
+> **los propios ministros resolvían las controversias vinculadas con la actividad administrativa.**
+
+El poder de juzgar permanecía dentro de la propia Administración.
+
+Por eso se habla de:
+
+## JURISDICCIÓN RETENIDA
+
+# Evolución del modelo francés
+
+Posteriormente, el control fue desplazándose hacia el:
+
+# CONSEJO DE ESTADO
+
+El Consejo de Estado funcionó como tribunal administrativo encargado de revisar las decisiones de la Administración.
+
+Se pasa entonces de:
+
+```text
+MINISTRO
+   ↓
+resuelve el conflicto
+```
+
+a:
+
+```text
+ADMINISTRACIÓN
+      ↓
+CONSEJO DE ESTADO
+      ↓
+control administrativo especializado
+```
+
+# Jurisdicción delegada
+
+Esta segunda etapa es conocida como:
+
+## JURISDICCIÓN DELEGADA
+
+La resolución de las controversias deja de quedar directamente en manos del ministro y pasa al Consejo de Estado.
+
+Sin embargo, históricamente el sistema mantiene una característica:
+
+> **el control de la Administración no corresponde inicialmente a los jueces ordinarios.**
+
+# Dos modelos
+
+| Modelo anglosajón | Modelo francés |
+|---|---|
+| Control judicial | Control administrativo especializado |
+| Los jueces pueden revisar al Ejecutivo | Los jueces ordinarios no controlan inicialmente al Ejecutivo |
+| División de poderes compatible con revisión judicial | División de poderes utilizada para separar Administración y jueces |
+| Derecho único | Desarrollo del doble derecho |
+
+# El modelo francés y el Derecho Administrativo
+
+En el modelo francés se desarrolló un:
+
+## DERECHO ESPECIAL PARA LA ADMINISTRACIÓN
+
+distinto del Derecho Privado.
+
+Esto contribuyó a consolidar la idea de:
+
+# DOBLE DERECHO
+
+```text
+DERECHO PRIVADO
+      +
+DERECHO PÚBLICO
+```
+
+El Derecho Administrativo constituye el régimen jurídico especial aplicable a la actividad estatal.
+
+# Una consecuencia histórica
+
+Balbín señala que el Derecho Administrativo francés se construyó parcialmente mediante técnicas destinadas a:
+
+> **excluir el control de los jueces ordinarios sobre el Poder Ejecutivo.**
+
+Por eso algunas prerrogativas administrativas no operaban solamente frente a los particulares.
+
+También funcionaban frente al:
+
+## Poder Judicial.
+
+# ¿Qué ocurrió en Argentina?
+
+El modelo argentino no reprodujo íntegramente ninguno de los dos sistemas.
+
+Balbín sostiene que el Derecho Administrativo argentino comenzó a desarrollarse como disciplina jurídica:
+
+## hacia las últimas décadas del siglo XIX.
+
+Y adquirió:
+
+> **rasgos y matices propios.**
+
+# Argentina: un modelo mixto
+
+Nuestro sistema recibió influencias diferentes.
+
+### Del modelo anglosajón
+
+Especialmente:
+
+## el control judicial de las decisiones estatales.
+
+### Del modelo continental europeo
+
+Especialmente:
+
+## la existencia de un Derecho Administrativo autónomo y de un doble sistema jurídico.
+
+# La particularidad argentina
+
+Argentina combina:
+
+```text
+CONTROL JUDICIAL
+modelo anglosajón
+       +
+DOBLE DERECHO
+modelo continental
+```
+
+Por ello, Balbín señala que nuestro sistema sigue solo parcialmente al modelo francés.
+
+La diferencia fundamental es que:
+
+# en Argentina existe control judicial.
+
+# La regla argentina
+
+Aunque la Administración pueda:
+
+- dictar actos;
+- resolver controversias;
+- crear órganos especializados;
+- ejercer determinadas funciones materialmente jurisdiccionales;
+
+sus decisiones:
+
+## no pueden quedar definitivamente fuera del control judicial.
+
+# Administración y función jurisdiccional
+
+El sistema argentino admite que determinados órganos administrativos puedan resolver controversias.
+
+Existen razones prácticas para ello:
+
+- especialización técnica;
+- experiencia administrativa;
+- gran cantidad de conflictos;
+- necesidad de respuestas especializadas;
+- aplicación uniforme de regulaciones complejas.
+
+Pero aparece inmediatamente una pregunta:
+
+# ¿Puede la Administración juzgar definitivamente?
+
+# El problema constitucional
+
+La Constitución establece un Poder Judicial independiente.
+
+Al mismo tiempo, en determinados ámbitos existen:
+
+## tribunales administrativos
+
+que resuelven controversias.
+
+Entonces aparece la tensión:
+
+```text
+ADMINISTRACIÓN
+puede resolver controversias
+        ↓
+PERO
+        ↓
+¿puede hacerlo sin revisión judicial?
+```
+
+La respuesta de la Corte será:
+
+# NO.
+
+# El principio argentino
+
+La Administración puede ejercer determinadas funciones materialmente jurisdiccionales.
+
+Pero:
+
+> **sus decisiones deben estar sometidas a control judicial.**
+
+Y ese control no puede ser puramente aparente o formal.
+
+Debe ser:
+
+# SUFICIENTE.
+
+# CSJN, “Fernández Arias” (1960)
+
+## El problema
+
+La legislación había atribuido a órganos administrativos la posibilidad de resolver determinadas controversias.
+
+La cuestión consistía en determinar si era constitucional que esas decisiones fueran adoptadas por órganos pertenecientes al Poder Ejecutivo.
+
+# La respuesta de la Corte
+
+La Corte no prohibió absolutamente la existencia de:
+
+## tribunales administrativos.
+
+Admitió que el Poder Ejecutivo pueda ejercer determinadas funciones materialmente jurisdiccionales.
+
+Pero estableció una condición fundamental:
+
+> **las decisiones administrativas deben estar sometidas a control judicial suficiente.**
+
+# ¿Qué significa control judicial suficiente?
+
+No basta con que exista formalmente algún recurso ante un juez.
+
+El juez debe poder revisar:
+
+- el Derecho;
+- los hechos;
+- las pruebas.
+
+Por lo tanto:
+
+```text
+DECISIÓN ADMINISTRATIVA
+         ↓
+REVISIÓN JUDICIAL
+         ↓
+DERECHO
++
+HECHOS
++
+PRUEBAS
+```
+
+# El problema en “Fernández Arias”
+
+La ley permitía únicamente:
+
+## recurso extraordinario ante la Corte Suprema.
+
+Pero el recurso extraordinario:
+
+> **no permite una revisión amplia de los hechos y de la prueba.**
+
+Su objeto se encuentra fundamentalmente limitado a cuestiones jurídicas y constitucionales.
+
+Por ello:
+
+## el control existente era insuficiente.
+
+# La decisión
+
+La Corte declaró la inconstitucionalidad del régimen porque:
+
+> **existía revisión judicial, pero esa revisión no era suficientemente amplia.**
+
+Este punto es fundamental.
+
+El problema no era la ausencia absoluta de jueces.
+
+El problema era:
+
+# LA INSUFICIENCIA DEL CONTROL.
+
+# La doctrina de “Fernández Arias”
+
+La Administración puede ejercer funciones materialmente jurisdiccionales si existe:
+
+## CONTROL JUDICIAL SUFICIENTE
+
+Esto exige que el juez pueda revisar:
+
+1. el Derecho;
+2. los hechos;
+3. la prueba.
+
+# El modelo argentino
+
+Podemos sintetizarlo así:
+
+```text
+INGLATERRA
+      ↓
+CONTROL JUDICIAL
+de las decisiones administrativas
+
+
+FRANCIA
+      ↓
+CONTROL ADMINISTRATIVO
+Consejo de Estado
+doble derecho
+
+
+ARGENTINA
+      ↓
+DOBLE DERECHO
++
+CONTROL JUDICIAL
+```
+
+# La particularidad argentina
+
+Argentina mantiene una característica del modelo continental:
+
+## Derecho Público + Derecho Privado
+
+Pero rechaza la idea histórica según la cual las decisiones administrativas pueden quedar definitivamente excluidas del:
+
+## Poder Judicial.
+
+# De Francia a Argentina
+
+```text
+MODELO FRANCÉS HISTÓRICO
+
+ADMINISTRACIÓN
+      ↓
+TRIBUNAL ADMINISTRATIVO
+      ↓
+decisión administrativa
+
+
+MODELO ARGENTINO
+
+ADMINISTRACIÓN
+      ↓
+puede resolver controversias
+      ↓
+PERO
+      ↓
+PODER JUDICIAL
+      ↓
+REVISIÓN SUFICIENTE
+```
+
+# División de poderes en Argentina
+
+La división de poderes no significa:
+
+> que cada poder sea absolutamente impermeable frente a los demás.
+
+La Administración puede ejercer excepcionalmente funciones materialmente judiciales.
+
+Pero el Poder Judicial conserva:
+
+# el control final de juridicidad.
+
+# “Fernández Arias”: idea central
+
+> **No es inconstitucional por sí mismo que un órgano administrativo resuelva controversias.**
+
+Lo constitucionalmente inadmisible es:
+
+> **que esa decisión quede fuera de una revisión judicial suficiente.**
+
+# Para recordar
+
+## Inglaterra
+
+**Administración → juez**
+
+El control judicial es compatible con la división de poderes.
+
+## Francia
+
+**Administración → jurisdicción administrativa**
+
+Históricamente se excluye al juez ordinario y se desarrolla el Consejo de Estado.
+
+## Argentina
+
+**Administración → eventual órgano administrativo → juez**
+
+Puede existir decisión administrativa previa, pero:
+
+# siempre debe existir revisión judicial suficiente.
+
+# Síntesis final
+
+```text
+SIGLO XIX
+
+        DOS MODELOS
+
+INGLATERRA                 FRANCIA
+    │                         │
+control judicial       control administrativo
+    │                         │
+derecho único          doble derecho
+    │                         │
+    └──────────┬──────────────┘
+               │
+           ARGENTINA
+               │
+      combinación particular
+               │
+      doble derecho
+               +
+       control judicial
+               │
+               ↓
+      “FERNÁNDEZ ARIAS”
+               │
+               ↓
+la Administración puede ejercer
+funciones jurisdiccionales
+               │
+              PERO
+               │
+               ↓
+debe existir control judicial
+amplio y suficiente
+               │
+               ↓
+ DERECHO + HECHOS + PRUEBA
+```
+
+# Idea de cierre
+
+La evolución argentina no elimina la posibilidad de que la Administración adopte decisiones de contenido jurisdiccional.
+
+Lo que impide es que:
+
+## la Administración tenga la última palabra.
+
+La garantía constitucional exige que exista finalmente:
+
+# UN JUEZ INDEPENDIENTE
+
+con potestad suficiente para revisar la decisión administrativa.

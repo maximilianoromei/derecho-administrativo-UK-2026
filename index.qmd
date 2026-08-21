@@ -1,0 +1,77 @@
+---
+title: "Derecho Administrativo"
+---
+
+::: {.hero}
+
+# Derecho Administrativo
+
+## Material de clases
+
+**Universidad Kennedy · 2026**
+
+Prof. Maximiliano Lucas Romei
+
+:::
+
+## Clases
+
+### Clase 1 · Introducción al Derecho Administrativo
+
+::: {.material-grid}
+
+::: {.material-card}
+#### Bases del Derecho Administrativo
+
+Concepto, caracteres y fundamentos del Derecho Administrativo.
+
+<a href="clase1-base.html" target="_blank" class="btn-class">
+Ver presentación
+</a>
+:::
+
+::: {.material-card}
+#### Evolución histórica
+
+Formación y evolución histórica del Derecho Administrativo.
+
+<a href="clase1-historia.html" target="_blank" class="btn-class">
+Ver presentación
+</a>
+:::
+
+::: {.material-card}
+#### Acto y hecho administrativo
+
+Introducción al acto administrativo y su distinción respecto del hecho administrativo.
+
+<a href="clase1-acto-hecho.html" target="_blank" class="btn-class">
+Ver presentación
+</a>
+:::
+
+:::
+
+---
+
+### Clase 2 · Organización administrativa
+
+::: {.material-grid}
+
+::: {.material-card}
+#### Organización administrativa
+
+Personas jurídicas públicas, organización del Estado y estructuras administrativas.
+
+<a href="clase2-organizacion.html" target="_blank" class="btn-class">
+Ver presentación
+</a>
+:::
+
+:::
+
+---
+
+### Próximas clases
+
+El material será incorporado a medida que avance el curso.

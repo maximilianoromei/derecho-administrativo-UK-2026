@@ -1,0 +1,1492 @@
+---
+title: "Derecho Administrativo"
+subtitle: "Clase 1 · Concepto, fuentes, reglamentos, régimen exorbitante y función administrativa"
+format:
+  revealjs:
+    slide-level: 1
+    slide-number: true
+    scrollable: true
+    hash: true
+    transition: slide
+    navigation-mode: linear
+    width: 1600
+    height: 900
+    center: false
+    controls: true
+    progress: true
+    css: styles.css
+lang: es
+---
+
+# Derecho Administrativo
+
+## Clase 1
+
+**Concepto · Derecho público y privado · Fuentes · Reglamentos · Régimen exorbitante · Función administrativa**
+
+# 1 · Concepto y finalidad
+
+## Derecho Administrativo
+
+El punto de partida del programa consiste en determinar:
+
+> **¿Qué estudia el Derecho Administrativo?**
+
+Las definiciones tradicionales han colocado el acento en:
+
+- la Administración Pública;
+- su organización;
+- su funcionamiento;
+- las relaciones entre órganos;
+- las relaciones entre el Estado y los particulares.
+
+# Una perspectiva más amplia
+
+El concepto de Derecho Administrativo no puede quedar limitado exclusivamente a:
+
+## la Administración Pública como sujeto.
+
+También resulta necesario analizar:
+
+## la función administrativa.
+
+Esto permite explicar por qué determinadas actividades desarrolladas por otros poderes del Estado pueden quedar sometidas al Derecho Administrativo.
+
+# La concepción de Balbín
+
+Balbín propone una construcción que parte de los derechos fundamentales.
+
+El Derecho Administrativo puede ser entendido como:
+
+> **un conjunto de principios y reglas cuyo objeto es resolver conflictos entre derechos con el propósito de conformar el orden social en términos justos e igualitarios.**
+
+# El paradigma clásico
+
+Históricamente, el Derecho Administrativo se construyó alrededor de una tensión:
+
+## PODER ↔ DERECHOS
+
+El Estado dispone de prerrogativas y potestades para cumplir sus funciones.
+
+Pero esas potestades encuentran límites en:
+
+- la Constitución;
+- la ley;
+- los derechos fundamentales;
+- los procedimientos;
+- los mecanismos de control.
+
+# Poder y garantías
+
+El esquema clásico puede representarse así:
+
+| Poder estatal | Derechos de las personas |
+|---|---|
+| Prerrogativas | Garantías |
+| Potestades | Límites |
+| Ejecutividad | Debido procedimiento |
+| Regulación | Razonabilidad |
+| Sanción | Derecho de defensa |
+| Intervención | Control judicial |
+
+# El nuevo paradigma en Balbín
+
+Balbín considera que el paradigma contemporáneo no debe reducirse a:
+
+## PODER vs. DERECHOS
+
+Propone reconstruirlo como:
+
+# DERECHOS vs. DERECHOS
+
+con intervención del Estado.
+
+# ¿Qué significa derechos vs. derechos?
+
+El Estado no interviene simplemente porque posee poder.
+
+Interviene muchas veces para resolver conflictos entre derechos.
+
+### Ejemplo
+
+Una regulación ambiental puede colocar en tensión:
+
+- propiedad;
+- libertad económica;
+- actividad productiva;
+
+con:
+
+- ambiente;
+- salud;
+- derechos colectivos.
+
+La intervención estatal procura articular esos intereses jurídicamente protegidos.
+
+# El poder debe justificarse
+
+Desde esta perspectiva:
+
+> **los derechos fundamentales no son solamente límites externos del poder estatal.**
+
+También funcionan como:
+
+## fundamento y justificación del poder.
+
+Las prerrogativas administrativas deben ser analizadas desde los derechos que pretenden proteger o realizar.
+
+# Dimensión formal y sustancial
+
+Para Balbín, la intervención estatal presenta dos dimensiones.
+
+### Dimensión formal
+
+- prerrogativas;
+- competencias;
+- límites;
+- procedimientos;
+- controles.
+
+### Dimensión sustancial
+
+- resolución de conflictos;
+- protección de derechos;
+- recomposición de desigualdades;
+- construcción de un orden social justo e igualitario.
+
+# Derecho Administrativo y Constitución
+
+El Derecho Administrativo contemporáneo debe construirse sobre:
+
+1. la división de poderes;
+2. los derechos fundamentales.
+
+También adquieren relevancia:
+
+- legalidad;
+- reserva legal;
+- transparencia;
+- participación;
+- buena administración;
+- tutela judicial efectiva.
+
+# Carácter dinámico
+
+El Derecho Administrativo cambia cuando cambia el Estado.
+
+La evolución desde el:
+
+- Estado liberal;
+- Estado social;
+- Estado democrático;
+
+modifica necesariamente:
+
+- las funciones estatales;
+- las prerrogativas;
+- los controles;
+- los derechos protegidos;
+- los mecanismos de participación.
+
+# 2 · Derecho público y Derecho privado
+
+## El problema de la distinción
+
+Una clasificación tradicional distingue entre:
+
+### Derecho Público
+
+y
+
+### Derecho Privado
+
+El Derecho Administrativo pertenece al Derecho Público.
+
+Pero la frontera entre ambos subsistemas no siempre es sencilla.
+
+# Criterios tradicionales
+
+Entre los criterios utilizados para distinguirlos encontramos:
+
+| Derecho Público | Derecho Privado |
+|---|---|
+| Subordinación | Coordinación |
+| Desigualdad jurídica | Igualdad |
+| Interés público | Interés privado |
+| Prerrogativas estatales | Autonomía de la voluntad |
+| Competencia | Capacidad |
+
+# Balbín y el doble derecho
+
+Balbín analiza la existencia de:
+
+## dos subsistemas jurídicos.
+
+Uno correspondiente al:
+
+### Derecho Público
+
+y otro al:
+
+### Derecho Privado.
+
+Pero esta separación no significa que no existan relaciones, cruces o zonas de penumbra entre ambos.
+
+# Una diferencia relevante
+
+En el Derecho Privado los sujetos se encuentran, como principio, en una posición de igualdad.
+
+En el Derecho Público:
+
+> los sujetos pueden encontrarse en situaciones jurídicas de desigualdad.
+
+Sin embargo:
+
+## desigualdad ≠ poder ilimitado.
+
+El Estado sigue sujeto al ordenamiento jurídico.
+
+# Intensidad de la regulación
+
+Balbín señala otra diferencia.
+
+### Derecho Privado
+
+Habitualmente establece un marco o límite externo dentro del cual operan los sujetos.
+
+### Derecho Público
+
+Regula con mayor intensidad:
+
+- el procedimiento;
+- el contenido;
+- las competencias;
+- la finalidad;
+- la motivación.
+
+# La decisión estatal debe justificarse
+
+La Administración no puede simplemente decidir porque considera una solución conveniente.
+
+Su actuación debe fundarse en:
+
+- competencia;
+- normas;
+- procedimiento;
+- hechos;
+- finalidad;
+- razones jurídicamente suficientes.
+
+# Zonas de penumbra
+
+La distinción entre Derecho Público y Privado no siempre es clara.
+
+Existen zonas en las que ambos subsistemas se conectan.
+
+Por ello, no alcanza con preguntar:
+
+> **¿Interviene el Estado?**
+
+También debe analizarse:
+
+- la actividad;
+- el régimen jurídico;
+- los intereses involucrados;
+- las normas aplicables.
+
+# Jurisprudencia citada por Balbín
+
+## CSJN, “Barreto” (2006)
+
+Balbín utiliza este precedente para analizar el carácter local del Derecho Administrativo.
+
+La Corte sostuvo que la responsabilidad estatal provincial se encuentra regida por:
+
+## Derecho Administrativo local.
+
+Por ello, el conflicto debía ser resuelto por los jueces provinciales.
+
+:::{.callout-important}
+# CSJN, “Barreto” (2006)
+
+## El problema - El caso surgía de un reclamo indemnizatorio contra la Provincia de Buenos Aires.
+
+¿La responsabilidad de una provincia es una cuestión de
+**Derecho Civil** o de **Derecho Administrativo local**?
+
+## La Corte
+
+Abandonó el criterio que encuadraba estos reclamos como materia civil.
+
+Sostuvo que la responsabilidad derivada de la actuación estatal provincial
+se encuentra regida por:
+
+> **Derecho Administrativo local.**
+
+## Consecuencia
+
+El conflicto debe ser resuelto por los:
+
+### jueces provinciales.
+
+## Importancia
+
+“Barreto” muestra dos ideas centrales:
+
+1. La distinción entre Derecho Público y Derecho Privado tiene
+   consecuencias concretas sobre el régimen jurídico aplicable.
+
+2. El Derecho Administrativo argentino es, como principio,
+   **de carácter local**.
+
+:::
+
+# 3 · Fuentes del Derecho Administrativo
+
+## Concepto
+
+Las fuentes permiten identificar:
+
+> **de dónde surgen las normas, principios y reglas que integran el Derecho Administrativo.**
+
+Entre ellas encontramos:
+
+- Constitución;
+- tratados;
+- leyes;
+- reglamentos;
+- principios generales;
+- jurisprudencia;
+- doctrina;
+- costumbre.
+
+# La Constitución
+
+La Constitución ocupa un lugar central.
+
+No solo organiza los poderes.
+
+También:
+
+- distribuye competencias;
+- reconoce derechos;
+- establece límites;
+- consagra garantías;
+- determina procedimientos;
+- fija principios.
+
+# Tratados internacionales
+
+Balbín distingue entre:
+
+- tratados con jerarquía constitucional;
+- tratados sin jerarquía constitucional;
+- tratados de integración.
+
+El Derecho Administrativo contemporáneo no puede ser explicado exclusivamente desde normas internas.
+
+# La ley
+
+La ley constituye una fuente esencial.
+
+La actividad administrativa se encuentra sometida a:
+
+## legalidad
+
+y
+
+## reserva legal.
+
+La Administración no crea libremente sus propias competencias.
+
+# Ley y reglamento
+
+Una de las cuestiones centrales consiste en determinar:
+
+> **¿qué corresponde regular al Congreso y qué puede reglamentar el Poder Ejecutivo?**
+
+Balbín propone una imagen especialmente útil.
+
+# Los dos círculos
+
+```text
+┌───────────────────────────────────┐
+│                                   │
+│       CÍRCULO PERIFÉRICO          │
+│          REGLAMENTO               │
+│                                   │
+│        ┌──────────────┐           │
+│        │   NÚCLEO     │           │
+│        │     LEY      │           │
+│        └──────────────┘           │
+│                                   │
+└───────────────────────────────────┘
+```
+
+# Núcleo y complemento
+
+El Congreso puede regular:
+
+## núcleo + complemento.
+
+El Poder Ejecutivo:
+
+## solamente puede regular el complemento.
+
+El ámbito reglamentario es:
+
+> **residual y limitado.**
+
+# Límite constitucional
+
+El art. 99 inc. 2 CN permite al Poder Ejecutivo dictar reglamentos necesarios para ejecutar las leyes.
+
+Pero debe:
+
+> **cuidar de no alterar su espíritu mediante excepciones reglamentarias.**
+
+Por ello:
+
+```text
+LEY
+ ↓
+NÚCLEO
+ ↓
+REGLAMENTO
+ ↓
+COMPLEMENTO
+```
+
+# 4 · Reglamentos
+
+## Concepto
+
+Los reglamentos son normas generales dictadas en ejercicio de potestades administrativas.
+
+El programa distingue:
+
+1. reglamentos de ejecución;
+2. reglamentos autónomos;
+3. reglamentos delegados;
+4. decretos de necesidad y urgencia;
+5. reglamentos internos.
+
+# Reglamentos de ejecución
+
+## Art. 99 inc. 2 CN
+
+Su finalidad consiste en:
+
+> **hacer posible la ejecución de la ley.**
+
+El Poder Ejecutivo puede completar detalles.
+
+Pero no puede:
+
+- modificar la ley;
+- sustituir al legislador;
+- contradecirla;
+- alterar su espíritu.
+
+# La potestad reglamentaria
+
+La potestad reglamentaria no nace de una autorización particular del Congreso.
+
+Su fundamento se encuentra directamente en:
+
+# LA CONSTITUCIÓN.
+
+Sin embargo, su campo depende del espacio que la ley haya dejado disponible.
+
+# Ley completa
+
+```text
+LEY
+regula núcleo + complemento
+        ↓
+no existe espacio reglamentario
+```
+
+# Ley incompleta
+
+```text
+LEY
+regula el núcleo
+        ↓
+deja aspectos complementarios
+        ↓
+REGLAMENTO
+puede completar esos aspectos
+```
+
+# Reglamentos autónomos
+
+Los reglamentos autónomos plantean el problema de la:
+
+## zona de reserva de la Administración.
+
+La cuestión consiste en determinar si existen materias propias del Poder Ejecutivo que este puede regular sin ejecutar una ley formal previa.
+
+# Posición de Balbín
+
+## Balbín rechaza esta construcción
+
+La **jefatura de la Administración** no supone una potestad normativa exclusiva del Poder Ejecutivo.
+
+La Constitución reconoce al Ejecutivo potestades materialmente legislativas solo en los supuestos que ella misma contempla.
+
+---
+
+# El argumento central
+
+Para Balbín rige el:
+
+## PRINCIPIO DE RESERVA LEGAL
+
+El **núcleo de la regulación corresponde al Congreso**.
+
+Por ello:
+
+> **No existe una zona material en la que el Congreso tenga vedado legislar y cuya regulación corresponda exclusivamente al Poder Ejecutivo.**
+
+---
+
+# Consecuencia
+
+Balbín concluye que:
+
+## El Poder Ejecutivo no tiene una zona de reserva propia
+
+en materia normativa o regulatoria.
+
+Por lo tanto:
+
+> **Balbín rechaza la existencia de decretos autónomos o independientes en el Derecho constitucional argentino.**
+
+---
+
+# ¿Significa que el Ejecutivo no puede reglamentar?
+
+## No
+
+El Poder Ejecutivo conserva las potestades normativas que la Constitución le reconoce.
+
+Puede dictar, entre otros:
+
+- reglamentos de ejecución;
+- decretos delegados;
+- decretos de necesidad y urgencia.
+
+Pero cada uno tiene:
+
+- un fundamento constitucional específico;
+- presupuestos propios;
+- límites propios.
+
+---
+
+# Lo que Balbín rechaza
+
+Balbín **no niega la potestad reglamentaria del Poder Ejecutivo**.
+
+Lo que rechaza es:
+
+> una potestad normativa **exclusiva** del Ejecutivo que impida al Congreso regular la misma materia.
+
+---
+
+# Zona de reserva: comparación
+
+| Tesis que admite la zona de reserva | Posición de Balbín |
+|---|---|
+| Existen materias propias del Ejecutivo | No existe una reserva normativa exclusiva |
+| El Ejecutivo regula el núcleo | El núcleo corresponde al legislador |
+| El Ejecutivo regula también los detalles | Puede reglamentar dentro del marco constitucional |
+| El Congreso no puede intervenir | El Congreso puede regular también esa materia |
+| Existen decretos autónomos | Balbín rechaza su existencia |
+
+---
+
+# La idea en un esquema
+
+```text
+TESIS DEL DECRETO AUTÓNOMO
+
+Materia propia del Ejecutivo
+          ↓
+   ZONA DE RESERVA
+          ↓
+Poder Ejecutivo regula
+  NÚCLEO + DETALLES
+          ↓
+Congreso no puede intervenir
+
+
+           BALBÍN
+
+       RESERVA LEGAL
+            ↓
+         CONGRESO
+            ↓
+    puede regular el núcleo
+     y también los detalles
+            ↓
+     PODER EJECUTIVO
+            ↓
+ejerce las potestades normativas
+reconocidas por la Constitución
+```
+
+---
+
+# Una distinción importante
+
+## Reglamento de ejecución
+
+El Ejecutivo:
+
+> **completa una ley.**
+
+## Supuesto decreto autónomo
+
+El Ejecutivo:
+
+> **regularía una materia sin ley y excluiría al Congreso.**
+
+### Balbín acepta el primero y rechaza el segundo.
+
+---
+
+# Para recordar
+
+> **Balbín no niega que el Poder Ejecutivo tenga potestades normativas.**
+
+Niega que exista:
+
+## una zona normativa reservada exclusivamente al Ejecutivo
+
+en la que:
+
+## el Congreso no pueda legislar.
+
+Ese es el punto central de su crítica a los llamados **decretos autónomos o independientes**.
+
+# Reglamentos internos
+
+Los reglamentos internos están destinados principalmente a regular:
+
+- organización;
+- funcionamiento;
+- distribución interna de tareas;
+- relaciones jerárquicas;
+- procedimientos internos.
+
+Su finalidad principal se proyecta sobre la propia estructura administrativa.
+
+# Reglamentos delegados
+
+## Art. 76 CN
+
+El principio es:
+
+> **Se prohíbe la delegación legislativa en el Poder Ejecutivo.**
+
+Excepcionalmente puede admitirse en:
+
+- materias determinadas de administración;
+- emergencia pública.
+
+# Requisitos de la delegación
+
+La delegación exige:
+
+## MATERIA
+
++
+
+## BASES
+
++
+
+## PLAZO
+
+El Congreso no puede transferir simplemente al Poder Ejecutivo una competencia legislativa indeterminada.
+
+# Las bases
+
+Para Balbín, las bases deben contener:
+
+- directrices;
+- principios;
+- criterios;
+- límites;
+- pautas para el ejercicio de la competencia delegada.
+
+El Ejecutivo puede tener un margen de decisión.
+
+Pero siempre dentro del marco fijado por el Congreso.
+
+# Función de las bases
+
+Las bases cumplen dos funciones fundamentales.
+
+### División de poderes
+
+Evitan una transferencia ilimitada de potestades legislativas.
+
+### Control
+
+Permiten evaluar si el Ejecutivo:
+
+- respetó;
+- o excedió;
+
+la delegación.
+
+# Materias de administración
+
+Balbín considera comprendidas, entre otras:
+
+- organización administrativa;
+- procedimientos administrativos;
+- empleo público;
+- contrataciones estatales.
+
+Se trata de materias vinculadas con actividades propias y habituales de la Administración.
+
+# Jurisprudencia citada por Balbín
+
+## “Provincia de San Luis c/ Estado Nacional” (2003)
+
+Balbín utiliza este precedente para explicar el alcance de la delegación legislativa.
+
+La Ley 25.561 había determinado:
+
+- la materia;
+- el plazo;
+- las finalidades.
+
+El Poder Ejecutivo debía actuar dentro de esas bases.
+
+# Otros precedentes sobre delegación
+
+Balbín analiza también:
+
+- “Selcro”;
+- “Aviación Mexicana”;
+- “Colegio Público de Abogados”;
+- “Camaronera”;
+- “Provincia de Santa Fe”;
+- “Compañía Mega”.
+
+Estos fallos permiten estudiar los límites de las potestades legislativas delegadas.
+
+# Decretos de necesidad y urgencia
+
+## Art. 99 inc. 3 CN
+
+A diferencia de los reglamentos delegados:
+
+> **no existe autorización previa del Congreso.**
+
+El Poder Ejecutivo ejerce excepcionalmente una potestad materialmente legislativa.
+
+# Diferencia central
+
+| Delegado | DNU |
+|---|---|
+| Existe autorización legislativa previa | No existe autorización previa |
+| Art. 76 CN | Art. 99 inc. 3 CN |
+| Bases + materia + plazo | Circunstancias excepcionales |
+| Competencia transferida | Competencia ejercida excepcionalmente |
+
+# DNU antes de 1994
+
+Balbín recuerda especialmente:
+
+## “Peralta” (1990)
+
+La Corte admitió la constitucionalidad del decreto en un contexto de grave crisis económica y financiera.
+
+Entre sus argumentos aparecieron:
+
+- el silencio del Congreso;
+- la inexistencia de otro remedio eficaz.
+
+# DNU después de 1994
+
+Balbín analiza una extensa línea jurisprudencial:
+
+- “Video Club Dreams”;
+- “Rodríguez”;
+- “Della Blanca”;
+- “Verrocchi”;
+- “Risolía de Ocampo”;
+- “Leguizamón Romero”;
+- “Consumidores Argentinos”;
+- “Pino”.
+
+# “Video Club Dreams” (1995)
+
+La Corte analizó el alcance del:
+
+## control judicial.
+
+Balbín destaca que los jueces pueden examinar:
+
+> la existencia de las circunstancias excepcionales invocadas para justificar el decreto.
+
+# Control judicial
+
+El control judicial no supone revisar:
+
+- mérito;
+- oportunidad;
+- conveniencia.
+
+Su objeto consiste en determinar:
+
+> **si existía realmente el presupuesto constitucional de excepcionalidad.**
+
+# “Verrocchi” (1999)
+
+Para Balbín constituye uno de los precedentes paradigmáticos.
+
+La Corte destacó que la reforma de 1994 pretendió:
+
+- atenuar el presidencialismo;
+- fortalecer al Congreso;
+- preservar la independencia judicial.
+
+# Rigurosa excepcionalidad
+
+La Corte sostuvo que el ejercicio de facultades legislativas por el Ejecutivo está sometido a:
+
+# CONDICIONES DE RIGUROSA EXCEPCIONALIDAD.
+
+# Primera hipótesis
+
+Puede existir habilitación cuando:
+
+> resulta imposible seguir materialmente el trámite ordinario para la sanción de las leyes.
+
+Ejemplos:
+
+- acciones bélicas;
+- desastres;
+- fuerza mayor;
+- imposibilidad de reunir las Cámaras.
+
+# Segunda hipótesis
+
+También puede admitirse cuando:
+
+> la situación requiere una solución inmediata incompatible con los tiempos normales del procedimiento legislativo.
+
+La urgencia debe ser:
+
+## objetiva.
+
+# Mera conveniencia
+
+Balbín destaca de “Verrocchi” que:
+
+> **la mera conveniencia del Poder Ejecutivo no es suficiente.**
+
+No alcanza con que el Presidente considere que:
+
+- el decreto es más rápido;
+- es políticamente conveniente;
+- es una mejor solución.
+
+# “Risolía de Ocampo” (2000)
+
+Balbín señala que la Corte rechazó el DNU porque:
+
+> no estaba destinado a proteger intereses generales de la sociedad sino intereses sectoriales.
+
+La emergencia debe vincularse con un riesgo de mayor alcance.
+
+# “Leguizamón Romero” (2004)
+
+La Corte sostuvo que los DNU requieren situaciones de:
+
+- grave trastorno;
+- afectación de la seguridad;
+- afectación del orden público;
+- crisis económica grave;
+
+que no puedan ser atendidas eficazmente por el Congreso mediante el procedimiento ordinario.
+
+# “Consumidores Argentinos” (2010)
+
+Balbín incorpora este precedente dentro de la línea restrictiva.
+
+La Corte reafirmó que:
+
+> **la mera conveniencia presidencial no basta para justificar el ejercicio de potestades legislativas excepcionales.**
+
+# “Pino” (2021)
+
+Balbín utiliza “Pino” como continuación de la doctrina de “Verrocchi”.
+
+El caso involucraba:
+
+## el sistema previsional de la Gendarmería Nacional.
+
+# El argumento del Ejecutivo
+
+El Poder Ejecutivo sostuvo, entre otras cuestiones:
+
+- que existía insuficiencia presupuestaria;
+- que era necesario satisfacer rápidamente los beneficios previsionales;
+- que no podía esperarse el procedimiento legislativo normal.
+
+# Decisión en “Pino”
+
+La Corte consideró que esas circunstancias:
+
+## no configuraban una situación constitucional de excepcionalidad.
+
+La modificación pretendida era:
+
+> **permanente.**
+
+# Excepcional ≠ permanente
+
+Balbín destaca la diferencia:
+
+```text
+DNU
+=
+EXCEPCIONAL
++
+URGENTE
++
+TRANSITORIO
+```
+
+No puede utilizarse para:
+
+```text
+MODIFICAR
+DE MANERA PERMANENTE
+UN RÉGIMEN JURÍDICO
+```
+
+cuando puede utilizarse el procedimiento legislativo ordinario.
+
+# Síntesis de Balbín sobre DNU
+
+Del análisis jurisprudencial, Balbín extrae:
+
+1. deben existir circunstancias excepcionales;
+2. los jueces deben controlar esas circunstancias;
+3. debe ser imposible utilizar eficazmente el procedimiento legislativo ordinario;
+4. la mera conveniencia presidencial no basta;
+5. debe existir un interés general;
+6. debe intervenir el Congreso;
+7. el DNU no debe funcionar como regulación ordinaria y permanente;
+8. no pueden dictarse DNU en materia tributaria.
+
+# 5 · Régimen exorbitante
+
+## Concepto
+
+El programa presenta el régimen exorbitante como una característica típica del Derecho Administrativo.
+
+Supone la existencia de potestades que:
+
+> no aparecen de la misma forma en las relaciones entre particulares.
+
+# Prerrogativas
+
+Entre las prerrogativas estatales pueden aparecer:
+
+- potestad regulatoria;
+- potestad sancionatoria;
+- ejecutoriedad;
+- expropiación;
+- potestades contractuales;
+- decisiones unilaterales.
+
+Pero estas potestades:
+
+## no son ilimitadas.
+
+# El problema en Balbín
+
+El Derecho Administrativo tradicional se construyó como un equilibrio entre:
+
+## PRERROGATIVAS
+
+y
+
+## GARANTÍAS.
+
+Sin embargo, Balbín considera necesario reconstruir esta relación desde los derechos fundamentales.
+
+# De poder vs. derechos...
+
+Modelo clásico:
+
+```text
+PODER
+  ↕
+DERECHOS
+```
+
+# ...a derechos vs. derechos
+
+Nuevo paradigma:
+
+```text
+DERECHOS
+    ↕
+INTERVENCIÓN ESTATAL
+    ↕
+DERECHOS
+```
+
+El Estado conserva prerrogativas.
+
+Pero esas prerrogativas deben justificarse por los derechos que pretende proteger o realizar.
+
+# 6 · Función administrativa
+
+## Concepto
+
+El programa introduce la función administrativa como una cuestión central.
+
+Balbín analiza tres criterios históricos para identificar las funciones estatales:
+
+1. criterio objetivo;
+2. criterio subjetivo;
+3. criterios mixtos.
+
+# Criterio objetivo
+
+La pregunta es:
+
+> **¿QUÉ ACTIVIDAD SE REALIZA?**
+
+Lo relevante es:
+
+## el contenido material.
+
+El sujeto que desarrolla la actividad no es determinante.
+
+# Funciones según el criterio objetivo
+
+### Función legislativa
+
+Consiste en:
+
+- dictar normas generales;
+- abstractas;
+- obligatorias.
+
+Supone fundamentalmente:
+
+## definir y planificar políticas públicas.
+
+# Función administrativa
+
+Puede caracterizarse como:
+
+## ejecución de las políticas públicas.
+
+Comprende actividades concretas dirigidas a realizar los objetivos establecidos por el ordenamiento jurídico.
+
+# Función judicial
+
+Consiste en:
+
+> resolver conflictos con carácter definitivo.
+
+La nota de definitividad adquiere especial importancia para distinguirla de decisiones adoptadas por órganos administrativos.
+
+# Consecuencia del criterio objetivo
+
+Un mismo poder puede ejercer funciones materiales diferentes.
+
+### Poder Ejecutivo
+
+Puede ejercer:
+
+- función administrativa;
+- función materialmente legislativa;
+- función materialmente judicial.
+
+### Poder Legislativo
+
+Puede ejercer:
+
+- función legislativa;
+- función administrativa;
+- determinadas funciones jurisdiccionales.
+
+### Poder Judicial
+
+Puede ejercer:
+
+- función judicial;
+- función administrativa;
+- funciones normativas.
+
+# Ejemplo de Balbín
+
+El Congreso necesita:
+
+- contratar personal;
+- adquirir insumos;
+- gestionar su estructura.
+
+Aunque esas actividades sean realizadas por el Poder Legislativo:
+
+> **son materialmente administrativas.**
+
+# Otro ejemplo
+
+El Poder Judicial debe:
+
+- designar personal;
+- ejercer potestad disciplinaria;
+- contratar bienes;
+- contratar servicios.
+
+Estas actividades son necesarias para cumplir su función jurisdiccional.
+
+Pero materialmente son:
+
+## administrativas.
+
+# Criterio subjetivo
+
+Ahora la pregunta cambia.
+
+> **¿QUIÉN REALIZA LA ACTIVIDAD?**
+
+Lo jurídicamente relevante es el:
+
+## sujeto titular.
+
+# Ejemplo
+
+Desde un criterio subjetivo:
+
+> cualquier acto del Poder Ejecutivo integra la función administrativa.
+
+Incluso cuando materialmente tenga contenido:
+
+- normativo;
+- jurisdiccional;
+- administrativo.
+
+# Problema del criterio subjetivo
+
+Balbín señala la:
+
+## heterogeneidad del objeto.
+
+Dentro de una misma categoría se incluyen actividades materialmente diferentes.
+
+# Criterios mixtos
+
+Combinan:
+
+## SUJETO
+
++
+
+## CONTENIDO.
+
+Balbín identifica como criterio mixto habitual:
+
+> todas las actividades del Poder Ejecutivo más las actividades materialmente administrativas de los Poderes Legislativo y Judicial.
+
+# Esquema
+
+```text
+PODER EJECUTIVO
+        ↓
+toda su actividad
+
++
+
+PODER LEGISLATIVO
+        ↓
+actividad materialmente administrativa
+
++
+
+PODER JUDICIAL
+        ↓
+actividad materialmente administrativa
+```
+
+# ¿Cuál criterio es correcto?
+
+Balbín sostiene que:
+
+- objetivo;
+- subjetivo;
+- mixto;
+
+pueden ser jurídicamente válidos.
+
+La Constitución no impone necesariamente uno de ellos.
+
+# El límite
+
+Existe, sin embargo, una condición fundamental:
+
+> **el criterio utilizado debe respetar los derechos y garantías constitucionales.**
+
+Este es el test decisivo.
+
+# “Rodríguez Varela” (1992)
+
+Balbín utiliza este precedente justamente para explicar ese límite.
+
+El caso se vinculaba con decisiones adoptadas por la Corte Suprema en ejercicio de:
+
+## facultades de superintendencia.
+
+# El problema
+
+Desde una perspectiva institucional podía resultar inconveniente que jueces inferiores revisaran decisiones adoptadas por la propia Corte.
+
+Sin embargo:
+
+> esa regla no podía funcionar de manera absoluta cuando estuviera comprometido el derecho de defensa.
+
+# Enseñanza de “Rodríguez Varela”
+
+## DIVISIÓN DE PODERES ≠ AUSENCIA DE CONTROL
+
+La organización interna de un poder del Estado no puede justificar:
+
+- indefensión;
+- ausencia de tutela;
+- inmunidad absoluta.
+
+# “Charpin” (2008)
+
+Balbín utiliza este precedente junto con “Rodríguez Varela”.
+
+El caso involucraba una reclamación formulada por un funcionario vinculado con el Poder Judicial mediante:
+
+## una relación de empleo público.
+
+# Naturaleza del acto
+
+La Corte sostuvo que las decisiones dictadas en ese ámbito configuran:
+
+# ACTOS TÍPICAMENTE ADMINISTRATIVOS.
+
+# Consecuencia
+
+Esos actos son:
+
+## judicialmente revisables.
+
+La naturaleza administrativa no depende exclusivamente del órgano que dicta la decisión.
+
+# “Rodríguez Varela” + “Charpin”
+
+Los fallos permiten establecer:
+
+```text
+ÓRGANO
+≠
+FUNCIÓN
+```
+
+y, principalmente:
+
+```text
+ORGANIZACIÓN INTERNA
+≠
+INMUNIDAD FRENTE A LOS DERECHOS
+```
+
+# Zona de consenso
+
+Balbín señala que existe amplio consenso respecto de:
+
+### Poder Ejecutivo
+
+Todas sus funciones están sometidas al:
+
+## Derecho Administrativo.
+
+### Congreso
+
+La actividad legislativa está regida por:
+
+## Derecho Parlamentario.
+
+### Poder Judicial
+
+La función judicial está regida por:
+
+## Derecho Judicial.
+
+# ¿Dónde está el conflicto?
+
+La cuestión verdaderamente problemática es:
+
+> **¿qué Derecho debe aplicarse a las actividades materialmente administrativas de los Poderes Legislativo y Judicial?**
+
+Ese es uno de los problemas centrales de la teoría de la función administrativa.
+
+# División de poderes
+
+La división de poderes no implica:
+
+```text
+LEGISLATIVO = solamente legislar
+EJECUTIVO = solamente administrar
+JUDICIAL = solamente juzgar
+```
+
+El esquema constitucional admite:
+
+## funciones predominantes, pero no exclusivas.
+
+# Esquema final
+
+```text
+PODER LEGISLATIVO
+│
+├── función legislativa predominante
+└── funciones materialmente administrativas
+
+
+PODER EJECUTIVO
+│
+├── función administrativa predominante
+├── funciones materialmente legislativas
+└── funciones materialmente judiciales excepcionales
+
+
+PODER JUDICIAL
+│
+├── función judicial predominante
+└── funciones materialmente administrativas
+```
+
+# Concepto final de Derecho Administrativo
+
+La función administrativa constituye un elemento fundamental para delimitar el objeto del Derecho Administrativo.
+
+Pero para Balbín no alcanza con identificar:
+
+> **qué función desarrolla el Estado.**
+
+También debe analizarse:
+
+> **qué derechos están involucrados y cómo debe intervenir el Estado.**
+
+# Definición final
+
+El Derecho Administrativo es el subsistema jurídico que regula la resolución de conflictos entre derechos con intervención estatal:
+
+### reconociendo
+
+- prerrogativas;
+
+### estableciendo
+
+- límites;
+- controles;
+- garantías;
+
+### procurando
+
+- recomponer desigualdades;
+- construir un orden social justo e igualitario.
+
+# Mapa conceptual
+
+```text
+                  DERECHO ADMINISTRATIVO
+                           │
+          ┌────────────────┴────────────────┐
+          │                                 │
+    DIMENSIÓN FORMAL                 DIMENSIÓN SUSTANCIAL
+          │                                 │
+ función administrativa                   derechos
+          │                                 │
+objetivo / subjetivo / mixto       derechos vs. derechos
+          │                                 │
+          └──────────────┬──────────────────┘
+                         │
+                INTERVENCIÓN ESTATAL
+                         │
+              prerrogativas + límites
+                         │
+                      control
+```
+
+# Jurisprudencia de esta clase
+
+Fallos utilizados exclusivamente porque son tratados por Balbín:
+
+### Derecho Público / Derecho Privado
+
+- **“Barreto” (2006)**
+
+### Reglamentos delegados
+
+- **“Provincia de San Luis c/ Estado Nacional” (2003)**
+
+### Decretos de necesidad y urgencia
+
+- **“Peralta” (1990)**
+- **“Video Club Dreams” (1995)**
+- **“Rodríguez” (1997)**
+- **“Della Blanca” (1998)**
+- **“Verrocchi” (1999)**
+- **“Risolía de Ocampo” (2000)**
+- **“Leguizamón Romero” (2004)**
+- **“Consumidores Argentinos” (2010)**
+- **“Pino” (2021)**
+
+### Función administrativa
+
+- **“Rodríguez Varela” (1992)**
+- **“Charpin” (2008)**
+
+# Cinco ideas para llevarse
+
+1. El Derecho Administrativo debe interpretarse desde la **Constitución y los derechos fundamentales**.
+
+2. Balbín propone reconstruir el paradigma tradicional de **poder vs. derechos** como **derechos vs. derechos**.
+
+3. La potestad reglamentaria del Poder Ejecutivo es **limitada y residual** frente al poder legislativo.
+
+4. Los criterios objetivo, subjetivo y mixto de función administrativa pueden ser válidos, pero deben respetar **derechos y garantías constitucionales**.
+
+5. La división de poderes supone funciones **predominantes**, no compartimentos absolutamente cerrados.
+
+# Cierre
+
+## PODER
+
+justificado por
+
+## DERECHOS
+
+ejercido dentro de
+
+## COMPETENCIAS
+
+sometido a
+
+## LÍMITES Y CONTROLES
+
+para resolver
+
+# CONFLICTOS ENTRE DERECHOS
