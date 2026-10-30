@@ -1,0 +1,445 @@
+---
+title: "Simulacro de examen final — Derecho Administrativo"
+subtitle: "20 casos prácticos con respuestas orientativas"
+author: "Prof. Maximiliano Romei"
+format:
+  revealjs:
+    theme: default
+    slide-level: 1
+    slide-number: true
+    scrollable: true
+    transition: slide
+    navigation-mode: linear
+    width: 1600
+    height: 900
+    center: false
+    progress: true
+lang: es
+---
+
+# Caso 1. Una orden sin respaldo normativo
+
+Una dirección nacional comunica a todos los comercios de un sector que deberán cerrar los domingos.
+La medida se publica en la página web del organismo como una «instrucción obligatoria».
+No se menciona ninguna ley que autorice a imponer ese cierre.
+Un comerciante sostiene que la dirección no puede crear una obligación de esa naturaleza.
+El organismo responde que actúa en defensa del interés público.
+**\*\*Preguntas:\*\*** ¿Qué diferencia existe entre la finalidad pública y la competencia jurídica? ¿Puede una instrucción administrativa imponer esta obligación?
+
+---
+
+# Caso 1. Respuesta orientativa
+
+El interés público orienta la actuación, pero no sustituye la competencia legal ni habilita restricciones sin fundamento normativo. Deben examinarse atribuciones del órgano, naturaleza de la instrucción, reserva de ley y razonabilidad. Una mera instrucción interna no basta para imponer obligaciones generales a particulares.
+
+**Desarrollo sugerido para el examen:**
+
+**Para fundamentar:** La finalidad pública es un requisito, pero la competencia debe surgir de una atribución normativa. Diferencie una instrucción interna de un reglamento con efectos externos. Examine además legalidad, razonabilidad y reserva de ley. **Conclusión:** sin habilitación suficiente, la restricción general es impugnable.
+
+---
+
+# Caso 2. Un reglamento que cambia la ley
+
+Una ley permite solicitar una habilitación cumpliendo tres requisitos expresamente enumerados.
+El Poder Ejecutivo dicta un reglamento de ejecución para organizar el trámite.
+El reglamento agrega un cuarto requisito que excluye a muchos solicitantes.
+Una empresa reúne los tres requisitos legales, pero no el cuarto.
+La autoridad rechaza su solicitud invocando exclusivamente el reglamento.
+**\*\*Preguntas:\*\*** ¿Qué límites tiene la potestad reglamentaria? ¿Cómo analizaría la validez del requisito adicional?
+
+---
+
+# Caso 2. Respuesta orientativa
+
+El reglamento de ejecución debe facilitar la aplicación de la ley sin alterar su espíritu ni introducir restricciones incompatibles con ella (art. 99 inc. 2, CN). Si el cuarto requisito agrega una condición sustantiva no autorizada, puede ser inválido. Debe analizarse si la ley realmente dejó un margen técnico de reglamentación.
+
+**Desarrollo sugerido para el examen:**
+
+**Para fundamentar:** El art. 99 inc. 2 de la Constitución permite reglamentar sin alterar el espíritu de la ley. Distinga precisar aspectos instrumentales de incorporar una barrera sustantiva nueva. **Conclusión:** si el cuarto requisito excede la ley, el rechazo basado solo en él carece de sustento válido.
+
+---
+
+# Caso 3. Una firma que no corresponde
+
+Una norma atribuye al director nacional la potestad de imponer determinadas sanciones.
+Un jefe de departamento firma una multa en nombre propio.
+No existe constancia de delegación ni de sustitución autorizada.
+La empresa sancionada advierte que la resolución fue firmada por un funcionario inferior.
+El jefe sostiene que su superior estaba de vacaciones y que alguien debía resolver.
+**\*\*Preguntas:\*\*** ¿Qué elemento del acto está comprometido? ¿La ausencia del superior habilita por sí sola al jefe?
+
+---
+
+# Caso 3. Respuesta orientativa
+
+Está comprometida la competencia, requisito esencial del acto. La ausencia temporal del director no transfiere automáticamente su potestad sancionadora. Debe existir un mecanismo de delegación, suplencia o sustitución jurídicamente válido; de lo contrario, corresponde analizar la invalidez del acto.
+
+**Desarrollo sugerido para el examen:**
+
+**Análisis integral del acto:** Competencia: jefe sin atribución acreditada. Causa: comprobar hechos de la infracción. Objeto: multa determinada y jurídicamente posible. Procedimiento: descargo y prueba. Motivación: razones de hecho y derecho. Finalidad: interés público sancionatorio, no persecución. Forma: resolución y firma. **Vicio central:** incompetencia; su gravedad y consecuencias deben examinarse según el régimen aplicable. Vacaciones no equivalen a delegación.
+
+---
+
+# Caso 4. Dos organismos y una misma función
+
+Una ley crea un ente descentralizado con personalidad jurídica y patrimonio propio.
+El ente dicta decisiones dentro de la competencia que le asigna la ley.
+Un ministerio pretende reemplazar directamente una decisión del ente por otra de contenido opuesto.
+El ministro afirma que todos los organismos estatales están subordinados jerárquicamente a él.
+El ente sostiene que existe una diferencia entre jerarquía y tutela administrativa.
+**\*\*Preguntas:\*\*** ¿Qué significa autarquía? ¿Puede presumirse una relación jerárquica idéntica a la de dos oficinas de un mismo ministerio?
+
+---
+
+# Caso 4. Respuesta orientativa
+
+La autarquía supone personalidad jurídica pública y capacidad de administración en el ámbito legalmente atribuido, sin soberanía ni independencia absoluta. La relación con la Administración central es de control o tutela en los términos legales, no necesariamente de jerarquía plena. El ministerio no puede presumir una potestad general de sustitución.
+
+**Desarrollo sugerido para el examen:**
+
+**Para fundamentar:** La descentralización atribuye personalidad y competencias propias al ente. La tutela o control administrativo debe tener base normativa y límites. La jerarquía ordinaria permite dirección y revisión dentro de una misma estructura, pero no se traslada automáticamente al ente autárquico. **Conclusión:** verificar norma de creación y vías de control antes de sustituir decisiones.
+
+---
+
+# Caso 5. Una sanción sin hechos comprobados
+
+Una autoridad impone una multa a una empresa por supuestamente incumplir normas de seguridad.
+La resolución no identifica la inspección ni describe la conducta sancionada.
+Tampoco señala qué pruebas se consideraron ni explica el monto elegido.
+La empresa afirma que nunca recibió un acta de infracción.
+El organismo responde que basta con citar la norma que permite aplicar multas.
+**\*\*Preguntas:\*\*** Identifique los elementos del acto administrativo que deben examinarse. ¿Es suficiente la sola cita de una norma?
+
+---
+
+# Caso 5. Respuesta orientativa
+
+Deben analizarse competencia, causa, objeto, procedimiento, motivación, finalidad y forma (art. 7 de la Ley 19.549, según texto vigente). La ausencia de hechos, prueba y fundamentos puede afectar causa y motivación, además del derecho de defensa. Citar la norma sancionadora no reemplaza explicar su aplicación concreta.
+
+**Desarrollo sugerido para el examen:**
+
+**Examen elemento por elemento (art. 7, Ley 19.549):** Competencia: órgano habilitado para sancionar; causa: hechos y antecedentes efectivamente acreditados; objeto: sanción permitida y proporcionada; procedimiento: defensa, prueba y dictámenes exigibles; motivación: explicación concreta de la infracción y del monto; finalidad: protección de la seguridad, sin desviación de poder; forma: resolución escrita y requisitos legales. **Vicios posibles:** falta de causa, motivación insuficiente y lesión del debido procedimiento. La nulidad depende de la entidad del defecto, no de una etiqueta automática.
+
+---
+
+# Caso 6. Un permiso nunca notificado
+
+Un organismo dicta una resolución que revoca un permiso individual.
+El acto queda firmado y agregado al expediente electrónico.
+Durante dos semanas no se notifica al titular por un medio válido.
+Un inspector exige que el titular deje de ejercer inmediatamente la actividad.
+El interesado sostiene que desconocía por completo la decisión.
+**\*\*Preguntas:\*\*** Distinga validez y eficacia del acto. ¿Qué relevancia tiene la notificación?
+
+---
+
+# Caso 6. Respuesta orientativa
+
+La firma puede perfeccionar el acto, pero la eficacia de un acto individual frente al destinatario exige, como regla, notificación válida. Sin ella, debe cuestionarse la oponibilidad y la ejecución frente al interesado. La presunción de legitimidad no elimina el requisito de notificación.
+
+**Desarrollo sugerido para el examen:**
+
+**Para fundamentar:** Validez y eficacia son planos distintos. La decisión individual puede estar dictada, pero requiere notificación válida para ser oponible al destinatario, como regla. La ejecutoriedad no autoriza ignorar esa exigencia. **Conclusión:** verificar constancias de notificación antes de exigir el cese.
+
+---
+
+# Caso 7. Retiro de mercadería sin acto previo
+
+Inspectores ingresan a un local y retiran mercadería alegando una infracción administrativa.
+No exhiben una resolución ni explican la existencia de una urgencia legalmente prevista.
+El comerciante solicita un acta y la identificación de la autoridad que ordenó el retiro.
+Los inspectores responden que primero ejecutan y después documentan lo realizado.
+El local queda sin mercadería durante varios días.
+**\*\*Preguntas:\*\*** ¿Podría configurarse una vía de hecho? ¿Qué debe comprobarse antes de concluirlo?
+
+---
+
+# Caso 7. Respuesta orientativa
+
+Podría existir una vía de hecho si se ejecutó una conducta material lesiva sin acto o sustento jurídico suficiente. Debe verificarse si existían potestades legales de actuación inmediata, urgencia, documentación y garantías. No toda actuación material es ilegítima, pero tampoco puede presumirse habilitada.
+
+**Desarrollo sugerido para el examen:**
+
+**Para fundamentar:** Una vía de hecho es una actuación material que desborda el marco jurídico. Pregunte por competencia inspectiva, acto habilitante, medidas preventivas autorizadas, urgencia y documentación. **Conclusión:** sin sustento legal ni garantías, el retiro es objetable; si existe potestad cautelar legal, evaluar sus condiciones.
+
+---
+
+# Caso 8. Un expediente que no se resuelve
+
+Una persona solicita el reconocimiento de un beneficio ante un organismo nacional.
+Presenta toda la documentación exigida y obtiene constancia de recepción.
+Transcurre el plazo aplicable sin que se dicte una resolución.
+La persona pregunta si el silencio significa que su solicitud fue aprobada.
+Un empleado le responde que la falta de contestación siempre equivale a aceptación.
+**\*\*Preguntas:\*\*** ¿Es correcta esa afirmación? Explique el régimen del silencio y la importancia del procedimiento aplicable.
+
+---
+
+# Caso 8. Respuesta orientativa
+
+El silencio no equivale siempre a aprobación. Es necesario distinguir los supuestos de silencio negativo y positivo, las exclusiones y los requisitos previstos en el régimen vigente, así como la naturaleza de la solicitud. La demora puede habilitar los remedios administrativos o judiciales pertinentes.
+
+**Desarrollo sugerido para el examen:**
+
+**Para fundamentar:** El silencio no es una aprobación universal. Identifique el tipo de petición, la regla aplicable, sus plazos y excepciones, y si corresponde silencio positivo o negativo. La falta de decisión expresa no libera al organismo de su deber de resolver. **Conclusión:** orientar al interesado hacia los remedios procedimentales pertinentes.
+
+---
+
+# Caso 9. Una licencia otorgada con información falsa
+
+Un organismo concede una autorización mediante una resolución formalmente firmada.
+Tiempo después descubre que el solicitante presentó un certificado esencial falsificado.
+El documento había sido decisivo para obtener la autorización.
+La persona sostiene que el acto ya está firme y que por eso nunca puede revisarse.
+La Administración analiza si corresponde declarar su invalidez y qué procedimiento seguir.
+**\*\*Preguntas:\*\*** ¿Qué vicio podría existir? ¿La firmeza impide siempre revisar un acto ilegítimo?
+
+---
+
+# Caso 9. Respuesta orientativa
+
+La falsificación de un antecedente determinante puede viciar gravemente la causa del acto y conducir a su nulidad absoluta. La firmeza no convalida automáticamente un acto obtenido mediante falsedad. Deben examinarse las reglas vigentes de revocación o declaración de nulidad, el conocimiento del beneficiario, la estabilidad y las garantías procedimentales.
+
+**Desarrollo sugerido para el examen:**
+
+**Examen de elementos y vicios:** Competencia: comprobar autoridad que otorgó la licencia; causa: certificado falsificado como antecedente determinante, por lo que falla el presupuesto fáctico; objeto: autorización aparentemente lícita pero concedida sobre base falsa; procedimiento: verificar controles y derecho de defensa; motivación: revisar fundamentos utilizados; finalidad: autorización conforme al interés público; forma: firma y documentación no curan la falsedad. **Consecuencia:** posible nulidad absoluta por vicio grave en la causa; analizar revocación, estabilidad y conocimiento del beneficiario según normas vigentes.
+
+---
+
+# Caso 10. Revocación de una autorización regular
+
+Una empresa obtiene una autorización válida y comienza a ejercer la actividad permitida.
+Cumple todas las condiciones y realiza inversiones para ponerla en funcionamiento.
+Meses después la autoridad decide revocarla porque cambió su criterio de oportunidad.
+No se invoca incumplimiento de la empresa ni ilegalidad originaria del acto.
+La resolución tampoco analiza los derechos adquiridos ni las consecuencias patrimoniales.
+**\*\*Preguntas:\*\*** ¿Qué límites tiene la revocación de un acto regular? ¿Qué relevancia tiene que haya generado derechos?
+
+---
+
+# Caso 10. Respuesta orientativa
+
+Un acto regular que generó derechos subjetivos tiene protección jurídica especial. La revocación por oportunidad, mérito o conveniencia no es libre ni equivale a la revocación por ilegitimidad. Deben considerarse las condiciones legales de revocación y, cuando corresponda, la indemnización por los perjuicios jurídicamente resarcibles.
+
+**Desarrollo sugerido para el examen:**
+
+**Para fundamentar:** Distinguir invalidez originaria de cambio posterior de conveniencia. La protección del acto regular que reconoció derechos limita su revocación. Examinar base legal, derechos consolidados, procedimiento e indemnización que pudiera corresponder. **Conclusión:** no basta invocar un cambio de criterio.
+
+---
+
+# Caso 11. No le permiten ver el expediente
+
+Una empleada pública es investigada por una presunta falta disciplinaria.
+Antes de presentar su descargo solicita acceso al expediente y a los informes incorporados.
+La oficina rechaza verbalmente la petición sin indicar una reserva legal.
+Luego le concede un plazo breve para defenderse, sin entregarle los antecedentes.
+La empleada manifiesta que desconoce qué hechos concretos se le atribuyen.
+**\*\*Preguntas:\*\*** ¿Qué principios del procedimiento están comprometidos? ¿Por qué es importante la vista del expediente?
+
+---
+
+# Caso 11. Respuesta orientativa
+
+Se afectan el debido proceso adjetivo y el derecho a ser oído, ofrecer prueba y defenderse con conocimiento de los cargos. La vista permite conocer las actuaciones relevantes. La reserva debe tener fundamento jurídico; no basta una negativa verbal arbitraria.
+
+**Desarrollo sugerido para el examen:**
+
+**Para fundamentar:** La defensa exige conocer cargos y antecedentes, ser oído y ofrecer prueba. La vista del expediente permite un descargo eficaz. Una restricción excepcional requiere fundamento legal. **Conclusión:** la negativa inmotivada y el plazo sin acceso comprometen el debido proceso adjetivo.
+
+---
+
+# Caso 12. Un trámite sin respuesta útil
+
+Un proveedor presenta una petición administrativa acompañada de documentación.
+El organismo le pide dos veces el mismo documento que ya consta en el expediente.
+También le exige obtener un informe que puede solicitar internamente a otra dependencia.
+El interesado protesta por la demora y por las cargas innecesarias.
+La autoridad afirma que el impulso del trámite corresponde exclusivamente al particular.
+**\*\*Preguntas:\*\*** ¿Qué principios procedimentales deben considerarse? ¿Quién debe impulsar el procedimiento?
+
+---
+
+# Caso 12. Respuesta orientativa
+
+Rigen el impulso e instrucción de oficio, celeridad, economía, sencillez, eficacia e informalismo a favor del administrado, en los términos legales. La Administración no debe trasladar sin razón al particular trámites internos ni reiterar exigencias innecesarias. Debe examinarse también el deber de colaboración del interesado.
+
+**Desarrollo sugerido para el examen:**
+
+**Para fundamentar:** La Administración debe impulsar e instruir de oficio el procedimiento, con celeridad, economía, sencillez y eficacia. El informalismo favorece al administrado en los términos legales. **Conclusión:** no corresponde duplicar requerimientos ni imponer trámites internos injustificados, aunque el particular deba colaborar.
+
+---
+
+# Caso 13. Compra de computadoras
+
+Un ministerio necesita adquirir cien computadoras para sus oficinas.
+El área solicitante propone contratar directamente a una empresa conocida.
+No explica qué supuesto legal permitiría apartarse del procedimiento competitivo ordinario.
+Otras empresas manifiestan interés en presentar ofertas.
+La autoridad sostiene que contratar al proveedor habitual resulta más cómodo.
+**\*\*Preguntas:\*\*** ¿Qué principios rigen la selección del contratista? ¿La comodidad administrativa justifica por sí sola la contratación directa?
+
+---
+
+# Caso 13. Respuesta orientativa
+
+Rigen concurrencia, competencia, igualdad, publicidad, transparencia, razonabilidad y eficiencia en los términos del régimen de contrataciones. La contratación directa exige encuadre en una causal normativa y fundamentación suficiente. La mera comodidad o habitualidad del proveedor no constituye por sí sola una excepción válida.
+
+**Desarrollo sugerido para el examen:**
+
+**Para fundamentar:** La selección debe preservar concurrencia, igualdad, transparencia, publicidad y razonabilidad. La contratación directa es excepcional o causalmente habilitada y requiere motivación. **Conclusión:** la relación previa con el proveedor no sustituye una causal legal.
+
+---
+
+# Caso 14. Una licitación con condiciones direccionadas
+
+Un organismo convoca una licitación pública para comprar mobiliario.
+El pliego exige una característica técnica que solo posee una marca comercial.
+No se explica por qué esa característica resulta indispensable para el servicio.
+Tres empresas presentan observaciones antes de la apertura de ofertas.
+La comisión responde que la Administración puede establecer cualquier condición.
+**\*\*Preguntas:\*\*** ¿Qué principios podrían verse afectados? ¿Qué importancia tiene justificar las especificaciones técnicas?
+
+---
+
+# Caso 14. Respuesta orientativa
+
+Una especificación injustificadamente exclusiva puede restringir la concurrencia e igualdad de oferentes. El pliego debe expresar necesidades objetivas y condiciones proporcionales. Las observaciones deben tramitarse según el régimen aplicable, y la autoridad debe examinar si corresponde modificar las bases.
+
+**Desarrollo sugerido para el examen:**
+
+**Para fundamentar:** Los pliegos deben traducir necesidades reales y evitar restricciones artificiales. Analice si existen equivalentes funcionales, justificación técnica y tratamiento oportuno de observaciones. **Conclusión:** una exigencia de marca sin razón objetiva puede lesionar igualdad y concurrencia.
+
+---
+
+# Caso 15. Precio o calidad profesional
+
+Un organismo debe contratar un estudio técnico complejo para evaluar un edificio histórico.
+La autoridad decide elegir exclusivamente la propuesta de menor precio.
+Un profesional advierte que las condiciones de selección no consideran antecedentes ni metodología.
+La Administración contesta que toda contratación debe resolverse como una compra común.
+El expediente no contiene una explicación sobre el procedimiento de selección elegido.
+**\*\*Preguntas:\*\*** Distinga licitación y concurso. ¿Qué criterios de selección podrían ser relevantes?
+
+---
+
+# Caso 15. Respuesta orientativa
+
+La licitación se asocia habitualmente a la comparación de ofertas de bienes, obras o prestaciones conforme criterios del pliego; el concurso prioriza capacidades técnicas, científicas, artísticas o profesionales cuando corresponda. No siempre el precio más bajo determina la oferta más conveniente. La elección del procedimiento y los criterios deben justificarse.
+
+**Desarrollo sugerido para el examen:**
+
+**Para fundamentar:** En el concurso cobran especial importancia aptitud, antecedentes y calidad técnica; la licitación suele comparar prestaciones conforme parámetros objetivos. El criterio de oferta más conveniente no se identifica necesariamente con precio mínimo. **Conclusión:** justificar procedimiento y ponderación técnica en el pliego.
+
+---
+
+# Caso 16. Una tarifa de transporte cuestionada
+
+La autoridad aprueba un aumento importante de la tarifa de un servicio público.
+Una asociación de usuarios afirma que el nuevo precio es irrazonable.
+También sostiene que se omitió una instancia participativa exigida por el régimen aplicable.
+La empresa concesionaria defiende el aumento por el incremento de sus costos.
+El conflicto llega a un tribunal y se solicita que el juez establezca directamente una tarifa distinta.
+**\*\*Preguntas:\*\*** ¿Qué aspectos puede controlar el juez? ¿Le corresponde normalmente sustituir a la autoridad y fijar el cuadro tarifario?
+
+---
+
+# Caso 16. Respuesta orientativa
+
+El juez puede controlar competencia, procedimiento, participación exigible, motivación y razonabilidad de la tarifa; el precedente *\*CEPIS\** es relevante respecto de la participación de usuarios en su ámbito. Como regla, el juez no sustituye la función regulatoria fijando por sí mismo un cuadro tarifario general: puede declarar invalidez y ordenar que la autoridad vuelva a decidir conforme a derecho.
+
+**Desarrollo sugerido para el examen:**
+
+**Para fundamentar:** Control judicial: competencia, audiencia o participación exigible, procedimiento, fundamentación y razonabilidad. *CEPIS* permite discutir participación de usuarios en su contexto. Separación de funciones: el juez normalmente no diseña el cuadro tarifario; puede anular y ordenar una nueva decisión válida. **Conclusión:** controlar legalidad no significa reemplazar la discrecionalidad técnica.
+
+---
+
+# Caso 17. Problemas con la concesionaria
+
+Una empresa tiene a su cargo la prestación de un servicio público por concesión.
+Durante varias semanas reduce unilateralmente las frecuencias pactadas.
+Los usuarios denuncian largas esperas y falta de información.
+La concesionaria sostiene que puede modificar libremente el servicio porque es una empresa privada.
+La autoridad concedente evalúa exigir el cumplimiento y aplicar las medidas previstas en el contrato.
+**\*\*Preguntas:\*\*** ¿Qué obligaciones propias del servicio público están involucradas? ¿Qué función conserva el Estado concedente?
+
+---
+
+# Caso 17. Respuesta orientativa
+
+Interesan continuidad, regularidad, igualdad, generalidad y calidad del servicio, según su marco regulatorio. La concesionaria no puede alterar unilateralmente obligaciones esenciales invocando su carácter privado. El Estado conserva funciones de regulación, control y, en su caso, sanción o adopción de medidas contractuales.
+
+**Desarrollo sugerido para el examen:**
+
+**Para fundamentar:** La continuidad, regularidad, igualdad y calidad no desaparecen por la gestión privada. La concesionaria está sujeta a contrato y marco regulatorio. El Estado conserva regulación, fiscalización y potestades correctivas. **Conclusión:** evaluar incumplimiento, intimación y sanciones previstas.
+
+---
+
+# Caso 18. Contrataciones temporarias sucesivas
+
+Una persona trabaja durante diez años para un organismo nacional mediante contratos temporarios renovados.
+Realiza las mismas tareas permanentes que otros empleados del sector.
+Sus superiores le asignan funciones habituales y horarios estables.
+Un día el organismo decide no renovar el último contrato sin mayores explicaciones.
+El trabajador reclama que la utilización prolongada de contratos temporarios fue irregular.
+**\*\*Preguntas:\*\*** ¿Qué problema jurídico se presenta? ¿Qué importancia tiene el precedente *\*Ramos\** y por qué no implica automáticamente estabilidad de planta permanente?
+
+---
+
+# Caso 18. Respuesta orientativa
+
+Se discute el empleo irregular de contrataciones temporarias para cubrir necesidades permanentes. *\*Ramos\** reconoce que determinadas conductas estatales pueden generar una expectativa legítima de continuidad y responsabilidad indemnizatoria, sin conferir automáticamente la estabilidad constitucional propia del personal válidamente incorporado a planta permanente. Debe diferenciarse de *\*Madorrán\**, referido a la protección de la estabilidad del empleado público.
+
+**Desarrollo sugerido para el examen:**
+
+**Para fundamentar:** En *Ramos* se consideró el uso irregular y prolongado de contrataciones para tareas permanentes y la reparación correspondiente, sin convertir automáticamente al contratado en agente estable. En *Madorrán* se examinó la garantía de estabilidad del empleado público. **Conclusión:** distinguir ingreso regular a planta de tutela frente al abuso contractual.
+
+---
+
+# Caso 19. Reconsideración y jerárquico
+
+Una dirección nacional rechaza una solicitud mediante un acto individual debidamente notificado.
+El interesado considera que la resolución interpretó mal los antecedentes del expediente.
+Quiere que la misma autoridad revise lo decidido.
+También pregunta cómo obtener la revisión por el superior competente si se mantiene el rechazo.
+Un empleado le dice que ambos recursos son idénticos y siempre los resuelve el mismo funcionario.
+**\*\*Preguntas:\*\*** Distinga reconsideración y jerárquico. ¿Ante quién se presentan y quién debe resolverlos?
+
+---
+
+# Caso 19. Respuesta orientativa
+
+La reconsideración solicita revisión por el mismo órgano que dictó el acto; el jerárquico busca revisión por el superior competente, de acuerdo con las reglas del Decreto 1759/72 y su texto vigente. No son idénticos y debe atenderse a plazos, procedencia, forma de interposición y eventual articulación subsidiaria.
+
+**Desarrollo sugerido para el examen:**
+
+**Para fundamentar:** Reconsideración: revisión ante el mismo órgano autor. Jerárquico: decisión del superior competente, según la organización y normativa aplicable. Examinar plazos, requisitos y articulación subsidiaria previstos en el Decreto 1759/72 vigente. **Conclusión:** no confundir órgano receptor con órgano resolutor.
+
+---
+
+# Caso 20. Decisión de un ente descentralizado
+
+Un ente autárquico nacional dicta un acto que perjudica a una empresa regulada.
+La empresa quiere solicitar la revisión del acto por la autoridad ministerial competente.
+Un asesor le indica que examine si procede un recurso de alzada.
+Otro sostiene que todo acto de un ente descentralizado se impugna exactamente igual que uno de un ministerio.
+La empresa también quiere saber cuándo se considera agotada la vía administrativa.
+**\*\*Preguntas:\*\*** ¿Qué caracteriza al recurso de alzada? ¿Por qué debe distinguirse del recurso jerárquico y analizarse el agotamiento de la vía?
+\---
+
+---
+
+# Caso 20. Respuesta orientativa
+
+El recurso de alzada es una vía de revisión de actos de entes descentralizados por la autoridad competente de la Administración central, conforme su régimen y las opciones que correspondan. No equivale al jerárquico dentro de una misma línea de subordinación. El agotamiento de la vía depende de la naturaleza del acto, el órgano, los recursos pertinentes y las reglas vigentes; no debe presumirse una respuesta uniforme.
+
+**Desarrollo sugerido para el examen:**
+
+**Para fundamentar:** La alzada permite control por la Administración central sobre determinados actos de entes descentralizados, dentro de los límites del régimen aplicable. El jerárquico presupone una relación jerárquica distinta. **Conclusión:** determinar órgano emisor, norma especial, opción recursiva y reglas de agotamiento antes de acudir a sede judicial.
+
+---
+
+# Cierre del simulacro
+
+Las respuestas son orientativas: se valoran la identificación de los problemas jurídicos, la fundamentación normativa y la aplicación razonada a los hechos.
+
+Consultar los textos vigentes de la Ley 19.549 y el Decreto 1759/72 para plazos y particularidades.

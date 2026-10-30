@@ -1,0 +1,748 @@
+---
+title: "Empleo público"
+subtitle: "Régimen jurídico, estabilidad, contrataciones y jurisprudencia"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    css: styles.css
+    slide-number: true
+    center: false
+    scrollable: true
+    width: 1600
+    height: 900
+slide-level: 1
+lang: es
+---
+# Empleo público
+
+## Ejes de la clase
+
+- ¿Qué caracteriza a la relación de empleo público?
+
+- ¿Qué regímenes jurídicos pueden aplicarse?
+
+- ¿Qué significa la **estabilidad del empleado público**?
+
+- ¿Qué ocurre con el personal contratado?
+
+- ¿Cómo evolucionó la jurisprudencia de la Corte Suprema?
+
+**Base doctrinaria:** Carlos F. Balbín, **Manual de Derecho Administrativo**, capítulo sobre empleo público.
+
+# El agente público y el Estado
+
+Los órganos estatales están integrados por **personas humanas** que actúan en nombre del Estado.
+
+Cuando el agente ejerce sus funciones, su conducta se imputa al Estado conforme a la **teoría del órgano**.
+
+Pero existe otro plano:
+
+- frente a terceros, agente y Estado integran una misma actuación estatal;
+
+- en la relación de empleo, el agente es **sujeto de derechos frente al Estado empleador**.
+
+# Concepto de empleo público
+
+El empleo público comprende las relaciones jurídicas entre el Estado y las personas que prestan servicios para el cumplimiento de funciones estatales.
+
+El elemento relevante no es solamente el nombre dado al vínculo, sino:
+
+- quién presta el servicio;
+
+- para qué sujeto;
+
+- qué tareas realiza;
+
+- bajo qué régimen jurídico;
+
+- con qué grado de permanencia.
+
+# Un sistema plural
+
+No existe un único régimen uniforme para todo el personal estatal.
+
+Conviven **regímenes de derecho público, estatutos especiales, convenios colectivos y relaciones regidas por la LCT**.
+
+Ejemplos:
+
+- Ley 25.164: régimen marco de empleo público nacional.
+
+- Estatutos especiales.
+
+- Convenios colectivos del sector público.
+
+- Personal expresamente sometido a la LCT.
+
+- Contrataciones temporarias y locaciones de servicios.
+
+# ¿Contrato o estatuto?
+
+Históricamente se discutió la naturaleza del vínculo.
+
+### Tesis estatutaria
+
+El vínculo nace de un acto unilateral estatal.
+
+La situación del agente queda regida fundamentalmente por leyes y reglamentos.
+
+### Tesis contractual
+
+El consentimiento del agente es indispensable.
+
+Sin aceptación no existe relación de empleo.
+
+Balbín considera que existe una **relación contractual de derecho público**.
+
+# Marco normativo básico
+
+### Ley 25.164
+
+Ley Marco de Regulación de Empleo Público Nacional.
+
+Regula, entre otros aspectos:
+
+- ingreso;
+
+- naturaleza de la relación;
+
+- derechos y deberes;
+
+- estabilidad;
+
+- régimen disciplinario;
+
+- causales de egreso;
+
+- revisión administrativa y judicial.
+
+Se complementa con el **Decreto 1421/2002**, modificado, entre otros, por el Decreto 695/2024.
+
+# Ámbito de aplicación
+
+La Ley 25.164 comprende, como regla, al personal de la **Administración Pública Nacional centralizada y descentralizada** dentro de su ámbito.
+
+Existen exclusiones y regímenes específicos.
+
+Por eso, ante un problema de empleo estatal, la primera pregunta no es “¿qué dice la Ley 25.164?”, sino:
+
+**¿qué régimen jurídico gobierna concretamente este vínculo?**
+
+# Situaciones de revista
+
+### Planta permanente
+
+Puede adquirir **estabilidad** si reúne los requisitos legales.
+
+### Contratado / transitorio
+
+El vínculo está ligado a una necesidad y duración determinadas.
+
+Como regla, carece de estabilidad propia.
+
+### Gabinete
+
+Vínculo ligado especialmente a funciones de confianza y asistencia política.
+
+# Ingreso: idoneidad y selección
+
+La Constitución exige **idoneidad** para el acceso a los empleos públicos.
+
+El régimen reglamentario actual refuerza:
+
+- sistemas de selección;
+
+- igualdad de oportunidades;
+
+- transparencia;
+
+- publicidad;
+
+- evaluación de conocimientos y competencias.
+
+La designación en un cargo de carrera **sin el procedimiento de selección exigible no genera por sí sola estabilidad**.
+
+# Derechos del agente público
+
+Entre otros:
+
+- estabilidad, cuando corresponda;
+
+- retribución;
+
+- igualdad de oportunidades;
+
+- carrera;
+
+- capacitación;
+
+- licencias;
+
+- derechos sindicales;
+
+- participación y defensa en procedimientos disciplinarios.
+
+El derecho emblemático del empleo público es la **estabilidad** del art. 14 bis de la Constitución Nacional.
+
+# Estabilidad propia e impropia
+
+### Estabilidad propia
+
+Característica constitucional del empleo público estable.
+
+No basta pagar una indemnización para despedir sin causa al agente protegido.
+
+### Estabilidad impropia
+
+Modelo típico del empleo privado.
+
+El empleador puede extinguir sin causa, sujeto al régimen indemnizatorio correspondiente.
+
+# ¿Qué protege la estabilidad?
+
+La estabilidad protege fundamentalmente:
+
+- el **empleo o cargo**;
+
+- el nivel y grado alcanzados;
+
+- los derechos inherentes a la situación de revista.
+
+No implica, como regla, estabilidad absoluta en una **función ejecutiva o de conducción determinada**.
+
+El Estado conserva potestades de organización y movilidad dentro de los límites legales.
+
+# ¿Cuándo se adquiere?
+
+Según el régimen expuesto por Balbín y la reglamentación vigente, deben reunirse las condiciones legales de ingreso y consolidación.
+
+Entre ellas:
+
+- procedimiento de selección correspondiente;
+
+- período de prueba;
+
+- evaluaciones;
+
+- aptitud psicofísica;
+
+- ratificación expresa o configuración del supuesto reglamentario pertinente.
+
+**Designación ≠ estabilidad automática.**
+
+# Schnaiderman: los hechos
+
+### CSJN — “Schnaiderman” — Fallos 331:735 (2008)
+
+El agente había sido designado por concurso en un cargo del SINAPA.
+
+Durante el período de prueba, la Administración **canceló su designación**.
+
+Los tribunales inferiores entendieron que, por no haber adquirido estabilidad, la Administración podía cancelar el nombramiento sin expresar motivos suficientes.
+
+# Schnaiderman: la cuestión
+
+La pregunta no era solamente:
+
+**¿tenía ya estabilidad?**
+
+La pregunta más profunda era:
+
+> ¿Puede la Administración ejercer una potestad discrecional de cancelación sin respetar los requisitos de validez del acto administrativo?
+
+**Discrecionalidad no equivale a arbitrariedad.**
+
+# Schnaiderman: decisión
+
+La Corte, remitiendo al dictamen de la Procuración, sostuvo que el ejercicio de facultades discrecionales **no exime** a la Administración de cumplir los requisitos de la LNPA.
+
+La decisión debe respetar:
+
+- causa;
+
+- motivación;
+
+- finalidad;
+
+- razonabilidad;
+
+- restantes requisitos de validez del acto.
+
+CSJN — referencia oficial de “Schnaiderman” y doctrina sobre motivación
+
+<https://www.argentina.gob.ar/node/248764>
+
+# Madorrán: el caso paradigmático
+
+### CSJN — “Madorrán, Marta Cristina c/ ANA” — Fallos 330:1989 (2007)
+
+Madorrán era personal permanente de la Administración Nacional de Aduanas.
+
+El convenio colectivo aplicable permitía extinguir la relación **sin invocación de causa**, mediante el pago de una indemnización semejante a la del empleo privado.
+
+La trabajadora fue despedida y reclamó su reincorporación.
+
+# Madorrán: problema constitucional
+
+El conflicto era directo:
+
+¿Puede un convenio colectivo transformar la **estabilidad propia** garantizada por el art. 14 bis en una mera **estabilidad impropia indemnizable**?
+
+La Cámara declaró nulo el despido e inconstitucional la cláusula convencional.
+
+El caso llegó a la Corte.
+
+# Madorrán: decisión
+
+La Corte confirmó la tutela de la estabilidad propia.
+
+La agente permanente no podía ser válidamente separada **sin causa justificada y razonable** mediante el simple pago de una indemnización.
+
+La consecuencia fue la **reincorporación**.
+
+**Estabilidad propia:** frente al despido incausado del agente estable, la indemnización no sustituye automáticamente el derecho a conservar el empleo.
+
+CSJN — “Madorrán”, Fallos 330:1989
+
+<https://sjconsulta.csjn.gov.ar/sjconsulta/impresiones/analisisDocumental.html?idAnalisisDocumental=625939>
+
+# Madorrán: alcance
+
+El fallo debe leerse con cuidado.
+
+“Madorrán” se refiere a una agente de **planta permanente protegida por estabilidad**.
+
+No resolvió que toda persona que preste servicios al Estado tenga derecho a reincorporación.
+
+Esto será decisivo al estudiar el problema de los **contratados**.
+
+# Reestructuración y disponibilidad
+
+La estabilidad no impide toda reorganización estatal.
+
+La Ley 25.164 contempla supuestos vinculados con:
+
+- reestructuración;
+
+- supresión de órganos, organismos o funciones;
+
+- reducción de personal por exceso respecto de la dotación óptima necesaria, según el régimen vigente.
+
+El agente puede quedar en **situación de disponibilidad** y, cumplido el régimen legal, producirse la desvinculación con indemnización.
+
+# Reforma de la Ley de Bases
+
+La Ley 27.742 modificó aspectos relevantes del régimen de empleo público.
+
+Entre ellos, Balbín destaca la incorporación del supuesto de reducción por encontrarse excedida la **dotación óptima necesaria** y cambios en el régimen de disponibilidad.
+
+El Decreto 695/2024 reglamentó distintos aspectos de la reforma.
+
+Decreto 1421/2002 — texto actualizado
+
+<https://www.argentina.gob.ar/normativa/nacional/76700/actualizacion>
+
+# Disciplina y derecho de defensa
+
+El régimen disciplinario debe respetar:
+
+- debido proceso;
+
+- derecho de defensa;
+
+- tipicidad de las faltas;
+
+- proporcionalidad;
+
+- prohibición de doble sanción por el mismo hecho;
+
+- reglas de prescripción;
+
+- procedimiento correspondiente.
+
+Sanciones principales:
+
+**apercibimiento — suspensión — cesantía — exoneración.**
+
+# Revisión de sanciones
+
+Para el personal amparado por estabilidad, el régimen contempla mecanismos de revisión administrativa y judicial de las sanciones.
+
+Balbín destaca la posibilidad, en los supuestos previstos por la Ley 25.164, de optar entre:
+
+- vía administrativa común y posterior revisión judicial;
+
+- acceso directo a la Cámara Nacional de Apelaciones en lo Contencioso Administrativo Federal.
+
+# El gran problema: los contratados
+
+En la práctica, una parte significativa del personal estatal ha prestado servicios mediante:
+
+- contratos temporarios;
+
+- locaciones de servicios;
+
+- plantas transitorias;
+
+- pasantías;
+
+- renovaciones sucesivas.
+
+El conflicto aparece cuando una figura diseñada como **excepcional o transitoria** se utiliza durante años para cubrir **necesidades permanentes**.
+
+# Regla clásica: Jasso y Gil
+
+### “Jasso” (1987) y “Gil” (1989)
+
+La jurisprudencia tradicional sostuvo que el mero transcurso del tiempo **no transforma automáticamente** a un agente transitorio o contratado en personal permanente.
+
+La situación de revista no cambia por la sola sucesión de contratos si no existe el acto jurídico exigido para el ingreso a la planta estable.
+
+**Regla:** tiempo de servicio ≠ incorporación automática a planta permanente.
+
+# El giro: Ramos
+
+### CSJN — “Ramos, José Luis c/ Estado Nacional” (2010)
+
+Ramos trabajó para la Armada Argentina durante aproximadamente **21 años**, mediante contratos sucesivos.
+
+El régimen utilizado autorizaba contrataciones temporarias y establecía un **límite máximo de cinco años**.
+
+La Administración excedió ampliamente ese límite.
+
+CSJN — fallo “Ramos” completo
+
+<https://www.csjn.gov.ar/archivo-cij/adj/pdfs/ADJ-0.517994001270579523.pdf>
+
+# Ramos: datos decisivos
+
+La Corte no se limitó a contar años.
+
+Consideró, entre otros elementos:
+
+- contratación durante 21 años;
+
+- superación del límite normativo;
+
+- tareas carentes de verdadera transitoriedad;
+
+- evaluaciones periódicas;
+
+- reconocimiento de antigüedad;
+
+- beneficios propios de una relación continuada.
+
+Lo relevante fue el **uso desviado de una figura temporal**, no el mero paso del tiempo.
+
+# Ramos: desviación de poder
+
+La Corte entendió que el Estado había utilizado figuras jurídicas previstas para situaciones excepcionales con el objeto de **encubrir una relación permanente**.
+
+Esa conducta configuró una **desviación de poder** y pudo generar en el trabajador una legítima expectativa de permanencia.
+
+Pero la consecuencia jurídica requiere una precisión fundamental.
+
+# Ramos: ¿reincorporación?
+
+**No.**
+
+La Corte no convirtió a Ramos en agente de planta permanente.
+
+Reconocer automáticamente estabilidad hubiera eludido:
+
+- los procedimientos legales de ingreso;
+
+- el régimen de carrera;
+
+- las exigencias presupuestarias.
+
+La respuesta fue **indemnizatoria**, dentro del derecho público.
+
+# Madorrán vs. Ramos
+
+**Madorrán**
+
+- Planta permanente.
+- Estabilidad adquirida.
+- Despido incausado.
+- Tutela: reincorporación.
+
+**Ramos**
+
+- Contratación sucesiva.
+- Sin estabilidad propia.
+- Uso desviado de contratación temporal.
+- Tutela: indemnización.
+
+**Idea central:** no deben confundirse estabilidad y protección frente al uso desviado de contrataciones.
+
+# Sánchez: el contrapunto
+
+### CSJN — “Sánchez, Carlos Próspero c/ AGN” (2010)
+
+El trabajador había sido contratado sucesivamente durante aproximadamente ocho años por la Auditoría General de la Nación.
+
+La Cámara reconoció una indemnización.
+
+La Corte revocó esa solución.
+
+¿Por qué, si acababa de decidir “Ramos”?
+
+# Sánchez: la diferencia con Ramos
+
+La Corte observó que el régimen específico de la AGN **autorizaba expresamente** ese tipo de contratación.
+
+El hecho de realizar tareas propias de la actividad habitual del organismo **no bastaba por sí solo** para acreditar desviación de poder.
+
+No se demostró que la figura contractual hubiera sido utilizada fuera de los límites normativos como ocurrió en “Ramos”.
+
+# Ramos y Sánchez: test práctico
+
+Ante una cadena de contratos, no preguntar solamente:
+
+**“¿Cuántos años trabajó?”**
+
+Preguntar:
+
+1. ¿Qué norma autorizaba la contratación?
+
+2. ¿Para qué tareas?
+
+3. ¿Existía límite temporal?
+
+4. ¿Fue respetado?
+
+5. ¿Las tareas eran realmente transitorias?
+
+6. ¿Hay indicios de utilización desviada de la figura?
+
+**La duración es un indicio; no es el único criterio.**
+
+# Cerigliano: expansión de Ramos
+
+### CSJN — “Cerigliano” (2011)
+
+El trabajador prestó servicios durante años para el Gobierno de la Ciudad de Buenos Aires mediante sucesivos contratos de locación.
+
+La Corte sostuvo que la naturaleza jurídica de una relación debe determinarse por sus **elementos reales**, no simplemente por el nombre utilizado.
+
+El criterio de “Ramos” no quedó limitado a la Administración Pública Nacional.
+
+# Cerigliano: regla
+
+Una contratación formalmente temporal puede ser jurídicamente cuestionable cuando se utiliza para **encubrir una vinculación materialmente permanente**.
+
+La Corte extendió la protección a vínculos equivalentes en otras jurisdicciones estatales.
+
+La reparación debía buscarse, según el caso, en el ámbito del **derecho público y administrativo**.
+
+# González Dego: las pasantías
+
+### CSJN — “González Dego” (2011)
+
+El trabajador se desempeñó durante casi siete años como **pasante**, realizando de modo ininterrumpido tareas propias del personal permanente.
+
+La Cámara entendió que la pasantía había sido utilizada de modo impropio para evitar la incorporación y la protección frente al despido arbitrario.
+
+La Corte consideró aplicables sustancialmente los parámetros de **“Ramos”**.
+
+# Un mapa de la jurisprudencia
+
+**Soñez**  
+
+estabilidad sujeta a requisitos legales
+
+**↓**
+
+**Madorrán**  
+
+estabilidad propia del agente permanente
+
+**↓**
+
+**Schnaiderman / Micheli**  
+
+aun sin estabilidad, la discrecionalidad debe ser legal y razonable
+
+**↓**
+
+**Ramos**  
+
+contratación temporal desviada → indemnización
+
+**↓**
+
+**Sánchez**  
+
+la sucesión de contratos no basta por sí sola
+
+**↓**
+
+**Cerigliano / González Dego**  
+
+extensión de la doctrina frente a figuras utilizadas para encubrir permanencia
+
+# Caso práctico 1
+
+Ana ingresó por concurso a planta permanente, adquirió estabilidad y cinco años después la Administración decide despedirla **sin invocar causa**, pagándole una indemnización equivalente a la LCT.
+
+### Preguntas
+
+1. ¿Puede sustituirse la estabilidad por dinero?
+
+2. ¿Qué precedente es central?
+
+3. ¿Cuál sería, en principio, la tutela adecuada?
+
+**Clave:** “Madorrán”.
+
+# Caso práctico 2
+
+Bruno es designado en planta permanente, pero todavía se encuentra dentro del período de prueba.
+
+La autoridad cancela su designación mediante una resolución que solo dice:
+
+> “por razones de servicio”.
+
+¿La falta de estabilidad permite prescindir de causa y motivación?
+
+**Clave:** “Schnaiderman” y “Micheli”.
+
+# Caso práctico 3
+
+Carla es contratada por un año para un proyecto excepcional.
+
+El régimen permite contrataciones por un máximo de tres años.
+
+El Estado renueva el vínculo durante quince años y Carla desarrolla siempre tareas estructurales ordinarias.
+
+¿Se convierte automáticamente en planta permanente?
+
+¿Existe un posible uso desviado de la contratación?
+
+**Clave:** “Ramos”.
+
+# Caso práctico 4
+
+Diego es contratado sucesivamente durante ocho años por un organismo cuya normativa específica **autoriza expresamente** esa modalidad para las tareas que desempeña.
+
+No demuestra violación de límites temporales ni otra irregularidad normativa.
+
+¿La duración y el carácter habitual de las tareas bastan para aplicar “Ramos”?
+
+**Clave:** “Sánchez”.
+
+# Estabilidad: síntesis
+
+### Planta permanente estable
+
+**Regla:** estabilidad propia.
+
+No cabe el despido incausado sustituido simplemente por indemnización.
+
+### Personal sin estabilidad
+
+La Administración conserva mayores potestades de extinción.
+
+Pero debe respetar **legalidad, razonabilidad, motivación, finalidad y prohibición de discriminación**.
+
+# Contratados: síntesis
+
+El sistema evita dos simplificaciones opuestas.
+
+**Error 1:** “Trabajó muchos años → automáticamente es empleado permanente.”
+
+**Error 2:** “Firmó contratos temporarios → el Estado puede renovarlos indefinidamente sin consecuencias.”
+
+La jurisprudencia analiza la **realidad del vínculo y el respeto de los límites jurídicos de la figura utilizada**.
+
+# Libertad sindical: ATE
+
+### CSJN — “ATE” (2008)
+
+La Corte examinó restricciones vinculadas con la representación sindical y destacó el principio de **libertad sindical**.
+
+El art. 14 bis exige un marco que permita el desarrollo de la actividad sindical y el pluralismo compatible con el Convenio 87 de la OIT.
+
+El empleo público comprende también una dimensión **colectiva**.
+
+# Cómo resolver un caso de empleo público
+
+**1. Identificar al empleador estatal**
+
+**↓**
+
+**2. Determinar el régimen jurídico aplicable**
+
+**↓**
+
+**3. Identificar la situación de revista**
+
+**↓**
+
+**4. Preguntar si existe estabilidad adquirida**
+
+**↓**
+
+**5. Examinar la causa de la desvinculación**
+
+**↓**
+
+**6. Controlar legalidad, procedimiento, motivación y razonabilidad**
+
+**↓**
+
+**7. Recién entonces determinar la tutela**
+
+# Cuadro final de precedentes
+
+- **Soñez:** estabilidad sujeta a requisitos legales.
+- **Madorrán:** estabilidad propia y reincorporación.
+- **Schnaiderman:** discrecionalidad sometida a juridicidad.
+- **Micheli:** legalidad, razonabilidad y no discriminación.
+- **Ramos:** contratación desviada e indemnización.
+- **Sánchez:** la duración no basta por sí sola.
+- **Cerigliano:** importa la realidad del vínculo.
+- **González Dego:** aplicación de la doctrina de Ramos a una pasantía prolongada.
+
+# Fuentes normativas y jurisprudenciales
+
+### Normativa
+
+- Ley 25.164 — Marco de Regulación del Empleo Público Nacional
+
+<https://www.argentina.gob.ar/normativa/nacional/60458>
+
+- Decreto 1421/2002 — texto actualizado
+
+<https://www.argentina.gob.ar/normativa/nacional/76700/actualizacion>
+
+- Decreto 695/2024 — reglamentación de la Ley 27.742
+
+<https://www.argentina.gob.ar/normativa/nacional/norma-402383/texto>
+
+### Jurisprudencia
+
+- CSJN — Madorrán, Fallos 330:1989
+
+<https://sjconsulta.csjn.gov.ar/sjconsulta/impresiones/analisisDocumental.html?idAnalisisDocumental=625939>
+
+- CSJN — Ramos, 6/4/2010
+
+<https://www.csjn.gov.ar/archivo-cij/adj/pdfs/ADJ-0.517994001270579523.pdf>
+
+- Schnaiderman — referencia oficial ECAE/CSJN
+
+<https://www.argentina.gob.ar/node/248764>
+
+# Cierre
+
+El régimen de empleo público intenta conciliar dos exigencias:
+
+**la capacidad del Estado para organizar y gestionar su Administración**
+
+y
+
+**la protección constitucional y legal de las personas que trabajan para él**.
+
+La jurisprudencia muestra que ni la **estabilidad** ni la **discrecionalidad estatal** pueden analizarse de manera absoluta.

@@ -1,0 +1,1461 @@
+---
+title: "Contratos administrativos"
+subtitle: "Teoría general, selección, ejecución y extinción"
+author: "Material de clase | Derecho Administrativo"
+format:
+  revealjs:
+    theme: default
+    scrollable: true
+    slide-number: true
+    transition: none
+    incremental: false
+    center: false
+    width: 1280
+    height: 720
+    margin: 0.08
+    css: estilos.css
+execute:
+  echo: false
+---
+
+## Punto de partida
+
+**Problema:** ¿qué cambia cuando una de las partes del contrato es el Estado?
+
+- El contrato conserva su estructura consensual, pero se integra en un régimen de derecho público.
+- La Administración debe perseguir finalidades públicas y respetar la legalidad.
+- No toda contratación estatal se rige por idénticas reglas.
+
+*Base: Balbín, cap. XVII, pp. 332–337.*
+
+## Concepto de contrato administrativo
+
+- Acuerdo de voluntades que genera obligaciones jurídicas.
+- Participación de un sujeto estatal, actuando en ejercicio de función administrativa.
+- Régimen jurídico público, con prerrogativas y garantías específicas.
+
+**Discusión doctrinaria:** ¿lo define el sujeto, el objeto o el régimen aplicable?
+
+## Tres criterios de identificación
+
+| Criterio | Pregunta | Límite |
+|---|---|---|
+| Subjetivo | ¿Contrata el Estado? | No todo contrato estatal es igual |
+| Objetivo | ¿Se persigue un fin público? | El fin público puede estar presente en diversas relaciones |
+| Régimen | ¿Rige derecho público especial? | Requiere identificar normas aplicables |
+
+## El contrato administrativo y el derecho privado
+
+- Derecho público: competencia, procedimiento, selección, prerrogativas, control.
+- Derecho privado: aplicación supletoria compatible, según el caso.
+- El Código Civil y Comercial no desplaza las reglas especiales de contratación pública.
+
+**Ejemplo:** compra estatal de equipamiento informático.
+
+## Cláusulas exorbitantes
+
+- Prerrogativas que alteran la igualdad contractual clásica.
+- Pueden surgir expresamente de la ley o del régimen contractual aplicable.
+- No son poderes ilimitados: legalidad, razonabilidad y control judicial.
+
+*Balbín examina críticamente su fundamento y alcance (pp. 334–336).*
+
+## ¿Qué prerrogativas aparecen?
+
+- Interpretación del contrato y resolución de dudas.
+- Dirección, inspección y control de la ejecución.
+- Modificación por interés público dentro de límites normativos.
+- Penalidades y sanciones contractuales.
+- Extinción unilateral en supuestos habilitados.
+
+**Referencia:** Decreto 1023/2001, art. 12.
+
+
+## ¿Todos los contratos del Estado son administrativos?
+
+**La distinción doctrinaria de Balbín**
+
+El Estado puede celebrar contratos sometidos a distintos regímenes jurídicos.
+
+- **Contratos administrativos:** predominan las normas de derecho público y las prerrogativas estatales reconocidas por el ordenamiento.
+- **Contratos privados del Estado:** relaciones contractuales en las que el derecho privado tiene mayor protagonismo, sin excluir necesariamente las normas públicas aplicables.
+
+**Ejemplo 1:** un ministerio contrata la provisión de computadoras mediante licitación pública.
+
+**Ejemplo 2:** una sociedad estatal celebra un contrato comercial sometido a su régimen específico.
+
+::: {.callout-note}
+**Idea central:** no basta con identificar quién contrata. También debemos determinar el objeto contractual y el régimen jurídico aplicable.
+:::
+
+---
+
+## ¿Qué contratos comprende el Decreto 1023/2001?
+
+**Artículo 4 — Contratos comprendidos**
+
+El régimen comprende, según sus disposiciones:
+
+- **Inciso a):** compraventa, suministros, servicios, locaciones, consultoría, alquileres con opción de compra, permutas y otros contratos expresamente contemplados.
+- **Inciso b):** obras públicas, concesiones de obras públicas, concesiones de servicios públicos y licencias.
+
+**Artículo 5 — Contratos excluidos**
+
+Entre las exclusiones expresas se encuentran:
+
+- Los contratos de empleo público.
+- Las compras por caja chica.
+- Los contratos celebrados con Estados extranjeros, entidades de derecho público internacional o instituciones multilaterales de crédito, bajo las condiciones previstas por la norma.
+- Los contratos comprendidos en operaciones de crédito público.
+
+**Importante:** el Decreto 1030/2016 reglamenta principalmente las contrataciones del artículo 4, inciso a), del Decreto 1023/2001, con las exclusiones correspondientes.
+
+[Decreto 1023/2001 — Texto normativo](https://www.argentina.gob.ar/normativa/nacional/decreto-1023-2001-68396)
+
+---
+
+## Contratos administrativos y contratos privados: ¿por qué importa la distinción?
+
+**Caso práctico**
+
+Una empresa con participación estatal celebra un contrato para adquirir 200 computadoras. Un ministerio nacional realiza una compra equivalente.
+
+¿Deben utilizar necesariamente el mismo procedimiento?
+
+**No.** Debemos examinar:
+
+1. **El sujeto contratante:** ¿integra la Administración Nacional o está sometido a un régimen especial?
+2. **El objeto:** ¿se trata de una contratación comprendida en el artículo 4 del Decreto 1023/2001?
+3. **El régimen aplicable:** ¿corresponde aplicar el Decreto 1030/2016 o una normativa específica?
+
+**Respaldo normativo**
+
+- **Art. 2, Decreto 1023/2001:** delimita el ámbito de aplicación del régimen.
+- **Arts. 4 y 5, Decreto 1023/2001:** establecen los contratos comprendidos y excluidos.
+- **Art. 1, Decreto 1030/2016:** determina el ámbito de aplicación de su reglamentación.
+
+::: {.callout-tip}
+**Conclusión:** la naturaleza administrativa o privada de un contrato y la aplicación del régimen general de contrataciones son problemas relacionados, pero diferentes.
+:::
+
+[Decreto 1030/2016 — Texto normativo](https://www.argentina.gob.ar/normativa/nacional/decreto-1030-2016-265506)
+
+
+## Contratos privados del Estado: ¿existen?
+
+**Dos posiciones doctrinarias**
+
+**1. Posición que admite la distinción**
+
+- Contratos administrativos: régimen predominantemente público.
+- Contratos privados del Estado: régimen predominantemente privado.
+- La distinción repercute en las potestades estatales y en los derechos del contratista.
+
+**2. Posición de Balbín**
+
+- Todo contrato celebrado por el Estado es administrativo.
+- Puede incorporar reglas de derecho privado.
+- La aplicación del derecho privado no transforma necesariamente su naturaleza jurídica.
+
+**Conclusión:** Balbín propone un régimen público con distintos grados de participación del derecho privado.
+
+---
+
+## Ejemplo: contrato de una sociedad estatal
+
+**Supuesto hipotético**
+
+Una sociedad estatal contrata con una empresa privada el mantenimiento de sus oficinas, bajo un régimen contractual de derecho privado.
+
+El contrato establece que cualquiera de las partes puede rescindirlo con un preaviso de 60 días.
+
+**¿Qué consecuencias tiene?**
+
+- La sociedad estatal debe respetar las reglas contractuales aplicables.
+- No puede presumirse que tenga todas las prerrogativas del Decreto 1023/2001.
+- Las modificaciones unilaterales requieren una habilitación jurídica.
+- Subsisten los principios y controles públicos que correspondan a esa entidad.
+
+**Advertencia:** el régimen concreto depende de la naturaleza de la sociedad estatal y de su normativa especial.
+
+---
+
+## ¿Qué diferencia práctica existe?
+
+| Cuestión | Régimen administrativo general | Régimen predominantemente privado |
+|---|---|---|
+| Modificación | Prerrogativa estatal dentro de límites legales | En principio, acuerdo o habilitación específica |
+| Interpretación | Potestad administrativa prevista legalmente | Reglas contractuales y derecho privado aplicable |
+| Extinción | Causales y potestades de derecho público | Causales contractuales y legales aplicables |
+| Controles | Controles públicos | Subsisten los controles públicos pertinentes |
+
+**Respaldo normativo**
+
+- **Art. 1, Decreto 1023/2001:** presunción de naturaleza administrativa y excepción.
+- **Art. 12, Decreto 1023/2001:** prerrogativas de la Administración en su ámbito de aplicación.
+- **Art. 2, Decreto 1023/2001:** delimitación de los sujetos comprendidos.
+
+**Conclusión de Balbín:** lo decisivo no es crear dos categorías absolutamente separadas, sino identificar qué normas públicas y privadas gobiernan cada contrato.
+
+
+## Mapa de fuentes
+
+1. Constitución Nacional y principios de actuación administrativa.
+2. Decreto Delegado **1023/2001**: régimen general de contrataciones de la Administración Nacional.
+3. Decreto **1030/2016**: reglamentación del régimen para los contratos comprendidos.
+4. Pliegos, normas complementarias y reglas específicas del contrato.
+5. Regímenes especiales: obras públicas, concesiones, participación público-privada, entre otros.
+
+## Ámbito de aplicación: precaución esencial
+
+- El Decreto 1023/2001 **no regula indistintamente toda contratación estatal**.
+- El art. 4 identifica contratos comprendidos; el art. 5 establece exclusiones.
+- El Decreto 1030/2016 desarrolla el régimen de contrataciones bajo su alcance propio.
+
+**Caso:** antes de aplicar un artículo, determinar jurisdicción, objeto y régimen.
+
+## Principios rectores I
+
+- Razonabilidad y eficiencia del proyecto y de la contratación.
+- Promoción de la concurrencia de interesados y de la competencia.
+- Transparencia en los procedimientos.
+
+**Decreto 1023/2001, art. 3.**
+
+## Principios rectores II
+
+- Publicidad y difusión de las actuaciones.
+- Responsabilidad de los agentes y funcionarios.
+- Igualdad de trato de interesados y oferentes.
+
+**Pregunta:** ¿puede la Administración alterar requisitos después de recibir ofertas?
+
+
+## Principio de razonabilidad y eficiencia
+
+**Decreto 1023/2001 — Art. 3, inciso a)**
+
+**¿Qué significa?**
+
+La contratación debe responder a una necesidad pública real y utilizar racionalmente los recursos estatales.
+
+- **Razonabilidad:** debe existir proporcionalidad entre la necesidad pública, el objeto contratado y las condiciones exigidas.
+- **Eficiencia:** obtener resultados adecuados utilizando correctamente los recursos disponibles.
+- No necesariamente debe contratarse la oferta de menor precio: deben considerarse la calidad, la idoneidad y las condiciones de contratación.
+
+**Ejemplo práctico**
+
+Un hospital necesita adquirir 20 equipos médicos. Una oferta cuesta $80 millones y otra $90 millones, pero la segunda incluye mantenimiento y garantía por cinco años.
+
+**¿Debe adjudicarse necesariamente la oferta más barata?**
+
+**No.** La Administración debe evaluar cuál resulta más conveniente conforme a los criterios del pliego.
+
+---
+
+## Principio de concurrencia y competencia
+
+**Decreto 1023/2001 — Art. 3, inciso b)**
+
+**¿Qué significa?**
+
+La Administración debe favorecer la participación del mayor número posible de interesados en condiciones competitivas.
+
+- Evitar requisitos arbitrarios que restrinjan la participación.
+- Establecer condiciones de capacidad y solvencia relacionadas con el objeto contractual.
+- Impedir restricciones injustificadas que favorezcan a determinados proveedores.
+
+**Ejemplo práctico**
+
+Un ministerio licita la compra de 200 computadoras.
+
+El pliego exige que los oferentes tengan oficinas comerciales a menos de 500 metros del ministerio.
+
+**¿Es válida esta exigencia?**
+
+En principio, **no**, si carece de justificación objetiva relacionada con la ejecución del contrato.
+
+El requisito restringe injustificadamente la concurrencia y puede afectar la competencia.
+
+---
+
+## Principio de transparencia
+
+**Decreto 1023/2001 — Art. 3, inciso c)**
+
+**¿Qué significa?**
+
+La actuación administrativa debe permitir conocer y controlar cómo se adoptan las decisiones de contratación.
+
+- Los criterios de selección deben ser objetivos y conocidos.
+- Las decisiones deben estar debidamente fundamentadas.
+- Debe existir trazabilidad de las actuaciones.
+- Los interesados deben poder ejercer los mecanismos de control e impugnación previstos legalmente.
+
+**Ejemplo práctico**
+
+En una licitación se presentan cinco empresas.
+
+La Administración adjudica el contrato a una de ellas sin explicar por qué su propuesta resulta más conveniente.
+
+**¿Qué principio se encuentra comprometido?**
+
+La transparencia, porque no es posible conocer adecuadamente los fundamentos de la adjudicación.
+
+También puede afectarse el deber de motivación del acto administrativo.
+
+---
+
+## Principio de publicidad y difusión
+
+**Decreto 1023/2001 — Art. 3, inciso d)**
+
+**¿Qué significa?**
+
+Las contrataciones deben contar con mecanismos de publicidad que permitan conocer las convocatorias y las actuaciones correspondientes.
+
+- Difusión de los llamados a contratación.
+- Acceso a los pliegos y condiciones.
+- Publicidad de las decisiones en las etapas legalmente previstas.
+- Utilización de los medios y sistemas oficiales de contratación.
+
+**Diferencia importante**
+
+**Publicidad:** permite que los interesados conozcan la existencia y condiciones del procedimiento.
+
+**Transparencia:** permite comprender y controlar cómo se desarrolla y decide la contratación.
+
+**Ejemplo práctico**
+
+Un organismo publica una licitación, pero establece un plazo de presentación de ofertas injustificadamente breve.
+
+Aunque haya existido publicidad formal, podría afectarse la concurrencia efectiva.
+
+---
+
+## Principio de responsabilidad de los funcionarios
+
+**Decreto 1023/2001 — Art. 3, inciso e)**
+
+**¿Qué significa?**
+
+Los agentes y funcionarios que intervienen en la contratación deben responder por sus actuaciones conforme al régimen jurídico aplicable.
+
+- Deben actuar dentro de sus competencias.
+- Deben respetar los procedimientos y las condiciones legales.
+- Deben fundamentar las decisiones que corresponda motivar.
+- Pueden incurrir en responsabilidad administrativa, patrimonial o penal, según el caso.
+
+**Ejemplo práctico**
+
+Un funcionario modifica deliberadamente las especificaciones técnicas de una licitación para favorecer a una empresa determinada.
+
+**¿Qué consecuencias pueden producirse?**
+
+- Cuestionamiento de la legalidad del procedimiento.
+- Eventual invalidez de los actos afectados.
+- Responsabilidad del funcionario, según los hechos acreditados y las normas aplicables.
+
+**Importante:** la responsabilidad no es automática; requiere verificar sus presupuestos jurídicos.
+
+---
+
+## Principio de igualdad de trato
+
+**Decreto 1023/2001 — Art. 3, inciso f)**
+
+**¿Qué significa?**
+
+Los interesados y oferentes deben recibir un tratamiento igualitario durante el procedimiento de selección.
+
+- Aplicación uniforme de los requisitos del pliego.
+- Prohibición de preferencias arbitrarias.
+- Evaluación de las ofertas conforme a criterios previamente establecidos.
+- Igualdad de oportunidades para competir.
+
+**Ejemplo práctico**
+
+Tres empresas presentan ofertas para una contratación pública.
+
+Una de ellas omite un requisito esencial y la Administración le permite modificar sustancialmente su propuesta después de la apertura, sin brindar igual posibilidad a las restantes.
+
+**¿Puede hacerlo?**
+
+**En principio, no.** La Administración no puede permitir modificaciones sustanciales que alteren la igualdad entre los oferentes.
+
+Debe distinguirse este supuesto de la subsanación de defectos formales admitida por la normativa.
+
+**Respaldo:** Decreto 1023/2001, art. 3, inc. f; Decreto 1030/2016, régimen de subsanación de ofertas.
+
+
+## Caso integrador: principios de contratación pública
+
+**Un municipio licita la compra de 50 vehículos oficiales.**
+
+Durante el procedimiento:
+
+1. Exige que los oferentes tengan su sede a menos de 2 km del municipio.
+2. Publica el llamado durante un plazo injustificadamente breve.
+3. Permite que una empresa modifique su precio después de conocer las ofertas competidoras.
+4. Adjudica a la oferta más cara sin fundamentar su conveniencia.
+
+**¿Qué principios podrían encontrarse comprometidos?**
+
+- **Concurrencia y competencia:** restricción territorial injustificada.
+- **Publicidad y difusión:** difusión formal que podría resultar insuficiente para una participación efectiva.
+- **Igualdad:** modificación sustancial de una oferta en condiciones privilegiadas.
+- **Transparencia y razonabilidad:** falta de fundamentación de la adjudicación.
+
+**Conclusión:** una contratación puede cumplir determinadas formalidades y, sin embargo, vulnerar los principios rectores del procedimiento.
+
+
+## Elementos del contrato
+
+- Competencia y capacidad.
+- Objeto lícito, posible, determinado o determinable.
+- Procedimiento de selección y formación de la voluntad.
+- Causa, motivación y finalidad pública.
+- Forma y perfeccionamiento conforme al régimen aplicable.
+
+*Balbín, pp. 342–346 y 365–366.*
+
+## Competencia del órgano estatal
+
+- El órgano contratante debe contar con atribuciones normativas.
+- No alcanza con que el contrato sea útil o conveniente.
+- Distinguir autoridad que autoriza, aprueba, adjudica y suscribe.
+
+**Caso:** una dependencia celebra una contratación sin aprobación exigida.
+
+## Capacidad del cocontratante
+
+- Capacidad para obligarse y ausencia de impedimentos para contratar.
+- Verificación de requisitos de aptitud y elegibilidad.
+- Control de inhabilidades y causales de exclusión según normas aplicables.
+
+**Decreto 1023/2001, arts. 27 y 28.**
+
+## Objeto, causa y finalidad
+
+- Objeto: prestación precisa y jurídicamente admisible.
+- Causa: antecedentes de hecho y de derecho que justifican la decisión.
+- Finalidad: satisfacción de la necesidad pública.
+
+**Ejemplo:** compra de ambulancias con especificaciones orientadas a una marca.
+
+## Planificación y crédito presupuestario
+
+- Identificación de necesidades y programación de contrataciones.
+- Disponibilidad y previsión del gasto conforme a normas presupuestarias.
+- Relación entre oportunidad, transparencia y eficiencia.
+
+**Discusión:** ¿qué consecuencias produce la falta de crédito suficiente?
+
+## Procedimiento contractual: panorama
+
+1. Preparación y aprobación de condiciones.
+2. Elección del procedimiento.
+3. Convocatoria y presentación de ofertas.
+4. Apertura, evaluación e impugnaciones.
+5. Adjudicación y perfeccionamiento.
+
+*Balbín, pp. 346–365.*
+
+## Pliegos: su función
+
+- Reglas de la convocatoria y de la relación contractual.
+- Pliego de bases y condiciones generales y particulares.
+- Especificaciones técnicas y criterios de evaluación.
+- Deben ser claros, objetivos y compatibles con la competencia.
+
+## Caso: pliego direccionado
+
+El organismo requiere computadoras con una característica técnica exclusiva de una marca, sin justificar su necesidad.
+
+**Analizar:**
+
+- ¿Qué principio puede vulnerarse?
+- ¿Cómo podría reformularse la especificación?
+- ¿En qué etapa debe formularse una observación?
+
+
+## Pliegos: ¿en qué contrataciones se utilizan?
+
+**Régimen nacional de adquisición de bienes y servicios**
+
+Decreto 1023/2001 y Decreto 1030/2016.
+
+Los pliegos establecen las condiciones que deben respetar los interesados y la Administración.
+
+Se utilizan, entre otros procedimientos, en:
+
+- Licitaciones públicas y privadas.
+- Concursos públicos y privados.
+- Contrataciones directas, según su modalidad y particularidades.
+
+**Atención:** las obras públicas y las concesiones también pueden tener pliegos, pero se encuentran sujetas a regímenes especiales.
+
+**Función jurídica:** fijar anticipadamente las reglas de selección y las condiciones de la futura relación contractual.
+
+---
+
+## ¿Qué tipos de pliegos existen?
+
+**1. Pliego de Bases y Condiciones Generales**
+
+- Contiene reglas comunes aplicables a las contrataciones comprendidas en su ámbito.
+- Es aprobado por la Oficina Nacional de Contrataciones.
+- Regula aspectos generales de las ofertas, garantías y ejecución contractual.
+
+**2. Pliego de Bases y Condiciones Particulares**
+
+- Se prepara para una contratación determinada.
+- Establece el objeto, cantidades, plazos y requisitos específicos.
+- Precisa las condiciones de presentación y evaluación de ofertas.
+
+**3. Especificaciones técnicas**
+
+- Describen las características de los bienes o servicios requeridos.
+- Pueden integrarse al pliego particular o incorporarse como anexos.
+- Deben permitir una competencia efectiva, sin restricciones arbitrarias.
+
+**Respaldo:** Decreto 1030/2016 y normativa complementaria de la ONC.
+
+---
+
+## Ejemplo real: contratación de residuos patológicos
+
+**Organismo:** Liceo Aeronáutico Militar.
+
+**Procedimiento:** 40/43-0679-CDI26.
+
+**Tipo:** contratación directa por compulsa abreviada por monto.
+
+**Objeto:** servicio de recolección de residuos patológicos.
+
+**Datos publicados en COMPR.AR**
+
+- Duración prevista: 12 meses.
+- Apertura de ofertas: 9 de octubre de 2026.
+- Garantía de mantenimiento: 5%, con las excepciones aplicables.
+- Garantía de cumplimiento: 10%, con las excepciones aplicables.
+
+**Consulta del expediente:**
+
+[COMPR.AR — Buscar proceso 40/43-0679-CDI26](https://comprar.gob.ar/)
+
+---
+
+## ¿Qué exige el pliego de esta contratación?
+
+**Requisitos que aparecen en COMPR.AR**
+
+**Técnicos**
+
+- Cumplir las especificaciones técnicas del servicio.
+- Contar con las habilitaciones exigidas para la actividad.
+
+**Administrativos**
+
+- Presentar la declaración jurada de intereses.
+- Cumplir las exigencias documentales y tributarias correspondientes.
+
+**Contractuales**
+
+- Prestar el servicio durante el plazo previsto.
+- Constituir las garantías cuando corresponda.
+- Someterse al régimen de penalidades aplicable.
+
+**Pregunta jurídica**
+
+¿Puede presentarse una empresa que ofrece el menor precio, pero carece de la habilitación legal necesaria?
+
+**No puede resultar adjudicataria si incumple un requisito esencial de habilitación exigible para prestar el servicio.**
+
+---
+
+## ¿Qué consecuencias jurídicas tienen los pliegos?
+
+Los pliegos vinculan tanto a los oferentes como a la Administración, dentro del ordenamiento jurídico aplicable.
+
+**Antes de la adjudicación**
+
+- Los oferentes deben ajustar sus propuestas a las condiciones establecidas.
+- La Administración debe evaluar conforme a criterios conocidos.
+- No puede modificar arbitrariamente las reglas en perjuicio de la igualdad.
+
+**Después del perfeccionamiento contractual**
+
+- Las condiciones del pliego integran el marco contractual.
+- Determinan obligaciones, plazos y condiciones de ejecución.
+- Su incumplimiento puede generar las consecuencias previstas en el régimen aplicable.
+
+**Ejemplo**
+
+Si el pliego exige recolección periódica de residuos y el contratista incumple, podrán aplicarse las penalidades que correspondan según el contrato y la normativa.
+
+**Respaldo:** Decreto 1023/2001, arts. 3 y 12; Decreto 1030/2016.
+
+
+## Procedimientos de selección
+
+- Licitación pública y concurso público.
+- Licitación o concurso privado, cuando corresponda.
+- Subasta pública.
+- Contratación directa en causales previstas.
+
+**Decreto 1023/2001, arts. 24–25.**
+
+## Licitación pública y concurso público
+
+- Procedimientos competitivos y de convocatoria pública.
+- La distinción depende de la naturaleza de la evaluación: factores económicos o aptitudes técnicas, científicas, artísticas u otras.
+- La selección debe ajustarse a los criterios anunciados.
+
+## Licitación o concurso privado
+
+- Convocatoria con las particularidades previstas por el régimen.
+- No equivale a contratación discrecional.
+- Subsisten reglas de publicidad, igualdad, evaluación y control.
+
+**Pregunta:** ¿por qué una invitación restringida exige especial cuidado?
+
+## Contratación directa: excepcionalidad
+
+- Solo procede en supuestos normativamente habilitados.
+- Debe motivarse la causal concreta.
+- La urgencia no equivale automáticamente a una emergencia jurídicamente acreditada.
+
+**Decreto 1023/2001, art. 25, inc. d.**
+
+## Contratación directa: ejemplo
+
+Un hospital necesita adquirir inmediatamente un insumo por una rotura imprevisible que paraliza un servicio crítico.
+
+- Identificar hechos y causal habilitante.
+- Documentar la necesidad y el alcance de la contratación.
+- Evitar usar la urgencia para eludir una planificación deficiente.
+
+## Publicidad y acceso a información
+
+- La convocatoria debe difundirse por los medios exigidos.
+- La transparencia abarca también las actuaciones y sus fundamentos.
+- La publicidad facilita competencia y control ciudadano.
+
+**Decreto 1023/2001, arts. 3 y 9.**
+
+## Presentación de ofertas
+
+- Sujeción a plazos y condiciones de la convocatoria.
+- Requisitos formales y sustanciales.
+- Mantenimiento de oferta y garantías cuando correspondan.
+- Igualdad: no pueden dispensarse exigencias esenciales arbitrariamente.
+
+## Apertura y evaluación
+
+- Apertura conforme al procedimiento aplicable.
+- Verificación de admisibilidad y elegibilidad.
+- Comparación según criterios previstos en el pliego.
+- Dictamen de evaluación y oportunidades de impugnación.
+
+## ¿Precio más bajo o mejor oferta?
+
+**Supuesto:** dos ofertas de equipos médicos.
+
+- Oferta A: menor precio, mantenimiento costoso.
+- Oferta B: mayor precio, garantía extendida y menor costo operativo.
+
+**Debate:** la oferta más conveniente no se identifica siempre con el menor precio; debe respetarse el criterio de evaluación previsto.
+
+## Adjudicación
+
+- Decisión del órgano competente.
+- Debe estar motivada y ajustarse a reglas de la convocatoria.
+- La adjudicación no habilita a cambiar arbitrariamente las condiciones.
+- Diferenciar adjudicación de perfeccionamiento del contrato.
+
+
+## Adjudicación: concepto y naturaleza jurídica
+
+**Decreto 1023/2001 — Artículo 15**
+
+La adjudicación es el acto administrativo mediante el cual la autoridad competente selecciona la oferta más conveniente.
+
+**Características**
+
+- Es una decisión de la Administración, no del oferente.
+- Debe respetar los criterios establecidos en el pliego.
+- Debe encontrarse debidamente motivada.
+- Puede recaer sobre una oferta que no sea la de menor precio.
+
+**Distinción fundamental**
+
+La adjudicación selecciona al futuro cocontratante, pero no equivale necesariamente al perfeccionamiento del contrato.
+
+---
+
+## ¿Qué significa oferta más conveniente?
+
+**Decreto 1023/2001 — Artículo 15**
+
+La Administración debe considerar:
+
+- El precio.
+- La calidad.
+- La idoneidad del oferente.
+- Las demás condiciones de la oferta.
+
+**Regla especial**
+
+Cuando se adquieren bienes o servicios estandarizados, cuyas características técnicas pueden identificarse inequívocamente, se considera, en principio, más conveniente la oferta de menor precio.
+
+**Ejemplo**
+
+Dos empresas ofrecen computadoras con idénticas especificaciones técnicas.
+
+- Empresa A: $20 millones.
+- Empresa B: $24 millones.
+
+Si ambas cumplen los requisitos y no existen otras diferencias relevantes, corresponde aplicar el criterio legal de menor precio.
+
+---
+
+## Evaluación de ofertas y dictamen
+
+**Decreto 1030/2016 — Artículos 61 a 73**
+
+La Comisión Evaluadora analiza las ofertas y emite un dictamen de evaluación.
+
+**Debe examinar, entre otras cuestiones:**
+
+- Cumplimiento de requisitos administrativos.
+- Aptitud y elegibilidad de los oferentes.
+- Cumplimiento de las especificaciones técnicas.
+- Causales de desestimación.
+- Conveniencia de las ofertas admisibles.
+
+**Artículo 71**
+
+El dictamen debe emitirse dentro de los 5 días previstos reglamentariamente, salvo causas excepcionales debidamente fundadas.
+
+**Importante:** el dictamen es una actuación preparatoria y no sustituye el acto administrativo de adjudicación.
+
+---
+
+## Impugnación del dictamen de evaluación
+
+**Decreto 1030/2016 — Artículos 72 y 73**
+
+**Comunicación**
+
+El dictamen debe comunicarse a todos los oferentes dentro de los 2 días de emitido.
+
+**Impugnaciones**
+
+- Los oferentes pueden impugnar dentro de los 3 días de su comunicación.
+- Los terceros interesados, en los términos reglamentarios, pueden hacerlo dentro de los 3 días de su difusión.
+- Debe integrarse la garantía de impugnación correspondiente, conforme al régimen aplicable.
+
+**Ejemplo**
+
+La Comisión recomienda adjudicar a una empresa cuya oferta incumple una especificación técnica esencial.
+
+Otro oferente cuestiona el dictamen dentro del plazo reglamentario.
+
+**¿Quién resuelve?**
+
+La autoridad competente al dictar el acto de adjudicación.
+
+---
+
+## Acto de adjudicación
+
+**Decreto 1030/2016 — Artículo 74**
+
+La adjudicación debe notificarse al adjudicatario y a los demás oferentes dentro de los 3 días de dictado el acto.
+
+**Reglas importantes**
+
+- Las impugnaciones al dictamen de evaluación se resuelven en el mismo acto que dispone la adjudicación.
+- Puede adjudicarse aun cuando se haya presentado una sola oferta.
+- La decisión debe ajustarse al pliego y al criterio de conveniencia legalmente establecido.
+
+**Ejemplo**
+
+Se presenta una sola empresa a una licitación.
+
+¿Debe declararse desierta?
+
+**No.** La existencia de una única oferta no impide adjudicar, siempre que resulte admisible y conveniente.
+
+---
+
+## Adjudicación y perfeccionamiento del contrato
+
+**Decreto 1030/2016 — Artículos 75 y 76**
+
+**Adjudicación**
+
+La Administración selecciona la oferta más conveniente mediante un acto administrativo.
+
+**Perfeccionamiento**
+
+El vínculo contractual se perfecciona:
+
+- Con la notificación de la orden de compra o venta; o
+- Con la firma del instrumento contractual, cuando corresponda utilizar esa modalidad.
+
+**Plazo**
+
+La orden de compra debe notificarse dentro de los 10 días de la notificación de la adjudicación.
+
+Antes del perfeccionamiento deben cumplirse las verificaciones y registros presupuestarios previstos en el artículo 75.
+
+**Ejemplo**
+
+El ministerio adjudica una compra el lunes, pero todavía no notificó la orden de compra.
+
+La adjudicación ya existe, pero el contrato aún no se perfeccionó por esa vía.
+
+---
+
+## Ejecución: obligaciones del cocontratante
+
+**Decreto 1023/2001 — Artículo 13**
+
+**Obligación principal**
+
+Cumplir las prestaciones comprometidas en las condiciones y plazos contractuales.
+
+**Reglas relevantes**
+
+- La ejecución personal constituye la regla, con las excepciones legales.
+- La cesión y subcontratación requieren la autorización correspondiente.
+- El cocontratante debe respetar las condiciones técnicas y contractuales.
+- El régimen contempla supuestos excepcionales que pueden afectar la ejecución.
+
+**Ejemplo**
+
+Una empresa adjudicataria de un servicio de limpieza pretende transferir íntegramente la prestación a otra empresa.
+
+No puede hacerlo libremente: debe observar las exigencias legales y contractuales de autorización.
+
+---
+
+## Ejecución: prerrogativas de la Administración
+
+**Decreto 1023/2001 — Artículo 12**
+
+Dentro de los límites del régimen aplicable, la Administración cuenta con prerrogativas específicas.
+
+**Entre ellas:**
+
+- Interpretar los contratos y resolver las dudas sobre su cumplimiento.
+- Modificar el contrato por razones de interés público dentro de los límites legales.
+- Controlar e inspeccionar las prestaciones.
+- Aplicar penalidades cuando corresponda.
+- Disponer la rescisión o resolución en los supuestos previstos legalmente.
+
+**Ejemplo**
+
+El organismo necesita aumentar la cantidad de insumos contratados.
+
+No puede modificar el contrato ilimitadamente: debe respetar los límites y procedimientos del régimen.
+
+---
+
+## Modificación y prórroga del contrato
+
+**Decreto 1023/2001 — Artículo 12**
+
+**Decreto 1030/2016 — Artículo 100**
+
+El régimen contempla aumentos, disminuciones y prórrogas sujetos a requisitos y límites.
+
+**Diferencias**
+
+- **Aumento:** ampliación de las prestaciones contratadas.
+- **Disminución:** reducción de las prestaciones.
+- **Prórroga:** extensión temporal cuando se cumplen las condiciones legales y contractuales.
+
+**Importante**
+
+No debe confundirse la facultad administrativa de modificar el contrato con una autorización para alterar libremente su objeto o el equilibrio de las prestaciones.
+
+**Ejemplo**
+
+Una dependencia contrata mantenimiento por 12 meses.
+
+Antes del vencimiento desea extender el servicio.
+
+Debe verificarse que la prórroga sea jurídicamente procedente y se ajuste al pliego y a la reglamentación.
+
+---
+
+## Recepción de bienes y servicios
+
+**Decreto 1030/2016 — Artículos 86 a 89**
+
+La entrega material no equivale necesariamente a recepción definitiva de conformidad.
+
+**Etapas**
+
+1. El proveedor entrega los bienes o presta el servicio.
+2. La Administración verifica cantidad, calidad y cumplimiento.
+3. Se otorga la conformidad de recepción definitiva cuando corresponde.
+
+**Artículo 89**
+
+La conformidad debe otorgarse dentro de 10 días desde la recepción, salvo plazo distinto previsto en el pliego.
+
+Vencido el plazo, el proveedor puede intimar la recepción. Si la Administración no se expide dentro de los 10 días siguientes a la intimación, opera el efecto previsto por el artículo.
+
+**Ejemplo**
+
+Se entregan 100 computadoras, pero 15 no cumplen las especificaciones técnicas.
+
+La Administración no está obligada a prestar conformidad respecto de bienes defectuosos.
+
+---
+
+## Facturación, pago y garantías
+
+**Decreto 1030/2016 — Artículos 77, 78, 90 y 91**
+
+**Garantía de cumplimiento**
+
+El cocontratante debe integrarla dentro de los 5 días de recibida la orden de compra o de firmado el contrato, salvo las particularidades y excepciones previstas.
+
+**Facturación**
+
+El artículo 90 vincula la presentación de la factura con la conformidad de la recepción definitiva.
+
+**Pago**
+
+El artículo 91 establece un plazo general de 30 días corridos, salvo que el pliego particular disponga uno diferente.
+
+**Ejemplo**
+
+El proveedor entrega los bienes el 1 de junio.
+
+La Administración otorga conformidad definitiva el 8 de junio y el proveedor presenta la factura ese día.
+
+El plazo de pago se determina conforme al artículo 91 y a las condiciones del pliego.
+
+---
+
+## Incumplimiento: penalidades y sanciones
+
+**Decreto 1023/2001 — Artículo 29**
+
+**Decreto 1030/2016 — Artículos 102 y 106**
+
+**Penalidades contractuales**
+
+- Pérdida de la garantía de mantenimiento de oferta.
+- Pérdida de la garantía de cumplimiento.
+- Multa por mora.
+
+**Artículo 102 — Multa por mora**
+
+Regla general: 0,05% del valor de lo satisfecho fuera de término por cada día hábil de atraso.
+
+**Sanciones administrativas**
+
+- Apercibimiento.
+- Suspensión.
+- Inhabilitación.
+
+**Distinción**
+
+Las penalidades se relacionan con incumplimientos en el procedimiento o contrato.
+
+Las sanciones afectan la situación del proveedor frente al régimen de contrataciones.
+
+**Ejemplo**
+
+Una empresa entrega bienes 20 días hábiles tarde.
+
+Puede corresponder una multa por mora, conforme al régimen y las circunstancias del incumplimiento.
+
+
+## Perfeccionamiento del contrato
+
+- Depende del procedimiento y de la modalidad de instrumentación.
+- Puede involucrar notificación de orden de compra o firma del instrumento correspondiente.
+- Verificar reglas concretas del Decreto 1030/2016 y del pliego.
+
+## Derechos del Estado contratante
+
+- Exigir cumplimiento de prestaciones.
+- Fiscalizar la ejecución.
+- Aplicar penalidades según el régimen.
+- Adoptar decisiones contractuales habilitadas por normas aplicables.
+
+**Decreto 1023/2001, art. 12.**
+
+## Obligaciones del Estado
+
+- Pagar el precio o contraprestación pactada.
+- Cooperar con la ejecución del contrato.
+- Respetar el procedimiento y las garantías del contratista.
+- Responder cuando corresponda por incumplimientos propios.
+
+## Derechos y obligaciones del contratista
+
+- Ejecutar en tiempo y forma.
+- Respetar condiciones y controles contractuales.
+- Percibir contraprestación y reclamar derechos reconocidos.
+- No ceder o transferir el contrato libremente fuera de los supuestos admitidos.
+
+**Decreto 1023/2001, art. 13.**
+
+## Dirección e inspección
+
+- El Estado puede controlar la ejecución y exigir adecuación a lo pactado.
+- El control no permite crear obligaciones ajenas al contrato sin fundamento.
+- Documentar órdenes, observaciones y recepción de prestaciones.
+
+## Penalidades y sanciones
+
+- Distinguir consecuencias del incumplimiento contractual de sanciones al proveedor.
+- Deben existir fundamento normativo y procedimiento aplicable.
+- Proporcionalidad, defensa y motivación.
+
+**Ejemplo:** entrega tardía de insumos y eventual multa.
+
+## Modificación unilateral: ius variandi
+
+- Facultad excepcional sujeta a límites legales.
+- Exige razones de interés público y justificación.
+- No habilita a alterar arbitrariamente el objeto o la economía del contrato.
+
+**Decreto 1023/2001, art. 12; Decreto 1030/2016 y normas complementarias aplicables.**
+
+## Ejercicio: modificación contractual
+
+El Estado contrató 100 equipos y pretende exigir 150 con el mismo precio unitario.
+
+- ¿Puede ampliar unilateralmente la cantidad?
+- ¿Qué límites cuantitativos y condiciones rigen?
+- ¿Qué ocurre con el equilibrio económico?
+
+**Advertencia:** los porcentajes y condiciones deben comprobarse en el texto normativo vigente al momento de contratar.
+
+## Equilibrio económico-financiero
+
+- El contratista asume riesgos ordinarios de su actividad.
+- Determinadas alteraciones extraordinarias pueden plantear problemas de recomposición.
+- Distinguir variaciones normales, hechos del Estado e imprevisión.
+
+*Balbín, pp. 361–366.*
+
+## Hecho del príncipe
+
+- Medida estatal general que repercute sobre la ejecución contractual.
+- Requiere analizar imputación, previsibilidad, causalidad y afectación.
+- No cualquier cambio regulatorio genera automáticamente compensación.
+
+
+## Ius variandi: potestad de modificación unilateral
+
+**Concepto**
+
+Es la facultad de la Administración de modificar determinadas condiciones de un contrato administrativo por razones de interés público, sin requerir un nuevo acuerdo de voluntades dentro de los límites legales.
+
+**Fundamento normativo**
+
+- Decreto 1023/2001, art. 12, inc. a): potestad de modificar por razones de interés público.
+- Art. 12, inc. b): facultad de aumentar o disminuir hasta un 20% el monto total del contrato.
+- Decreto 1030/2016, art. 100: condiciones para ejercer las opciones contractuales.
+
+**Fundamento jurídico:** la satisfacción del interés público durante la ejecución contractual.
+
+**Límite esencial:** la potestad de modificación no autoriza a transformar arbitrariamente el contrato.
+
+---
+
+## Ius variandi: límites jurídicos
+
+**La Administración no puede modificar libremente cualquier aspecto contractual.**
+
+La modificación debe respetar:
+
+- **Interés público:** debe existir una razón que justifique la decisión.
+- **Razonabilidad:** la modificación debe ser proporcional a la necesidad.
+- **Objeto contractual:** no puede alterarse su finalidad ni su esencia.
+- **Equilibrio económico-financiero:** debe mantenerse la ecuación contractual.
+- **Límites cuantitativos:** deben respetarse los porcentajes legales.
+- **Procedimiento:** corresponde dictar los actos administrativos pertinentes.
+
+**Ejemplo**
+
+Un ministerio contrató 100 computadoras.
+
+Puede disponer, dentro de los límites legales, una ampliación de cantidades.
+
+No puede utilizar esa contratación para adquirir automóviles: se alteraría sustancialmente su objeto.
+
+---
+
+## Ius variandi: ejemplo numérico
+
+**Supuesto hipotético**
+
+Un organismo contrata 100 computadoras a $1.000.000 cada una.
+
+**Monto original: $100.000.000**
+
+| Decisión | Variación | Tratamiento |
+|---|---|---|
+| Comprar 110 unidades | +10% | Dentro del límite unilateral |
+| Comprar 120 unidades | +20% | Dentro del límite unilateral |
+| Comprar 130 unidades | +30% | No puede imponerse unilateralmente |
+
+**Decreto 1023/2001, art. 12, inc. b)**
+
+La facultad unilateral de aumentar o disminuir el monto total del contrato alcanza hasta el 20%.
+
+**Para analizar en clase**
+
+¿El proveedor puede negarse a entregar las 20 unidades adicionales?
+
+Si la modificación se dispone válidamente dentro del régimen aplicable, no puede rechazarla por su sola voluntad.
+
+---
+
+## Ius variandi y equilibrio económico-financiero
+
+**¿Qué sucede si la modificación incrementa los costos del contratista?**
+
+La Administración debe respetar las condiciones legales de modificación y la ecuación económico-financiera contractual.
+
+**Ejemplo**
+
+Una empresa presta servicios de mantenimiento en 10 edificios públicos.
+
+La Administración dispone válidamente ampliar las prestaciones a 12 edificios.
+
+- Aumenta el volumen de servicios.
+- Deben reconocerse las prestaciones adicionales conforme al régimen contractual.
+- Corresponde adecuar los plazos cuando resulte necesario.
+- No se habilita automáticamente cualquier reajuste de precios.
+
+**Distinción**
+
+Modificar válidamente las prestaciones no significa que la Administración pueda imponer trabajo adicional gratuito.
+
+**Respaldo:** Decreto 1023/2001, art. 12; Decreto 1030/2016, art. 100.
+
+---
+
+## Hecho del príncipe: concepto
+
+**Construcción doctrinaria del derecho administrativo**
+
+Se configura cuando una actuación estatal ajena al ejercicio de las potestades del contrato incide extraordinariamente en su ejecución.
+
+**Características**
+
+- Existe una medida o conducta estatal.
+- No constituye una modificación contractual directa.
+- Sobreviene durante la ejecución.
+- Su incidencia relevante no integra el riesgo ordinario asumido por el contratista.
+- Puede alterar gravemente la economía contractual o imposibilitar su cumplimiento.
+
+**Distinción con el ius variandi**
+
+**Ius variandi:** el Estado modifica el contrato en su condición de contratante.
+
+**Hecho del príncipe:** una autoridad pública actúa en ejercicio de otras competencias y repercute sobre el contrato.
+
+---
+
+## Hecho del príncipe: ejemplo práctico
+
+**Supuesto hipotético**
+
+Un ministerio contrata un servicio de transporte de mercaderías por dos años.
+
+Durante la ejecución, una autoridad pública dicta una prohibición general e imprevisible de circulación de determinados vehículos.
+
+**Consecuencias**
+
+- La medida no modifica directamente las cláusulas del contrato.
+- Puede obligar al transportista a reemplazar su flota.
+- El costo de cumplimiento puede aumentar extraordinariamente.
+- Debe examinarse si corresponde recomponer el equilibrio contractual.
+
+**Pregunta**
+
+¿El contratista debe absorber necesariamente todo el mayor costo?
+
+**No necesariamente.** Deben analizarse la previsibilidad, la imputación de la medida estatal, la gravedad del perjuicio y el régimen jurídico aplicable.
+
+---
+
+## Hecho del príncipe: consecuencias jurídicas
+
+**Dos situaciones diferentes**
+
+**1. La ejecución sigue siendo posible, pero se torna extraordinariamente onerosa**
+
+- Puede corresponder la recomposición de la ecuación económico-financiera.
+- Debe acreditarse el perjuicio y su relación causal con la medida estatal.
+- No basta cualquier aumento de costos.
+
+**2. La ejecución se torna jurídicamente imposible**
+
+- Puede corresponder la resolución del contrato.
+- Debe analizarse la liberación del contratista y el eventual resarcimiento.
+- La extensión de la reparación depende del régimen jurídico y de los presupuestos acreditados.
+
+**Posición doctrinaria**
+
+Tradicionalmente se vincula el hecho del príncipe con una reparación integral, a diferencia de la ayuda o compensación parcial propia de la teoría de la imprevisión.
+
+No debe interpretarse como una indemnización automática.
+
+---
+
+## Ius variandi, hecho del príncipe e imprevisión
+
+| Instituto | Causa | Consecuencia |
+|---|---|---|
+| **Ius variandi** | Modificación directa del Estado contratante | Cambio contractual dentro de límites legales |
+| **Hecho del príncipe** | Actuación estatal ajena al ejercicio de potestades contractuales | Posible recomposición o resolución |
+| **Imprevisión** | Acontecimiento extraordinario ajeno a las partes | Posible revisión o resolución |
+
+**Tres ejemplos**
+
+- **Ius variandi:** el ministerio amplía la cantidad de computadoras contratadas.
+- **Hecho del príncipe:** una prohibición estatal general afecta extraordinariamente la prestación contratada.
+- **Imprevisión:** un acontecimiento económico extraordinario e imprevisible altera gravemente los costos.
+
+**Conclusión:** los tres institutos pueden incidir sobre el equilibrio contractual, pero tienen fundamentos y consecuencias jurídicas diferentes.
+
+
+## Teoría de la imprevisión
+
+- Alteración extraordinaria, sobreviniente y ajena al riesgo normal asumido.
+- Puede volver excesivamente onerosa la prestación.
+- Su aplicación depende del régimen y de los requisitos del caso.
+
+**Caso:** incremento excepcional de costos durante contrato de ejecución prolongada.
+
+## Caso comparativo
+
+| Supuesto | Pregunta jurídica |
+|---|---|
+| Suba habitual de insumos | ¿Riesgo ordinario? |
+| Orden estatal que modifica prestaciones | ¿Ius variandi y compensación? |
+| Acontecimiento extraordinario e imprevisible | ¿Imprevisión? |
+| Incumplimiento del organismo | ¿Responsabilidad contractual estatal? |
+
+## Extinción contractual: mapa
+
+- Cumplimiento del objeto o vencimiento del plazo.
+- Rescisión o revocación en supuestos previstos.
+- Resolución por incumplimiento.
+- Caso fortuito, fuerza mayor u otros hechos relevantes.
+- Mutuo acuerdo cuando el régimen lo permita.
+
+## Revocación por oportunidad, mérito o conveniencia
+
+- Decisión fundada en interés público, cuando el régimen la autoriza.
+- No equivale a sanción por culpa del contratista.
+- Deben analizarse consecuencias indemnizatorias y límites normativos.
+
+**Decreto 1023/2001, art. 12.**
+
+## Resolución por culpa del contratista
+
+- Incumplimiento contractual relevante.
+- Procedimiento y garantías aplicables.
+- Posibles efectos: pérdida de garantías, daños y otras consecuencias previstas.
+
+**Caso:** proveedor abandona sin justificación una prestación esencial.
+
+
+## Incumplimiento del Estado: concepto y consecuencias
+
+**¿Qué sucede cuando la Administración incumple sus obligaciones contractuales?**
+
+El Estado también está obligado a cumplir el contrato.
+
+**Ejemplos de incumplimiento**
+
+- No paga las prestaciones recibidas y conformadas.
+- Impide injustificadamente que el contratista ejecute sus obligaciones.
+- Incumple obligaciones de colaboración previstas en el contrato.
+- No entrega instalaciones o elementos indispensables que debía proporcionar.
+
+**Consecuencias jurídicas**
+
+- El contratista puede reclamar el cumplimiento.
+- Puede solicitar el reconocimiento de intereses o daños, si corresponde.
+- En determinadas circunstancias puede proceder la rescisión por culpa de la Administración.
+
+**Importante:** el incumplimiento estatal no autoriza, por sí solo, a abandonar inmediatamente la prestación.
+
+---
+
+## Caso práctico: el Estado no paga
+
+**Supuesto**
+
+Un ministerio contrata un servicio de mantenimiento por 12 meses.
+
+La empresa presta correctamente el servicio durante cuatro meses y obtiene las conformidades de recepción correspondientes.
+
+Sin embargo, la Administración no paga las facturas vencidas.
+
+**Preguntas y respuestas**
+
+**1. ¿Existe incumplimiento estatal?**
+
+Sí, si el pago resulta exigible conforme al contrato y la normativa.
+
+**2. ¿Puede la empresa dejar de prestar el servicio inmediatamente?**
+
+No automáticamente. Debe analizarse el régimen aplicable y la procedencia de una suspensión o rescisión.
+
+**3. ¿Qué puede reclamar?**
+
+El pago de las sumas adeudadas y los accesorios que correspondan.
+
+**Normativa:** Decreto 1030/2016, arts. 90 y 91; Decreto 1023/2001, art. 13.
+
+---
+
+## Caso fortuito y fuerza mayor
+
+**Código Civil y Comercial — Artículo 1730**
+
+Se considera caso fortuito o fuerza mayor al hecho que no ha podido ser previsto o que, habiendo sido previsto, no ha podido ser evitado.
+
+**Requisitos para analizar su incidencia contractual**
+
+- Acontecimiento ajeno al riesgo que debe soportar el obligado.
+- Imprevisibilidad o inevitabilidad.
+- Relación causal con el incumplimiento.
+- Imposibilidad de cumplir, cuando se invoca como causa liberatoria.
+
+**Consecuencias posibles**
+
+- Exoneración de responsabilidad por el incumplimiento causado por el acontecimiento.
+- Prórroga de plazos cuando corresponda.
+- Extinción de obligaciones ante imposibilidad definitiva, según el régimen aplicable.
+
+**Atención:** el encarecimiento de una prestación no equivale necesariamente a fuerza mayor.
+
+---
+
+## Caso práctico: inundación del depósito
+
+**Supuesto**
+
+Una empresa debe entregar 500 computadoras a un organismo nacional el 15 de noviembre.
+
+Cinco días antes, una inundación extraordinaria destruye el depósito donde se encontraban los equipos.
+
+La empresa comunica lo ocurrido y solicita una prórroga.
+
+**¿Queda automáticamente liberada?**
+
+**No.** Debe examinarse:
+
+1. Si el acontecimiento fue imprevisible o inevitable.
+2. Si efectivamente impidió cumplir la prestación.
+3. Si existían alternativas razonables para entregar los equipos.
+4. Si la empresa cumplió las exigencias de comunicación y acreditación.
+
+**Dos resultados posibles**
+
+- Si puede conseguir los equipos por otra vía, aunque a mayor costo, no necesariamente existe imposibilidad liberatoria.
+- Si acredita una imposibilidad jurídicamente relevante, pueden corresponder los efectos previstos para la fuerza mayor.
+
+**Normativa:** CCyC, arts. 1730 y 1732; Decreto 1030/2016, art. 93.
+
+---
+
+## Impugnación y control de la contratación
+
+**¿Qué decisiones pueden cuestionarse?**
+
+**Durante la selección**
+
+- Condiciones del pliego.
+- Exclusión o desestimación de ofertas.
+- Dictamen de evaluación.
+- Adjudicación.
+
+**Durante la ejecución**
+
+- Aplicación de penalidades.
+- Modificaciones contractuales.
+- Rechazo de prestaciones.
+- Decisiones de rescisión o resolución.
+
+**Vías de control**
+
+- Impugnaciones específicas del procedimiento de contratación.
+- Recursos administrativos, cuando correspondan.
+- Control judicial conforme a las reglas de admisibilidad y competencia.
+
+**Normativa:** Decreto 1030/2016, arts. 72 a 74; Ley 19.549 y su reglamentación, según corresponda.
+
+---
+
+## Caso práctico: adjudicación cuestionada
+
+**Supuesto**
+
+Un organismo licita la compra de 100 computadoras.
+
+Se presentan tres empresas:
+
+| Empresa | Precio | Situación |
+|---|---:|---|
+| A | $100 millones | Cumple el pliego |
+| B | $95 millones | Incumple un requisito técnico esencial |
+| C | $110 millones | Cumple el pliego |
+
+La Comisión Evaluadora recomienda adjudicar a la empresa B por ofrecer el precio más bajo.
+
+**¿Qué puede hacer la empresa A?**
+
+- Examinar el dictamen de evaluación.
+- Impugnarlo dentro del plazo reglamentario.
+- Fundamentar el incumplimiento técnico de la empresa B.
+- Solicitar que se revise la recomendación.
+
+**Decreto 1030/2016, arts. 72 a 74**
+
+La impugnación del dictamen se presenta dentro de los tres días previstos reglamentariamente.
+
+La autoridad competente debe resolver las impugnaciones al dictar el acto de adjudicación.
+
+**Conclusión:** la oferta más barata no necesariamente es la más conveniente si incumple requisitos esenciales.
+
+
+*Balbín, pp. 372–373.*
+
+## Caso integrador de clase
+
+Un ministerio licita un servicio por 24 meses. Tras adjudicar, modifica las cantidades; el proveedor reclama mayores costos y luego incumple un plazo.
+
+**Resolver brevemente:**
+
+1. ¿Qué principios rigieron la selección?
+2. ¿Qué límites tiene la modificación?
+3. ¿Cuándo procede recomposición?
+4. ¿Qué medidas puede adoptar el Estado?
+
+## Síntesis y fuentes
+
+**Secuencia conceptual:** legalidad → competencia → procedimiento → adjudicación → ejecución → prerrogativas → responsabilidad → extinción.
+
+**Bibliografía:** Carlos F. Balbín, *La teoría del contrato administrativo*, capítulo XVII, pp. 332–381 del material aportado.
+
+**Normativa:** [Decreto 1023/2001](https://www.argentina.gob.ar/normativa/nacional/decreto-1023-2001-68396) y [Decreto 1030/2016](https://www.argentina.gob.ar/normativa/nacional/decreto-1030-2016-265506). Consultar textos actualizados y disposiciones complementarias.

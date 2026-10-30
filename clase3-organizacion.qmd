@@ -1,0 +1,3253 @@
+---
+title: "Teoría de la organización administrativa"
+subtitle: "Organización del Poder Ejecutivo · Competencias · Órganos y entes · Modelos organizativos · Reforma del Estado"
+author: "Derecho Administrativo · Grado"
+format:
+  revealjs:
+    slide-level: 2
+    theme: simple
+    slide-number: c/t
+    transition: fade
+    background-transition: fade
+    center: false
+    controls: true
+    progress: true
+    hash: true
+    history: true
+    width: 1600
+    height: 900
+    margin: 0.045
+    footer: "Derecho Administrativo · Organización administrativa · Balbín"
+    embed-resources: true
+---
+
+<style>
+.reveal { font-size: 22px; }
+.reveal h1 { font-size: 2.15em; letter-spacing: -.025em; }
+.reveal h2 { font-size: 1.48em; letter-spacing: -.015em; border-bottom: 2px solid #d7dce2; padding-bottom: .16em; margin-bottom: .38em; }
+.reveal h3 { font-size: 1.03em; margin: .25em 0 .12em; }
+.reveal p, .reveal li { line-height: 1.19; }
+.reveal ul, .reveal ol { margin-top: .2em; }
+.reveal table { font-size: .69em; width: 100%; }
+.reveal blockquote { font-size: .80em; border-left: 5px solid #687582; padding: .30em .75em; margin: .35em 0; }
+.reveal .callout { border: 1px solid #d5dae0; border-radius: 12px; padding: .48em .68em; background: rgba(120,130,140,.055); }
+.reveal .small { font-size: .78em; }
+.reveal .smaller { font-size: .68em; }
+.reveal .cols { display:grid; grid-template-columns:1fr 1fr; gap:1.0em; }
+.reveal .cols-6040 { display:grid; grid-template-columns:3fr 2fr; gap:1.0em; }
+.reveal .source { font-size:.52em; opacity:.70; margin-top:.45em; }
+.reveal .section-title { border-bottom: 0; font-size: 1.85em; margin-top: 1.8em; }
+</style>
+## Teoría de la organización administrativa {.smaller}
+
+### Teoría de la organización administrativa
+
+
+### Una lectura sistemática del capítulo de Carlos F. Balbín
+
+La organización administrativa no es simplemente un organigrama. El problema consiste en explicar **cómo el Estado distribuye jurídicamente el poder**, cómo imputa las conductas de sus agentes, cómo atribuye competencias a órganos y entes y mediante qué técnicas las distribuye o redistribuye.
+
+El capítulo avanza desde los fundamentos —personalidad estatal y competencia— hacia las estructuras concretas —órganos, entes, centralización, descentralización, autonomía— y culmina con un **nuevo modelo de Administración Pública**, apoyado en participación, transparencia, acceso a la información, tecnologías y reforma estatal.
+
+<div class="source">Fuente exclusiva: Balbín, capítulo VIII, pp. 146-202.</div>
+
+
+
+### I. Punto de partida: el Estado como organización
+
+## ¿Qué problema intenta resolver la teoría de la organ… {.smaller}
+
+### ¿Qué problema intenta resolver la teoría de la organización?
+
+
+Balbín parte de una pregunta: **¿cómo debe organizarse el Poder Ejecutivo?**
+
+El poder político no estuvo siempre constituido como un sujeto de derecho separado del Estado como sujeto jurídico. La construcción de la personalidad estatal permitió pensar al Estado como un centro de imputación distinto de las personas físicas que actúan por él.
+
+La teoría de la organización debe explicar, entonces:
+
+- quién actúa jurídicamente;
+- cómo se atribuyen al Estado las conductas humanas;
+- qué estructuras integran el aparato estatal;
+- qué potestades tiene cada una;
+- cómo se relacionan entre sí.
+
+No es sólo una cuestión descriptiva: la organización determina **quién puede ejercer válidamente poder estatal**.
+
+<div class="source">Balbín, pp. 146-147.</div>
+
+
+
+### La personalidad jurídica del Estado
+
+
+La tesis de la doble personalidad del Estado —una en el derecho público y otra en el privado— fue rechazada. El Estado posee **una única personalidad jurídica**.
+
+Balbín destaca las ventajas que introdujo la personificación estatal:
+
+| Función | Consecuencia |
+|---|---|
+| Construir relaciones jurídicas | El Estado puede vincularse con particulares mediante normas públicas y privadas |
+| Imputar conductas | Acciones y omisiones de agentes pueden atribuirse al Estado |
+| Garantizar obligaciones | Existe un patrimonio estatal que responde |
+| Organizar internamente | Es posible articular estructuras coherentes y sistemáticas |
+
+El Código Civil y Comercial reconoce como personas jurídicas públicas, entre otros, al Estado nacional, provincias, CABA, municipios, entidades autárquicas y demás organizaciones constituidas en la República con ese carácter.
+
+<div class="source">Balbín, p. 146.</div>
+
+## El problema de la imputación {.smaller}
+
+### El problema de la imputación
+
+
+Reconocer personalidad al Estado abre otro interrogante: **¿cómo imputamos al Estado la conducta de las personas humanas que forman parte de sus estructuras?**
+
+Las primeras respuestas recurrieron a categorías del derecho privado:
+
+- representación;
+- mandato.
+
+Pero esas construcciones presentan dificultades. Los actos estatales pueden exceder el marco de representación o mandato conocido por los representados o mandantes.
+
+Balbín reconstruye la evolución desde esas teorías hacia la **teoría del órgano**, que permite explicar de modo más adecuado la actuación estatal.
+
+<div class="source">Balbín, pp. 146-147.</div>
+
+
+
+### De la representación a la teoría del órgano
+
+
+El Código Civil histórico recurrió a la representación para explicar la actuación de las personas jurídicas. Esa construcción también fue utilizada por la Corte en precedentes relativos a responsabilidad estatal.
+
+Sin embargo, el derecho público abandonó progresivamente ese traslado directo.
+
+La teoría del órgano parte de otra idea:
+
+> no cabe distinguir, en el plano de la actuación estatal, entre una persona estatal y un representante externo que actúa por ella.
+
+El agente se inserta en la estructura. **El agente es el propio Estado cuando actúa como órgano.**
+
+Así, una conducta realizada por un agente en ejercicio de funciones estatales es, en principio, una conducta estatal.
+
+<div class="source">Balbín, pp. 147-148.</div>
+
+## Alcance y límites de la imputación orgánica {.smaller}
+
+### Alcance y límites de la imputación orgánica
+
+
+Balbín advierte que la teoría del órgano tampoco resuelve mecánicamente todos los casos.
+
+Existen supuestos excepcionales en los que no corresponde trasladar cualquier conducta de los agentes al Estado. Por eso, el análisis requiere determinar cuándo la conducta puede ser jurídicamente imputada al sujeto estatal.
+
+La utilidad central de la teoría es conceptual:
+
+- evita construir al agente como mandatario externo;
+- integra persona, estructura y función;
+- permite comprender que la voluntad expresada por el órgano es voluntad estatal.
+
+La organización comienza, entonces, por un sujeto jurídico —el Estado— **integrado por órganos**.
+
+<div class="source">Balbín, p. 148.</div>
+
+
+
+### ¿Qué es un órgano?
+
+
+Balbín define al órgano como una **unidad compuesta por**:
+
+1. el factor humano;
+2. el factor material dentro del aparato estatal;
+3. competencias.
+
+En fórmula sintética:
+
+> **órgano = competencias + personas humanas + elementos materiales propios del cargo público.**
+
+Esta definición es fundamental porque evita reducir el órgano:
+
+- a la persona que ocupa el cargo;
+- al edificio o estructura material;
+- o a una simple lista abstracta de atribuciones.
+
+El órgano es una pieza jurídica y organizativa integrada en el sujeto estatal.
+
+<div class="source">Balbín, p. 148.</div>
+
+## II. Las competencias estatales {.smaller}
+
+### II. Las competencias estatales
+
+
+
+### Competencia: concepto
+
+
+Para Balbín, la competencia es:
+
+> **la suma de potestades que surge del ordenamiento jurídico.**
+
+Es la aptitud de los poderes públicos para actuar y cumplir sus fines.
+
+En un Estado democrático de derecho no rige para el Estado el mismo principio de libertad que para las personas. El punto de partida es diferente:
+
+- las personas pueden hacer lo que no está prohibido;
+- el Estado necesita **habilitación jurídica** para actuar.
+
+Por ello, la competencia debe ser reconstruida desde el ordenamiento.
+
+<div class="source">Balbín, pp. 148-149.</div>
+
+## Principio prohibitivo y principio permisivo {.smaller}
+
+### Principio prohibitivo y principio permisivo
+
+
+Balbín contrasta dos lógicas.
+
+| Personas | Estado |
+|---|---|
+| Principio de libertad | Principio de juridicidad |
+| Pueden hacer aquello que no esté prohibido | No puede actuar salvo habilitación jurídica |
+| Prohibiciones = excepciones | Permisiones = atribuciones competenciales |
+
+La Ley de Procedimientos Administrativos expresa esta lógica cuando establece que la competencia de los órganos administrativos resulta, según los casos, de:
+
+- Constitución Nacional;
+- leyes;
+- reglamentos dictados en su consecuencia;
+- otras normas atributivas.
+
+La cuestión decisiva pasa a ser **cómo reconocer esas atribuciones**.
+
+<div class="source">Balbín, p. 149.</div>
+
+
+
+### Competencias expresas
+
+
+El Poder Ejecutivo es competente, en principio, cuando así surge del **texto normativo**.
+
+Balbín denomina expresas a las competencias que nacen del propio texto, es decir, de su **literalidad**.
+
+El modelo puramente expreso parece claro:
+
+> si la potestad está descripta por la norma, el órgano puede ejercerla.
+
+Pero Balbín considera insuficiente una teoría construida exclusivamente sobre potestades expresas. El legislador no puede prever con carácter previo y exhaustivo todas las potestades necesarias para que el Estado realice sus fines.
+
+<div class="source">Balbín, p. 149.</div>
+
+## Por qué no bastan las competencias expresas {.smaller}
+
+### Por qué no bastan las competencias expresas
+
+
+El legislador reconoce objetivos, atribuciones y funciones, pero el funcionamiento administrativo exige resolver situaciones no descriptas literalmente.
+
+Por ello, junto con las facultades textuales, deben admitirse otras que surgen **implícitamente** del sistema.
+
+Balbín vincula esta idea con jurisprudencia de la Corte que admite potestades razonablemente implícitas para cumplir las funciones atribuidas, aunque rechaza que un poder pueda arrogarse facultades mayores que las concedidas.
+
+La dificultad es evidente:
+
+> ¿cómo reconocer lo implícito sin transformar la competencia en una cláusula abierta de poder?
+
+<div class="source">Balbín, pp. 149-150.</div>
+
+
+
+### Competencias implícitas: tres posibles criterios
+
+
+Balbín ensaya tres modos de describirlas:
+
+1. **Facultades necesarias** para ejercer las facultades expresas.
+2. Competencias **necesarias e incluso convenientes** para cumplir los objetivos previstos en las normas.
+3. Potestades implícitas como deducciones razonables y sistemáticas de las facultades expresas.
+
+El problema aumenta a medida que se pasa de “necesario” a “conveniente” u “oportuno”.
+
+Un concepto demasiado amplio puede desvirtuar el principio prohibitivo y convertir la excepción en una autorización general.
+
+<div class="source">Balbín, p. 149.</div>
+
+## El riesgo de una competencia implícita demasiado amp… {.smaller}
+
+### El riesgo de una competencia implícita demasiado amplia
+
+
+Balbín identifica un problema dogmático central.
+
+Si el campo de las permisiones implícitas es excesivamente amplio:
+
+- se desdibuja el principio de juridicidad;
+- el Estado puede terminar haciendo aquello que no fue prohibido;
+- se traslada al Estado una lógica propia de la libertad individual.
+
+Por eso, las potestades implícitas necesitan **criterios de contención**.
+
+El capítulo examina dos herramientas:
+
+- el criterio de **especialidad**;
+- las **cláusulas generales de apoderamiento**.
+
+<div class="source">Balbín, pp. 149-150.</div>
+
+
+
+### El criterio de la especialidad
+
+
+La especialidad fue desarrollada originalmente en el derecho francés.
+
+Balbín la presenta como una posible herramienta para determinar el alcance de las competencias de una persona jurídica estatal.
+
+La operación consiste en identificar:
+
+1. el **objeto** del órgano o ente;
+2. su **finalidad**;
+3. las conductas que guardan relación con ambos.
+
+El criterio permite reconocer ciertas potestades no expresamente detalladas, siempre que se encuentren vinculadas con el ámbito de actuación normativamente asignado.
+
+<div class="source">Balbín, pp. 149-150.</div>
+
+## Cómo opera la especialidad {.smaller}
+
+### Cómo opera la especialidad
+
+
+Balbín propone un razonamiento escalonado:
+
+**Primero:** determinar el objeto y el fin del órgano estatal.
+
+**Segundo:** circunscribir ese objeto y finalidad como marco de actuación.
+
+**Tercero:** verificar si existen límites expresos a las permisiones mediante prohibiciones ordenadas por el legislador.
+
+La especialidad intenta construir un espacio jurídicamente permitido entre:
+
+- las potestades expresas;
+- las potestades implícitas;
+- las prohibiciones.
+
+No es, sin embargo, una autorización ilimitada.
+
+<div class="source">Balbín, pp. 149-150.</div>
+
+
+
+### Las dificultades de la especialidad
+
+
+Balbín considera riesgoso este concepto por la **imprecisión y vaguedad** del objeto o finalidad.
+
+Si se interpretan de modo extensivo:
+
+- el límite externo de las conductas estatales puede expandirse;
+- pueden atribuirse potestades difícilmente reconducibles a una habilitación normativa concreta;
+- el principio de prohibición puede ser sustituido por un principio de permisión.
+
+Por eso, aun cuando el legislador utilice la especialidad —como ocurre en ciertos entes reguladores— el criterio debe manejarse con cautela.
+
+<div class="source">Balbín, pp. 150-151.</div>
+
+## “Ángel Estrada” y especialidad {.smaller}
+
+### “Ángel Estrada” y especialidad
+
+
+Balbín utiliza el caso **“Ángel Estrada” (2005)** para ilustrar los límites de la especialidad.
+
+La Corte entendió que el ente regulador era incompetente para resolver sobre daños y perjuicios derivados del incumplimiento de la empresa prestadora del servicio.
+
+El punto relevante para Balbín es que el alcance de las competencias del ente —en especial sus potestades para resolver controversias— debe interpretarse conforme:
+
+- el fin perseguido;
+- la regulación legal;
+- los límites de su especialidad.
+
+La especialidad no permite transformar una competencia regulatoria en una potestad ilimitada.
+
+<div class="source">Balbín, p. 150.</div>
+
+
+
+### Cláusulas generales de apoderamiento
+
+
+Otra técnica consiste en reconocer potestades mediante fórmulas generales.
+
+Balbín observa que las cláusulas generales permiten mayor flexibilidad, pero presentan un inconveniente: **determinar su profundidad o densidad**.
+
+El problema es semejante al de las competencias implícitas:
+
+- una fórmula demasiado abierta puede diluir el principio de juridicidad;
+- una fórmula demasiado estrecha puede impedir el funcionamiento administrativo razonable.
+
+Por ello, las cláusulas deben ser interpretadas dentro del marco del ordenamiento y de las finalidades normativamente reconocidas.
+
+<div class="source">Balbín, p. 150.</div>
+
+## Criterio propuesto por Balbín {.smaller}
+
+### Criterio propuesto por Balbín
+
+
+Balbín formula finalmente su propio criterio.
+
+El intérprete debe:
+
+1. buscar y describir las **facultades expresas** que surgen literalmente de los textos;
+2. si la competencia surge del texto, reconocer al órgano como competente;
+3. si no surge expresamente, preguntarse cuáles son las facultades que pueden deducirse razonablemente de las normas;
+4. admitir el poder implícito sólo si es **plausible y razonable** deducirlo del texto expreso y resulta necesario para ejercer las facultades explícitas.
+
+Si satisface esos estándares, el órgano es competente y el acto consecuente es válido.
+
+<div class="source">Balbín, pp. 150-151.</div>
+
+
+
+### Tipos de competencia
+
+
+Balbín clasifica la competencia según cuatro criterios:
+
+| Criterio | Qué delimita |
+|---|---|
+| **Materia** | contenido de las facultades estatales |
+| **Territorio** | ámbito físico de actuación |
+| **Tiempo** | plazo o período de ejercicio |
+| **Grado** | nivel jerárquico del órgano |
+
+La clasificación tiene consecuencias jurídicas porque el defecto competencial incide en la validez del acto administrativo.
+
+La competencia no es una cualidad genérica: debe verificarse en cada una de estas dimensiones.
+
+<div class="source">Balbín, p. 151.</div>
+
+## Competencia por materia {.smaller}
+
+### Competencia por materia
+
+
+La competencia material depende del **contenido de las facultades estatales**.
+
+Ejemplos de Balbín:
+
+- el Ministerio de Ambiente tiene competencia por razón de la materia en asuntos ambientales;
+- no tiene competencia en cuestiones institucionales ajenas a ese ámbito.
+
+La materia conecta la potestad con el **sector de actuación** atribuido al órgano.
+
+No alcanza con que el asunto sea de interés público: debe pertenecer al ámbito material que el ordenamiento asignó a esa estructura.
+
+<div class="source">Balbín, p. 151.</div>
+
+
+
+### Competencia por territorio y por tiempo
+
+
+### Territorio
+Define el ámbito físico dentro del cual puede ejercerse la potestad.
+
+Balbín ejemplifica con:
+
+- un ministro provincial respecto de su provincia;
+- normas de tránsito de aplicación nacional, provincial o local.
+
+### Tiempo
+La potestad puede estar atribuida por un **plazo determinado**.
+
+Ejemplo: facultades conferidas al Poder Ejecutivo para ejercerlas dentro de un período concreto.
+
+Una potestad materialmente atribuida puede, por tanto, resultar inválidamente ejercida si se actúa **fuera del marco temporal o territorial**.
+
+<div class="source">Balbín, p. 151.</div>
+
+## Competencia por grado {.smaller}
+
+### Competencia por grado
+
+
+La competencia por grado se vincula con el **nivel jerárquico** del órgano administrativo.
+
+Dos órganos pueden tener coincidencia en:
+
+- materia;
+- territorio;
+- tiempo;
+
+pero ocupar niveles diferentes en la estructura.
+
+La categoría se vuelve especialmente relevante cuando se estudian:
+
+- jerarquía;
+- delegación;
+- avocación;
+- resolución de conflictos de competencia.
+
+El grado expresa la posición del órgano dentro de una estructura ordenada verticalmente.
+
+<div class="source">Balbín, p. 151.</div>
+
+
+
+### Conflictos de competencia
+
+
+Puede ocurrir que dos órganos se consideren competentes sobre el mismo asunto: **conflicto positivo**.
+
+O que ambos entiendan que no deben conocer: **conflicto negativo**.
+
+La Ley de Procedimientos Administrativos establece reglas para resolverlos. Balbín distingue, entre otros:
+
+- conflictos entre órganos dependientes de un mismo ministro;
+- conflictos entre órganos que actúan en el ámbito de su competencia;
+- conflictos entre órganos que actúan fuera de ella;
+- conflictos entre ministerios o entre órganos y entes de distintos ministerios.
+
+El conflicto es, en definitiva, una disputa sobre la **titularidad o ejercicio de la potestad**.
+
+<div class="source">Balbín, pp. 151-152.</div>
+
+## III. Personas jurídicas públicas y privadas {.smaller}
+
+### III. Personas jurídicas públicas y privadas
+
+
+
+### La distinción público / privado
+
+
+Balbín introduce la distinción porque resulta relevante para determinar el **régimen jurídico aplicable**.
+
+El Código Civil y Comercial clasifica personas jurídicas en:
+
+- públicas;
+- privadas.
+
+Pero la enumeración legal no resuelve por sí sola todos los problemas. Existen sujetos cuya ubicación no resulta evidente, especialmente cuando aparecen combinados elementos públicos y privados.
+
+Por eso, Balbín examina distintos **criterios de clasificación**.
+
+<div class="source">Balbín, pp. 152-153.</div>
+
+## Criterios posibles de clasificación {.smaller}
+
+### Criterios posibles de clasificación
+
+
+Balbín enumera diversos criterios desarrollados históricamente:
+
+- origen o creación por ley;
+- fines o intereses públicos;
+- potestades públicas;
+- control estatal;
+- grado de integración con el Estado.
+
+Ninguno funciona de modo completamente satisfactorio si se lo utiliza de manera aislada.
+
+El Código tampoco ofrece un criterio general que explique exhaustivamente la diferencia. En consecuencia, el análisis debe reconstruir la posición del sujeto a partir de su **régimen normativo y características concretas**.
+
+<div class="source">Balbín, pp. 152-153.</div>
+
+
+
+### El criterio de Balbín: pertenencia al Estado
+
+
+Balbín considera que el criterio distintivo más relevante es la **estructura estatal**.
+
+La pregunta central es:
+
+> ¿el sujeto es parte del Estado y de sus estructuras?
+
+El proceso de configuración del ente como “sujeto estatal” es jurídicamente complejo y puede combinar:
+
+- mayor dependencia respecto del Estado;
+- control estatal;
+- dependencia financiera;
+- composición de sus órganos.
+
+Por eso no basta una etiqueta legal aislada: hay que examinar la **inserción institucional efectiva**.
+
+<div class="source">Balbín, p. 153.</div>
+
+## Sujetos públicos estatales y no estatales {.smaller}
+
+### Sujetos públicos estatales y no estatales
+
+
+Balbín distingue dentro de las personas públicas:
+
+### Personas públicas estatales
+Integran el Estado y su organización.
+
+### Personas públicas no estatales
+No forman parte del Estado, aunque pueden:
+
+- cumplir fines públicos;
+- ejercer potestades públicas atribuidas por ley;
+- estar sujetas a controles especiales.
+
+El carácter público no equivale necesariamente a carácter estatal.
+
+Esta distinción permite evitar una identificación automática entre **derecho público** y **pertenencia orgánica al Estado**.
+
+<div class="source">Balbín, pp. 153-154.</div>
+
+
+
+### Rasgos de las personas públicas estatales
+
+
+Balbín identifica, entre otros, estos rasgos:
+
+- persiguen fines públicos;
+- ejercen potestades regulatorias;
+- pueden recibir financiamiento estatal;
+- se encuentran sometidas a controles públicos;
+- su organización y funcionamiento están regulados por normas públicas.
+
+La intensidad de cada rasgo puede variar.
+
+Por eso el análisis es **sistemático**, no puramente nominal.
+
+<div class="source">Balbín, pp. 153-154.</div>
+
+## IV. Modelos de organización estatal {.smaller}
+
+### IV. Modelos de organización estatal
+
+
+
+### Del Estado liberal a la organización compleja
+
+
+El Estado como organización burocrática se consolidó en el siglo XIX, inicialmente en el marco del Estado liberal.
+
+Con el crecimiento de funciones y estructuras, el modelo se volvió más complejo.
+
+Balbín describe un movimiento histórico:
+
+1. estructuras inicialmente **centralizadas**;
+2. posterior incorporación de técnicas **descentralizadas**;
+3. coexistencia actual de distintos modelos.
+
+El resultado contemporáneo no es un sistema puro, sino una organización compleja que combina **centralización, desconcentración y descentralización**.
+
+<div class="source">Balbín, pp. 154-155.</div>
+
+## Centralización y descentralización: criterio básico {.smaller}
+
+### Centralización y descentralización: criterio básico
+
+
+El criterio básico es el **grado de autonomía** de las unidades respecto del núcleo central.
+
+En términos generales:
+
+- la centralización concentra competencias en órganos de un mismo sujeto estatal;
+- la descentralización atribuye competencias a **entes con personalidad jurídica propia**.
+
+Balbín aclara que los Estados modernos no responden en términos absolutos a uno u otro modelo.
+
+Las técnicas se entremezclan y cumplen funciones diferentes dentro del aparato administrativo.
+
+<div class="source">Balbín, pp. 154-155.</div>
+
+
+
+### Constitución y organización del Poder Ejecutivo
+
+
+Balbín señala pautas constitucionales relevantes:
+
+- el Presidente es jefe supremo de la Nación, jefe del gobierno y responsable político de la administración general;
+- el Jefe de Gabinete ejerce la administración general del país;
+- los ministros son responsables de los actos que legalizan y solidariamente de los que acuerdan;
+- existen entes descentralizados y autónomos con reconocimiento constitucional.
+
+El modelo constitucional combina así:
+
+- estructuras centrales;
+- distribución de funciones;
+- descentralización;
+- autonomía.
+
+<div class="source">Balbín, p. 155.</div>
+
+## Órgano y ente: distinción estructural {.smaller}
+
+### Órgano y ente: distinción estructural
+
+
+Balbín utiliza dos instrumentos conceptuales básicos:
+
+### Órgano
+Forma parte del sujeto Estado. **No tiene personalidad jurídica propia.**
+
+### Ente
+Es un sujeto de derecho con **personalidad jurídica propia**.
+
+El Estado nacional y las entidades autárquicas, por ejemplo, son personas jurídicas de derecho público distintas.
+
+Esta distinción es decisiva para comprender la diferencia entre:
+
+- desconcentrar funciones dentro de una misma persona;
+- descentralizar funciones hacia otra persona jurídica.
+
+<div class="source">Balbín, pp. 155-156.</div>
+
+
+
+### V. Los órganos estatales
+
+## El órgano como centro de imputación {.smaller}
+
+### El órgano como centro de imputación
+
+
+El órgano es un centro de imputación de competencias estatales integrado por:
+
+- personas físicas;
+- recursos;
+- potestades.
+
+No tiene personalidad jurídica propia, aunque puede poseer cierto grado de subjetividad que le permite interactuar con otros órganos.
+
+Ejemplo de Balbín: un ministerio puede requerir información a otro ministerio.
+
+La falta de personalidad propia no impide, entonces, que existan **relaciones interorgánicas**.
+
+<div class="source">Balbín, p. 156.</div>
+
+
+
+### Órganos centralizados
+
+
+Los órganos forman parte de la Administración Pública de carácter centralizado.
+
+Se encuentran ubicados en distintos niveles respecto de órganos superiores, especialmente el Presidente.
+
+Balbín insiste en dos ideas simultáneas:
+
+- el órgano no es un sujeto separado del Estado;
+- sí puede actuar como unidad diferenciada dentro de la organización.
+
+La teoría del órgano permite trasladar su voluntad al Estado, siempre dentro del marco jurídico correspondiente.
+
+<div class="source">Balbín, p. 156.</div>
+
+## VI. Jerarquía {.smaller}
+
+### VI. Jerarquía
+
+
+
+### ¿Qué es la jerarquía?
+
+
+La jerarquía es el modo en que se relacionan los órganos dentro de una estructura ordenada en **niveles o grados**.
+
+Un órgano se ubica respecto de otros en posición:
+
+- superior;
+- inferior;
+- coordinada.
+
+Balbín considera la jerarquía como un criterio instrumental básico para articular órganos dentro de una unidad.
+
+La relación jerárquica supone **poder relativo** de unos órganos sobre otros, pero ese poder debe analizarse jurídicamente y no como una subordinación ilimitada.
+
+<div class="source">Balbín, pp. 156-157.</div>
+
+## Contenido de la jerarquía {.smaller}
+
+### Contenido de la jerarquía
+
+
+Balbín enumera atribuciones del superior respecto del inferior:
+
+1. designar y remover al agente;
+2. dictar instrucciones generales;
+3. dar órdenes particulares;
+4. coordinar funciones;
+5. controlar o fiscalizar;
+6. aplicar sanciones;
+7. transferir competencias mediante delegación;
+8. avocarse a cuestiones del inferior;
+9. revocar, modificar o sustituir decisiones mediante recursos;
+10. resolver conflictos de competencia entre inferiores.
+
+La jerarquía es, por tanto, un **haz de poderes jurídicos**, no una noción puramente organizacional.
+
+<div class="source">Balbín, p. 157.</div>
+
+
+
+### Los límites de la jerarquía
+
+
+Balbín advierte que la descripción teórica debe matizarse según el ordenamiento vigente.
+
+No todas las potestades jerárquicas pueden ejercerse siempre ni con igual alcance.
+
+Por ejemplo:
+
+- el superior no puede ejercer competencias del inferior cuando éstas son **exclusivas**;
+- delegación y avocación están sometidas a reglas legales;
+- la relación debe reconstruirse desde las normas concretas.
+
+La jerarquía no permite al superior absorber sin límites las competencias de todos los órganos inferiores.
+
+<div class="source">Balbín, pp. 157-158.</div>
+
+## Dirección y jerarquía {.smaller}
+
+### Dirección y jerarquía
+
+
+Balbín distingue el concepto de **dirección**.
+
+La dirección comprende atribuciones como:
+
+- fijar objetivos;
+- ordenar actividades;
+- coordinar;
+- controlar;
+- establecer criterios de actuación.
+
+Pero el poder de dirección puede aparecer también en relaciones que **no son estrictamente jerárquicas**.
+
+Esto es importante para comprender la relación entre el Estado central y entes descentralizados: allí puede existir conducción o control sin que haya jerarquía plena.
+
+<div class="source">Balbín, pp. 157-158.</div>
+
+
+
+### Coordinación entre órganos
+
+
+Balbín también diferencia la **coordinación**, que opera entre órganos con funciones materialmente diferentes.
+
+El modelo de coordinación busca:
+
+- ordenar actividades;
+- evitar superposiciones;
+- integrar decisiones;
+- lograr coherencia en políticas públicas.
+
+A diferencia de la jerarquía, no presupone necesariamente subordinación.
+
+Puede existir coordinación entre órganos con competencias distintas sin que uno posea poder de mando sobre el otro.
+
+<div class="source">Balbín, p. 158.</div>
+
+## VII. Los entes estatales {.smaller}
+
+### VII. Los entes estatales
+
+
+
+### Concepto de ente
+
+
+El ente estatal es un **centro de imputación de competencias** desempeñado por un sujeto jurídico con personalidad propia e inserto en las estructuras del Estado.
+
+La descentralización se apoya en esta categoría.
+
+Balbín distingue entes según sus fines:
+
+- industriales o comerciales;
+- no industriales o comerciales.
+
+Y, dentro de estos últimos, estructuras:
+
+- autárquicas;
+- autónomas.
+
+La clasificación se relaciona con el grado de independencia respecto del Estado central.
+
+<div class="source">Balbín, p. 158.</div>
+
+## Ente autárquico y ente autónomo {.smaller}
+
+### Ente autárquico y ente autónomo
+
+
+Balbín plantea una diferencia de grado.
+
+### Ente autárquico
+Posee personalidad jurídica y un ámbito propio de actuación, pero mantiene vínculos más intensos de dependencia y control respecto del Estado central.
+
+### Ente autónomo
+Dispone de un campo de potestades más amplio y un grado mayor de independencia.
+
+El capítulo rechaza una lectura puramente nominal. Para conocer el alcance real debe examinarse el **régimen jurídico concreto** del ente.
+
+<div class="source">Balbín, pp. 158-159.</div>
+
+
+
+### Relación entre Estado central y ente descentralizado
+
+
+La relación no es claramente jerárquica porque el ente posee personalidad propia.
+
+Balbín entiende que el vínculo debe analizarse en términos de **control o tutela**.
+
+Ese control puede comprender:
+
+- designación de agentes de órganos máximos;
+- directivas generales;
+- revisión de actos en ciertos casos;
+- intervención del ente ante situaciones graves.
+
+El alcance depende del marco normativo particular.
+
+<div class="source">Balbín, p. 159.</div>
+
+## Rasgos comunes de los entes descentralizados {.smaller}
+
+### Rasgos comunes de los entes descentralizados
+
+
+Balbín identifica elementos comunes:
+
+1. personalidad jurídica;
+2. asignación legal de recursos;
+3. patrimonio estatal;
+4. gobierno, conducción y administración propios;
+5. control estatal.
+
+Los entes pueden clasificarse, además, en:
+
+- autárquicos;
+- no autárquicos;
+- autónomos.
+
+La personalidad propia es el dato que separa estructuralmente **descentralización** de **desconcentración**.
+
+<div class="source">Balbín, p. 159.</div>
+
+
+
+### ¿Quién puede crear entes descentralizados?
+
+
+Balbín presenta una discusión constitucional.
+
+Un argumento sostiene que corresponde al **Congreso**, en tanto ejerce potestades legislativas y posee atribuciones presupuestarias.
+
+Sin embargo, en la práctica institucional argentina han existido entes creados:
+
+- por ley;
+- por decretos del Poder Ejecutivo.
+
+Balbín muestra así una tensión entre la construcción teórica y la práctica institucional, especialmente cuando la creación compromete patrimonio y recursos públicos.
+
+<div class="source">Balbín, p. 159.</div>
+
+## VIII. Técnicas de distribución de competencias {.smaller}
+
+### VIII. Técnicas de distribución de competencias
+
+
+
+### Distribuir no es redistribuir
+
+
+Balbín distingue dos grupos de técnicas.
+
+### Distribución
+Definen la estructura general del aparato administrativo:
+
+- **desconcentración**;
+- **descentralización**.
+
+### Redistribución
+Modifican transitoriamente el ejercicio de competencias ya atribuidas:
+
+- **delegación**;
+- **avocación**.
+
+La diferencia es central: las primeras crean un modelo estructural; las segundas alteran el ejercicio dentro de ese modelo sin reconstruirlo por completo.
+
+<div class="source">Balbín, pp. 159-160.</div>
+
+## Desconcentración {.smaller}
+
+### Desconcentración
+
+
+La desconcentración distribuye competencias entre **órganos** de una misma persona estatal.
+
+Sus características según Balbín:
+
+- fuente normativa de alcance general;
+- transferencia decidida por el constituyente, legislador o Poder Ejecutivo, no por el propio órgano;
+- reconocimiento de titularidad y no simple ejercicio;
+- atribución de un bloque de competencias;
+- carácter permanente;
+- posibilidad de dejarla sin efecto mediante modificación normativa.
+
+Es una técnica estructural.
+
+<div class="source">Balbín, pp. 159-160.</div>
+
+
+
+### Descentralización
+
+
+La descentralización transfiere competencias a **entes con personalidad jurídica propia**.
+
+Comparte con la desconcentración varios rasgos:
+
+- carácter estructural;
+- fuente normativa general;
+- atribución estable;
+- transferencia de titularidad;
+- vocación de permanencia.
+
+La diferencia sustancial es el destinatario:
+
+| Desconcentración | Descentralización |
+|---|---|
+| Órgano | Ente |
+| Misma persona jurídica | Persona jurídica distinta |
+| Estructura interna | Centro descentralizado |
+
+<div class="source">Balbín, pp. 159-160.</div>
+
+## Titularidad y ejercicio {.smaller}
+
+### Titularidad y ejercicio
+
+
+Balbín utiliza esta distinción para separar las técnicas.
+
+### Desconcentración / descentralización
+Se traslada la **titularidad** de la competencia.
+
+### Delegación / avocación
+Se modifica sólo el **ejercicio**.
+
+Esta diferencia explica por qué delegación y avocación tienen carácter:
+
+- particular;
+- transitorio;
+- revocable.
+
+No reconstruyen el mapa estructural de competencias, sino que alteran quién las ejerce en un caso o ámbito determinado.
+
+<div class="source">Balbín, pp. 160-161.</div>
+
+
+
+### IX. Delegación
+
+## Concepto de delegación {.smaller}
+
+### Concepto de delegación
+
+
+La delegación consiste en la transferencia de una **competencia específica o puntual** desde un órgano a otro.
+
+Balbín destaca:
+
+- el órgano delegado no recibe la titularidad;
+- recibe sólo el **ejercicio**;
+- el órgano delegante conserva la titularidad.
+
+Por ello, la delegación no es equivalente a desconcentración.
+
+Su lógica es funcional y transitoria, no estructural.
+
+<div class="source">Balbín, pp. 160-161.</div>
+
+
+
+### Caracteres de la delegación
+
+
+Balbín sistematiza la delegación como técnica:
+
+1. transfiere ejercicio, no titularidad;
+2. recae sobre competencias específicas;
+3. tiene carácter transitorio;
+4. se realiza mediante actos de alcance particular;
+5. el delegante puede reasumir el ejercicio;
+6. exige habilitación jurídica.
+
+El punto decisivo es este último.
+
+En principio, las competencias son **improrrogables**. La delegación constituye una excepción y necesita autorización del ordenamiento.
+
+<div class="source">Balbín, pp. 160-161.</div>
+
+## ¿Puede delegarse sin norma habilitante? {.smaller}
+
+### ¿Puede delegarse sin norma habilitante?
+
+
+Balbín rechaza una concepción amplia basada simplemente en la jerarquía.
+
+El ordenamiento debe autorizar la delegación.
+
+La Ley de Procedimientos Administrativos parte del principio de improrrogabilidad y admite delegación o sustitución sólo cuando se encuentren autorizadas.
+
+Por eso:
+
+> la relación jerárquica, por sí sola, no crea una potestad general de delegar.
+
+La excepción debe tener fundamento normativo.
+
+<div class="source">Balbín, p. 161.</div>
+
+
+
+### Delegación de firma y gestión
+
+
+Balbín distingue figuras que pueden confundirse con la delegación.
+
+### Delegación de firma
+No existe transferencia de facultades: simplemente otro agente firma por orden del titular.
+
+### Encomienda de gestión
+Se transfiere un aspecto material de la actuación, pero no necesariamente la decisión jurídica.
+
+Estas figuras deben diferenciarse de la delegación propiamente dicha, donde existe traslado del **ejercicio de una competencia**.
+
+<div class="source">Balbín, p. 161.</div>
+
+## X. Avocación {.smaller}
+
+### X. Avocación
+
+
+
+### Concepto
+
+
+La avocación es el movimiento inverso a la delegación.
+
+El superior atrae hacia sí el **conocimiento de un asunto** que corresponde al inferior.
+
+Al igual que la delegación:
+
+- altera el ejercicio;
+- no la titularidad;
+- recae sobre competencias específicas;
+- tiene carácter transitorio;
+- se realiza mediante actos particulares.
+
+Es otra técnica de redistribución singular de competencias.
+
+<div class="source">Balbín, pp. 161-162.</div>
+
+## Régimen de la avocación {.smaller}
+
+### Régimen de la avocación
+
+
+Balbín señala que la LPA adopta una regla diferente de la delegación:
+
+- la avocación es procedente salvo que una norma expresa disponga lo contrario.
+
+Pero existen límites.
+
+No corresponde cuando:
+
+- la competencia fue atribuida al inferior en razón de una **idoneidad especialmente reconocida**;
+- existe una atribución exclusiva que impide la sustitución.
+
+Por eso, tampoco la avocación puede interpretarse como absorción ilimitada de competencias por el superior.
+
+<div class="source">Balbín, pp. 161-162.</div>
+
+
+
+### XI. Presidente, Jefe de Gabinete y ministros
+
+## Presidente: ubicación constitucional {.smaller}
+
+### Presidente: ubicación constitucional
+
+
+Balbín recuerda que el Presidente posee, entre otras, atribuciones vinculadas con:
+
+- jefatura del Estado;
+- jefatura del gobierno;
+- responsabilidad política de la administración general;
+- reglamentación;
+- nombramientos;
+- supervisión del ejercicio de funciones administrativas.
+
+Tras la reforma de 1994, la Administración no queda concentrada conceptualmente en una sola jefatura.
+
+Balbín distingue entre **jefatura de gobierno** y **jefatura de la Administración**.
+
+<div class="source">Balbín, p. 162.</div>
+
+
+
+### Presidente y Administración
+
+
+Para Balbín:
+
+- el Presidente, como jefe del Gobierno, ejerce potestades con contenido político;
+- el Jefe de Gabinete ejerce la administración general del país.
+
+No obstante, el Presidente conserva competencias relevantes sobre la Administración, entre ellas:
+
+- supervisión;
+- resolución de ciertas cuestiones;
+- atribuciones constitucionales propias.
+
+El modelo no debe interpretarse como una separación absoluta, sino como una **distribución constitucional de funciones**.
+
+<div class="source">Balbín, p. 162.</div>
+
+## Jefe de Gabinete {.smaller}
+
+### Jefe de Gabinete
+
+
+La reforma de 1994 incorporó al Jefe de Gabinete.
+
+Balbín agrupa sus funciones en tres planos:
+
+| Funciones | Contenido |
+|---|---|
+| Administrativas | administración general, recaudación y ejecución presupuestaria |
+| Legislativas | reglamentos y participación en determinadas materias |
+| Institucionales | concurrencia al Congreso, informes y relaciones políticas |
+
+El diseño buscó introducir una figura con responsabilidad propia dentro del Poder Ejecutivo.
+
+<div class="source">Balbín, pp. 162-163.</div>
+
+
+
+### Relación Presidente – Jefe de Gabinete
+
+
+Balbín discute si existe una relación jerárquica plena.
+
+Su criterio es que entre ambos existe una relación de **coordinación**, no una jerarquía clásica.
+
+Razones:
+
+- el Jefe de Gabinete posee competencias propias de origen constitucional;
+- el Presidente no puede simplemente absorberlas;
+- existe, sin embargo, una relación política intensa porque el Presidente lo designa y remueve.
+
+La estructura constitucional combina autonomía funcional relativa y dependencia política.
+
+<div class="source">Balbín, pp. 163-164.</div>
+
+## Jefe de Gabinete y ministros {.smaller}
+
+### Jefe de Gabinete y ministros
+
+
+Balbín examina también la relación entre Jefe de Gabinete y ministros.
+
+Su criterio es que el Jefe de Gabinete es **superior jerárquico de los ministros**, principalmente porque:
+
+- ejerce la administración general;
+- es responsable político ante el Poder Legislativo.
+
+No obstante, el régimen presenta complejidades normativas y ha sido objeto de distintas regulaciones reglamentarias.
+
+Para esta unidad interesa retener la ubicación organizativa y la distribución de competencias.
+
+<div class="source">Balbín, p. 164.</div>
+
+
+
+### XII. Entes autónomos
+
+## Una construcción con mayor independencia {.smaller}
+
+### Una construcción con mayor independencia
+
+
+Balbín describe la incorporación de entes con **mayor grado de descentralización y autonomía** respecto del Estado central.
+
+La reforma constitucional de 1994 reconoce distintos sujetos con características autonómicas, entre ellos:
+
+- entes reguladores;
+- universidades nacionales;
+- Auditoría General;
+- Defensor del Pueblo;
+- Ministerio Público;
+- Ciudad Autónoma de Buenos Aires;
+- municipios, en el marco federal.
+
+No todos poseen idéntico régimen. “Autonomía” debe interpretarse según cada estructura.
+
+<div class="source">Balbín, pp. 164-165.</div>
+
+
+
+### Fundamento de la autonomía
+
+
+Balbín vincula la autonomía con:
+
+- **especialización**;
+- participación;
+- necesidad de estructuras capaces de desarrollar políticas públicas con cierto grado de independencia.
+
+El modelo autónomo no supone poderes ilimitados.
+
+La autonomía se construye jurídicamente mediante competencias propias y garantías institucionales frente a la interferencia de otros órganos.
+
+<div class="source">Balbín, p. 165.</div>
+
+## Potestad reglamentaria de los entes autónomos {.smaller}
+
+### Potestad reglamentaria de los entes autónomos
+
+
+Los entes autónomos pueden ejercer potestades reglamentarias dentro de su **ámbito de especialidad**.
+
+Balbín aclara:
+
+- no existe una potestad reglamentaria autónoma general;
+- la potestad se encuentra vinculada con las competencias y fines del ente;
+- el reglamento debe guardar relación con el marco legal.
+
+La autonomía amplía el espacio de decisión, pero no rompe la subordinación al ordenamiento.
+
+<div class="source">Balbín, p. 165.</div>
+
+
+
+### Designación y remoción
+
+
+Un rasgo relevante es el procedimiento de designación y remoción de los miembros.
+
+Balbín destaca que deben existir mecanismos que garanticen:
+
+- idoneidad;
+- independencia de criterio;
+- estabilidad relativa.
+
+Las fórmulas pueden variar:
+
+- nombramiento por el Poder Ejecutivo;
+- mecanismos con intervención legislativa;
+- concursos;
+- procedimientos especiales.
+
+La autonomía institucional depende también de **cómo se conforman sus órganos de gobierno**.
+
+<div class="source">Balbín, pp. 165-166.</div>
+
+## Control de los entes autónomos {.smaller}
+
+### Control de los entes autónomos
+
+
+Autonomía no significa ausencia de control.
+
+Balbín reconoce:
+
+- control judicial;
+- fiscalización externa;
+- controles propios del régimen particular.
+
+Pero el control del Poder Ejecutivo es **mínimo o prácticamente inexistente** en comparación con los entes autárquicos.
+
+Ejemplo: las universidades nacionales se encuentran sujetas a control judicial, pero no a un poder jerárquico ordinario del Ejecutivo.
+
+<div class="source">Balbín, p. 166.</div>
+
+
+
+### Financiamiento y capacidad de gestión
+
+
+Balbín agrega dos rasgos.
+
+### Financiamiento
+Los entes autónomos disponen de un sistema de financiamiento propio o especialmente regulado.
+
+### Capacidad de gestión
+Pueden:
+
+- planificar políticas;
+- administrar recursos materiales y humanos;
+- ejercer potestades regulatorias;
+- desarrollar su actividad con un margen relevante de independencia.
+
+La autonomía se refleja, por tanto, en una combinación de **potestades, recursos y garantías organizativas**.
+
+<div class="source">Balbín, p. 166.</div>
+
+## XIII. Provincias {.smaller}
+
+### XIII. Provincias
+
+
+
+### Autonomía provincial
+
+
+Las provincias son centros de poder autónomo que dictan su propia Constitución dentro del marco del art. 5 CN.
+
+Deben garantizar:
+
+- sistema representativo republicano;
+- principios y garantías constitucionales;
+- administración de justicia;
+- régimen municipal;
+- educación primaria.
+
+Balbín recuerda que las provincias conservan todo el poder **no delegado** al Gobierno federal.
+
+La autonomía provincial tiene, por tanto, fundamento directo en la Constitución.
+
+<div class="source">Balbín, pp. 166-167.</div>
+
+## Poderes provinciales {.smaller}
+
+### Poderes provinciales
+
+
+Balbín distingue:
+
+### Poderes exclusivos provinciales
+Aquellos no delegados al Estado federal.
+
+### Poderes concurrentes
+Ejercidos por provincias y Estado federal.
+
+### Poderes prohibidos
+Ámbitos que la Constitución excluye de la actuación provincial.
+
+Los conflictos deben resolverse conforme el sistema federal, la distribución constitucional de competencias y, cuando corresponda, la supremacía de las normas federales.
+
+<div class="source">Balbín, pp. 166-167.</div>
+
+
+
+### Coordinación federal y conflictos
+
+
+Balbín destaca que ciertos poderes son concurrentes o superpuestos.
+
+Ejemplos constitucionales incluyen:
+
+- promoción de industria;
+- inmigración;
+- infraestructura;
+- desarrollo económico y social.
+
+En estos ámbitos puede aparecer conflicto normativo.
+
+La solución exige:
+
+- coordinación;
+- interpretación constitucional;
+- prevalencia federal cuando la Constitución así lo determine.
+
+El federalismo es también un **sistema de distribución de competencias**.
+
+<div class="source">Balbín, p. 167.</div>
+
+## XIV. Municipios {.smaller}
+
+### XIV. Municipios
+
+
+
+### De la autarquía a la autonomía municipal
+
+
+Balbín reconstruye la evolución jurisprudencial.
+
+Antes de 1994 se discutía si los municipios eran:
+
+- autárquicos;
+- autónomos.
+
+La Corte sostuvo inicialmente una visión autárquica y luego avanzó hacia el reconocimiento de rasgos autonómicos.
+
+La reforma constitucional de 1994 resolvió expresamente la cuestión mediante el art. 123 CN, que reconoce la **autonomía municipal**.
+
+<div class="source">Balbín, pp. 168-170.</div>
+
+## Alcance de la autonomía municipal {.smaller}
+
+### Alcance de la autonomía municipal
+
+
+El art. 123 exige que las provincias aseguren autonomía municipal en los órdenes:
+
+- institucional;
+- político;
+- administrativo;
+- económico;
+- financiero.
+
+Pero Balbín advierte que el concepto es **indeterminado**.
+
+El alcance concreto depende de:
+
+- Constitución Nacional;
+- constituciones provinciales;
+- legislación local;
+- jurisprudencia.
+
+Existe un contenido mínimo constitucionalmente protegido, pero su intensidad puede variar.
+
+<div class="source">Balbín, pp. 168-170.</div>
+
+
+
+### Autonomía municipal y recursos
+
+
+Balbín dedica especial atención al componente económico-financiero.
+
+La autonomía no puede ser puramente formal: requiere recursos suficientes para ejercer las competencias municipales.
+
+La jurisprudencia citada por Balbín rechaza regulaciones provinciales que:
+
+- vacíen la capacidad financiera;
+- interfieran de manera irrazonable;
+- impidan el ejercicio efectivo de competencias locales.
+
+La autonomía supone, por ello, **capacidad institucional y material de autogobierno**.
+
+<div class="source">Balbín, pp. 169-170.</div>
+
+## Competencias municipales y límites {.smaller}
+
+### Competencias municipales y límites
+
+
+Balbín analiza conflictos sobre:
+
+- tasas;
+- servicios públicos;
+- regulación local;
+- competencias concurrentes.
+
+El criterio no consiste en reconocer un poder municipal ilimitado.
+
+Debe verificarse:
+
+1. competencia atribuida;
+2. marco constitucional provincial;
+3. normas federales aplicables;
+4. existencia de interferencias incompatibles.
+
+La autonomía se ejerce dentro de un sistema **federal y coordinado**.
+
+<div class="source">Balbín, pp. 169-171.</div>
+
+
+
+### XV. Ciudad Autónoma de Buenos Aires
+
+## Un caso particular {.smaller}
+
+### Un caso particular
+
+
+Balbín considera a CABA un caso singular, que no puede ubicarse sin más dentro de las categorías de provincia o municipio.
+
+La Constitución de 1994 reconoce:
+
+- régimen de gobierno autónomo;
+- facultades propias de legislación;
+- jurisdicción;
+- elección directa del jefe de gobierno.
+
+La Ciudad posee un **estatus constitucional específico**.
+
+<div class="source">Balbín, pp. 171-172.</div>
+
+
+
+### Autonomía de CABA y límites federales
+
+
+La autonomía de la Ciudad convive con una limitación particular:
+
+> mientras Buenos Aires sea Capital de la República, el Estado nacional debe garantizar sus intereses.
+
+La ley 24.588 estableció límites y reservas federales.
+
+Balbín examina cómo la jurisprudencia fue reconociendo progresivamente un alcance más intenso a la autonomía porteña, especialmente respecto de:
+
+- jurisdicción;
+- competencias judiciales;
+- organización institucional.
+
+<div class="source">Balbín, pp. 171-172.</div>
+
+## XVI. Universidades públicas estatales {.smaller}
+
+### XVI. Universidades públicas estatales
+
+
+
+### ¿Autárquicas o autónomas?
+
+
+Balbín señala que históricamente se discutió la naturaleza jurídica de las universidades nacionales.
+
+La reforma de 1994 zanjó el problema al reconocer expresamente su **autonomía y autarquía**.
+
+La Ley de Educación Superior desarrolló luego el alcance de:
+
+- autonomía académica;
+- autonomía institucional;
+- potestades organizativas;
+- autarquía económica.
+
+La universidad no es simplemente un ente autárquico sujeto a dirección ordinaria del Poder Ejecutivo.
+
+<div class="source">Balbín, pp. 172-173.</div>
+
+## Consecuencias de la autonomía universitaria {.smaller}
+
+### Consecuencias de la autonomía universitaria
+
+
+Balbín destaca:
+
+1. potestad reglamentaria propia dentro de su ámbito;
+2. inexistencia de recurso administrativo de alzada ordinario ante el ministro;
+3. revisión de actos por el Poder Judicial;
+4. ausencia de conflicto interadministrativo ordinario entre universidad y Poder Ejecutivo.
+
+La autonomía universitaria reduce intensamente los poderes de tutela del Ejecutivo.
+
+<div class="source">Balbín, pp. 172-173.</div>
+
+
+
+### La discusión sobre la Ley de Bases
+
+
+Balbín analiza críticamente las modificaciones introducidas por la Ley de Bases al régimen universitario.
+
+El autor considera que ciertas disposiciones reglamentarias que pretenden sujetar universidades a regulaciones de la Administración Central afectan la autonomía reconocida constitucionalmente.
+
+Su conclusión es clara:
+
+> el régimen universitario debe interpretarse desde la **autonomía constitucional**, no desde una subordinación administrativa ordinaria.
+
+<div class="source">Balbín, p. 173.</div>
+
+## XVII. Entes con fines industriales o comerciales {.smaller}
+
+### XVII. Entes con fines industriales o comerciales
+
+
+
+### Del Estado empresario a las formas societarias
+
+
+Balbín reconstruye la evolución histórica de las empresas públicas.
+
+A mediados del siglo XX se utilizaron distintas figuras:
+
+- sociedades de economía mixta;
+- empresas del Estado;
+- sociedades del Estado;
+- sociedades anónimas con participación estatal.
+
+El objetivo fue encontrar estructuras capaces de desarrollar actividades industriales, comerciales o de servicios combinando:
+
+- intervención estatal;
+- gestión empresarial;
+- distintos grados de aplicación del derecho público y privado.
+
+<div class="source">Balbín, pp. 173-175.</div>
+
+## Sociedades de economía mixta {.smaller}
+
+### Sociedades de economía mixta
+
+
+El decreto-ley 15.349/1946 reguló las sociedades de economía mixta.
+
+Rasgos señalados por Balbín:
+
+- integración por Estado y capital privado;
+- finalidad de interés general;
+- combinación de aportes públicos y privados;
+- estructura societaria.
+
+El modelo buscó articular la participación estatal con inversión privada dentro de una misma persona jurídica.
+
+<div class="source">Balbín, pp. 173-174.</div>
+
+
+
+### Empresas del Estado
+
+
+La Ley 13.653 reguló las empresas del Estado.
+
+Se trataba de entidades:
+
+- descentralizadas;
+- con funciones comerciales o industriales;
+- sujetas a un régimen especial;
+- con controles estatales.
+
+El modelo reflejaba un Estado que asumía directamente actividades económicas y servicios públicos mediante personas jurídicas diferenciadas de la Administración central.
+
+<div class="source">Balbín, p. 174.</div>
+
+## Sociedades del Estado {.smaller}
+
+### Sociedades del Estado
+
+
+La Ley 20.705 creó el régimen de sociedades del Estado.
+
+Características destacadas:
+
+- participación estatal exclusiva;
+- posibilidad de adoptar forma societaria;
+- aplicación predominante de reglas privadas;
+- exclusión de participación privada en el capital;
+- imposibilidad de ser declaradas en quiebra bajo el régimen originario.
+
+El modelo pretendía dotar de mayor flexibilidad operativa a actividades empresariales estatales.
+
+<div class="source">Balbín, p. 174.</div>
+
+
+
+### Privatizaciones y transformación de los años noventa
+
+
+Durante la década de 1990 el Estado transfirió empresas y sociedades al sector privado mediante el proceso de privatizaciones.
+
+Balbín destaca que muchas estructuras fueron transformadas previamente en sociedades anónimas para facilitar ese proceso.
+
+La evolución muestra que las formas organizativas no son neutrales:
+
+- responden a decisiones sobre el rol del Estado;
+- determinan régimen jurídico;
+- condicionan controles;
+- facilitan o dificultan transferencias patrimoniales.
+
+<div class="source">Balbín, pp. 174-175.</div>
+
+## El retorno de sociedades estatales {.smaller}
+
+### El retorno de sociedades estatales
+
+
+A comienzos del siglo XXI reaparece una decisión estatal de asumir actividades económicas mediante sociedades.
+
+Balbín señala la creación o recuperación de estructuras societarias estatales en distintos sectores.
+
+El modelo elegido con frecuencia es la **sociedad anónima cuyo capital pertenece exclusivamente al Estado** o en la que éste posee participación mayoritaria.
+
+Se trata de una forma que combina:
+
+- organización societaria;
+- propiedad estatal;
+- fines públicos;
+- controles públicos.
+
+<div class="source">Balbín, p. 175.</div>
+
+
+
+### XVIII. Casos societarios analizados por Balbín
+
+## Correo Oficial {.smaller}
+
+### Correo Oficial
+
+
+Balbín estudia el caso del **Correo Oficial de la República Argentina S.A.**
+
+Fue creado como sociedad anónima luego de la rescisión del contrato de concesión.
+
+El decreto de creación dispuso:
+
+- aplicación del derecho privado;
+- sometimiento a controles estatales;
+- régimen de contratación con referencias a normativa pública.
+
+El caso ilustra la convivencia de una **forma societaria privada** con controles y finalidades públicas.
+
+<div class="source">Balbín, pp. 175-176.</div>
+
+
+
+### ENARSA
+
+
+Balbín analiza ENARSA, creada por ley 25.943.
+
+La sociedad fue constituida para desarrollar actividades vinculadas con:
+
+- energía;
+- hidrocarburos;
+- transporte;
+- comercialización;
+- explotación de recursos.
+
+El Estado nacional debía mantener una participación accionaria mínima relevante.
+
+El caso muestra una sociedad comercial utilizada como **instrumento de política pública sectorial**.
+
+<div class="source">Balbín, p. 176.</div>
+
+## ARSAT {.smaller}
+
+### ARSAT
+
+
+ARSAT fue creada por ley 26.092.
+
+Balbín destaca como objeto:
+
+- diseño y desarrollo de satélites;
+- construcción y lanzamiento;
+- operación;
+- prestación y comercialización de servicios satelitales.
+
+La sociedad se rige básicamente por la Ley General de Sociedades, pero queda sometida también a controles públicos y reglas específicas.
+
+Nuevamente aparece un régimen **mixto**, determinado por la forma societaria y por el carácter estatal de la actividad y el capital.
+
+<div class="source">Balbín, p. 176.</div>
+
+
+
+### AySA
+
+
+Balbín estudia Agua y Saneamientos Argentinos.
+
+El Estado nacional posee la participación accionaria mayoritaria y los trabajadores una participación minoritaria.
+
+La sociedad:
+
+- se rige por normas societarias;
+- presta un servicio público;
+- se encuentra sometida a reglas y controles públicos específicos;
+- presenta límites a la transferencia de la participación estatal.
+
+La forma societaria no elimina la relevancia del **objeto público y del control estatal**.
+
+<div class="source">Balbín, p. 177.</div>
+
+## Aerolíneas Argentinas {.smaller}
+
+### Aerolíneas Argentinas
+
+
+Balbín examina la recuperación estatal de Aerolíneas Argentinas y Austral mediante adquisición y posterior expropiación de acciones.
+
+El propósito fue garantizar el servicio público de transporte aerocomercial.
+
+El caso permite observar:
+
+- participación estatal;
+- expropiación;
+- asistencia financiera;
+- utilización de una sociedad comercial para cumplir objetivos públicos.
+
+La sociedad conserva forma privada, pero su inserción estatal modifica el análisis jurídico.
+
+<div class="source">Balbín, p. 177.</div>
+
+
+
+### YPF
+
+
+Balbín analiza la expropiación del 51 % del paquete accionario de YPF mediante la Ley 26.741.
+
+La ley declaró de interés público nacional y objetivo prioritario:
+
+- autoabastecimiento de hidrocarburos;
+- exploración;
+- explotación;
+- industrialización;
+- transporte;
+- comercialización.
+
+Balbín destaca que la Corte, en materia de acceso a la información, reconoció el carácter público o estatal de YPF a pesar de su forma societaria.
+
+<div class="source">Balbín, pp. 177-178.</div>
+
+## Conclusión sobre las sociedades estatales {.smaller}
+
+### Conclusión sobre las sociedades estatales
+
+
+Balbín rechaza una respuesta uniforme.
+
+La participación del Estado en una sociedad no modifica por sí sola su carácter societario, pero el régimen aplicable debe reconstruirse considerando:
+
+- propiedad del capital;
+- objeto;
+- finalidad;
+- controles;
+- recursos;
+- potestades;
+- marco normativo específico.
+
+Las figuras utilizadas históricamente son diversas y cada una posee un régimen propio.
+
+<div class="source">Balbín, pp. 178-179.</div>
+
+
+
+### XIX. Sociedades anónimas de propiedad estatal
+
+## El nuevo modelo {.smaller}
+
+### El nuevo modelo
+
+
+Balbín identifica un modelo contemporáneo: sociedades anónimas cuyo capital pertenece al Estado, pero que no encajan enteramente en las figuras históricas tradicionales.
+
+La cuestión es determinar qué derecho se aplica.
+
+No basta responder “derecho privado” por la forma societaria ni “derecho público” por la propiedad estatal.
+
+Balbín propone un análisis **por piezas**, atendiendo a la materia concreta.
+
+<div class="source">Balbín, pp. 178-179.</div>
+
+
+
+### Cuatro piezas para analizar el régimen
+
+
+Balbín propone distinguir:
+
+1. disposiciones de la **Ley General de Sociedades**;
+2. reglas sobre **contrataciones**;
+3. **principios del derecho público**;
+4. en caso de indeterminación, reglas y principios del **derecho privado**.
+
+La solución es deliberadamente compleja porque estas sociedades se ubican en una zona de intersección.
+
+El régimen jurídico no se determina por una única etiqueta.
+
+<div class="source">Balbín, pp. 178-179.</div>
+
+## Control sobre sociedades estatales {.smaller}
+
+### Control sobre sociedades estatales
+
+
+Balbín destaca la presencia de controles públicos.
+
+Según la estructura y participación estatal pueden intervenir:
+
+- Sindicatura General de la Nación;
+- Auditoría General de la Nación;
+- otros órganos de control.
+
+El patrimonio y los recursos públicos justifican mecanismos de fiscalización incluso cuando la forma organizativa es societaria.
+
+La aplicación del derecho privado no equivale a **ausencia de control público**.
+
+<div class="source">Balbín, pp. 178-180.</div>
+
+
+
+### Contrataciones
+
+
+Balbín observa que los regímenes más recientes excluyen en ciertos casos la aplicación directa de leyes generales de contrataciones u obras públicas a sociedades estatales.
+
+Sin embargo, ello no implica libertad absoluta.
+
+Deben considerarse:
+
+- principios jurídicos;
+- transparencia;
+- razonabilidad;
+- finalidad pública;
+- régimen específico.
+
+La exclusión de un procedimiento general no elimina el **marco de juridicidad**.
+
+<div class="source">Balbín, pp. 179-180.</div>
+
+## XX. Participación estatal minoritaria {.smaller}
+
+### XX. Participación estatal minoritaria
+
+
+
+### Cuando el Estado no controla
+
+
+Balbín distingue el supuesto en que el Estado posee sólo una **participación accionaria minoritaria**.
+
+En principio, esas sociedades son comerciales con participación estatal ocasional.
+
+No deben confundirse con sociedades dirigidas o controladas por el Estado.
+
+El grado de participación importa porque modifica:
+
+- capacidad de decisión;
+- control;
+- finalidad;
+- régimen aplicable.
+
+<div class="source">Balbín, p. 180.</div>
+
+## Interés público y participación minoritaria {.smaller}
+
+### Interés público y participación minoritaria
+
+
+Balbín recuerda que incluso con participación minoritaria pueden existir razones de interés público.
+
+El Estado puede ingresar al capital de sociedades privadas por motivos:
+
+- económicos;
+- estratégicos;
+- previsionales;
+- de política pública.
+
+Ejemplo analizado: participaciones accionarias que llegaron a la ANSES luego de la unificación del sistema previsional.
+
+La participación accionaria debe estudiarse según su **origen, alcance y finalidad**.
+
+<div class="source">Balbín, pp. 180-181.</div>
+
+
+
+### XXI. Privatizaciones: nuevo régimen
+
+## La Ley de Bases y el retorno de las privatizaciones {.smaller}
+
+### La Ley de Bases y el retorno de las privatizaciones
+
+
+Balbín analiza la reforma introducida por la Ley 27.742 y el decreto 695/2024.
+
+El nuevo régimen retoma la privatización como herramienta de transformación estatal.
+
+La privatización puede comprender:
+
+- transferencia total o parcial;
+- liquidación;
+- privatización de actividades;
+- concesiones;
+- transformación societaria.
+
+El régimen se apoya en la declaración legislativa de empresas o actividades sujetas a privatización.
+
+<div class="source">Balbín, pp. 181-182.</div>
+
+
+
+### Principios del procedimiento de privatización
+
+
+Balbín identifica principios legales:
+
+- transparencia;
+- competencia;
+- máxima concurrencia;
+- gobierno abierto;
+- eficiencia;
+- máxima publicidad;
+- difusión.
+
+Estos principios deben orientar el procedimiento y funcionan como criterios de interpretación y control.
+
+La privatización no es una decisión puramente económica: se encuentra sometida a un **procedimiento jurídico reglado**.
+
+<div class="source">Balbín, pp. 181-183.</div>
+
+## Facultades del Poder Ejecutivo {.smaller}
+
+### Facultades del Poder Ejecutivo
+
+
+El régimen autoriza al Poder Ejecutivo a adoptar distintas medidas, entre ellas:
+
+- transferir titularidad, derechos o administración;
+- constituir sociedades;
+- reformar estatutos;
+- disolver entes;
+- negociar contratos y concesiones;
+- otorgar permisos;
+- establecer mecanismos respecto de deudas y créditos;
+- reorganizar estructuras para hacer posible la privatización.
+
+Balbín muestra así la amplitud de las potestades atribuidas dentro del procedimiento legal.
+
+<div class="source">Balbín, pp. 182-183.</div>
+
+
+
+### Procedimiento de privatización
+
+
+Balbín sistematiza una secuencia:
+
+1. aplicación de principios rectores;
+2. informe del ministro o secretario competente;
+3. tasación;
+4. intervención de la Comisión Bicameral;
+5. autorización del Poder Ejecutivo;
+6. convocatoria;
+7. publicidad;
+8. pliego;
+9. preadjudicación;
+10. adjudicación;
+11. control posterior.
+
+El procedimiento combina decisión política, valoración económica, competencia, publicidad y control.
+
+<div class="source">Balbín, p. 183.</div>
+
+## Control en las privatizaciones {.smaller}
+
+### Control en las privatizaciones
+
+
+Balbín destaca la intervención de:
+
+- Comisión Bicameral;
+- Procuración del Tesoro en determinados instrumentos;
+- SIGEN;
+- Auditoría General de la Nación.
+
+El control de la AGN se ubica luego de finalizado el proceso y se encuentra delimitado por el marco legal.
+
+La transparencia y el control son piezas estructurales del régimen, no simples complementos.
+
+<div class="source">Balbín, pp. 183-184.</div>
+
+
+
+### Programa de Propiedad Participada
+
+
+El régimen contempla la posibilidad de incorporar a trabajadores mediante programas de propiedad participada.
+
+Balbín analiza la participación accionaria de empleados como una de las alternativas dentro de la transformación de empresas.
+
+El mecanismo introduce un componente de **participación económica** dentro del proceso de privatización.
+
+<div class="source">Balbín, pp. 183-184.</div>
+
+## Transformación de empresas estatales {.smaller}
+
+### Transformación de empresas estatales
+
+
+El nuevo régimen prevé transformar empresas y sociedades estatales en sociedades anónimas.
+
+Balbín señala que el decreto reglamentario extiende esta transformación a distintas figuras y procura sujetarlas a un marco societario común.
+
+La transformación busca reducir la diversidad histórica de tipos societarios estatales y acercarlos a la figura de la sociedad anónima.
+
+<div class="source">Balbín, p. 184.</div>
+
+
+
+### XXII. Nuevo modelo de Administración Pública
+
+## De la organización clásica a un modelo abierto {.smaller}
+
+### De la organización clásica a un modelo abierto
+
+
+En el capítulo IX, Balbín propone incorporar al derecho administrativo nuevos:
+
+- principios;
+- conceptos;
+- instrumentos jurídicos.
+
+El modelo clásico, construido alrededor del poder estatal y los derechos individuales, debe ampliarse para responder a:
+
+- nuevos derechos;
+- participación;
+- transparencia;
+- control;
+- procedimientos plurales;
+- nuevas tecnologías.
+
+La organización administrativa deja de ser exclusivamente vertical y burocrática.
+
+<div class="source">Balbín, pp. 186-187.</div>
+
+
+
+### Derechos de incidencia colectiva y organización
+
+
+Balbín vincula la transformación organizativa con la ampliación del catálogo de derechos.
+
+Los derechos colectivos exigen mecanismos capaces de:
+
+- incorporar múltiples intereses;
+- permitir participación;
+- abrir procedimientos;
+- controlar decisiones;
+- garantizar información.
+
+El diseño organizativo debe adaptarse a un Estado que ya no se relaciona solamente con individuos aislados, sino con **grupos, colectivos y bienes de incidencia colectiva**.
+
+<div class="source">Balbín, pp. 186-187.</div>
+
+## Principios del nuevo modelo {.smaller}
+
+### Principios del nuevo modelo
+
+
+Balbín enumera principios que deben orientar la actuación estatal:
+
+1. publicidad y acceso a la información;
+2. objetividad;
+3. imparcialidad;
+4. certeza y previsibilidad;
+5. responsabilidad;
+6. eficacia y eficiencia.
+
+Estos principios se suman a los principios tradicionales del procedimiento administrativo, como:
+
+- juridicidad;
+- razonabilidad;
+- proporcionalidad;
+- buena fe;
+- transparencia;
+- tutela administrativa efectiva.
+
+<div class="source">Balbín, p. 187.</div>
+
+
+
+### Razones del nuevo modelo organizativo
+
+
+Balbín identifica problemas del modelo burocrático tradicional:
+
+- distancia entre gobernantes y gobernados;
+- crisis de representatividad;
+- estructuras cerradas;
+- necesidad de mayor legitimidad;
+- complejidad creciente de la actuación estatal.
+
+La respuesta es un modelo:
+
+- transparente;
+- descentralizado;
+- participativo;
+- eficiente.
+
+La participación no aparece como un adorno institucional, sino como un **criterio de organización y legitimación**.
+
+<div class="source">Balbín, pp. 187-188.</div>
+
+## XXIII. Transparencia {.smaller}
+
+### XXIII. Transparencia
+
+
+
+### Transparencia como presupuesto de participación
+
+
+Para Balbín, no existe participación efectiva sin transparencia.
+
+La transparencia comprende:
+
+- publicidad;
+- objetividad;
+- imparcialidad;
+- previsibilidad.
+
+El ciudadano necesita conocer:
+
+- cómo actúa el Estado;
+- qué información utiliza;
+- qué decisiones adopta;
+- con qué fundamentos.
+
+La apertura informativa transforma la relación entre Administración y sociedad.
+
+<div class="source">Balbín, pp. 188-189.</div>
+
+## Instrumentos de transparencia {.smaller}
+
+### Instrumentos de transparencia
+
+
+Balbín recorre distintos instrumentos normativos:
+
+- Convención Interamericana contra la Corrupción;
+- Convención de Naciones Unidas contra la Corrupción;
+- Ley de Ética Pública;
+- mecanismos de publicidad de intereses;
+- régimen de contrataciones;
+- acceso a la información;
+- principios procedimentales.
+
+La transparencia se proyecta tanto sobre la conducta de los funcionarios como sobre **procedimientos, contratos y decisiones estatales**.
+
+<div class="source">Balbín, pp. 188-189.</div>
+
+
+
+### XXIV. Participación en la Administración
+
+## ¿Por qué participar? {.smaller}
+
+### ¿Por qué participar?
+
+
+Balbín ofrece varias justificaciones.
+
+La participación:
+
+- democratiza la Administración;
+- permite incorporar intereses diversos;
+- mejora la información disponible;
+- puede aumentar la legitimidad;
+- favorece el control;
+- contribuye a la eficacia y eficiencia.
+
+La Administración deja de concebirse como una estructura que decide exclusivamente desde dentro y pasa a admitir **intervención de los destinatarios**.
+
+<div class="source">Balbín, pp. 189-192.</div>
+
+
+
+### Democracia y Administración
+
+
+Balbín discute si los procedimientos participativos son constitucionalmente necesarios.
+
+El modelo representativo no exige que toda decisión administrativa sea tomada directamente por los ciudadanos.
+
+Pero la participación puede justificarse por el **valor epistémico del método democrático**:
+
+- incorpora más información;
+- amplía perspectivas;
+- permite discusión;
+- reduce decisiones cerradas;
+- mejora la razonabilidad institucional.
+
+No sustituye la representación: la complementa.
+
+<div class="source">Balbín, pp. 189-191.</div>
+
+## Participación y legitimidad {.smaller}
+
+### Participación y legitimidad
+
+
+Balbín advierte que el aparato burocrático puede quedar distante de la ciudadanía.
+
+Las técnicas participativas buscan reducir esa distancia.
+
+El modelo pretende:
+
+- abrir procedimientos;
+- evitar captura burocrática;
+- transparentar decisiones;
+- incorporar intereses afectados;
+- fortalecer legitimidad.
+
+La Administración participativa se presenta como una alternativa a una organización exclusivamente **vertical y cerrada**.
+
+<div class="source">Balbín, pp. 190-191.</div>
+
+
+
+### Participación y defensa de derechos
+
+
+La participación también funciona como herramienta de **tutela administrativa efectiva**.
+
+Permite al interesado:
+
+- ser oído;
+- ofrecer argumentos;
+- aportar prueba;
+- conocer posiciones;
+- incidir antes de la decisión.
+
+Balbín vincula estas garantías con el debido procedimiento administrativo y con el derecho de defensa.
+
+La participación puede tener, entonces, una dimensión democrática y otra **garantista**.
+
+<div class="source">Balbín, p. 191.</div>
+
+## Participación y motivación {.smaller}
+
+### Participación y motivación
+
+
+La participación obliga a la Administración a **justificar más intensamente** sus decisiones.
+
+Si existen argumentos, observaciones y posiciones incorporadas al procedimiento, la decisión debe responder de manera fundada.
+
+Balbín vincula participación con:
+
+- motivación;
+- razonabilidad;
+- control.
+
+Una decisión abierta al debate requiere una explicación capaz de mostrar por qué se eligió una alternativa y no otra.
+
+<div class="source">Balbín, pp. 191-192.</div>
+
+
+
+### Participación, eficacia y eficiencia
+
+
+Balbín sostiene que la participación y el método discursivo pueden aumentar la probabilidad de acierto.
+
+Al incorporar:
+
+- información;
+- experiencia;
+- intereses;
+- conocimiento de afectados;
+
+la Administración puede mejorar la calidad de sus decisiones.
+
+La participación no se opone necesariamente a la eficiencia: puede contribuir a ella si el procedimiento está adecuadamente diseñado.
+
+<div class="source">Balbín, p. 192.</div>
+
+## Publicidad de los actos de gobierno {.smaller}
+
+### Publicidad de los actos de gobierno
+
+
+La publicidad es otra técnica que contribuye a:
+
+- transparencia;
+- conocimiento;
+- control.
+
+La Administración debe hacer visibles sus actos y fundamentos.
+
+La publicidad permite que ciudadanos y órganos de control puedan examinar el ejercicio del poder.
+
+En el nuevo modelo, publicidad, participación y acceso a la información forman un **conjunto funcional**.
+
+<div class="source">Balbín, p. 192.</div>
+
+
+
+### XXV. Tipos de participación
+
+## Clasificaciones {.smaller}
+
+### Clasificaciones
+
+
+Balbín propone distintas clasificaciones.
+
+### Según integración a la estructura
+- estructurales;
+- no estructurales.
+
+### Según sujeto
+- individuales;
+- plurales.
+
+### Según modalidad
+- negociadoras;
+- decisorias;
+- consultivas;
+- controladoras.
+
+La clasificación muestra que “participar” no describe una única técnica.
+
+Cada mecanismo otorga un **grado diferente de intervención**.
+
+<div class="source">Balbín, p. 192.</div>
+
+
+
+### Participación estructural y no estructural
+
+
+### Estructural
+Los particulares se incorporan a estructuras administrativas.
+
+Ejemplo: representación de usuarios en determinados órganos.
+
+### No estructural
+La participación ocurre desde fuera de la estructura permanente.
+
+Ejemplos:
+
+- consultas;
+- opiniones;
+- audiencias públicas.
+
+La diferencia radica en si el participante pasa o no a integrar institucionalmente el aparato estatal.
+
+<div class="source">Balbín, p. 192.</div>
+
+## Negociar, decidir, consultar, controlar {.smaller}
+
+### Negociar, decidir, consultar, controlar
+
+
+| Tipo | Alcance |
+|---|---|
+| Negociadora | Los participantes intervienen en un proceso de negociación |
+| Decisoria | Participan en la adopción de la decisión |
+| Consultiva | Emiten opinión sin decidir |
+| Controladora | Fiscalizan decisiones o actuaciones |
+
+Balbín subraya que el efecto jurídico varía.
+
+No toda participación implica poder de decisión. Muchas técnicas buscan **informar, consultar o controlar** sin desplazar al órgano competente.
+
+<div class="source">Balbín, p. 192.</div>
+
+
+
+### XXVI. Acceso a la información pública
+
+## Presupuesto esencial de la participación {.smaller}
+
+### Presupuesto esencial de la participación
+
+
+Balbín considera el acceso a la información un presupuesto esencial.
+
+Sin información no es posible:
+
+- opinar fundadamente;
+- controlar;
+- participar;
+- defender derechos;
+- evaluar políticas públicas.
+
+El derecho de acceso se vincula con:
+
+- libertad de pensamiento y expresión;
+- sistema republicano;
+- publicidad de los actos;
+- participación democrática.
+
+<div class="source">Balbín, pp. 192-193.</div>
+
+
+
+### Principios construidos por la Corte
+
+
+Balbín sistematiza criterios jurisprudenciales:
+
+1. **máxima divulgación**;
+2. el interesado no debe acreditar interés directo;
+3. las restricciones deben ser legales y razonables;
+4. el sujeto requerido tiene deber de información;
+5. deben existir garantías judiciales suficientes;
+6. el acceso debe darse con celeridad y previsibilidad;
+7. el Estado debe generar información.
+
+El acceso es la regla; el secreto, la excepción.
+
+<div class="source">Balbín, pp. 193-195.</div>
+
+## “Asociación Derechos Civiles” {.smaller}
+
+### “Asociación Derechos Civiles”
+
+
+Balbín utiliza el precedente para destacar que la información pública no puede condicionarse a demostrar un interés especial.
+
+El derecho corresponde a las personas como herramienta de participación y control.
+
+La Corte enfatizó:
+
+- publicidad;
+- máxima divulgación;
+- legitimación amplia.
+
+El Estado no puede invertir la regla exigiendo al solicitante justificar por qué quiere conocer información pública.
+
+<div class="source">Balbín, pp. 193-194.</div>
+
+
+
+### “CIPPEC”
+
+
+Balbín destaca que la Corte reconoció un amplio consenso normativo y jurisprudencial sobre el acceso a la información.
+
+La legitimación debe entenderse en sentido amplio.
+
+No corresponde exigir:
+
+- interés calificado;
+- afectación personal;
+- motivo especial.
+
+La información estatal es un instrumento de **control democrático**.
+
+<div class="source">Balbín, p. 194.</div>
+
+## “Giustiniani” {.smaller}
+
+### “Giustiniani”
+
+
+En el caso referido a YPF, Balbín destaca varios puntos:
+
+- el carácter societario no excluye necesariamente el deber de informar;
+- debe atenderse a la participación estatal y al interés público comprometido;
+- el sujeto obligado no puede utilizar su forma jurídica para sustraerse automáticamente del régimen de transparencia.
+
+El precedente conecta organización societaria estatal con **publicidad y control ciudadano**.
+
+<div class="source">Balbín, pp. 194-195.</div>
+
+
+
+### “Garrido” y “Savoia”
+
+
+Balbín utiliza estos precedentes para reforzar el principio de máxima divulgación.
+
+En **Garrido**, la Corte amplió el alcance subjetivo del deber de información.
+
+En **Savoia**, el Tribunal cuestionó el secreto sostenido sobre normas reservadas y exigió una base legal adecuada para restringir el acceso.
+
+La regla general es:
+
+> las excepciones deben interpretarse de manera restrictiva.
+
+<div class="source">Balbín, pp. 195-196.</div>
+
+## Ley 27.275: principios {.smaller}
+
+### Ley 27.275: principios
+
+
+Balbín enumera principios del régimen de acceso:
+
+- presunción de publicidad;
+- transparencia y máxima divulgación;
+- informalismo;
+- máximo acceso;
+- apertura;
+- disociación;
+- no discriminación;
+- máxima premura;
+- gratuidad;
+- control;
+- responsabilidad;
+- alcance limitado de excepciones;
+- buena fe.
+
+La ley convierte los estándares jurisprudenciales en un **régimen general de transparencia**.
+
+<div class="source">Balbín, pp. 195-196.</div>
+
+
+
+### Ley 27.275: legitimación y sujetos obligados
+
+
+La legitimación es amplia:
+
+- toda persona humana o jurídica;
+- pública o privada;
+- sin necesidad de acreditar derecho subjetivo ni interés legítimo;
+- sin patrocinio obligatorio.
+
+Balbín enumera un amplio universo de sujetos obligados, incluyendo:
+
+- Administración central y descentralizada;
+- Poder Legislativo;
+- Poder Judicial;
+- Ministerio Público;
+- empresas y sociedades estatales;
+- concesionarios;
+- partidos, sindicatos y universidades en los términos legales.
+
+<div class="source">Balbín, pp. 195-196.</div>
+
+## Excepciones y procedimiento {.smaller}
+
+### Excepciones y procedimiento
+
+
+El régimen admite excepciones, entre ellas información:
+
+- reservada;
+- confidencial;
+- protegida por razones legales;
+- vinculada con datos sensibles o intereses especialmente tutelados.
+
+Pero deben interpretarse restrictivamente.
+
+La solicitud:
+
+- no requiere motivación;
+- debe responderse dentro del plazo legal;
+- admite vías de reclamo administrativo y judicial.
+
+La arquitectura del sistema busca hacer **operativo**, no meramente declarativo, el derecho.
+
+<div class="source">Balbín, pp. 195-196.</div>
+
+
+
+### XXVII. Bloque normativo de participación
+
+## Constitución y participación {.smaller}
+
+### Constitución y participación
+
+
+Balbín señala que la Constitución contiene cláusulas vinculadas con participación y justificación, entre otras:
+
+- derechos de consumidores y usuarios;
+- audiencias públicas;
+- participación en organismos de control;
+- iniciativa popular;
+- consulta popular.
+
+El problema es determinar qué consecuencias jurídicas se siguen de esas cláusulas en la actuación administrativa.
+
+<div class="source">Balbín, pp. 196-197.</div>
+
+
+
+### ¿Son obligatorias las técnicas participativas?
+
+
+Balbín sostiene que, cuando el texto constitucional reconoce participación en ciertos ámbitos, el Poder Ejecutivo no puede simplemente omitirla.
+
+La discusión pasa por:
+
+- alcance de la cláusula constitucional;
+- existencia de regulación legal;
+- posibilidad de reglamentación;
+- efectos de la omisión.
+
+El principio participativo puede funcionar como un **mandato jurídico**, no sólo como una recomendación de buena administración.
+
+<div class="source">Balbín, pp. 196-197.</div>
+
+## Consecuencias de omitir participación {.smaller}
+
+### Consecuencias de omitir participación
+
+
+Balbín se pregunta qué ocurre cuando una técnica participativa exigida no se cumple.
+
+La respuesta debe construirse según:
+
+- fuente de la obligación;
+- carácter del procedimiento;
+- incidencia de la omisión;
+- reglas de validez del acto.
+
+No toda irregularidad tiene idéntica consecuencia, pero la participación constitucional o legalmente exigida integra el **procedimiento debido**.
+
+<div class="source">Balbín, pp. 196-197.</div>
+
+
+
+### XXVIII. Técnicas concretas de participación
+
+## Audiencias públicas {.smaller}
+
+### Audiencias públicas
+
+
+Balbín desarrolla el régimen del decreto 1172/2003.
+
+La audiencia es un canal de participación que permite a ciudadanos y actores interesados expresar opiniones dentro de un procedimiento.
+
+Características:
+
+- participación abierta;
+- oralidad;
+- publicidad;
+- registro;
+- intervención de interesados;
+- decisión posterior de la autoridad.
+
+La audiencia no sustituye al órgano competente, pero condiciona el modo en que debe **fundar y transparentar** su decisión.
+
+<div class="source">Balbín, pp. 197-198.</div>
+
+
+
+### Audiencia: procedimiento
+
+
+Balbín describe un trámite con:
+
+- convocatoria;
+- publicidad;
+- inscripción;
+- presentación de informes;
+- orden de expositores;
+- desarrollo oral;
+- registro;
+- cierre;
+- informe posterior.
+
+La autoridad debe luego explicar de qué modo tomó en cuenta las opiniones o por qué se apartó de ellas.
+
+La participación, por tanto, genera una **carga argumentativa** sobre la Administración.
+
+<div class="source">Balbín, pp. 197-198.</div>
+
+## Gestión de intereses {.smaller}
+
+### Gestión de intereses
+
+
+La gestión de intereses —lobby— es otra técnica regulada.
+
+Comprende actividades destinadas a influir sobre decisiones públicas en representación de intereses propios o ajenos.
+
+Balbín destaca la importancia de:
+
+- registrar audiencias;
+- identificar participantes;
+- hacer pública la interacción;
+- permitir control social.
+
+La regulación no elimina la influencia: busca **hacerla visible y controlable**.
+
+<div class="source">Balbín, p. 198.</div>
+
+
+
+### Elaboración participativa de normas
+
+
+El procedimiento permite que interesados presenten:
+
+- opiniones;
+- propuestas;
+- observaciones;
+- argumentos.
+
+Puede utilizarse respecto de proyectos de normas administrativas.
+
+La autoridad conserva la decisión final, pero debe incorporar el debate al procedimiento.
+
+La técnica abre la producción normativa administrativa a una instancia de **deliberación pública previa**.
+
+<div class="source">Balbín, p. 198.</div>
+
+## Reuniones abiertas de entes reguladores {.smaller}
+
+### Reuniones abiertas de entes reguladores
+
+
+Balbín menciona el régimen de reuniones abiertas de los entes reguladores.
+
+La finalidad es permitir que la ciudadanía observe el proceso de toma de decisiones.
+
+El mecanismo busca:
+
+- publicidad;
+- control;
+- conocimiento del debate;
+- reducción de opacidad.
+
+No necesariamente concede poder decisorio al público, pero hace visible **cómo decide el órgano colegiado**.
+
+<div class="source">Balbín, p. 198.</div>
+
+
+
+### Presupuesto participativo
+
+
+Balbín incluye el presupuesto participativo como técnica de intervención ciudadana.
+
+Permite incorporar a la población en la elaboración o seguimiento de decisiones sobre asignación de recursos.
+
+El mecanismo expresa una forma más intensa de participación porque conecta deliberación ciudadana con **prioridades presupuestarias**.
+
+<div class="source">Balbín, pp. 198-199.</div>
+
+## XXIX. Administración electrónica {.smaller}
+
+### XXIX. Administración electrónica
+
+
+
+### Tecnología y nuevo perfil del Poder Ejecutivo
+
+
+Balbín incorpora las herramientas tecnológicas como parte del nuevo modelo administrativo.
+
+Objetivos:
+
+- simplificar trámites;
+- agilizar decisiones;
+- facilitar interacción;
+- mejorar transparencia;
+- ampliar acceso;
+- construir una Administración más eficiente.
+
+La tecnología no es sólo una cuestión instrumental: modifica el **modo de relación entre Estado y personas**.
+
+<div class="source">Balbín, pp. 198-200.</div>
+
+## Firma digital y documento digital {.smaller}
+
+### Firma digital y documento digital
+
+
+Balbín distingue:
+
+### Firma digital
+Procedimiento tecnológico que permite verificar autoría e integridad de un documento.
+
+### Documento digital
+Representación digital de actos o hechos, capaz de sustituir el soporte papel en los términos legales.
+
+La Ley de Firma Digital y sus reglamentaciones permiten incorporar estas herramientas al funcionamiento administrativo.
+
+<div class="source">Balbín, pp. 198-199.</div>
+
+
+
+### Expediente electrónico
+
+
+El expediente digital está compuesto por actuaciones en soporte electrónico.
+
+Balbín vincula su desarrollo con:
+
+- Gestión Documental Electrónica;
+- comunicaciones oficiales;
+- documentos electrónicos;
+- trámites a distancia;
+- plataformas de interacción.
+
+El expediente electrónico busca sustituir progresivamente la lógica del papel y facilitar **trazabilidad, acceso y gestión**.
+
+<div class="source">Balbín, pp. 199-200.</div>
+
+## Gobierno electrónico y gobierno abierto {.smaller}
+
+### Gobierno electrónico y gobierno abierto
+
+
+Balbín menciona instrumentos orientados a:
+
+- digitalización;
+- interoperabilidad;
+- accesibilidad;
+- transparencia;
+- participación;
+- simplificación.
+
+El gobierno electrónico no debe reducirse a digitalizar trámites existentes.
+
+Se inserta en un proceso más amplio de transformación del Estado y de la relación con los ciudadanos.
+
+<div class="source">Balbín, pp. 199-200.</div>
+
+
+
+### XXX. Reforma del Estado y Ley de Bases
+
+## Emergencia y reorganización administrativa {.smaller}
+
+### Emergencia y reorganización administrativa
+
+
+Balbín analiza la Ley 27.742, que declaró emergencia en distintas materias y delegó facultades en el Poder Ejecutivo.
+
+Dentro del campo administrativo, la reforma busca:
+
+- mejorar funcionamiento;
+- lograr gestión transparente, ágil, eficiente y eficaz;
+- reducir sobredimensionamiento;
+- controlar estructuras y gasto;
+- reorganizar organismos.
+
+El capítulo vincula estas medidas con la teoría de la organización porque modifican **estructuras, competencias y sujetos estatales**.
+
+<div class="source">Balbín, pp. 200-202.</div>
+
+
+
+### Alcance de la reorganización
+
+
+Balbín señala que la reforma comprende operaciones como:
+
+- reorganización;
+- modificación;
+- transformación;
+- centralización;
+- fusión;
+- escisión;
+- disolución;
+- transferencia.
+
+Las medidas pueden recaer sobre organismos descentralizados, empresas y sociedades.
+
+No se trata sólo de reducir personal o gasto: la reforma altera el **diseño jurídico del aparato estatal**.
+
+<div class="source">Balbín, pp. 200-202.</div>
+
+## Organismos descentralizados {.smaller}
+
+### Organismos descentralizados
+
+
+La Ley de Bases habilita, con límites y exclusiones, modificaciones sobre organismos descentralizados.
+
+Balbín enumera organismos exceptuados del alcance de ciertas facultades.
+
+La reforma debe analizarse distinguiendo:
+
+- estructuras alcanzadas;
+- estructuras excluidas;
+- competencias delegadas;
+- límites legislativos.
+
+El legislador no entregó una autorización absolutamente indiferenciada.
+
+<div class="source">Balbín, pp. 200-201.</div>
+
+
+
+### Empresas públicas y fondos fiduciarios
+
+
+La reforma también permite intervenir sobre:
+
+- empresas públicas;
+- sociedades;
+- fondos fiduciarios.
+
+Las medidas pueden comprender:
+
+- modificación;
+- transformación;
+- fusión;
+- escisión;
+- reorganización;
+- disolución;
+- liquidación.
+
+Balbín muestra que la transformación estatal contemporánea actúa tanto sobre la **Administración clásica** como sobre sus instrumentos empresariales y financieros.
+
+<div class="source">Balbín, pp. 201-202.</div>
+
+## Intervención de organismos {.smaller}
+
+### Intervención de organismos
+
+
+Balbín analiza el régimen que autoriza al Poder Ejecutivo a intervenir organismos descentralizados, empresas y sociedades.
+
+La intervención puede orientarse a:
+
+- reorganización;
+- control;
+- transformación;
+- cumplimiento de objetivos legales.
+
+El régimen prevé designación de interventores y atribución de facultades, sometidas al marco de la ley y su reglamentación.
+
+<div class="source">Balbín, pp. 201-202.</div>
+
+
+
+### Límites al poder de reforma
+
+
+Aunque las facultades son amplias, Balbín insiste en que el Poder Ejecutivo actúa dentro de un marco legislativo.
+
+Deben respetarse:
+
+- exclusiones expresas;
+- competencias no delegadas;
+- derechos;
+- controles;
+- límites constitucionales.
+
+La emergencia y la delegación no eliminan el principio de juridicidad que estructuró todo el capítulo.
+
+<div class="source">Balbín, pp. 200-202.</div>
+
+## XXXI. Síntesis sistemática {.smaller}
+
+### XXXI. Síntesis sistemática
+
+
+
+### Mapa de estructuras
+
+
+| Estructura | Personalidad propia | Técnica | Vínculo predominante |
+|---|---:|---|---|
+| Órgano central | No | Centralización | Jerarquía |
+| Órgano desconcentrado | No | Desconcentración | Jerarquía con competencias propias |
+| Ente descentralizado | Sí | Descentralización | Control / tutela |
+| Ente autárquico | Sí | Descentralización | Mayor control estatal |
+| Ente autónomo | Sí | Descentralización reforzada | Mayor independencia |
+| Sociedad estatal | Sí | Forma societaria | Régimen mixto según caso |
+
+<div class="source">Síntesis construida exclusivamente a partir de Balbín, pp. 155-180.</div>
+
+## Mapa de técnicas competenciales {.smaller}
+
+### Mapa de técnicas competenciales
+
+
+| Técnica | Qué se traslada | Destinatario | Duración |
+|---|---|---|---|
+| Desconcentración | Titularidad | Órgano | Permanente |
+| Descentralización | Titularidad | Ente | Permanente |
+| Delegación | Ejercicio | Otro órgano | Transitoria |
+| Avocación | Ejercicio | Superior | Transitoria |
+
+La pregunta decisiva para distinguirlas es:
+
+> **¿cambia estructuralmente el titular de la competencia o sólo quién la ejerce?**
+
+<div class="source">Balbín, pp. 159-162.</div>
+
+
+
+### Mapa de relaciones organizativas
+
+
+### Jerarquía
+Relación vertical entre órganos de una misma estructura.
+
+### Dirección
+Poder de orientar y conducir, que puede existir incluso sin jerarquía plena.
+
+### Coordinación
+Articulación entre órganos con competencias distintas.
+
+### Control o tutela
+Relación del Estado central con entes descentralizados dotados de personalidad propia.
+
+Estas categorías no son intercambiables: expresan **intensidades y fundamentos jurídicos diferentes**.
+
+<div class="source">Balbín, pp. 156-159.</div>
+
+## Mapa del nuevo modelo {.smaller}
+
+### Mapa del nuevo modelo
+
+
+El modelo contemporáneo de Balbín combina:
+
+**Organización**
+→ centralización + desconcentración + descentralización + autonomía
+
+**Juridicidad**
+→ competencia expresa + implícita razonable + especialidad limitada
+
+**Apertura**
+→ transparencia + publicidad + acceso a la información
+
+**Participación**
+→ audiencias + consultas + elaboración participativa + control social
+
+**Tecnología**
+→ firma digital + expediente electrónico + gobierno electrónico
+
+**Transformación**
+→ reforma estatal + reorganización + privatización + nuevas formas societarias
+
+<div class="source">Balbín, pp. 146-202.</div>
+
+
+
+### Diez ideas para retener
+
+
+1. El Estado es una **persona jurídica única** integrada por órganos.
+2. El órgano combina personas, medios materiales y competencias.
+3. La competencia es la **suma de potestades atribuidas por el ordenamiento**.
+4. Las potestades implícitas sólo son admisibles con criterio restrictivo y razonable.
+5. Materia, territorio, tiempo y grado delimitan la competencia.
+6. Desconcentrar y descentralizar trasladan **titularidad**.
+7. Delegar y avocarse modifican sólo el **ejercicio**.
+8. La autonomía no elimina juridicidad ni control.
+9. Las formas societarias estatales exigen reconstruir un régimen jurídico mixto.
+10. La Administración contemporánea debe ser **transparente, participativa, accesible y eficiente**.
+
+<div class="source">Síntesis final del capítulo de Balbín.</div>
+
+## Cierre {.smaller}
+
+### Cierre
+
+
+
+### Organización administrativa: la pregunta que atraviesa todo el capítulo
+
+
+La teoría de la organización puede reconstruirse mediante una secuencia:
+
+**¿Quién es el sujeto?**  
+→ Estado / ente / sociedad.
+
+**¿Quién actúa?**  
+→ órgano.
+
+**¿Con qué poder?**  
+→ competencia.
+
+**¿Cómo se distribuye?**  
+→ centralización / desconcentración / descentralización.
+
+**¿Cómo puede alterarse su ejercicio?**  
+→ delegación / avocación.
+
+**¿Cómo se controla y legitima?**  
+→ juridicidad / transparencia / participación / información / control.
+
+En Balbín, organizar la Administración significa, finalmente, **organizar jurídicamente el ejercicio del poder público**.
+
+<div class="source">Fuente exclusiva: Carlos F. Balbín, capítulo VIII “La teoría de la organización administrativa” y capítulo IX “El nuevo modelo de Administración Pública y la reforma del Estado”, pp. 146-202 del material suministrado.</div>

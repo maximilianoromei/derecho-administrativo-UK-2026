@@ -72,6 +72,122 @@ Ver presentación
 
 ---
 
-### Próximas clases
+### Clase 3 · Organización administrativa
 
-El material será incorporado a medida que avance el curso.
+::: {.material-grid}
+
+::: {.material-card}
+#### Organización administrativa
+
+<a href="clase3-organizacion.qmd" target="_blank" class="btn-class">
+Ver presentación
+</a>
+:::
+::: {.material-card}
+#### Organización administrativa - Jurisprudencia
+
+<a href="clase3-jurisprudencia.qmd" target="_blank" class="btn-class">
+Ver presentación
+</a>
+:::
+
+:::
+
+---
+
+### Clase 4 · Acto Administrativo
+
+::: {.material-grid}
+
+::: {.material-card}
+#### Acto Administrativo
+
+<a href="clase4-acto-administrativo.qmd" target="_blank" class="btn-class">
+Ver presentación
+</a>
+:::
+
+::: {.material-card}
+#### Acto Administrativo - Jurisprudencia
+
+<a href="clase4-jurisprudencia.qmd" target="_blank" class="btn-class">
+Ver presentación
+</a>
+:::
+
+::: {.material-card}
+#### Acto Administrativo - Jurisprudencia - Presunción de legitimidad
+
+<a href="clase4-jurisprudencia-presuncion-legitimidad.qmd" target="_blank" class="btn-class">
+Ver presentación
+</a>
+:::
+
+---
+
+### Clase 5 · Procedimiento Administrativo
+
+::: {.material-grid}
+
+::: {.material-card}
+#### Procedimiento Administrativo
+
+<a href="clase5-procedimiento-administrativo.qmd" target="_blank" class="btn-class">
+Ver presentación
+</a>
+:::
+
+::: {.material-card}
+#### Agotamiento de la vía administrativa
+
+<a href="agotamiento.via-administrativa.qmd" target="_blank" class="btn-class">
+Ver presentación
+</a>
+:::
+
+---
+
+### Clase 6 · Extinción
+
+::: {.material-grid}
+
+::: {.material-card}
+#### Extinción
+
+<a href="clase6-extincion.qmd" target="_blank" class="btn-class">
+Ver presentación
+</a>
+:::
+
+---
+
+### Clase 7 · Contratos
+
+::: {.material-grid}
+
+::: {.material-card}
+#### Contratos
+
+<a href="contratos_administrativos.qmd" target="_blank" class="btn-class">
+Ver presentación
+</a>
+:::
+
+---
+
+### Clase 8 · Empleo Público
+
+::: {.material-grid}
+
+::: {.material-card}
+#### Empleo Público
+
+<a href="empleo-publico.qmd" target="_blank" class="btn-class">
+Ver presentación
+</a>
+:::
+
+
+:::
+
+---

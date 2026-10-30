@@ -1,0 +1,118 @@
+---
+title: "Teoría general del contrato administrativo"
+subtitle: "Derecho Administrativo · Contratos"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: fade
+    incremental: false
+lang: es
+---
+
+## Punto de partida
+
+- Contrato celebrado por el Estado
+- Finalidad pública
+- Régimen jurídico aplicable
+
+<small>Referencia: Balbín, pp. 332–334</small>
+
+---
+
+## La dificultad de definir
+
+- Criterio subjetivo: presencia estatal
+- Criterio objetivo: finalidad y objeto
+- Criterio jurídico: régimen público
+
+<small>Referencia: Balbín, pp. 333–334</small>
+
+---
+
+## Cláusulas exorbitantes
+
+- Prerrogativas estatales
+- Poderes de dirección, modificación y extinción
+- Fundamento y límites legales
+
+<small>Referencia: Balbín, pp. 334–336; Decreto 1023, art. 12</small>
+
+---
+
+## ¿Todos los contratos estatales son iguales?
+
+- Contratos administrativos
+- Contratos estatales sujetos a derecho privado
+- Regímenes especiales
+
+<small>Referencia: Balbín, pp. 336–337; Decreto 1023, arts. 1, 4 y 5</small>
+
+---
+
+## Mapa normativo
+
+- Decreto delegado 1023/2001: régimen general
+- Decreto 1030/2016: reglamentación de bienes y servicios
+- Pliegos y normas especiales
+
+<small>Referencia: Decreto 1023, arts. 1–5; Decreto 1030, art. 1 y anexo art. 1</small>
+
+---
+
+## Interés público y buena administración
+
+- Necesidad real
+- Uso eficiente de recursos
+- Resultados verificables
+
+<small>Referencia: Balbín, pp. 337–339; Decreto 1023, arts. 1 y 3</small>
+
+---
+
+## Principios del artículo 3
+
+- Razonabilidad y eficiencia
+- Concurrencia y competencia
+- Transparencia, publicidad, igualdad y responsabilidad
+
+<small>Referencia: Decreto 1023, art. 3; Balbín, pp. 337–339</small>
+
+---
+
+## Competencia, capacidad y objeto
+
+- Competencia del órgano
+- Capacidad y habilidad del proveedor
+- Objeto determinado, lícito y posible
+
+<small>Referencia: Balbín, pp. 342–345; Decreto 1023, art. 28</small>
+
+---
+
+## Un caso para aplicar
+
+- Hospital público compra equipamiento
+- ¿Qué normas rigen?
+- ¿Qué principios pueden afectarse?
+
+<small>Referencia: Caso didáctico elaborado para la clase</small>
+
+---
+
+## Síntesis y lectura
+
+- Contrato estatal no equivale siempre a un mismo régimen
+- Identificar fuente y competencia
+- Aplicar principios durante todo el vínculo
+
+<small>Referencia: Balbín, pp. 332–345; Decreto 1023, arts. 1–5</small>
+
+---
+
+## Fuentes y enlaces
+
+- Carlos F. Balbín, *La teoría del contrato administrativo*, capítulo XVII, material suministrado.
+- [Decreto 1023/2001 — texto actualizado](https://www.argentina.gob.ar/normativa/nacional/decreto-1023-2001-68396/actualizacion)
+- [Decreto 1030/2016 — texto actualizado](https://www.argentina.gob.ar/normativa/nacional/decreto-1030-2016-265506/actualizacion)
+- [COMPR.AR — portal oficial](https://comprar.gob.ar/)

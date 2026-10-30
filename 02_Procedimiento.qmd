@@ -1,0 +1,118 @@
+---
+title: "Procedimiento de selección y COMPR.AR"
+subtitle: "Derecho Administrativo · Contratos"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: fade
+    incremental: false
+lang: es
+---
+
+## Del requerimiento al contrato
+
+- Necesidad
+- Selección del proveedor
+- Adjudicación y perfeccionamiento
+
+<small>Referencia: Balbín, pp. 346–365; Decreto 1030, anexo</small>
+
+---
+
+## Planificación y presupuesto
+
+- Definir necesidad y objeto
+- Previsión del gasto
+- Estimar condiciones y plazos
+
+<small>Referencia: Balbín, pp. 346–347; Decreto 1030, anexo</small>
+
+---
+
+## Pliegos: reglas del juego
+
+- Condiciones generales
+- Condiciones particulares
+- Especificaciones técnicas
+
+<small>Referencia: Balbín, pp. 347–349; Decreto 1030, anexo</small>
+
+---
+
+## Regla y excepciones
+
+- Licitación o concurso como regla
+- Subasta y otras modalidades
+- Contratación directa: causal acreditada
+
+<small>Referencia: Decreto 1023, arts. 24 y 25; Balbín, pp. 349–351</small>
+
+---
+
+## Licitación y concurso
+
+- Licitación: comparación económica y técnica
+- Concurso: especial énfasis en capacidades
+- Igualdad entre oferentes
+
+<small>Referencia: Balbín, pp. 349–350; Decreto 1023, art. 25</small>
+
+---
+
+## Convocatoria y ofertas
+
+- Publicidad del llamado
+- Consultas y aclaraciones
+- Presentación y apertura
+
+<small>Referencia: Balbín, pp. 351–363; Decreto 1030, anexo</small>
+
+---
+
+## Evaluación y adjudicación
+
+- Análisis de admisibilidad
+- Dictamen de evaluación
+- Decisión fundada de adjudicación
+
+<small>Referencia: Balbín, pp. 363–364; Decreto 1030, anexo</small>
+
+---
+
+## Perfeccionamiento contractual
+
+- Adjudicar no es ejecutar
+- Notificación de orden de compra o instrumento
+- Inicio de obligaciones
+
+<small>Referencia: Balbín, p. 364; Decreto 1023, art. 20; Decreto 1030, anexo</small>
+
+---
+
+## COMPR.AR: recorrido práctico
+
+- Portal de compras electrónicas
+- Buscar procedimientos publicados
+- Leer pliegos, fechas y resultados
+
+<small>Referencia: https://comprar.gob.ar/; Decreto 1023, contrataciones electrónicas</small>
+
+---
+
+## Caso final y repaso
+
+- Servicio de ascensores
+- Pliego, competencia y adjudicación
+- Buscar un procedimiento en COMPR.AR
+
+<small>Referencia: Caso didáctico; Decreto 1023, arts. 3, 24 y 25</small>
+
+---
+
+## Fuentes y enlaces
+
+- Carlos F. Balbín, *La teoría del contrato administrativo*, capítulo XVII, material suministrado.
+- [Decreto 1023/2001 — texto actualizado](https://www.argentina.gob.ar/normativa/nacional/decreto-1023-2001-68396/actualizacion)
+- [Decreto 1030/2016 — texto actualizado](https://www.argentina.gob.ar/normativa/nacional/decreto-1030-2016-265506/actualizacion)
+- [COMPR.AR — portal oficial](https://comprar.gob.ar/)

@@ -1,0 +1,8 @@
+.reveal .slides section { text-align: left; }
+.reveal .slides section h2 { color: #153a64; font-size: 1.35em; margin-bottom: .55em; }
+.reveal .slides section p, .reveal .slides section li { line-height: 1.28; }
+.reveal .slides section table { font-size: .67em; width: 100%; display: table; }
+.reveal .slides section th { background: #e8f0f8; color: #183b60; }
+.reveal .slides section td, .reveal .slides section th { padding: .35em .5em; }
+.reveal .slides section { max-height: 92vh; overflow-y: auto !important; scrollbar-width: thin; }
+.reveal .slide-number { font-size: 16px; }

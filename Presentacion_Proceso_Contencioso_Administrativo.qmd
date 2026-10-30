@@ -1,0 +1,757 @@
+---
+title: "Control judicial de la Administración y responsabilidad estatal"
+subtitle: "Proceso contencioso administrativo · Derecho Administrativo · Grado"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    scrollable: true
+    transition: slide
+    incremental: false
+    center: false
+    fontsize: 27px
+    css: estilos_proceso.css
+execute:
+  echo: false
+---
+
+## ¿Qué estudiamos hoy?
+
+**Pregunta central:** ¿cómo obtiene una persona protección judicial frente a una conducta estatal y cómo logra que la sentencia se cumpla?
+
+1. Acceso a la jurisdicción y pretensiones.
+2. Actos particulares y generales, requisitos y plazos.
+3. Demanda contra el Estado y medidas cautelares.
+4. Amparo y amparo por mora.
+5. Responsabilidad estatal y reparación.
+6. Ejecución de sentencias contra el Estado.
+
+*Base: Tema 2; Balbín, Manual de derecho administrativo, 6.ª ed. (2025), cap. XXI; ley 26.944.*
+
+## Procedimiento administrativo y proceso judicial
+
+| Aspecto | Procedimiento administrativo | Proceso contencioso administrativo |
+|---|---|---|
+| Quién decide | Administración | Juez independiente |
+| Finalidad | Resolver petición o recurso | Tutelar derechos y controlar legalidad |
+| Partes | Interesado y Administración | Actor y demandado; Estado como parte |
+| Resultado | Acto, silencio u otra conducta | Sentencia judicial |
+| Problema típico | Agotamiento de la vía | Admisibilidad, prueba y ejecución |
+
+**Idea:** no son dos etapas idénticas; el proceso judicial ofrece control por un órgano imparcial.
+
+## Tutela judicial efectiva: tres dimensiones
+
+- **Acceso al juez:** interpretación favorable a la admisión de la acción (*pro actione*), dentro del marco normativo.
+- **Derecho al proceso:** defensa, prueba, patrocinio, publicidad y decisión sin dilaciones indebidas.
+- **Derecho a una decisión fundada:** revisión y cumplimiento efectivo.
+
+**Balbín:** critica una visión excesivamente restringida del proceso como mera revisión de un expediente administrativo. Propone centrarlo en las **pretensiones y derechos**.
+
+## ¿Qué se puede pedir judicialmente?
+
+| Pretensión | Ejemplo |
+|---|---|
+| Nulidad de un acto | Impugnar una sanción administrativa |
+| Condena a hacer | Ordenar resolver una solicitud |
+| Condena a no hacer | Cesar una actuación ilegítima |
+| Indemnización | Reparar daño causado por actividad estatal |
+| Tutela urgente | Suspender provisionalmente los efectos de un acto |
+
+Las pretensiones pueden relacionarse entre sí; hay que distinguir la pretensión principal de la tutela cautelar.
+
+## Actos de alcance particular y general
+
+| Cuestión | Acto particular (art. 23 LPA) | Acto general (art. 24 LPA) |
+|---|---|---|
+| Objeto | Decisión individual | Reglamento o acto general |
+| Impugnación | Supuestos legales de habilitación | Vías de impugnación directa o indirecta según la LPA |
+| Ejemplo | Multa a una empresa | Reglamento que afecta a un conjunto de administrados |
+| Análisis previo | Definitividad, agotamiento y excepciones | Aplicación concreta, reclamo y demás requisitos legales según el caso |
+
+**Importante:** no trasladar mecánicamente los requisitos de un supuesto al otro.
+
+## Agotamiento de la vía y reclamo previo
+
+- **Agotamiento:** antes de demandar, en los casos legalmente previstos, se deben utilizar las vías administrativas pertinentes.
+- **Reclamo administrativo previo:** instituto distinto de los recursos contra actos administrativos; corresponde determinar cuándo es exigible.
+- **Excepciones:** no toda pretensión requiere agotar la vía; revisar los arts. 23 a 32 de la LPA según la redacción reformada.
+- **Amparo constitucional:** no se exige como regla agotar la vía administrativa.
+
+**Caso:** la Administración impone una sanción y el interesado demanda directamente. ¿Qué dato falta para saber si el proceso es admisible?
+
+## Plazos: no confundir instituciones
+
+| Institución | Qué significa |
+|---|---|
+| Caducidad de la acción impugnatoria | Plazo especial para promover la impugnación judicial conforme a la LPA |
+| Prescripción | Límite temporal para ejercer pretensiones o defensas, según su régimen jurídico |
+| Plazo para contestar demanda | Tiempo concedido al Estado para defenderse luego del traslado |
+| Plazo de amparo | Régimen procesal urgente, distinto del proceso ordinario |
+
+**Regla vigente del art. 25 LPA:** **180 días hábiles judiciales** para la acción de impugnación prevista en los arts. 23 y 24, conforme a la ley 27.742. El material anterior a la reforma indicaba 90 días.
+
+## Artículo 25 LPA: ¿desde cuándo se cuentan los 180 días?
+
+| Supuesto | Inicio del cómputo |
+|---|---|
+| Acto de alcance particular | Notificación al interesado |
+| Acto general con reclamo denegado expresamente | Notificación de la denegatoria |
+| Acto general impugnado mediante acto individual de aplicación | Notificación del acto expreso que agota la instancia administrativa |
+| Hecho administrativo | Conocimiento del hecho por el afectado |
+
+**Clave:** no alcanza con memorizar «180 días»; primero hay que identificar qué conducta estatal se impugna.
+
+## Artículo 25 LPA: excepciones y defensas
+
+- **Vías de hecho administrativas:** no existe plazo de caducidad para impugnarlas, sin perjuicio de la prescripción.
+- **Actos viciados de nulidad:** no haberlos impugnado no impide alegar su nulidad **como defensa**, dentro del plazo de prescripción.
+- **Caducidad ≠ prescripción:** no se deben intercambiar los regímenes ni sus efectos.
+
+::: {.callout-note}
+**Texto vigente:** art. 25 de la ley 19.549, sustituido por el art. 43 de la ley 27.742 (BO 8/7/2024; vigencia desde el día siguiente).
+:::
+
+## La demanda contra el Estado: contexto histórico
+
+- **Antes de 1900:** exigencia histórica de venia legislativa.
+- **Ley 3.952:** elimina la venia y estructura el régimen de demandas contra la Nación.
+- **Ley 11.638:** despeja restricciones históricas a la demandabilidad estatal.
+- **Ley 19.549 y reformas:** reglas sobre acceso judicial, actos impugnables y recaudos.
+- **Ley 25.344:** intervenciones y comunicaciones a la Procuración del Tesoro en juicios comprendidos en su ámbito.
+
+**Principio:** el Estado puede ser demandado judicialmente, aunque existan reglas procesales especiales.
+
+## Competencia y traslado de demanda
+
+**Competencia:** la materia administrativa federal es un criterio relevante, pero deben revisarse también reglas especiales y la naturaleza de la pretensión.
+
+**Trámite general (esquema didáctico):**
+
+1. Presentación de la demanda y examen de admisibilidad.
+2. Intervenciones y comunicaciones especiales cuando corresponden (ley 25.344).
+3. Traslado al Estado y ejercicio de defensas.
+4. Prueba, alegatos y sentencia según la vía procesal.
+
+**No confundir:** la notificación a la Procuración del Tesoro no equivale por sí sola a la contestación de la demanda.
+
+## Hutchinson: ¿qué es el proceso administrativo?
+
+**Tomás Hutchinson, *Derecho procesal administrativo*, tomos II y III (2009).** El proceso judicial es el cauce para que un tribunal independiente resuelva pretensiones vinculadas con la actividad administrativa.
+
+- **Procedimiento administrativo:** se sustancia ante la propia Administración; puede producir un acto o agotar la vía.
+- **Proceso administrativo judicial:** se sustancia ante un juez; las partes formulan pretensiones y defensas, producen prueba y obtienen una sentencia.
+- No debe confundirse **control de legalidad** con un proceso limitado a leer el expediente: puede ser indispensable debatir hechos y producir prueba.
+
+**Ejemplo:** una multa administrativa se recurre en sede administrativa; agotada la vía pertinente, se promueve una demanda judicial para obtener su nulidad.
+
+## Acción, demanda y pretensión: tres conceptos distintos
+
+| Concepto | ¿Qué significa? | Ejemplo |
+|---|---|---|
+| **Acción** | Derecho de acudir a la jurisdicción y solicitar tutela | Acceder a un tribunal independiente |
+| **Demanda** | Acto procesal que inicia el juicio y articula la petición | Escrito presentado ante el juzgado |
+| **Pretensión** | Petición concreta de tutela frente a otra parte, fundada en hechos y derecho | Que se anule una multa y se restituya lo pagado |
+
+**Clave de Hutchinson:** una demanda puede contener varias pretensiones; la acción no equivale al derecho a obtener una sentencia favorable.
+
+## Elementos de la pretensión procesal
+
+**Sujetos:** quién pide, contra quién y ante qué órgano jurisdiccional.
+
+**Objeto:** la tutela concreta solicitada: declaración, nulidad, condena, cesación de una conducta, etcétera.
+
+**Causa:** el fundamento fáctico y jurídico que justifica el pedido.
+
+**Ejemplo completo:** una empresa (actor) demanda al Estado (demandado) ante el juez competente para que declare la nulidad de una sanción (objeto), porque se dictó sin audiencia previa y con hechos incorrectamente constatados (causa).
+
+**Consecuencia práctica:** identificar mal el objeto puede limitar lo que el juez está habilitado a resolver.
+
+## Pretensión y objeto del proceso
+
+La pretensión **delimita el conflicto judicial**. El acto administrativo cuestionado puede ser el antecedente del litigio, pero no necesariamente agota su objeto.
+
+- Puede discutirse la **validez** de un acto y, simultáneamente, una **reparación patrimonial**.
+- Puede reclamarse una **conducta debida** frente a una omisión administrativa.
+- Puede requerirse una **declaración judicial** para remover incertidumbre jurídica.
+
+**Pregunta:** si se pide exclusivamente la nulidad de una sanción, ¿puede el juez conceder de oficio una indemnización no solicitada? En principio, la congruencia impide decidir fuera de las pretensiones.
+
+## Clases de pretensiones administrativas I
+
+| Pretensión | Finalidad | Ejemplo |
+|---|---|---|
+| **Anulatoria o de ilegitimidad** | Privar de validez a un acto | Anular una multa ilegal |
+| **Plena jurisdicción** | Reconocer o restablecer una situación jurídica y, según el caso, condenar | Reincorporación y pago de haberes |
+| **Declarativa de certeza** | Eliminar incertidumbre actual sobre una relación jurídica | Declarar la inaplicabilidad de una exigencia |
+| **Interpretativa** | Resolver controversias sobre el sentido de una regla o relación jurídica, donde el régimen la admite | Alcance de una cláusula reglamentaria |
+
+**Advertencia:** las denominaciones y vías disponibles varían según el ordenamiento federal o provincial.
+
+## Clases de pretensiones administrativas II
+
+| Pretensión | Qué se pide |
+|---|---|
+| **Indemnizatoria** | Reparación de daños atribuibles al Estado |
+| **De condena a hacer o no hacer** | Realización o cese de una conducta |
+| **Cesación de vía de hecho** | Detener una actuación material ilegítima |
+| **Amparo por mora** | Orden judicial de pronto despacho ante una demora administrativa |
+| **De ejecución** | Cumplimiento forzado de una obligación judicialmente reconocida |
+| **Lesividad** | Impugnación judicial promovida por la propia Administración en los supuestos legales |
+
+**No confundir:** el amparo por mora persigue que se resuelva; no necesariamente que se resuelva favorablemente.
+
+## Acumulación de pretensiones
+
+**Una demanda puede contener varias pretensiones** cuando el ordenamiento procesal permite su acumulación y existe compatibilidad procesal.
+
+**Caso:** un municipio clausura ilegítimamente un comercio.
+
+1. Pretensión principal: **nulidad** del acto de clausura.
+2. Pretensión complementaria: **cese de la clausura** y reapertura.
+3. Pretensión resarcitoria: **daños** acreditados por la paralización.
+
+El tribunal debe verificar competencia, procedimiento aplicable, legitimación y compatibilidad; la acumulación no dispensa requisitos de admisibilidad de cada pretensión.
+
+## La demanda: función y contenido
+
+La demanda **exterioriza la pretensión y fija los términos iniciales de la controversia**.
+
+- Individualización del actor y demandado; representación y domicilios.
+- Tribunal competente; identificación del acto, omisión o conducta controvertida.
+- Relato **ordenado y concreto** de los hechos; fundamentos jurídicos.
+- Identificación precisa de la tutela solicitada y, si corresponde, cuantificación.
+- Ofrecimiento de prueba y acompañamiento documental exigible.
+- Petitorio y solicitud de costas; cautelar, si procede, por separado o en capítulo específico.
+
+**Marco procesal:** aplicar el CPCCN de modo pertinente y las reglas especiales de la LPA y leyes aplicables.
+
+## Ejemplo de objeto y petitorio
+
+**Hecho:** la Administración aplica una multa sin dar oportunidad efectiva de defensa.
+
+**Objeto de la demanda:** «Promuevo demanda a fin de obtener la declaración de nulidad de la Resolución X y la devolución de las sumas abonadas, con sus intereses».
+
+**Petitorio posible:**
+
+1. Tener por presentada a la actora y por promovida la demanda.
+2. Declarar la nulidad del acto impugnado.
+3. Condenar a restituir las sumas acreditadas, con accesorios.
+4. Imponer las costas conforme corresponda.
+
+**Distinción:** el objeto define la tutela; el petitorio concreta las decisiones pedidas al juez.
+
+## Hechos, causa de pedir y congruencia
+
+**Hechos:** deben narrarse los acontecimientos jurídicamente relevantes, no sólo afirmar que el acto es «arbitrario».
+
+**Causa de pedir:** relaciona esos hechos con la lesión del derecho y el fundamento normativo invocado.
+
+**Congruencia:** la sentencia debe guardar correspondencia con las pretensiones y defensas sometidas a decisión, sin perjuicio de la facultad judicial de aplicar el derecho.
+
+**Ejemplo:** si el actor invoca falta de audiencia y prueba que nunca fue notificado, el juez puede valorar esa circunstancia; no debería conceder una reparación completamente ajena al objeto del litigio.
+
+## Las partes y la legitimación
+
+**Parte actora:** quien formula la pretensión; **parte demandada:** quien debe resistirla o cumplir la eventual condena.
+
+- **Capacidad procesal y representación:** aptitud y personería para actuar en juicio.
+- **Legitimación activa:** relación jurídica suficiente con el objeto pretendido.
+- **Legitimación pasiva:** identificación del sujeto frente al que se dirige la pretensión.
+- **Interés o derecho afectado:** verificarlo según la vía y la normativa aplicable.
+
+**Ejemplo:** quien recibió la multa tiene, en principio, interés directo en impugnarla; un tercero ajeno necesita justificar su legitimación.
+
+## Competencia judicial y vía elegida
+
+Antes de presentar la demanda, comprobar:
+
+1. **Materia:** naturaleza de la relación jurídico-administrativa.
+2. **Persona demandada:** Nación, ente descentralizado, provincia, municipio, etcétera.
+3. **Territorio e instancia:** órgano judicial al que corresponde conocer.
+4. **Vía procesal:** ordinaria, amparo, recurso directo u otra vía legal.
+
+**Advertencia:** no existe un único «proceso contencioso administrativo» idéntico para todas las jurisdicciones argentinas. La exposición se centra en el ámbito federal, con categorías doctrinales de Hutchinson.
+
+## Presupuestos procesales y admisibilidad
+
+**Primer examen:** ¿puede el tribunal tratar esta pretensión en esta vía?
+
+| Control de admisibilidad | Control de fundabilidad |
+|---|---|
+| Competencia, personería, legitimación, vía y plazo | Hechos probados, norma aplicable, existencia del derecho |
+| Agotamiento o excepción legal pertinente | Legalidad del acto y procedencia de la condena |
+| Puede impedir el examen del fondo | Conduce a admitir o rechazar la pretensión |
+
+**Ejemplo:** una demanda extemporánea puede ser inadmisible aunque el acto cuestionado sea ilegítimo. No confundir caducidad de la acción judicial con prescripción de pretensiones patrimoniales.
+
+## Inicio del proceso y traslado
+
+**Secuencia pedagógica general:**
+
+1. Presentación de la demanda, documentos y ofrecimiento de prueba.
+2. Examen judicial inicial: competencia y requisitos procesales pertinentes.
+3. Traslado a la representación estatal correspondiente.
+4. Comparecencia del demandado; oposición de excepciones y contestación.
+5. Fijación de los hechos controvertidos; apertura y producción de prueba si corresponde.
+6. Alegatos, sentencia, recursos y eventual ejecución.
+
+**Reglas especiales:** intervención de la Procuración del Tesoro y régimen de notificación cuando correspondan; no sustituirlos por un esquema civil indiferenciado.
+
+## Excepciones y contestación de demanda
+
+**Excepciones:** defensas procesales que pueden cuestionar la viabilidad del juicio (por ejemplo, incompetencia o defectos procesales), según el régimen aplicable.
+
+**Contestación:** el Estado reconoce o niega hechos, opone defensas sustanciales, ofrece prueba y solicita el rechazo total o parcial.
+
+**Punto didáctico:** una defensa de **inadmisibilidad** no equivale a demostrar que el acto administrativo fue válido; una defensa **de fondo** se refiere a la procedencia material de la pretensión.
+
+## ¿Qué se prueba en el proceso administrativo?
+
+La prueba busca proporcionar al juez elementos de convicción sobre **hechos relevantes y controvertidos**.
+
+- No todo hecho necesita prueba: por ejemplo, hechos admitidos o notorios, según las reglas aplicables.
+- Los fundamentos jurídicos no sustituyen la acreditación de los hechos.
+- El expediente administrativo es una fuente relevante, pero **no excluye necesariamente la prueba judicial**.
+- El tribunal determina admisibilidad y pertinencia de los medios ofrecidos.
+
+**Hutchinson, t. III, cap. XVIII:** diferencia objeto, medios y fuentes de prueba, producción y valoración.
+
+## Carga de la prueba y presunción de legitimidad
+
+**Regla general:** cada parte soporta las consecuencias de no acreditar los hechos relevantes que sustentan su posición, con las particularidades legales del caso.
+
+**Presunción de legitimidad del acto:** no convierte todas las afirmaciones administrativas en verdades irrebatibles ni dispensa siempre a la Administración de acreditar antecedentes.
+
+**Ejemplo:** si la Administración sanciona por una inspección, deben examinarse las constancias y la posibilidad efectiva de controvertir sus hechos y conclusiones.
+
+**No confundir:** presunción de legitimidad, valor probatorio del documento administrativo y carga procesal de probar hechos.
+
+## El expediente administrativo como prueba
+
+**Qué aporta:** antecedentes, dictámenes, informes, notificaciones, pruebas producidas y motivación del acto.
+
+**Qué debe revisar el litigante:**
+
+- Integridad y autenticidad de las actuaciones.
+- Constancias de audiencia, notificación y producción probatoria.
+- Coherencia entre los hechos del expediente y la motivación del acto.
+- Documentos o actuaciones omitidos y posibilidad de prueba complementaria.
+
+**Hutchinson:** el expediente tiene importancia probatoria propia, pero no corresponde atribuirle indiscriminadamente el valor de instrumento público a cada uno de sus elementos.
+
+## Medios de prueba: ¿cuál sirve para qué?
+
+| Medio | Ejemplo en litigio administrativo | Finalidad |
+|---|---|---|
+| **Documental** | Resoluciones, contratos, expedientes, correos | Acreditar actos y antecedentes |
+| **Informativa** | Oficios a organismos y registros | Obtener datos documentados |
+| **Testimonial** | Declaración de quien presenció una inspección | Reconstruir hechos |
+| **Pericial** | Contable, ingeniería, informática | Esclarecer cuestiones técnicas |
+| **Inspección judicial** | Verificación de un lugar u objeto | Comprobación directa |
+
+**Confesional:** su admisibilidad respecto del Estado presenta restricciones especiales; no tratarla como una absolución de posiciones ordinaria de un particular.
+
+## La pericia y la valoración judicial
+
+**Hutchinson distingue:** el perito puede **percibir** hechos mediante conocimientos especializados o **deducir** consecuencias técnicas a partir de hechos comprobados.
+
+- El dictamen **no sustituye** la decisión jurídica del juez.
+- Debe responder puntos de pericia pertinentes y estar fundado.
+- Un informe técnico administrativo puede discutirse, pero no toda discrepancia técnica autoriza al juez a sustituir decisiones de oportunidad administrativa.
+
+**Ejemplo:** un perito contable calcula el perjuicio económico de una clausura; el juez decide si el Estado debe repararlo.
+
+## Caso integrador: de la pretensión a la prueba
+
+**Supuesto:** una empresa es sancionada por incumplir una obligación reglamentaria; afirma que cumplió y que no pudo ofrecer descargo.
+
+| Pregunta | Respuesta esperable |
+|---|---|
+| ¿Qué pretensión? | Nulidad del acto; eventualmente restitución y daños si corresponden |
+| ¿Qué hechos? | Cumplimiento, notificación, oportunidad de defensa y sanción |
+| ¿Qué prueba? | Expediente, constancias de presentación, documental y eventual pericia |
+| ¿Qué defensas puede oponer el Estado? | Regularidad del procedimiento, hechos imputados, admisibilidad |
+| ¿Qué debe decidir el juez? | Admisibilidad, prueba, validez y tutela solicitada |
+
+**Actividad:** redactar en cinco líneas el objeto y el petitorio de la demanda.
+
+## Síntesis: estructura del litigio según Hutchinson
+
+**Acción → demanda → pretensión → contradicción → prueba → sentencia → ejecución.**
+
+1. La acción permite acceder al juez.
+2. La demanda introduce una o varias pretensiones.
+3. La pretensión delimita objeto, sujetos y causa del proceso.
+4. La contestación y las excepciones fijan las defensas.
+5. La prueba permite resolver hechos controvertidos.
+6. La sentencia debe ser congruente; su eficacia exige cumplimiento.
+
+*Base doctrinal:* Hutchinson, *Derecho procesal administrativo*, t. II (objeto, pretensiones, partes e iniciación) y t. III (prueba). Exposición didáctica, no transcripción literal.
+
+## Medidas cautelares contra el Estado
+
+**Función:** evitar que la duración del juicio vuelva inútil la sentencia.
+
+| Elemento | Pregunta |
+|---|---|
+| Verosimilitud del derecho | ¿La pretensión aparece jurídicamente plausible? |
+| Peligro en la demora | ¿La espera puede frustrar la tutela? |
+| Interés público | ¿Qué consecuencias tiene la medida? |
+| Contracautela | ¿Qué garantía corresponde exigir? |
+| Informe previo | ¿Debe oírse antes al Estado? ¿Hay urgencia excepcional? |
+
+**Fuente:** Balbín, cap. XXI, apartado sobre cautelares; ley 26.854. Distinguir medida cautelar y medida interina.
+
+## Amparo: tutela judicial rápida
+
+**Constitución Nacional, art. 43:** acción expedita y rápida frente a actos u omisiones de autoridades o particulares que lesionen o amenacen derechos con arbitrariedad o ilegalidad manifiesta, si no existe otro medio judicial más idóneo.
+
+- Protege derechos constitucionales, convencionales y legales.
+- Admite legitimación especial para derechos de incidencia colectiva.
+- El juez puede declarar inconstitucional la norma que sustenta la lesión.
+- No es un reemplazo automático de todo proceso ordinario.
+
+## Jurisprudencia: «Siri» y «Kot»
+
+| Precedente | Enseñanza para grado |
+|---|---|
+| **Siri** (CSJN, 1957) | Protección judicial rápida de derechos fundamentales frente a actuaciones estatales, más allá del hábeas corpus |
+| **Kot** (CSJN, 1958) | Protección constitucional también frente a afectaciones provenientes de particulares |
+
+**Pregunta para el aula:** ¿por qué el amparo no podía quedar limitado a la protección de la libertad física?
+
+*Ambos antecedentes aparecen en el material Tema 2 y en el desarrollo histórico del amparo.*
+
+## Amparo común vs. amparo por mora
+
+| Cuestión | Amparo (art. 43 CN) | Amparo por mora (art. 28 LPA) |
+|---|---|---|
+| Problema | Lesión manifiesta de derechos | Demora administrativa |
+| Finalidad | Obtener tutela frente a la lesión | Obtener pronunciamiento administrativo |
+| ¿Decide el fondo del reclamo administrativo? | Puede resolver la pretensión de tutela | **No** |
+| Resultado típico | Orden judicial de protección | Orden para que la Administración se expida |
+| Agotamiento previo | No como regla | No equivale a agotar la vía |
+
+## Amparo por mora: procedimiento y reforma
+
+- Puede plantearlo quien es parte de un expediente administrativo y enfrenta una demora jurídicamente relevante.
+- El juez requiere informe sobre la demora y el tiempo necesario para expedirse.
+- Tras el contradictorio, puede aceptar un plazo razonable o fijarlo.
+- **No ordena necesariamente resolver a favor del particular:** exige una respuesta.
+- El texto de la LPA reformado en 2024 introdujo previsiones específicas sobre trámite, recursos y apercibimientos.
+
+**Ejemplo:** una solicitud de recategorización permanece sin resolución. ¿Qué puede exigir el juez mediante amparo por mora?
+
+## Responsabilidad del Estado: idea central
+
+**Ley 26.944, art. 1:** responsabilidad **objetiva y directa** por daños causados por actividad o inactividad estatal.
+
+- Objetiva: no exige demostrar culpa subjetiva del Estado como presupuesto general.
+- Directa: se imputa al propio Estado la actividad del órgano.
+- Deben acreditarse los requisitos específicos del régimen aplicable.
+- La ley distingue actividad **ilegítima** y **legítima**.
+
+**Atención:** la ley 26.944 regula el Estado nacional; las provincias y CABA tienen sus propios regímenes y pueden adherir.
+
+## Responsabilidad por actividad ilegítima
+
+**Ley 26.944, art. 3:**
+
+1. Daño cierto, acreditado y mensurable en dinero.
+2. Imputabilidad material a un órgano estatal.
+3. Relación de causalidad adecuada.
+4. **Falta de servicio:** actuación u omisión irregular; para omisiones, deber normativo expreso y determinado.
+
+**Ejemplo:** un organismo incumple un deber concreto de mantenimiento y causa un daño. ¿Qué cuatro elementos deben probarse?
+
+## Responsabilidad por actividad legítima
+
+**Ley 26.944, arts. 4 y 5:**
+
+1. Daño cierto y actual, acreditado y mensurable.
+2. Imputabilidad a órgano estatal.
+3. Causalidad directa, inmediata y exclusiva.
+4. Ausencia de deber jurídico de soportar el daño.
+5. Sacrificio especial que afecta un derecho adquirido.
+
+**Carácter excepcional.** El art. 5 excluye el lucro cesante y delimita los rubros indemnizables.
+
+## Comparación: actividad legítima e ilegítima
+
+| Aspecto | Ilegítima (art. 3) | Legítima (arts. 4 y 5) |
+|---|---|---|
+| Conducta | Irregular | Jurídicamente permitida |
+| Factor característico | Falta de servicio | Sacrificio especial |
+| Causalidad | Adecuada | Directa, inmediata y exclusiva |
+| Daño | Cierto | Cierto y actual |
+| Lucro cesante | No existe la exclusión general del art. 5 | Excluido por art. 5 |
+| Naturaleza | Régimen general de actividad ilegítima | Excepcional |
+
+## Otros aspectos de la Ley 26.944
+
+| Tema | Regla legal |
+|---|---|
+| Eximentes (art. 2) | Caso fortuito/fuerza mayor y hecho de víctima o tercero, con salvedades |
+| Concesionarios (art. 6) | Regla especial de no responsabilidad estatal por daños imputables a la función encomendada |
+| Plazo (art. 7) | Tres años para acción de responsabilidad extracontractual |
+| Acumulación (art. 8) | Indemnización junto a nulidad/inconstitucionalidad o posteriormente |
+| Funcionarios (art. 9) | Responsabilidad personal bajo sus requisitos |
+| Contratos (art. 10) | Normativa específica y aplicación supletoria de la ley |
+
+## Jurisprudencia y evolución de la responsabilidad
+
+**«Devoto» (CSJN, 1933):** antecedente fundamental de reconocimiento de responsabilidad estatal por daños producidos por una actuación negligente vinculada con la actividad pública.
+
+**Evolución conceptual:** desde barreras históricas a demandar al Estado hacia un régimen autónomo de responsabilidad de derecho público.
+
+**Pregunta:** ¿que el acto administrativo sea válido significa que nunca puede surgir responsabilidad estatal? **No:** examinar actividad legítima y sacrificio especial.
+
+*Referencias: Tema 2; Balbín, tratamiento de la responsabilidad estatal.*
+
+## Ejecución contra el Estado: ¿por qué un régimen especial?
+
+**Problema:** una sentencia firme reconoce un derecho, pero el Estado sostiene que no puede pagarlo de inmediato sin previsión presupuestaria.
+
+**Tres cuestiones distintas:**
+
+1. **Declaratividad:** ¿la sentencia puede ejecutarse compulsivamente?
+2. **Consolidación:** ¿determinadas deudas se pagan bajo un régimen legal excepcional, incluso con bonos?
+3. **Previsión presupuestaria:** ¿cuándo debe incluirse el crédito y cuándo puede ejecutarse si no se paga?
+
+**Objetivo:** reconstruir la evolución normativa y jurisprudencial hasta **CSJN, *Curti* (2016)**.
+
+## Línea de tiempo: de la inmunidad a la ejecución controlada
+
+| Momento | Norma / precedente | Cambio principal |
+|---|---|---|
+| **1900** | Ley 3.952, art. 7 | Sentencias contra la Nación «meramente declarativas» |
+| **1966** | CSJN, *Pietranera* | Declaratividad no significa incumplimiento indefinido |
+| **1989–1990** | Emergencia, Ley 23.696; *Videla Cuello* | Suspensiones extraordinarias de ejecución |
+| **1991** | Ley 23.982 | Consolidación de obligaciones y previsión presupuestaria |
+| **1995** | Ley 24.624, art. 20 | Reglas de comunicación e inclusión presupuestaria |
+| **2000** | Ley 25.344 | Nuevo régimen de consolidación de deudas |
+| **2012** | Corte IDH, *Furlán* | Exigencia de ejecución efectiva en plazo razonable |
+| **2013–2016** | Ley 26.895, art. 68; *Curti* | Diferimiento **por única vez** si se agotan partidas |
+
+## Primer momento: Ley 3.952 (1900)
+
+**Art. 7:** carácter «meramente declarativo» de las condenas contra la Nación.
+
+**Fundamento histórico:** evitar que órdenes judiciales inmediatas paralizaran la Administración o exigieran pagos sin fondos autorizados por el presupuesto.
+
+**Riesgo de la lectura literal:** el particular gana el juicio, pero no dispone de mecanismos para obtener materialmente el cumplimiento.
+
+**Pregunta para el curso:** ¿una sentencia sin posibilidad real de ejecución satisface el derecho de defensa y la tutela judicial?
+
+## Segundo momento: «Pietranera» (CSJN, 1966)
+
+**Hechos relevantes:** prolongación de la ocupación estatal de un inmueble, con afectación del derecho de propiedad.
+
+**Doctrina:** el carácter declarativo de las sentencias contra la Nación **no otorga una licencia para desobedecerlas**.
+
+- La razón del privilegio es presupuestaria y funcional, no una inmunidad absoluta.
+- Una dilación irrazonable puede justificar intervención judicial para hacer cumplir la sentencia.
+- La protección de la propiedad y la tutela judicial exigen una interpretación razonable de la ley.
+
+**Efecto:** abre camino al control judicial del cumplimiento efectivo.
+
+## Tercer momento: emergencia y «Videla Cuello» (1990)
+
+**Contexto:** la emergencia económica llevó a establecer mecanismos extraordinarios de suspensión o postergación de ejecuciones contra el Estado.
+
+**Ley 23.696:** régimen de emergencia con restricciones temporales al cumplimiento compulsivo.
+
+**«Videla Cuello»:** la Corte examinó la validez constitucional de una suspensión temporal de ejecuciones.
+
+**Distinción:** una suspensión **excepcional y temporal** no equivale a negar definitivamente la fuerza obligatoria de las sentencias.
+
+**Problema persistente:** cómo compatibilizar emergencia, igualdad de acreedores y tutela judicial efectiva.
+
+## Cuarto momento: consolidación — Ley 23.982
+
+**Consolidar una deuda no significa simplemente «demorar un pago».** Significa someter obligaciones comprendidas por la ley a un **régimen especial de cancelación**, con corte temporal y modalidades propias.
+
+- Incluyó obligaciones anteriores a la fecha de corte legal, bajo condiciones normativas.
+- Contempló mecanismos presupuestarios y opción de pago mediante títulos de consolidación.
+- La ejecución individual ordinaria cede frente al régimen legal aplicable a las deudas consolidadas.
+
+**Ejemplo:** una condena dineraria firme sobre una obligación alcanzada por la ley no se cobra automáticamente mediante embargo: debe seguirse el procedimiento especial.
+
+## Consolidación ≠ previsión presupuestaria
+
+| Consolidación de deudas | Pago presupuestario de sentencias no consolidadas |
+|---|---|
+| Régimen excepcional para obligaciones alcanzadas por ley y fecha de corte | Régimen de cumplimiento de condenas dinerarias según disponibilidad presupuestaria |
+| Puede contemplar títulos públicos de consolidación | No convierte por sí mismo el crédito en bonos |
+| Reorganiza jurídicamente la modalidad de cancelación | Regula la inclusión en presupuesto y la eventual ejecución |
+| Leyes 23.982 y 25.344 | Art. 22 Ley 23.982, art. 20 Ley 24.624 y normas posteriores |
+
+**Error a evitar:** explicar *Curti* como si se tratara de un litigio sobre cobro de bonos de consolidación.
+
+## Quinto momento: consolidación posterior y límites
+
+**Ley 25.344:** estableció un régimen adicional de consolidación para determinadas obligaciones estatales, sujeto a sus requisitos y excepciones.
+
+**CSJN, «Albarracín» (2007):** precedente relevante sobre el control constitucional del régimen de consolidación y sus límites.
+
+**Corte IDH, «Furlán y familiares vs. Argentina» (2012):** la ejecución de una sentencia integra la tutela judicial efectiva; la aplicación de mecanismos estatales de pago no puede desentenderse de la situación concreta del acreedor y de la duración total del proceso.
+
+**Idea:** la validez abstracta de un régimen no elimina el control de sus efectos concretos.
+
+## Sexto momento: el presupuesto como condición de pago
+
+**Art. 22, Ley 23.982; art. 20, Ley 24.624 y normas complementarias:** articulan el deber de prever y atender sentencias dinerarias contra el Estado.
+
+**Circuito general:** sentencia firme y liquidación → comunicación fehaciente a la jurisdicción deudora → inclusión en anteproyecto presupuestario → asignación anual → pago conforme al régimen legal.
+
+**Corte temporal relevante:** el **31 de julio** del año de elaboración del proyecto presupuestario puede determinar en qué ejercicio corresponde incorporar el crédito.
+
+**No confundir:** que exista previsión presupuestaria no significa que el crédito deba pagarse el primer día de ese ejercicio.
+
+## Séptimo momento: Ley 26.895, art. 68
+
+El art. 68 de la Ley 26.895 (incorporado a la Ley 11.672 como art. 170 en el texto citado por la Corte) dispuso, para las condenas dinerarias del Estado Nacional:
+
+1. **Si no existe crédito suficiente**, gestionar su inclusión en el ejercicio siguiente, con comunicación oportuna.
+2. Pagar con recursos autorizados por el Congreso **según estricto orden de antigüedad**, medido por la notificación judicial.
+3. **Si se agota la partida**, atender el remanente con los recursos del ejercicio fiscal siguiente.
+
+**Pregunta que llega a «Curti»:** ¿ese diferimiento autoriza al acreedor a ejecutar apenas comienza el nuevo ejercicio o debe esperar su transcurso?
+
+## «Curti» (2016): expediente y controversia
+
+**CSJN, «Curti, Gustavo Alberto —incidente de ejecución— y otros c/ Estado Nacional – Ministerio de Defensa – Ejército», 27/12/2016, Fallos 339:1812.**
+
+- La jurisdicción deudora había previsto el crédito en el anteproyecto para **2015**.
+- La liquidación definitiva había sido notificada después del **31/7/2013** y antes del **31/7/2014**.
+- En **2015** se agotaron los recursos destinados a sentencias judiciales.
+- La jueza ordenó pagar **en cinco días**, y la Cámara confirmó la intimación en **2016**.
+- El Estado recurrió porque consideraba que podía satisfacer el crédito durante todo el ejercicio **2016**.
+
+**Cuestión jurídica:** cuándo se vuelve ejecutable el crédito frente al diferimiento presupuestario.
+
+## «Curti»: ¿qué dijeron las instancias anteriores?
+
+**Primera instancia:** intimó al Estado Nacional a cancelar la condena dentro de **cinco días**.
+
+**Cámara Contencioso Administrativo Federal:** confirmó la intimación; interpretó que, conforme a las reglas presupuestarias, ya había vencido el plazo para pagar cuando se dictó la orden en 2016.
+
+**Recurso del Estado:** sostuvo que, ante el agotamiento de la partida de 2015, el pago podía realizarse durante el ejercicio 2016 y que no correspondía ejecución inmediata al comenzar ese año.
+
+**La Corte admitió la queja y el recurso extraordinario**, por estar en discusión el alcance de normas federales.
+
+## «Curti»: regla jurídica del considerando 6°
+
+**La Corte interpreta el art. 68 de la Ley 26.895:**
+
+- Si se agota la partida del ejercicio previsto, el Estado puede **diferir por única vez** el pago al ejercicio siguiente.
+- Durante ese diferimiento opera la protección legal de los fondos afectados a la ejecución presupuestaria.
+- El Estado debe **acreditar el agotamiento** de la partida y respetar el **orden de prelación** de acreedores.
+- No puede usar la norma para diferir el cumplimiento sucesivamente.
+
+**El diferimiento no es discrecional ni indefinido:** está condicionado y sometido a control judicial.
+
+## «Curti»: ¿cuándo puede ejecutar el acreedor?
+
+La Corte establece tres supuestos que habilitan la ejecución:
+
+1. **El Estado no acredita** que se agotó la partida presupuestaria.
+2. **Incumple el orden de antigüedad** previsto legalmente para pagar las sentencias.
+3. **Transcurre íntegramente el ejercicio de diferimiento sin pagar** la condena.
+
+**Importante:** el Estado debe informar el lugar que ocupa el acreedor en el orden de pagos; los jueces conservan potestades para fiscalizar el cumplimiento.
+
+**Consecuencia:** el acreedor no tiene que tolerar una espera indefinida ni una postergación carente de prueba.
+
+## «Curti»: cronología REAL del caso
+
+| Momento | Hecho | Efecto |
+|---|---|---|
+| **31/7/2013 a 31/7/2014** | Notificación de la liquidación definitiva | Permite prever el crédito para 2015 |
+| **2015** | Crédito incluido en anteproyecto; se agota la partida | Se activa la posibilidad legal de diferir una vez |
+| **2016** | Juzgado intima a pagar en cinco días; Cámara confirma | La Corte considera prematura esa ejecución inmediata |
+| **27/12/2016** | Sentencia de la CSJN | Revoca la decisión recurrida y fija la interpretación del régimen |
+| **2017** | Si no se canceló durante 2016 | Puede iniciarse ejecución desde el ejercicio siguiente |
+
+**No es un ejemplo hipotético:** son los años relevantes del expediente *Curti*.
+
+## «Curti»: qué resolvió exactamente la Corte
+
+**Parte dispositiva:** hizo lugar a la queja y al recurso extraordinario del Estado Nacional, **dejó sin efecto la sentencia apelada** y ordenó dictar un nuevo fallo conforme a su doctrina.
+
+**Razón:** no correspondía ordenar el pago inmediato al comenzar el ejercicio **2016** cuando, por agotamiento de la partida de **2015**, la ley habilitaba el pago durante 2016 y exigía respetar el orden de acreedores.
+
+**Límite:** si el Estado no pagaba durante 2016, el acreedor podía ejecutar desde **2017**; también procedía ejecución ante falta de acreditación del agotamiento o alteración del orden legal.
+
+**Fuente primaria:** CSJN, *Curti*, Fallos 339:1812, considerandos 5° a 10°.
+
+## «Curti»: ejemplo para discutir en clase
+
+**Supuesto:** una sentencia dineraria debía pagarse en el presupuesto de 2025. El Estado demuestra que la partida se agotó y que respetó el orden de antigüedad.
+
+- **Durante 2026:** puede diferir **una sola vez** el pago; no es exigible que pague automáticamente el 2 de enero.
+- **Si finaliza 2026 sin pagar:** la ejecución queda habilitada desde 2027.
+- **Si no acredita el agotamiento:** no puede ampararse válidamente en el diferimiento.
+- **Si paga a acreedores posteriores:** el juez puede controlar la alteración del orden legal.
+
+**Ejercicio:** ¿cambia la respuesta si el Estado demuestra disponibilidad de fondos en 2025?
+
+## Comparación final: tres problemas, tres soluciones
+
+| Problema | Respuesta jurídica | Precedente / norma |
+|---|---|---|
+| «La sentencia es declarativa, no la cumplo» | La declaratividad no autoriza incumplimiento indefinido | **Pietranera** |
+| «La deuda está consolidada» | Se aplica el régimen especial y sus límites constitucionales | **Leyes 23.982 y 25.344** |
+| «No hay partida para pagar la condena» | Previsión presupuestaria; diferimiento único, condicionado y controlable | **Curti** |
+
+**Cierre:** el presupuesto organiza el cumplimiento de la sentencia; no extingue el deber estatal de cumplirla.
+
+## Astreintes y desobediencia judicial
+
+- **Astreintes:** herramientas conminatorias para vencer la resistencia a cumplir una orden judicial.
+- **«Cabe Estructura» (CSJN, 2004):** Balbín lo cita sobre medidas para compeler el cumplimiento.
+- **«Bernardes» (CSJN, 2020):** distingue astreintes de la sanción pecuniaria disuasiva excluida por el art. 1 de la ley 26.944.
+
+**No confundir:** indemnizar un daño, sancionar punitivamente y presionar para que se cumpla una sentencia son funciones distintas.
+
+## Caso integrador: sanción, demora y reparación
+
+Una empresa recibe una sanción administrativa que considera ilegal. Presenta la impugnación pertinente, pero la Administración demora en pronunciarse. Mientras tanto, la sanción amenaza con producirle un perjuicio económico. Finalmente obtiene sentencia favorable y reclama daños.
+
+**Para discutir:**
+
+1. ¿Qué vías administrativas y judiciales habría que identificar?
+2. ¿Procedería una cautelar? ¿Con qué finalidad?
+3. ¿Cuándo tendría sentido un amparo por mora?
+4. ¿Qué presupuestos de responsabilidad debería acreditar?
+5. ¿Cómo cambia la situación si la sentencia condena a pagar dinero?
+
+## Síntesis final: mapa de decisiones
+
+| Si el problema es… | Analizar principalmente… |
+|---|---|
+| Acto administrativo lesivo | Impugnación, agotamiento y plazos |
+| Amenaza grave y manifiesta de derechos | Amparo constitucional |
+| Expediente sin resolución | Amparo por mora |
+| Riesgo de que la sentencia llegue tarde | Medida cautelar |
+| Daño atribuible al Estado | Ley 26.944 y requisitos |
+| Sentencia incumplida | Ejecución, régimen presupuestario y medidas conminatorias |
+
+**Clave:** acceso al juez + decisión fundada + ejecución efectiva = tutela judicial real.
+
+## Bibliografía y normas de referencia
+
+- Hutchinson, Tomás (2009). *Derecho procesal administrativo*, tomos II y III, Rubinzal-Culzoni. Estructura doctrinal de acción, demanda, pretensión y prueba; se consultaron el índice editorial y un extracto publicado del capítulo XVIII (no la obra íntegra).
+- CSJN, *Curti, Gustavo Alberto y otros c/ Estado Nacional*, 27/12/2016, Fallos 339:1812, considerandos 5° a 10°.
+- Balbín, Carlos F. (2025). *Manual de derecho administrativo*, 6.ª ed., La Ley. Especialmente capítulo XXI (proceso contencioso administrativo y ejecución de sentencias).
+- *Tema 2.docx*, material de la unidad, basado en doctrina previa.
+- Constitución Nacional, art. 43.
+- Ley 19.549, texto reformado por ley 27.742.
+- Leyes 3.952, 16.986, 25.344, 26.854 y 26.944.
+- Leyes 23.982, 24.624 y 11.672 (régimen de ejecución, según corresponda).
+
+**Nota docente:** las reglas históricas del Word deben leerse a la luz de la reforma de 2024 y del texto normativo aplicable al caso.
+
+<!-- Referencias de actualización: Hutchinson, Derecho procesal administrativo, tomos II y III, Rubinzal-Culzoni, 2009; CSJN, Curti, Fallos 339:1812, 27/12/2016. -->

@@ -1,0 +1,167 @@
+---
+title: "Derecho Administrativo"
+subtitle: "Extinción"
+author: "Prof. Maximiliano Romei"
+
+format:
+  revealjs:
+    slide-level: 1
+    slide-number: true
+    scrollable: true
+    hash: true
+    transition: slide
+    navigation-mode: linear
+    width: 1600
+    height: 900
+    center: false
+    controls: true
+    progress: true
+    css: styles.css
+
+lang: es
+---
+
+# El agotamiento de la vía administrativa
+
+:::{.balbin}
+Una de las condiciones de admisibilidad de las acciones judiciales contra el Estado es que las personas legitimadas deben recurrir primero ante el propio Ejecutivo y, solo luego, ante el Poder Judicial.
+:::
+
+**¿Cómo hacer para agotar las vías administrativas y cumplir así con este trámite de carácter previo, obligatorio y necesario? La LPA y su decreto reglamentario establecen diversas vías, según el objeto de impugnación.**
+
+---
+
+# El plazo de caducidad
+
+El particular solo puede acceder ante el juez/jueza si cumple con dos requisitos: 
+
+1. El agotamiento de las vías administrativas y
+    
+2. La presentación de las acciones judiciales dentro del plazo que prevé la ley —plazo de caducidad—.
+
+**¿Cual es ese término?**
+
+:::{.callout-important}
+ARTICULO 25.- La acción contra el Estado o sus entes autárquicos deberá deducirse dentro del plazo perentorio de noventa (90) días, computados de la siguiente manera:
+
+a) Si se tratare de actos de alcance particular, desde su notificación al interesado;
+
+b) Si se tratare de actos de contenido general contra los que se hubiere formulado reclamo resuelto negativamente por resolución expresa, desde que se notifique al interesado la denegatoria;
+
+c) Si se tratare de actos de alcance general impugnables a través de actos individuales de aplicación, desde que se notifique al interesado el acto expreso que agote la instancia administrativa;
+
+d) Si se tratare de vías de hecho o de hechos administrativos, desde que ellos ocurrieren.
+
+Cuando en virtud de norma expresa la impugnación del acto administrativo deba hacerse por vía de recurso, el plazo para deducirlo será de treinta (30) días desde la notificación de la resolución definitiva que agote las instancias administrativas.
+:::
+
+---
+
+# En qué casos no rige el plazo de caducidad de las acciones.
+
+1. Cuando la ley —LPA— prevé expresamente excepciones respecto de este plazo. Así, el art. 32, LPA,
+no exige el agotamiento de las vías administrativas ni tampoco el cumplimiento del plazo de caducidad.
+2. El plazo de caducidad tampoco corre en el caso de silencio de la Administración. En efecto, el
+texto del art. 26 de la LPA dice que "la demanda podrá iniciarse en cualquier momento cuando se configure el silencio dela Administración".
+3. Más allá del plazo de caducidad, no impide que el particular plantee la impugnación del acto
+administrativo como defensa y dentro del plazo de prescripción (art. 25, último párrafo, LPA).
+
+---
+
+# Los procedimientos de impugnación de las decisiones estatales
+
+:::{.caja-celeste}
+La teoría dogmática sobre impugnación de las decisiones estatales se construyó históricamente desde el concepto de acto administrativo y ello tuvo dos consecuencias jurídicas.
+- Por un lado, siempre resultó necesario obtener un acto estatal y, luego, seguir el largo camino de su impugnación en sede administrativa.
+- Por el otro, el control judicial fue pensado simplemente —y de modo limitado— como punto de revisión de los actos administrativos previos.
+:::
+
+::: {.balbin}
+Este postulado de revisión en torno al acto estatal terminó derrumbándose por dos razones. 
+
+1. Por la incorporación de mayores garantías de control sobre las conductas estatales (acciones y omisiones) en términos de acceso y revisión judicial. 
+2. Por el reconocimiento y goce de los derechos sociales y nuevos derechos que  modelaron el sistema institucional y el papel del Poder Ejecutivo de modo sustancialmente distinto.
+
+:::
+
+---
+
+# El principio general del agotamiento de las vías administrativas: el reclamo administrativo previo. Las excepciones
+
+**Principio general el agotamiento de las vías administrativas.** 
+
+::: {.caja-celeste}
+Cuando cualquier particular intente cuestionar las decisiones estatales debe hacerlo primero ante el Poder Ejecutivo y solo luego ante el juez/jueza.
+
+Es un privilegio del Estado de carácter exorbitante en comparación con el derecho privado.
+
+El interesado no puede ocurrir ante el juez/jueza si antes no interpuso los recursos o reclamos del caso y, consecuentemente, no recorrió los carriles administrativos.
+:::
+
+::: {.balbin}
+Los supuestos que están excluidos del art. 30, LPA, son los casos de impugnación de los actos de alcance particular y general, el silencio, los hechos y las vías de hecho. Y, a su vez, otros que están regulados en el art. 32 —LPA—, entre ellos, el reclamo por los daños y perjuicios por responsabilidad estatal contractual y extracontractual.
+:::
+
+---
+
+# En síntesis
+
+::::: {.columns}
+
+:::: {.column width="32%"}
+
+::: {.caja-celeste}
+
+### Principio general
+
+El principio es el agotamiento de las vías administrativas, por medio del reclamo administrativo previo (art. 30, LPA).
+
+:::
+
+::::
+
+
+:::: {.column width="32%"}
+
+::: {.caja-naranja}
+
+### Otros casos
+
+Es necesario agotar, pero a través de otras vías, a saber:
+
+- los actos administrativos de alcance particular, por recursos administrativos (art. 23, LPA);
+
+- los actos de alcance general, por reclamo (art. 24, LPA).
+
+:::
+
+::::
+
+
+:::: {.column width="32%"}
+
+::: {.caja-celeste}
+
+### Excepciones
+
+1. El reclamo por responsabilidad contractual y extracontractual (art. 32, LPA).
+
+2. Cuando se trate de repetir lo pagado al Estado en virtud de una ejecución o repetir un gravamen pagado indebidamente (art. 32, LPA).
+
+3. Acción de desalojo contra el Estado o acción que no tramite por vía ordinaria (art. 32, LPA).
+
+4. Mediare una conducta clara que haga presumir la ineficacia cierta del procedimiento —ritualismo inútil— (art. 32, LPA).
+
+5. Los hechos (art. 25, inc. d).
+
+6. Las vías de hecho (art. 23, inc. a, iv, y art. 25, inc. d).
+
+7. El silencio (art. 23, inc. a, iii).
+
+8. El reclamo indemnizatorio de los daños y perjuicios debidamente acreditados en virtud de la revocación, sustitución o suspensión, por razones de oportunidad, mérito o conveniencia de un acto administrativo (art. 82 bis del decreto reglamentario de la LPA).
+
+:::
+
+::::
+
+:::::

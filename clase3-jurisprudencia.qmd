@@ -1,0 +1,734 @@
+---
+title: "Jurisprudencia sobre organización administrativa"
+subtitle: "Competencia · órganos colegiados · jurisdicción administrativa · estabilidad del acto"
+author: "Derecho Administrativo · Grado"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: fade
+    background-transition: fade
+    center: false
+    controls: true
+    progress: true
+    hash: true
+    history: true
+    width: 1600
+    height: 900
+    margin: 0.045
+    footer: "Derecho Administrativo · Jurisprudencia vinculada con Balbín"
+    embed-resources: true
+---
+
+<style>
+.reveal { font-size: 27px; }
+.reveal h1 { font-size: 2.25em; letter-spacing: -.03em; }
+.reveal h2 { font-size: 1.55em; letter-spacing: -.02em; border-bottom: 2px solid #d7dce2; padding-bottom: .18em; margin-bottom: .45em; }
+.reveal h3 { font-size: 1.05em; margin: .35em 0 .15em; }
+.reveal p, .reveal li { line-height: 1.22; }
+.reveal table { font-size: .70em; width: 100%; }
+.reveal blockquote { font-size: .82em; border-left: 5px solid #65717e; padding: .35em .8em; margin: .45em 0; }
+.reveal .callout { border: 1px solid #d7dce2; border-radius: 12px; padding: .55em .75em; background: rgba(120,130,140,.055); }
+.reveal .small { font-size: .78em; }
+.reveal .smaller { font-size: .68em; }
+.reveal .cols { display:grid; grid-template-columns:1fr 1fr; gap:1.1em; }
+</style>
+
+# Jurisprudencia y organización administrativa
+
+### Tres líneas para leer la teoría de Balbín en casos
+
+Los fallos seleccionados permiten trabajar problemas centrales de la teoría de la organización administrativa:
+
+1. **Competencia como presupuesto de actuación estatal.**
+2. **Distribución de funciones dentro de órganos y estructuras administrativas.**
+3. **Límites de la jurisdicción administrativa frente a materias reservadas a los jueces.**
+4. **Funcionamiento de órganos colegiados y quórum.**
+5. **Efectos de la incompetencia sobre la validez del acto.**
+6. **Estabilidad y revocación de actos administrativos irregulares.**
+
+Los casos no sustituyen la teoría: permiten observar **qué ocurre cuando la Administración actúa, decide o revisa decisiones dentro —o fuera— del ámbito que el ordenamiento le atribuye**.
+
+---
+
+# I. Belmonte
+
+## Belmonte: ficha del caso
+
+**CSJN, “Belmonte, Manuel y Asociación Ruralista de General Alvear c/ Estado Nacional – PEN – Ministerio de Economía y Producción – Secretaría de Coordinación Técnica – Comisión Nacional de Defensa de la Competencia”, 16/4/2008.**
+
+La controversia se produjo durante el trámite de una **concentración económica entre Cencosud S.A. y Supermercados Disco-Vea**.
+
+La Cámara Federal de Mendoza había ordenado que la Comisión Nacional de Defensa de la Competencia —CNDC— iniciara el trámite con su **conformación total de cinco miembros**.
+
+El problema organizativo era doble:
+
+- ¿qué órgano tenía la **competencia decisoria** durante el régimen transitorio de la Ley 25.156?
+- ¿podía exigirse que la CNDC actuara necesariamente con la totalidad de sus miembros?
+
+---
+
+## Belmonte: el error de la Cámara
+
+La Cámara entendió que:
+
+- la **CNDC** era la autoridad competente para autorizar, condicionar o denegar la concentración;
+- debía encontrarse integrada por sus **cinco miembros**;
+- si el procedimiento había comenzado cuando el cuerpo estaba incompleto, debía iniciarse nuevamente una vez regularizada su composición.
+
+La sentencia mezclaba así dos problemas distintos:
+
+| Problema | Pregunta |
+|---|---|
+| Competencia | ¿Quién decide jurídicamente la concentración? |
+| Organización colegiada | ¿Con cuántos integrantes puede funcionar la CNDC? |
+
+La Procuración —y luego la Corte— rechazó esa construcción.
+
+---
+
+## Belmonte: competencia de instrucción y competencia decisoria
+
+La Procuradora Fiscal remitió a precedentes anteriores y distinguió dos funciones durante el régimen transitorio:
+
+### Comisión Nacional de Defensa de la Competencia
+- **instrucción** del procedimiento;
+- **asesoramiento**.
+
+### Órgano ejecutivo de la cartera económica
+- ejercicio de la **facultad resolutoria**;
+- dictado del acto administrativo que decide.
+
+<div class="callout">
+**Clave organizativa:** dentro de una misma política pública pueden intervenir varios órganos sin poseer todos la misma competencia. Instruir, asesorar y decidir son funciones jurídicamente diferenciables.
+</div>
+
+Por ello, no correspondía atribuir a la CNDC una competencia decisoria que el régimen transitorio no le reconocía.
+
+---
+
+## Belmonte: una enseñanza sobre competencia
+
+El caso permite mostrar por qué no basta con identificar al organismo que interviene materialmente en un expediente.
+
+Debe preguntarse:
+
+1. ¿qué norma distribuye las funciones?
+2. ¿qué órgano instruye?
+3. ¿qué órgano asesora?
+4. ¿qué órgano dicta la decisión final?
+5. ¿qué competencia corresponde a cada uno?
+
+La actuación administrativa es muchas veces **compleja y pluriorgánica**.
+
+> Que un órgano tenga una participación técnica decisiva en el procedimiento no significa que sea jurídicamente titular de la potestad resolutoria.
+
+Esta distinción se conecta directamente con Balbín: la competencia es la **suma de potestades atribuidas por el ordenamiento**, no la importancia fáctica que un órgano tenga dentro del trámite.
+
+---
+
+## Belmonte: el problema del quórum
+
+La Cámara había entendido que la CNDC sólo podía actuar con la totalidad de sus integrantes.
+
+La Corte rechazó ese razonamiento.
+
+El hecho de que la Ley 22.262 no fijara expresamente un quórum funcional **no autorizaba a concluir que el órgano sólo podía actuar con todos sus miembros**.
+
+La Corte comparó el régimen con otros órganos colegiados de la Administración Nacional —ENARGAS, ENRE, CNRT, ORSNA, CNT y CNV— cuyas normas admitían funcionamiento con un número inferior a la totalidad de integrantes.
+
+La ausencia de regla expresa no justificaba crear judicialmente una exigencia de **unanimidad estructural o presencia total**.
+
+---
+
+## Belmonte: órganos colegiados
+
+El fallo permite introducir una categoría específica de organización administrativa.
+
+Un órgano colegiado:
+
+- posee varios integrantes;
+- forma su voluntad mediante reglas de deliberación y votación;
+- requiere distinguir **integración**, **quórum** y **mayoría**.
+
+| Concepto | Pregunta |
+|---|---|
+| Integración | ¿Cuántos miembros componen legalmente el órgano? |
+| Quórum | ¿Cuántos deben estar presentes para funcionar? |
+| Mayoría | ¿Cuántos votos hacen falta para decidir? |
+
+**No son conceptos equivalentes.**
+
+Que un órgano deba estar legalmente integrado por cinco personas no significa, por sí solo, que los cinco deban intervenir en cada sesión.
+
+---
+
+## Belmonte: límite al Poder Judicial
+
+La Procuración formuló además una objeción institucional: el tribunal no podía establecer por sentencia una regla de funcionamiento que **no surgía de las leyes ni de su reglamentación**.
+
+Según el dictamen, imponer judicialmente un quórum inexistente implicaba una **intromisión de un órgano del Estado sobre otro**.
+
+La enseñanza debe manejarse con cuidado:
+
+- los jueces controlan la juridicidad de la Administración;
+- pueden invalidar actos contrarios al ordenamiento;
+- pero el control judicial no habilita a **crear la organización administrativa** sustituyendo al legislador o al órgano normativamente competente.
+
+Controlar competencia no equivale a asumirla.
+
+---
+
+## Belmonte: decisión de la Corte
+
+La Corte:
+
+- compartió las consideraciones de la Procuradora Fiscal;
+- agregó su argumento específico sobre el funcionamiento de órganos colegiados;
+- hizo lugar a las quejas;
+- declaró procedentes los recursos extraordinarios;
+- revocó la sentencia de Cámara.
+
+### Regla para recordar
+
+> El silencio legal sobre el quórum de un órgano colegiado no permite inferir, sin más, que éste sólo pueda funcionar con la totalidad de sus integrantes.
+
+Y, desde la perspectiva de la organización:
+
+> Las funciones de **instrucción, asesoramiento y decisión** deben atribuirse al órgano que el ordenamiento determine.
+
+---
+
+## Belmonte: conexión con Balbín
+
+| Balbín | Aplicación en Belmonte |
+|---|---|
+| Competencia como atribución normativa | La CNDC no podía recibir una función decisoria sólo por intervenir en el procedimiento |
+| Distribución interna de funciones | Instrucción/asesoramiento y decisión pertenecían a órganos distintos |
+| Órgano | La CNDC actúa como estructura administrativa con funciones propias |
+| Juridicidad | La competencia debe reconstruirse desde las normas aplicables |
+| Organización colegiada | Integración total no equivale necesariamente a quórum |
+| Control judicial | El juez controla sin crear reglas organizativas inexistentes |
+
+**Pregunta para clase:** ¿qué vicio existiría si el acto final fuese dictado por el órgano instructor cuando la competencia resolutoria pertenece a otro?
+
+---
+
+# II. Litoral Gas
+
+## Litoral Gas: ficha del caso
+
+**CSJN, “Litoral Gas S.A. c/ Resolución 493/10 – ENARGAS”, 24/2/2015.**
+
+El ENARGAS había ordenado a **Transportadora Gas del Norte S.A.** transferir a **Litoral Gas S.A.** determinadas estaciones reguladoras de presión.
+
+No se discutía simplemente quién debía operar o mantener instalaciones.
+
+La resolución administrativa producía una consecuencia mucho más intensa: disponía una **transferencia de activos esenciales**, con altas y bajas en los inventarios patrimoniales de las licenciatarias.
+
+La cuestión central fue:
+
+> ¿tenía ENARGAS competencia para decidir esa transferencia?
+
+---
+
+## Litoral Gas: argumento favorable a ENARGAS
+
+La Cámara había considerado competente al ente porque:
+
+- el art. 66 de la Ley 24.076 le reconocía jurisdicción previa y obligatoria respecto de ciertos conflictos entre sujetos de la ley;
+- la controversia involucraba transporte y distribución de gas;
+- la decisión podía vincularse con el objetivo regulatorio de **eficiencia**;
+- técnicamente se consideraba más eficiente que Litoral Gas fuese propietaria y responsable de las estaciones.
+
+Este razonamiento se apoyaba fuertemente en la **finalidad regulatoria**.
+
+Pero la Corte —por remisión al dictamen de la Procuradora— entendió que la finalidad no podía expandir la competencia más allá de su ámbito material.
+
+---
+
+## Litoral Gas: jurisdicción primaria administrativa
+
+El dictamen reconoce que ENARGAS posee **jurisdicción primaria** para ciertos conflictos.
+
+La categoría supone que determinados asuntos, aun cuando en principio pudieran corresponder a jueces, son inicialmente conocidos por un organismo administrativo especializado debido al régimen legal aplicable.
+
+Pero existe un límite:
+
+> **No cualquier controversia puede ser válidamente deferida a órganos administrativos.**
+
+La especialización del ente no convierte toda disputa relacionada con sus regulados en materia de su jurisdicción.
+
+La conexión periférica con el servicio o con las partes **no basta** para fundar competencia.
+
+---
+
+## Litoral Gas: el límite material
+
+La controversia versaba sobre **transferencia de activos esenciales** y, por tanto, sobre una determinación relativa al **derecho de dominio**.
+
+El dictamen recordó jurisprudencia anterior según la cual las facultades del art. 66 de la Ley 24.076 no alcanzaban a decidir conflictos relativos a venta y adquisición de instalaciones cuando estaba comprometido el dominio.
+
+Por ello:
+
+- ENARGAS podía intervenir dentro de su especialidad regulatoria;
+- pero no podía resolver por sí una materia excluida de su jurisdicción especial.
+
+<div class="callout">
+La especialidad no funciona sólo como fuente de potestades implícitas. También opera como **frontera material**.
+</div>
+
+---
+
+## Litoral Gas: interpretación estricta
+
+La Procuradora afirmó que la atribución de **competencia jurisdiccional a órganos y entes administrativos debe interpretarse estrictamente**.
+
+La razón es constitucional:
+
+- decidir controversias corresponde normalmente a los jueces;
+- la jurisdicción administrativa constituye una atribución excepcional;
+- la decisión administrativa permanece sometida a control judicial suficiente.
+
+Así, cuanto más se aproxima una potestad administrativa al ejercicio de una función materialmente jurisdiccional, más importante resulta identificar con precisión la **habilitación legal**.
+
+---
+
+## Litoral Gas: “propiciar” no es “decidir”
+
+El dictamen examinó también el art. 52 inc. j de la Ley 24.076.
+
+La norma permitía a ENARGAS **“propiciar” ante el Poder Ejecutivo** determinadas decisiones relacionadas con concesiones.
+
+De allí se extrae una distinción elemental pero decisiva:
+
+| Potestad atribuida | Potestad ejercida |
+|---|---|
+| Propiciar / solicitar al PEN | Ordenar directamente la transferencia |
+| Impulsar una decisión | Adoptar la decisión |
+| Competencia de iniciativa | Competencia resolutoria |
+
+El ente no podía convertir una competencia para **proponer** en una competencia para **disponer**.
+
+La intensidad de la potestad ejercida debe coincidir con la intensidad de la potestad atribuida.
+
+---
+
+## Litoral Gas: competencia como presupuesto
+
+El dictamen contiene una formulación especialmente útil para la teoría de Balbín:
+
+> En el orden jurídico administrativo, la competencia constituye un elemento esencial que confiere validez a la actuación estatal; no es un límite externo sino un **presupuesto** de la actuación.
+
+Esto responde a la **vinculación positiva** de la Administración con el ordenamiento.
+
+El organismo necesita una autorización:
+
+- **expresa**, o
+- **razonablemente implícita**.
+
+No puede razonar como un particular: “si no está prohibido, puedo hacerlo”.
+
+La pregunta administrativa es otra: **¿qué norma me habilita a ejercer esta potestad?**
+
+---
+
+## Litoral Gas: potestades implícitas y especialidad
+
+El caso es excelente para evitar una lectura excesiva de las potestades implícitas.
+
+ENARGAS podía sostener:
+
+- que regulaba el servicio;
+- que las partes eran licenciatarias;
+- que las instalaciones estaban vinculadas con el gas;
+- que la transferencia podía mejorar eficiencia.
+
+Sin embargo, esa cadena de conexiones no bastaba para crear una potestad sobre el **dominio de los bienes**.
+
+### Límite de la inferencia
+Una potestad implícita debe ser razonablemente inferible de una atribución expresa y permanecer dentro de la especialidad.
+
+No puede utilizarse para incorporar una **competencia materialmente diferente**.
+
+---
+
+## Litoral Gas: incompetencia y nulidad
+
+El dictamen concluyó que el procedimiento seguido ante ENARGAS había incumplido el requisito de competencia.
+
+La consecuencia fue la **nulidad del acto** que ordenó la transferencia.
+
+La Corte:
+
+- compartió e hizo suyos los fundamentos del dictamen;
+- hizo lugar a la queja;
+- declaró procedente el recurso extraordinario;
+- revocó la sentencia.
+
+### Secuencia jurídica
+
+**Falta de habilitación material**  
+↓  
+**incompetencia del ente**  
+↓  
+**defecto en un requisito esencial**  
+↓  
+**ilegitimidad del acto**  
+↓  
+**nulidad**
+
+---
+
+## Litoral Gas: conexión con Balbín
+
+| Balbín | Litoral Gas |
+|---|---|
+| Vinculación positiva | El ente necesita habilitación normativa |
+| Potestad expresa | Debe identificarse qué permite realmente la ley |
+| Potestad implícita | No puede expandirse hasta materias ajenas |
+| Especialidad | Habilita y, al mismo tiempo, limita |
+| Competencia por materia | El dominio excedía la jurisdicción material |
+| Ente descentralizado | La personalidad/especialización no genera poder ilimitado |
+| Control judicial | La última palabra sobre validez corresponde a los jueces |
+
+**Idea central:** la finalidad de eficiencia no subsana la falta de competencia.
+
+---
+
+# III. Bodegas y Viñedos Giol
+
+## Giol: ficha del caso
+
+**CSJN, “Bodegas y Viñedos Giol E.E.I. y C. c/ Dirección General de Fabricaciones Militares”, 26/2/1987.**
+
+El litigio se originó en un régimen de **licencias arancelarias para importación de hojalata** administrado por la Dirección General de Fabricaciones Militares.
+
+La actora cuestionó un ajuste que reducía la cantidad que podía importar bajo ese régimen y reclamó daños derivados de la pérdida del beneficio.
+
+El caso permite trabajar dos cuestiones distintas:
+
+1. **competencia administrativa y plazo para ejercerla**;
+2. **revocación de actos irregulares que habían generado derechos subjetivos**.
+
+---
+
+## Giol: el régimen administrativo
+
+El sistema buscaba proteger y ordenar la producción nacional de hojalata.
+
+Las licencias se distribuían según:
+
+- necesidades estimadas de los usuarios;
+- capacidad de producción nacional;
+- compras efectuadas;
+- mecanismos de ajuste periódicos.
+
+Fabricaciones Militares había realizado un ajuste retroactivo respecto de un período ya transcurrido.
+
+El conflicto exigía interpretar conjuntamente:
+
+- el texto de la reglamentación;
+- su finalidad;
+- los plazos previstos;
+- los efectos que la decisión anterior había producido en cabeza de la empresa.
+
+---
+
+## Giol: competencia y plazo
+
+El dictamen sostuvo que, aun cuando la Administración tuviese potestad para ajustar cupos, esa potestad debía ejercerse **dentro de las condiciones temporales previstas por el régimen**.
+
+La regulación contemplaba ajustes periódicos vinculados con semestres determinados.
+
+La Administración intentó corregir tardíamente un período ya cerrado.
+
+### Regla útil
+
+> Una competencia puede existir por materia y, sin embargo, ser ejercida inválidamente por desconocer su **dimensión temporal**.
+
+Esto conecta con la clasificación de Balbín:
+
+- materia;
+- territorio;
+- **tiempo**;
+- grado.
+
+La competencia no responde únicamente a la pregunta “¿sobre qué puede decidir el órgano?”, sino también “¿cuándo puede hacerlo?”.
+
+---
+
+## Giol: texto, finalidad y competencia
+
+El Procurador interpretó el régimen atendiendo simultáneamente a:
+
+- términos de la norma;
+- finalidad del mecanismo;
+- estructura temporal del sistema.
+
+El objetivo era equilibrar protección de la producción nacional y autorización de importaciones cuando el mercado interno no pudiera abastecer suficientemente.
+
+Pero la finalidad no permitía ignorar el procedimiento y los tiempos establecidos.
+
+<div class="callout">
+Una finalidad pública legítima no convierte en indiferentes las reglas que distribuyen y condicionan el ejercicio de la potestad.
+</div>
+
+La competencia debe ejercerse **del modo jurídicamente previsto**.
+
+---
+
+## Giol: acto irregular y derechos subjetivos
+
+El segundo problema era más complejo.
+
+La decisión anterior había favorecido a la empresa y, aun suponiendo que fuese irregular, había generado una situación jurídica individual.
+
+El art. 17 de la Ley 19.549 establece límites a la revocación administrativa de actos afectados de nulidad absoluta cuando:
+
+- el acto está firme y consentido;
+- ha generado derechos subjetivos;
+- esos derechos se están cumpliendo.
+
+En tales supuestos, la Administración no puede simplemente borrar por sí misma la situación creada como si el acto nunca hubiera existido.
+
+---
+
+## Giol: estabilidad del acto administrativo
+
+El dictamen razonó que la irregularidad no bastaba para justificar una revocación administrativa tardía cuando se encontraban comprometidos los límites del art. 17 LPA.
+
+La Administración debía acudir, en su caso, a la **vía judicial pertinente**.
+
+### Tensión central
+
+| Legalidad | Estabilidad |
+|---|---|
+| El acto irregular no debe perpetuarse sin control | El particular no puede quedar indefinidamente expuesto a que la Administración destruya unilateralmente situaciones consolidadas |
+| Protección del orden jurídico | Seguridad jurídica |
+| Revisión | Confianza y estabilidad |
+
+El Derecho Administrativo procura articular ambos valores.
+
+---
+
+## Giol: acto antecedente y acto final
+
+El dictamen hizo una distinción importante.
+
+El ajuste irregular podía constituir un **acto preparatorio o antecedente** dentro del procedimiento para obtener las licencias.
+
+Por sí solo, ese acto no era necesariamente el acto final que otorgaba el derecho a importar.
+
+Sin embargo, una vez que la licencia correspondiente hubiese sido efectivamente otorgada, la situación cambiaba: el acto final podía haber constituido un **derecho subjetivo** cuya revocación quedaba sometida a las restricciones de la LPA.
+
+Esta distinción enseña a identificar **qué acto produce realmente el efecto jurídico**.
+
+---
+
+## Giol: decisión de la Corte
+
+La Corte compartió los fundamentos y conclusiones del dictamen del Procurador Fiscal.
+
+En consecuencia:
+
+- declaró procedente el recurso;
+- confirmó la sentencia apelada.
+
+Para esta unidad, el valor del precedente está en mostrar que la organización administrativa no se agota en identificar **quién** decide.
+
+También exige examinar:
+
+- en qué momento puede decidir;
+- con qué procedimiento;
+- qué efectos produjeron actos anteriores;
+- hasta dónde puede revisar unilateralmente sus propias decisiones.
+
+---
+
+## Giol: conexión con Balbín
+
+| Balbín | Giol |
+|---|---|
+| Competencia temporal | La potestad debía ejercerse dentro del período normativamente previsto |
+| Juridicidad | Finalidad administrativa no desplaza las condiciones legales |
+| Competencia | No es una habilitación abstracta e ilimitada |
+| Acto administrativo | Importa distinguir actos preparatorios y definitivos |
+| Estabilidad | Los derechos generados limitan la revocación unilateral |
+| Control judicial | La Administración puede necesitar acudir al juez para remover ciertos actos |
+
+**Pregunta para clase:** ¿por qué decir “el órgano era competente” puede ser insuficiente para afirmar la validez del acto?
+
+---
+
+# IV. Comparación de los precedentes
+
+## Tres casos, tres dimensiones de la competencia
+
+| Caso | Problema principal | Dimensión |
+|---|---|---|
+| **Belmonte** | Distribución de funciones y funcionamiento de la CNDC | Órgano / función / quórum |
+| **Litoral Gas** | ENARGAS decide sobre transferencia de activos | Materia |
+| **Giol** | Ajuste ejercido fuera del período normativo | Tiempo |
+
+Los tres casos muestran que “competencia” no es una fórmula genérica.
+
+Para decidir si la Administración actuó válidamente hay que reconstruir:
+
+- **qué** potestad existe;
+- **quién** puede ejercerla;
+- **sobre qué materia**;
+- **en qué momento**;
+- **con qué alcance**;
+- **mediante qué procedimiento**.
+
+---
+
+## Competencia expresa, implícita y finalidad
+
+### Belmonte
+No podía transformarse una función de instrucción y asesoramiento en una competencia decisoria.
+
+### Litoral Gas
+La conexión con el servicio y la eficiencia no permitía inferir potestad para disponer sobre dominio.
+
+### Giol
+La finalidad protectoria del régimen no habilitaba a desconocer sus límites temporales y efectos jurídicos consolidados.
+
+<div class="callout">
+**Regla transversal:** la finalidad ayuda a interpretar la competencia, pero no permite inventar una potestad incompatible con el texto, la especialidad o los límites del régimen.
+</div>
+
+---
+
+## Organización y control judicial
+
+Los precedentes muestran dos movimientos complementarios.
+
+### El juez debe controlar
+En **Litoral Gas**, el control judicial impide que el ente administrativo extienda su jurisdicción sobre una materia que no le fue atribuida.
+
+### El juez no debe sustituir
+En **Belmonte**, el control judicial no autoriza a crear una regla de quórum inexistente ni a redistribuir competencias administrativas.
+
+Por tanto:
+
+> El control judicial debe ser suficientemente intenso para asegurar juridicidad, pero no puede convertirse en ejercicio judicial de competencias organizativas ajenas.
+
+---
+
+## ¿Qué hace inválida una actuación?
+
+| Defecto | Caso ilustrativo | Consecuencia |
+|---|---|---|
+| Órgano ejerce función que no le corresponde | Belmonte, como problema de distribución | Incompetencia funcional |
+| Ente decide materia ajena a su jurisdicción | Litoral Gas | Nulidad por incompetencia |
+| Potestad ejercida fuera de su marco temporal | Giol | Ilegitimidad del ejercicio |
+| Revocación unilateral de situación protegida | Giol | Necesidad de respetar límites del art. 17 LPA |
+| Regla organizativa creada sin base normativa | Belmonte | Improcedencia de la construcción judicial |
+
+---
+
+# V. Casos para discutir en clase
+
+## Caso 1 · Órgano instructor
+
+Una ley establece que una comisión:
+
+- investiga;
+- recibe prueba;
+- emite dictamen.
+
+La decisión final corresponde al ministro.
+
+La comisión entiende que, como conoce técnicamente el expediente y la ley le atribuye amplias funciones investigativas, puede también imponer la sanción.
+
+### Preguntas
+1. ¿Puede fundarse la potestad sancionatoria como implícita?
+2. ¿Qué enseña **Belmonte**?
+3. ¿Importa que la comisión esté mejor preparada técnicamente?
+4. ¿Qué elemento del acto estaría comprometido?
+
+---
+
+## Caso 2 · Ente regulador
+
+Un ente regulador puede resolver conflictos relacionados con la prestación de un servicio público.
+
+Dos concesionarias discuten sobre la propiedad de un inmueble utilizado para prestar el servicio.
+
+El ente decide quién es propietario argumentando que resolver rápidamente el conflicto mejora la continuidad y eficiencia del servicio.
+
+### Preguntas
+1. ¿La finalidad de eficiencia basta?
+2. ¿Cuál es el límite de la especialidad?
+3. ¿Qué enseña **Litoral Gas** sobre jurisdicción primaria?
+4. ¿Cómo juega la reserva de jurisdicción judicial?
+
+---
+
+## Caso 3 · Corrección tardía
+
+Una autoridad descubre que hace tres años calculó incorrectamente un beneficio individual.
+
+El acto:
+
+- fue notificado;
+- quedó firme;
+- generó derechos;
+- viene ejecutándose.
+
+La Administración decide revocarlo directamente invocando nulidad absoluta.
+
+### Preguntas
+1. ¿Puede hacerlo siempre?
+2. ¿Qué tensión aparece entre legalidad y estabilidad?
+3. ¿Qué aporta **Giol**?
+4. ¿Cuándo podría ser necesaria una acción judicial?
+
+---
+
+# VI. Mapa final
+
+## Cómo leer jurisprudencia de organización administrativa
+
+Ante cualquier caso, conviene seguir este orden:
+
+1. **Identificar el sujeto:** Estado, ente, sociedad, órgano.
+2. **Identificar el órgano concreto** que actuó.
+3. Localizar la **fuente normativa** de la competencia.
+4. Precisar la potestad: instruir, asesorar, decidir, controlar, sancionar, regular.
+5. Revisar **materia, territorio, tiempo y grado**.
+6. Analizar potestades expresas e implícitas.
+7. Aplicar la **especialidad** como habilitación y límite.
+8. Distinguir finalidad pública de competencia jurídica.
+9. Verificar procedimiento y funcionamiento del órgano.
+10. Examinar el efecto del defecto sobre la **validez del acto**.
+11. Determinar el alcance del **control judicial**.
+
+---
+
+## Regla de cierre
+
+Los tres precedentes convergen en una misma idea:
+
+> **La Administración no posee poder porque una medida sea útil, eficiente o razonable en abstracto. Posee las potestades que el ordenamiento le atribuye y debe ejercerlas dentro de las condiciones que ese mismo ordenamiento establece.**
+
+**Belmonte** obliga a identificar quién instruye y quién decide.
+
+**Litoral Gas** muestra que la especialidad tiene fronteras materiales y que la competencia es presupuesto de validez.
+
+**Giol** recuerda que la competencia también tiene dimensión temporal y que la revisión de la propia actuación administrativa encuentra límites en la estabilidad de las situaciones jurídicas.
+
+---
+
+## Fuentes utilizadas
+
+Esta presentación fue elaborada **exclusivamente con los documentos jurisprudenciales suministrados**:
+
+- CSJN, **“Belmonte, Manuel y Asociación Ruralista de General Alvear…”**, 16/4/2008.
+- Dictamen de la Procuradora Fiscal Laura M. Monti en **“Belmonte…”**, 16/7/2007.
+- CSJN, **“Litoral Gas S.A. c/ Resolución 493/10 – ENARGAS”**, 24/2/2015, con remisión al dictamen de la Procuradora Fiscal.
+- CSJN, **“Bodegas y Viñedos Giol E.E.I. y C. c/ Dirección General de Fabricaciones Militares”**, 26/2/1987, con remisión al dictamen del Procurador Fiscal.
+
+No se incorporaron fallos, doctrina ni desarrollos jurisprudenciales externos a esos archivos.

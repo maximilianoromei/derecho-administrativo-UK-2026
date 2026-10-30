@@ -1,0 +1,11 @@
+.reveal { font-family: 'Arial', sans-serif; color: #17283d; }
+.reveal .slides section { text-align: left; box-sizing: border-box; padding: 20px 32px; }
+.reveal h1,.reveal h2 { color: #133a63; font-weight: 750; text-transform: none; }
+.reveal h2 { font-size: 1.35em; margin-bottom: .5em; border-bottom: 3px solid #18a0a6; padding-bottom: .2em; }
+.reveal p,.reveal li,.reveal td,.reveal th { font-size: .74em; line-height: 1.32; }
+.reveal li { margin-bottom: .3em; }
+.reveal table { width: 100%; font-size: .9em; }
+.reveal table td,.reveal table th { padding: .25em .4em; }
+.reveal strong { color: #075e7a; }
+.reveal em { color: #55697c; }
+.reveal .slide-number { font-size: 14px; }

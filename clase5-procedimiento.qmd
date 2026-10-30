@@ -1,0 +1,6227 @@
+---
+title: "Derecho Administrativo"
+subtitle: "El procedimiento administrativo"
+author: "Prof. Maximiliano Romei"
+
+format:
+  revealjs:
+    slide-level: 1
+    slide-number: true
+    scrollable: true
+    hash: true
+    transition: slide
+    navigation-mode: linear
+    width: 1600
+    height: 900
+    center: false
+    controls: true
+    progress: true
+    css: styles.css
+
+lang: es
+---
+
+# El procedimiento administrativo
+
+## Derecho Administrativo
+
+**Concepto · principios · expediente · partes · plazos · prueba · conclusión · impugnación · agotamiento · recursos**
+
+### Fuente doctrinaria exclusiva
+
+**Carlos F. Balbín, Manual de Derecho Administrativo, Capítulo XX: “El procedimiento administrativo”.**
+
+### Marco normativo trabajado por Balbín
+
+- **Constitución Nacional**.
+- **Convención Americana sobre Derechos Humanos**.
+- **Ley 19.549** de Procedimientos Administrativos, texto vigente.
+- **Decreto 1759/72**, reglamentario de la LPA, texto ordenado y modificatorias.
+- Normas complementarias mencionadas en el capítulo.
+
+---
+
+# El mapa de la clase
+
+En esta clase estudiaremos el procedimiento administrativo siguiendo la estructura desarrollada por Balbín.
+
+1. **Concepto y finalidad** del procedimiento administrativo.
+2. Diferencia entre **procedimiento administrativo y proceso judicial**.
+3. Transformación del procedimiento en el Estado constitucional.
+4. Régimen general y **procedimientos especiales**.
+5. **Principios generales** del procedimiento administrativo.
+6. Órgano competente.
+7. **Expediente administrativo**.
+8. Partes: capacidad, legitimación y representación.
+9. Plazos.
+10. Prueba.
+11. Vista y notificaciones.
+12. Medidas cautelares.
+13. Modos de conclusión.
+14. Impugnación de las decisiones estatales.
+15. Agotamiento de las vías administrativas.
+16. Reclamo administrativo previo.
+17. Recursos administrativos.
+18. Impugnación de reglamentos.
+
+La idea central es comprender que el procedimiento no constituye una simple sucesión burocrática de trámites.
+
+> **Es el cauce jurídico por medio del cual la Administración forma, exterioriza y revisa sus decisiones.**
+
+---
+
+# 1 · ¿Qué es el procedimiento administrativo?
+
+Balbín define el procedimiento administrativo a partir del conjunto de:
+
+- **principios**;
+- **reglas**;
+- actos preparatorios;
+- actuaciones materiales;
+
+que sigue el Poder Ejecutivo con el objeto de ejercer sus funciones estatales administrativas.
+
+El concepto no debe reducirse a una sucesión formal de escritos.
+
+El procedimiento comprende un conjunto de actuaciones **ordenadas y vinculadas entre sí**, dirigidas a permitir que la Administración adopte una decisión jurídicamente válida.
+
+### Primera idea
+
+El procedimiento administrativo es:
+
+> **el modo jurídico de elaboración de las decisiones administrativas.**
+
+---
+
+# Procedimiento y acto administrativo
+
+El procedimiento administrativo y el acto administrativo son conceptos diferentes.
+
+El **acto administrativo** constituye una declaración estatal destinada a producir efectos jurídicos directos.
+
+El **procedimiento**, en cambio, es el conjunto de actuaciones que permiten arribar a esa decisión.
+
+```text
+PROCEDIMIENTO
+      ↓
+ACTOS PREPARATORIOS
+      ↓
+INFORMES
+      ↓
+DICTÁMENES
+      ↓
+PRUEBA
+      ↓
+PARTICIPACIÓN
+      ↓
+DECISIÓN
+      ↓
+ACTO ADMINISTRATIVO
+```
+
+Por tanto:
+
+> **el acto es normalmente el resultado final de un procedimiento previo.**
+
+---
+
+# El procedimiento como modo de formación de la voluntad estatal
+
+La voluntad administrativa no debería aparecer de manera espontánea.
+
+La decisión estatal debe estar precedida por:
+
+- determinación de los hechos;
+- incorporación de antecedentes;
+- intervención de los órganos competentes;
+- producción de informes;
+- incorporación de conocimientos técnicos;
+- participación de los interesados;
+- producción y valoración de la prueba;
+- análisis jurídico.
+
+El procedimiento cumple, entonces, una función cognoscitiva.
+
+## La Administración debe decidir con conocimiento suficiente de los hechos y del derecho.
+
+---
+
+# El procedimiento como límite al poder
+
+Para Balbín, el procedimiento constituye también:
+
+## UN LÍMITE AL EJERCICIO DEL PODER ESTATAL.
+
+La Administración posee prerrogativas y potestades que los particulares no poseen.
+
+Pero esas potestades:
+
+> **no pueden ejercerse de cualquier manera.**
+
+El ordenamiento determina:
+
+- quién puede decidir;
+- cómo debe hacerlo;
+- qué actuaciones deben cumplirse;
+- quiénes deben intervenir;
+- qué garantías corresponden al particular;
+- qué fundamentos debe contener la decisión.
+
+```text
+PODER ESTATAL
+      +
+PROCEDIMIENTO
+      =
+PODER JURÍDICAMENTE
+ENCAUZADO
+```
+
+---
+
+# ¿Por qué el procedimiento limita al Estado?
+
+Porque el procedimiento obliga a la Administración a respetar determinadas exigencias antes de adoptar una decisión.
+
+Entre otras:
+
+- competencia;
+- intervención del interesado;
+- derecho de defensa;
+- producción de prueba;
+- conocimiento de los antecedentes;
+- dictámenes cuando correspondan;
+- motivación;
+- razonabilidad;
+- plazo razonable.
+
+Por ello, el procedimiento no es una mera cuestión organizativa.
+
+## Es una garantía frente al ejercicio del poder público.
+
+---
+
+# Procedimiento y derechos del particular
+
+El procedimiento tiene además una función subjetiva:
+
+## PROTEGER LOS DERECHOS DE LAS PERSONAS.
+
+El particular debe poder:
+
+- conocer las actuaciones;
+- participar;
+- formular peticiones;
+- explicar sus argumentos;
+- ofrecer prueba;
+- controlar la prueba producida;
+- acceder al expediente;
+- impugnar decisiones;
+- obtener una resolución fundada;
+- obtenerla dentro de un plazo razonable.
+
+Por eso existen dos dimensiones complementarias:
+
+```text
+PROCEDIMIENTO ADMINISTRATIVO
+            │
+     ┌──────┴──────┐
+     ↓             ↓
+ORGANIZA         PROTEGE
+LA FUNCIÓN       AL PARTICULAR
+ADMINISTRATIVA
+```
+
+---
+
+# Procedimiento e interés público
+
+La protección del particular no es la única finalidad.
+
+Balbín también vincula el procedimiento con el cumplimiento adecuado de:
+
+## LOS FINES ESTATALES.
+
+La participación, la prueba, los informes y los dictámenes permiten a la Administración:
+
+- conocer mejor los hechos;
+- evaluar alternativas;
+- identificar derechos comprometidos;
+- obtener conocimientos técnicos;
+- ponderar intereses;
+- adoptar mejores decisiones.
+
+Por ello:
+
+> **garantías del particular y eficacia administrativa no son necesariamente objetivos contrapuestos.**
+
+Un buen procedimiento puede contribuir simultáneamente a ambos.
+
+---
+
+# 2 · Procedimiento y proceso
+
+Balbín considera necesario distinguir:
+
+## PROCEDIMIENTO ADMINISTRATIVO
+
+de:
+
+## PROCESO JUDICIAL.
+
+Históricamente, ciertas instituciones propias del proceso fueron proyectadas sobre el procedimiento administrativo.
+
+Sin embargo, procedimiento y proceso:
+
+> **no son conceptos equivalentes.**
+
+La diferencia central surge de la posición institucional del órgano que decide.
+
+---
+
+# El procedimiento administrativo
+
+En el procedimiento administrativo:
+
+- la Administración ejerce función administrativa;
+- interviene en la relación jurídica;
+- instruye el trámite;
+- produce actuaciones;
+- y finalmente decide.
+
+Por ello, existe una característica estructural:
+
+```text
+ADMINISTRACIÓN
+      │
+      ├── participa de la relación
+      │
+      └── decide administrativamente
+```
+
+El órgano administrativo no ocupa la misma posición institucional que el juez.
+
+## No es un tercero independiente respecto del conflicto en el mismo sentido que un órgano judicial.
+
+---
+
+# El proceso judicial
+
+En el proceso judicial aparece una estructura diferente.
+
+```text
+PARTICULAR
+     ↘
+      JUEZ
+     ↗
+ESTADO
+```
+
+El juez:
+
+- no es autor de la conducta administrativa cuestionada;
+- ejerce función jurisdiccional;
+- debe actuar como tercero;
+- controla la conducta estatal;
+- resuelve el conflicto mediante una decisión judicial.
+
+Esto explica por qué:
+
+> **la decisión administrativa puede quedar posteriormente sometida al control judicial.**
+
+---
+
+# Procedimiento y proceso · comparación
+
+| Procedimiento administrativo | Proceso judicial |
+|---|---|
+| Función administrativa | Función jurisdiccional |
+| Se desarrolla ante la Administración | Se desarrolla ante órganos judiciales |
+| La Administración interviene en la relación | El juez debe ser tercero |
+| Forma o revisa decisiones administrativas | Controla y resuelve conflictos jurídicos |
+| La decisión es revisable judicialmente | La sentencia posee autoridad jurisdiccional |
+| Tiene principios procedimentales propios | Tiene principios procesales propios |
+
+Sin embargo, existe un punto de encuentro fundamental:
+
+## ambos deben respetar las garantías constitucionales y convencionales aplicables.
+
+---
+
+# 3 · Procedimiento y Estado constitucional
+
+Balbín ubica el procedimiento dentro de la transformación general del Estado contemporáneo.
+
+El constitucionalismo evolucionó desde el modelo clásico del:
+
+```text
+ESTADO DE DERECHO
+       ↓
+ESTADO SOCIAL
+       ↓
+ESTADO SOCIAL Y DEMOCRÁTICO
+DE DERECHO
+```
+
+Esta transformación repercute directamente sobre:
+
+- derechos;
+- participación;
+- legitimación;
+- control;
+- procedimiento;
+- acceso a la Justicia.
+
+El procedimiento deja de ser únicamente una herramienta interna de la burocracia.
+
+---
+
+# El procedimiento como garantía constitucional
+
+En el Estado constitucional contemporáneo el procedimiento debe servir para:
+
+- reconocer derechos;
+- hacer efectivos esos derechos;
+- permitir participación;
+- controlar el ejercicio del poder;
+- evitar arbitrariedad;
+- garantizar decisiones fundadas.
+
+Por ello:
+
+```text
+PROCEDIMIENTO
+      ↓
+NO ES SÓLO
+ORGANIZACIÓN ADMINISTRATIVA
+      ↓
+ES TAMBIÉN
+GARANTÍA JURÍDICA
+```
+
+La dimensión constitucional del procedimiento modifica la interpretación de sus instituciones.
+
+---
+
+# Nuevos derechos y nuevos procedimientos
+
+Balbín vincula la evolución del procedimiento con la expansión de:
+
+- derechos sociales;
+- derechos de incidencia colectiva;
+- derechos de usuarios y consumidores;
+- derechos ambientales;
+- mecanismos de participación.
+
+El modelo tradicional estaba construido principalmente alrededor de una relación:
+
+```text
+ESTADO
+  ↕
+INDIVIDUO
+```
+
+Pero muchas decisiones administrativas contemporáneas afectan:
+
+- grupos;
+- comunidades;
+- usuarios;
+- consumidores;
+- intereses colectivos.
+
+Esto exige adaptar las técnicas procedimentales.
+
+---
+
+# Procedimientos plurales
+
+El procedimiento puede involucrar a:
+
+## MÚLTIPLES INTERESADOS.
+
+No siempre existe una única persona frente al Estado.
+
+Puede haber sujetos con intereses:
+
+- coincidentes;
+- diferentes;
+- parcialmente contradictorios;
+- directamente contrapuestos.
+
+El procedimiento debe permitir entonces:
+
+- participación;
+- contradicción;
+- conocimiento de las distintas posiciones;
+- defensa;
+- producción de prueba.
+
+---
+
+# Procedimientos colectivos
+
+El problema puede exceder incluso la pluralidad de individuos.
+
+Existen situaciones donde el objeto mismo del procedimiento involucra:
+
+## DERECHOS O INTERESES COLECTIVOS.
+
+Balbín destaca la necesidad de incorporar mecanismos adecuados para:
+
+- participación colectiva;
+- defensa de intereses supraindividuales;
+- discusión pública;
+- procedimientos abiertos;
+- audiencias;
+- acceso a información.
+
+El procedimiento administrativo contemporáneo no puede quedar limitado al esquema individual clásico.
+
+---
+
+# 4 · Régimen normativo
+
+El régimen general del procedimiento administrativo nacional se estructura principalmente sobre:
+
+## LEY 19.549
+
+Ley Nacional de Procedimientos Administrativos.
+
+Y:
+
+## DECRETO 1759/72
+
+Reglamento de Procedimientos Administrativos.
+
+Balbín recuerda que la LPA regula grandes cuestiones vinculadas con:
+
+1. procedimiento administrativo;
+2. acto administrativo;
+3. impugnación judicial de la actividad estatal.
+
+La reforma legislativa reciente modificó aspectos importantes de este esquema.
+
+---
+
+# Ámbito de aplicación
+
+El criterio relevante no debe ser exclusivamente orgánico.
+
+La LPA alcanza a la Administración Pública Nacional:
+
+- centralizada;
+- descentralizada;
+
+y también contempla supuestos en los cuales órganos pertenecientes a otros poderes desarrollan:
+
+## ACTIVIDAD MATERIALMENTE ADMINISTRATIVA.
+
+Por ejemplo:
+
+- Poder Legislativo;
+- Poder Judicial;
+- Ministerio Público;
+
+cuando ejercen funciones administrativas en los términos legalmente previstos.
+
+---
+
+# Criterio funcional
+
+Esta cuestión se conecta con una idea ya estudiada respecto del acto administrativo.
+
+```text
+NO IMPORTA ÚNICAMENTE
+QUIÉN ACTÚA
+       ↓
+IMPORTA TAMBIÉN
+QUÉ FUNCIÓN EJERCE
+```
+
+Un órgano perteneciente institucionalmente al Poder Judicial puede:
+
+- contratar;
+- administrar personal;
+- gestionar recursos;
+- adoptar decisiones administrativas internas.
+
+En esos casos ejerce:
+
+## FUNCIÓN MATERIALMENTE ADMINISTRATIVA.
+
+---
+
+# Aplicación supletoria
+
+Balbín analiza también la aplicación supletoria de la LPA.
+
+La existencia de regímenes especiales no significa necesariamente:
+
+> exclusión absoluta del régimen general.
+
+En ciertos casos:
+
+```text
+RÉGIMEN ESPECIAL
+       ↓
+REGLAS PROPIAS
+       +
+LPA
+COMO RÉGIMEN SUPLETORIO
+```
+
+La relación entre norma general y procedimiento especial debe determinarse según:
+
+- la ley;
+- la materia;
+- la regulación específica;
+- las garantías involucradas.
+
+---
+
+# Sujetos empresariales estatales
+
+La reforma legal obliga a revisar el alcance tradicional del procedimiento respecto de determinadas estructuras empresariales estatales.
+
+Balbín menciona, entre otras:
+
+- Empresas del Estado;
+- Sociedades del Estado;
+- Sociedades Anónimas con Participación Estatal Mayoritaria;
+- Sociedades de Economía Mixta;
+- otras formas empresariales con participación estatal contempladas legalmente.
+
+El nuevo régimen establece reglas específicas y una mayor remisión al:
+
+## DERECHO PRIVADO
+
+en determinadas relaciones.
+
+Por ello, no debe aplicarse mecánicamente el viejo esquema de la LPA.
+
+---
+
+# Defensa, seguridad y regímenes especiales
+
+Otro punto que exige cuidado es el relativo a:
+
+- organismos militares;
+- defensa;
+- seguridad.
+
+No es correcto afirmar simplemente:
+
+> “la LPA nunca se aplica”.
+
+El régimen vigente contempla:
+
+- materias reguladas por leyes especiales;
+- exclusiones vinculadas con disciplina;
+- cuestiones técnicas;
+- aspectos operativos;
+- aplicación del régimen general cuando corresponda.
+
+La respuesta depende de:
+
+## la materia concreta sometida a regulación.
+
+---
+
+# 5 · Procedimientos especiales
+
+La Administración desarrolla actividades extremadamente diversas.
+
+Por eso existen:
+
+## PROCEDIMIENTOS ESPECIALES.
+
+Balbín analiza supuestos vinculados, entre otros, con:
+
+- materia tributaria;
+- minería;
+- contratación pública;
+- fuerzas armadas;
+- seguridad;
+- potestad correctiva;
+- audiencias públicas;
+- tribunales administrativos.
+
+Estos procedimientos poseen:
+
+> reglas adaptadas a las características de cada materia.
+
+---
+
+# Especialidad y garantías
+
+La existencia de un procedimiento especial no debería funcionar como mecanismo para:
+
+## REDUCIR ARBITRARIAMENTE LAS GARANTÍAS.
+
+La especialidad debe justificarse por:
+
+- naturaleza de la actividad;
+- características del órgano;
+- particularidades técnicas;
+- finalidad del régimen.
+
+No por:
+
+> la conveniencia administrativa de restringir la defensa del particular.
+
+Por eso Balbín destaca la necesidad de preservar estándares generales de protección.
+
+---
+
+# Participación administrativa
+
+El procedimiento contemporáneo incorpora progresivamente mecanismos de:
+
+## PARTICIPACIÓN.
+
+Entre ellos:
+
+- audiencias públicas;
+- procedimientos participativos;
+- acceso a información;
+- intervención de afectados;
+- consultas.
+
+La participación permite:
+
+```text
+PARTICIPACIÓN
+      │
+      ├── proteger derechos
+      ├── mejorar información
+      ├── incorporar intereses
+      ├── transparentar decisiones
+      └── fortalecer legitimidad
+```
+
+No se trata solamente de “escuchar” al particular.
+
+La participación debe ser jurídicamente significativa.
+
+---
+
+# 6 · Los principios del procedimiento
+
+Balbín analiza los principios actualmente reconocidos por la LPA y por el ordenamiento constitucional.
+
+Entre ellos:
+
+- tutela administrativa efectiva;
+- juridicidad;
+- razonabilidad;
+- proporcionalidad;
+- buena fe;
+- confianza legítima;
+- transparencia;
+- simplificación administrativa;
+- buena administración;
+- impulsión e instrucción de oficio;
+- informalismo;
+- celeridad;
+- economía;
+- sencillez;
+- eficacia;
+- eficiencia;
+- gratuidad.
+
+Estos principios:
+
+## TIENEN CONSECUENCIAS JURÍDICAS CONCRETAS.
+
+---
+
+# ¿Para qué sirven los principios?
+
+Los principios cumplen varias funciones.
+
+### Interpretativa
+
+Permiten interpretar reglas procedimentales.
+
+### Integradora
+
+Ayudan a resolver situaciones no expresamente reguladas.
+
+### Limitadora
+
+Condicionan el ejercicio de las potestades administrativas.
+
+### Protectora
+
+Orientan el procedimiento hacia la tutela del interesado.
+
+Por ello:
+
+```text
+REGLA PROCEDIMENTAL
+       +
+PRINCIPIOS
+       ↓
+INTERPRETACIÓN
+JURÍDICAMENTE ADECUADA
+```
+
+---
+
+# 7 · Tutela administrativa efectiva
+
+Uno de los ejes centrales del nuevo régimen es:
+
+## LA TUTELA ADMINISTRATIVA EFECTIVA.
+
+La garantía de defensa no opera exclusivamente ante los tribunales.
+
+También debe respetarse cuando la Administración:
+
+- determina derechos;
+- impone obligaciones;
+- aplica sanciones;
+- rechaza pretensiones;
+- afecta intereses jurídicamente protegidos.
+
+El procedimiento debe permitir una defensa:
+
+## REAL Y EFECTIVA.
+
+No meramente formal.
+
+---
+
+# Contenido de la tutela administrativa efectiva
+
+Balbín desarrolla cuatro grandes componentes:
+
+```text
+TUTELA ADMINISTRATIVA EFECTIVA
+             │
+     ┌───────┼────────┬───────────┐
+     ↓       ↓        ↓           ↓
+   DERECHO  DERECHO  DECISIÓN    PLAZO
+   A SER    A LA     FUNDADA     RAZONABLE
+   OÍDO     PRUEBA
+```
+
+Estas garantías se relacionan entre sí.
+
+No existe verdadera defensa cuando:
+
+- puedo hablar pero no probar;
+- puedo probar pero nadie considera la prueba;
+- obtengo decisión sin fundamentos;
+- la decisión llega después de una demora irrazonable.
+
+---
+
+# Derecho a ser oído
+
+El interesado debe tener la posibilidad de:
+
+- exponer sus pretensiones;
+- explicar sus razones;
+- formular defensas;
+- conocer los cargos o planteos;
+- intervenir antes de una decisión perjudicial;
+- utilizar los recursos correspondientes.
+
+El derecho debe poder ejercerse:
+
+## EN FORMA ÚTIL Y OPORTUNA.
+
+Por ello, no basta con permitir una intervención cuando:
+
+> la decisión ya está materialmente tomada y la participación carece de utilidad real.
+
+---
+
+# Debido proceso administrativo
+
+La garantía de defensa deriva fundamentalmente del:
+
+## ART. 18 DE LA CONSTITUCIÓN NACIONAL.
+
+Pero Balbín incorpora también la dimensión convencional.
+
+Especialmente:
+
+## ART. 8 DE LA CONVENCIÓN AMERICANA SOBRE DERECHOS HUMANOS.
+
+La jurisprudencia interamericana extendió garantías del debido proceso a actuaciones administrativas cuando el Estado determina:
+
+- derechos;
+- deberes;
+- responsabilidades;
+- situaciones jurídicas de las personas.
+
+---
+
+# Jurisprudencia · “Baena Ricardo y otros vs. Panamá”
+
+## Corte Interamericana de Derechos Humanos
+
+### Autos
+
+**“Baena Ricardo y otros vs. Panamá”**
+
+### Hechos relevantes
+
+El caso involucró a trabajadores estatales despedidos en un contexto de conflicto laboral y medidas colectivas.
+
+El Estado aplicó decisiones que afectaron directamente:
+
+- empleo;
+- situación laboral;
+- derechos de los trabajadores.
+
+La controversia obligó a analizar qué garantías debían respetarse cuando una autoridad estatal, aun fuera del Poder Judicial, adopta decisiones que afectan derechos.
+
+---
+
+# “Baena Ricardo” · problema jurídico
+
+La cuestión relevante para el Derecho Administrativo fue:
+
+> **¿las garantías del debido proceso previstas por la Convención se aplican solamente a jueces y tribunales?**
+
+La Corte Interamericana respondió:
+
+## NO.
+
+Cuando una autoridad administrativa determina derechos u obligaciones:
+
+> debe respetar las garantías compatibles con la naturaleza de ese procedimiento.
+
+Por ello:
+
+```text
+DEBIDO PROCESO
+      ≠
+GARANTÍA EXCLUSIVA
+DEL PROCESO JUDICIAL
+```
+
+---
+
+# “Baena Ricardo” · resolución y relevancia
+
+La Corte Interamericana consideró que el Estado había vulnerado garantías convencionales.
+
+Para Balbín, el precedente permite sostener que:
+
+- la Administración debe respetar el debido proceso;
+- las garantías del art. 8 CADH no se agotan en los tribunales;
+- el procedimiento administrativo debe impedir decisiones arbitrarias.
+
+La enseñanza puede sintetizarse así:
+
+```text
+ART. 18 CN
+     +
+ART. 8 CADH
+     ↓
+GARANTÍAS
+EN EL PROCEDIMIENTO
+ADMINISTRATIVO
+```
+
+---
+
+# Derecho a ofrecer y producir prueba
+
+La tutela administrativa efectiva comprende:
+
+## EL DERECHO A OFRECER Y PRODUCIR PRUEBA.
+
+El particular debe tener posibilidad de acreditar:
+
+- hechos;
+- circunstancias;
+- antecedentes;
+- elementos técnicos;
+
+que sostienen su pretensión o defensa.
+
+Pero el derecho probatorio no termina con el ofrecimiento.
+
+También comprende:
+
+- producción;
+- conocimiento;
+- control;
+- contradicción;
+- valoración.
+
+---
+
+# Control de la prueba
+
+El interesado debe poder conocer:
+
+> cuáles son los elementos que utilizará la Administración para decidir.
+
+Si existe un informe técnico decisivo, por ejemplo, el particular debe tener una oportunidad adecuada para:
+
+- conocerlo;
+- cuestionarlo;
+- acompañar documentación;
+- ofrecer contraprueba;
+- formular observaciones.
+
+Sin esa posibilidad:
+
+## LA DEFENSA PUEDE VOLVERSE PURAMENTE APARENTE.
+
+---
+
+# Derecho a una decisión fundada
+
+Otro componente esencial es:
+
+## EL DERECHO A UNA DECISIÓN FUNDADA.
+
+La Administración debe responder:
+
+- pretensiones principales;
+- argumentos relevantes;
+- prueba conducente;
+- cuestiones decisivas.
+
+Fundar no consiste en:
+
+> copiar normas o repetir fórmulas abstractas.
+
+La decisión debe permitir comprender:
+
+### por qué la Administración adopta una determinada solución.
+
+---
+
+# Motivación y procedimiento
+
+Este punto conecta directamente con el acto administrativo.
+
+```text
+PROCEDIMIENTO
+      ↓
+HECHOS
+      +
+PRUEBA
+      +
+ANTECEDENTES
+      +
+DERECHO
+      ↓
+MOTIVACIÓN
+      ↓
+DECISIÓN
+```
+
+La motivación es, entonces:
+
+> el punto donde el procedimiento previo se hace visible dentro del acto final.
+
+Una decisión fundada debe mostrar:
+
+### la relación entre antecedentes y conclusión.
+
+---
+
+# Derecho a un plazo razonable
+
+La tutela administrativa efectiva también incluye:
+
+## EL DERECHO A OBTENER UNA DECISIÓN EN PLAZO RAZONABLE.
+
+La Administración tiene el deber de:
+
+- tramitar;
+- impulsar;
+- resolver;
+- notificar.
+
+Una demora excesiva puede tornar inútiles:
+
+- defensa;
+- prueba;
+- recursos;
+- derecho sustancial reclamado.
+
+Por eso:
+
+```text
+DECISIÓN CORRECTA
+       +
+DEMORA IRRAZONABLE
+       ↓
+PUEDE EXISTIR
+LESIÓN DE DERECHOS
+```
+
+---
+
+# ¿Cómo se determina el plazo razonable?
+
+Balbín recoge criterios jurisprudenciales para analizar la razonabilidad temporal.
+
+Entre otros:
+
+1. **complejidad del asunto**;
+2. conducta del interesado;
+3. conducta de las autoridades;
+4. incidencia que la demora produce sobre la situación jurídica comprometida.
+
+Por eso:
+
+> **plazo razonable no significa un número idéntico de días para todos los procedimientos.**
+
+Debe analizarse:
+
+## el caso concreto.
+
+---
+
+# Jurisprudencia · “Losicer”
+
+## Corte Suprema de Justicia de la Nación
+
+### Autos
+
+**“Losicer, Jorge Alberto y otros c/ Banco Central de la República Argentina”**
+
+### Hechos relevantes
+
+El caso se vinculó con un procedimiento administrativo sancionador tramitado ante el Banco Central.
+
+La actuación se extendió durante un período extraordinariamente prolongado.
+
+Los interesados permanecieron durante años sometidos a:
+
+- investigación;
+- trámite sancionatorio;
+- incertidumbre respecto de la decisión estatal.
+
+La duración misma del procedimiento se convirtió así en el problema constitucional.
+
+---
+
+# “Losicer” · problema
+
+La cuestión podía formularse así:
+
+> **¿basta con que la Administración haya seguido formalmente un procedimiento si su duración total resulta irrazonable?**
+
+La respuesta de la Corte fue negativa.
+
+El debido proceso no se limita a verificar:
+
+- existencia de actuaciones;
+- cumplimiento aislado de trámites;
+- posibilidad formal de defensa.
+
+También exige:
+
+## UNA DECISIÓN DENTRO DE UN TIEMPO RAZONABLE.
+
+---
+
+# “Losicer” · relevancia y resolución
+
+La Corte consideró que la duración extraordinaria del procedimiento sancionatorio lesionaba la garantía del plazo razonable.
+
+El precedente es relevante porque extiende el análisis temporal al ámbito:
+
+## ADMINISTRATIVO SANCIONADOR.
+
+La enseñanza es clara:
+
+```text
+POTESTAD SANCIONATORIA
+        ↓
+NO PUEDE MANTENER
+INDEFINIDAMENTE
+        ↓
+AL ADMINISTRADO
+BAJO INCERTIDUMBRE
+```
+
+El tiempo forma parte del debido proceso.
+
+---
+
+# Jurisprudencia · “Navarrine”
+
+Balbín menciona también el precedente:
+
+## “Navarrine”
+
+al desarrollar la exigencia de una decisión administrativa dentro de plazo razonable.
+
+La enseñanza que extrae se integra con la doctrina anterior:
+
+> el Estado debe organizar sus procedimientos de modo tal que las demoras burocráticas no hagan ilusorio el derecho del particular.
+
+Lo decisivo no es solamente:
+
+### si existe formalmente un plazo normativo.
+
+También debe analizarse:
+
+### si la duración concreta del trámite resulta constitucionalmente razonable.
+
+---
+
+# 8 · Simplificación administrativa
+
+El art. 1 bis incorpora un conjunto de principios vinculados con la:
+
+## SIMPLIFICACIÓN.
+
+Balbín analiza especialmente:
+
+- celeridad;
+- economía;
+- sencillez;
+- eficacia;
+- eficiencia.
+
+La Administración debe evitar:
+
+- trámites innecesarios;
+- reiteraciones;
+- cargas superfluas;
+- documentación que ya posee;
+- circuitos burocráticos carentes de utilidad.
+
+Pero:
+
+## SIMPLIFICAR NO SIGNIFICA ELIMINAR GARANTÍAS.
+
+---
+
+# Celeridad
+
+La celeridad exige:
+
+> que el procedimiento avance sin demoras innecesarias.
+
+Se relaciona directamente con:
+
+- impulso de oficio;
+- plazo razonable;
+- simplificación;
+- deber de resolver.
+
+La Administración no puede utilizar su propia organización interna como justificación permanente para:
+
+- no impulsar;
+- no informar;
+- no resolver.
+
+El procedimiento debe estar orientado hacia:
+
+## UNA DECISIÓN.
+
+---
+
+# Economía
+
+El principio de economía busca evitar:
+
+- actuaciones repetidas;
+- costos innecesarios;
+- trámites inútiles;
+- duplicación de documentación;
+- dispendio de actividad administrativa.
+
+La economía procedimental no persigue únicamente:
+
+### ahorrar recursos públicos.
+
+También evita imponer al particular:
+
+### cargas burocráticas innecesarias.
+
+---
+
+# Sencillez
+
+El procedimiento debe ser:
+
+## COMPRENSIBLE Y ACCESIBLE.
+
+La Administración no debe construir obstáculos basados en:
+
+- tecnicismos innecesarios;
+- requisitos formales sin utilidad;
+- circuitos incomprensibles;
+- reiteración de exigencias.
+
+La sencillez se relaciona estrechamente con:
+
+## INFORMALISMO.
+
+El administrado no debería necesitar dominar toda la estructura burocrática para poder ejercer un derecho.
+
+---
+
+# Eficacia
+
+La eficacia se vincula con:
+
+> **alcanzar efectivamente los objetivos propuestos.**
+
+Un procedimiento puede ser formalmente correcto pero resultar inútil si:
+
+- no permite resolver;
+- demora excesivamente;
+- duplica actuaciones;
+- no identifica el verdadero conflicto;
+- no produce información útil.
+
+El procedimiento es un instrumento.
+
+## NO UN FIN EN SÍ MISMO.
+
+---
+
+# Eficiencia
+
+La eficiencia agrega otra dimensión.
+
+No sólo importa alcanzar el objetivo.
+
+También importa:
+
+> **cómo se utilizan los recursos disponibles para alcanzarlo.**
+
+```text
+EFICACIA
+¿se logró el objetivo?
+
+EFICIENCIA
+¿se logró utilizando
+adecuadamente los medios?
+```
+
+La buena administración exige:
+
+### eficacia + uso razonable de recursos.
+
+---
+
+# Gratuidad
+
+Balbín analiza el principio de:
+
+## GRATUIDAD DEL TRÁMITE ADMINISTRATIVO.
+
+La lógica es facilitar el acceso del particular a:
+
+- peticiones;
+- reclamos;
+- recursos;
+- mecanismos administrativos de defensa.
+
+La gratuidad del procedimiento no significa que nunca existan:
+
+- gastos personales;
+- honorarios profesionales;
+- costos de peritos propuestos por la parte.
+
+Significa que el acceso al procedimiento:
+
+## NO DEBE ESTAR CONDICIONADO POR UNA TASA GENERAL DE ACCESO.
+
+---
+
+# Buena fe
+
+La LPA incorpora expresamente:
+
+## LA BUENA FE.
+
+El principio obliga:
+
+### a la Administración
+
+y:
+
+### al administrado.
+
+Excluye conductas tales como:
+
+- engaño;
+- abuso;
+- contradicción injustificada;
+- maniobras meramente dilatorias;
+- utilización desviada de institutos procedimentales.
+
+La relación administrativa no debe entenderse como:
+
+> una guerra de trampas formales.
+
+---
+
+# Confianza legítima
+
+La confianza legítima se vincula con:
+
+- coherencia estatal;
+- previsibilidad;
+- seguridad jurídica.
+
+La Administración puede generar mediante:
+
+- actos;
+- prácticas;
+- conductas;
+- antecedentes;
+
+expectativas razonables en los particulares.
+
+Eso no significa que el Estado nunca pueda modificar su conducta.
+
+Pero las modificaciones:
+
+## NO PUEDEN DESCONOCER ARBITRARIAMENTE EXPECTATIVAS JURÍDICAMENTE RELEVANTES.
+
+---
+
+# Transparencia
+
+La transparencia exige que la actuación estatal pueda:
+
+- ser conocida;
+- ser comprendida;
+- ser controlada.
+
+Se relaciona con:
+
+- acceso al expediente;
+- publicidad;
+- motivación;
+- participación;
+- información pública;
+- control social.
+
+```text
+TRANSPARENCIA
+      ↓
+CONOCIMIENTO
+      ↓
+PARTICIPACIÓN
+      ↓
+CONTROL
+```
+
+Una Administración opaca dificulta tanto:
+
+### la defensa individual como el control democrático.
+
+---
+
+# Juridicidad
+
+Balbín utiliza la juridicidad como principio estructural.
+
+La Administración debe someterse:
+
+- a la Constitución;
+- a los tratados;
+- a las leyes;
+- a los reglamentos;
+- a los principios generales;
+- al conjunto del ordenamiento jurídico.
+
+Por ello:
+
+```text
+JURIDICIDAD
+      >
+MERA LEGALIDAD FORMAL
+```
+
+No basta con identificar una norma que atribuya competencia.
+
+El ejercicio concreto debe ser compatible con:
+
+## TODO EL ORDENAMIENTO.
+
+---
+
+# Razonabilidad
+
+La razonabilidad exige que la actuación administrativa:
+
+- tenga fundamento;
+- guarde relación con los hechos;
+- responda a la finalidad normativa;
+- no sea arbitraria.
+
+Una decisión puede haber sido dictada por:
+
+- órgano competente;
+- siguiendo formalmente un procedimiento;
+
+y sin embargo resultar:
+
+## IRRAZONABLE.
+
+Por eso la juridicidad no se agota en:
+
+> competencia + forma.
+
+---
+
+# Proporcionalidad
+
+La proporcionalidad exige examinar:
+
+```text
+MEDIO UTILIZADO
+       ↕
+FINALIDAD PERSEGUIDA
+       ↕
+DERECHO AFECTADO
+```
+
+Una potestad estatal puede perseguir un fin legítimo.
+
+Sin embargo, la medida concreta no debe imponer:
+
+### sacrificios desmedidos.
+
+El análisis supone evaluar:
+
+- adecuación;
+- necesidad;
+- intensidad de la restricción.
+
+---
+
+# Buena administración
+
+Balbín incorpora la buena administración dentro del conjunto de principios contemporáneos.
+
+La Administración no sólo debe:
+
+### evitar la ilegalidad.
+
+Debe procurar actuar:
+
+- correctamente;
+- razonablemente;
+- eficazmente;
+- oportunamente;
+- transparentemente;
+- de buena fe;
+- respetando derechos.
+
+La buena administración expresa un cambio importante:
+
+```text
+NO BASTA
+"NO HACER ALGO ILEGAL"
+       ↓
+SE EXIGE
+ADMINISTRAR ADECUADAMENTE
+```
+
+---
+
+# 9 · Impulsión e instrucción de oficio
+
+El procedimiento administrativo se distingue de modelos procesales estrictamente dispositivos.
+
+La regla es:
+
+## IMPULSO DE OFICIO.
+
+La Administración debe:
+
+- promover el trámite;
+- ordenar actuaciones;
+- incorporar antecedentes;
+- requerir informes;
+- evitar paralizaciones;
+- conducir el expediente hacia una decisión.
+
+El órgano no puede limitarse siempre a esperar:
+
+> que el particular realice cada actuación.
+
+---
+
+# El límite del impulso de oficio
+
+El impulso de oficio no significa que:
+
+## EL INTERESADO CAREZCA DE CARGAS.
+
+Existen actuaciones que dependen de él.
+
+Por ejemplo:
+
+- aportar determinada documentación;
+- cumplir una intimación;
+- producir una prueba que se encuentra bajo su control.
+
+Cuando el procedimiento se paraliza por una conducta imputable al interesado:
+
+> pueden producirse consecuencias procedimentales.
+
+Sin embargo, deben respetarse los requisitos legales correspondientes.
+
+---
+
+# Verdad jurídica objetiva
+
+Balbín relaciona la instrucción de oficio con:
+
+## LA VERDAD JURÍDICA OBJETIVA.
+
+La Administración no debería decidir exclusivamente con base en:
+
+- lo que una parte dijo;
+- lo que omitió;
+- la documentación inicialmente acompañada.
+
+Debe intentar conocer:
+
+### la realidad relevante del caso.
+
+Esto permite al órgano:
+
+- requerir antecedentes;
+- producir informes;
+- ordenar pruebas;
+- incorporar elementos disponibles.
+
+---
+
+# Verdad objetiva y proceso judicial
+
+Balbín marca una diferencia con modelos procesales de carácter dispositivo.
+
+En éstos, el juez puede encontrarse más limitado por:
+
+- alegaciones;
+- prueba aportada;
+- actividad de las partes.
+
+En el procedimiento administrativo, en cambio:
+
+```text
+ÓRGANO ADMINISTRATIVO
+        ↓
+DEBE INSTRUIR
+        ↓
+PARA CONOCER
+LA REALIDAD RELEVANTE
+```
+
+La Administración tiene responsabilidad propia en:
+
+## EL ESCLARECIMIENTO DE LOS HECHOS.
+
+---
+
+# Informalismo a favor del administrado
+
+Otro principio fundamental es:
+
+## INFORMALISMO.
+
+El interesado no debe perder un derecho por:
+
+- error formal menor;
+- incorrecta denominación;
+- presentación defectuosa subsanable;
+- equivocación no esencial.
+
+La lógica es:
+
+```text
+DEFECTO FORMAL
+      ↓
+¿PUEDE SER SUBSANADO?
+      ↓
+SÍ
+      ↓
+DEBE PRESERVARSE
+LA PRETENSIÓN
+```
+
+---
+
+# ¿A favor de quién funciona el informalismo?
+
+Ésta es una precisión fundamental.
+
+## A FAVOR DEL ADMINISTRADO.
+
+No permite que el Estado diga:
+
+> “como rige el informalismo, puedo incumplir las formas que la ley me exige”.
+
+La Administración:
+
+### debe cumplir las formas impuestas por el ordenamiento.
+
+El informalismo pretende corregir la desigualdad práctica entre:
+
+- particular;
+- estructura administrativa.
+
+---
+
+# Aplicaciones del informalismo
+
+Balbín identifica distintas manifestaciones.
+
+Por ejemplo:
+
+- interpretación del verdadero objeto de la presentación;
+- subsanación de defectos;
+- recepción de escritos presentados de modo irregular;
+- calificación adecuada del recurso;
+- remisión al órgano competente.
+
+La Administración debe mirar:
+
+## EL CONTENIDO SUSTANCIAL.
+
+No exclusivamente:
+
+## EL NOMBRE FORMAL UTILIZADO.
+
+---
+
+# Ejemplo didáctico · recurso mal denominado
+
+Un particular presenta un escrito titulado:
+
+> **“Recurso de reconsideración”.**
+
+Sin embargo, del contenido surge que:
+
+- cuestiona un acto definitivo;
+- pretende que lo revise el superior;
+- explica claramente los agravios.
+
+El informalismo exige analizar:
+
+### la verdadera intención impugnatoria.
+
+No debería rechazarse simplemente porque:
+
+> el particular eligió incorrectamente el nombre técnico del recurso.
+
+---
+
+# 10 · Otros principios
+
+Balbín menciona también principios relacionados con:
+
+- publicidad;
+- transparencia;
+- participación;
+- contradicción;
+- continuidad del trámite;
+- protección de derechos colectivos.
+
+Todos ellos muestran que el procedimiento contemporáneo no puede concebirse como:
+
+### una relación cerrada entre expediente y oficina administrativa.
+
+El procedimiento forma parte de un sistema más amplio de:
+
+## CONTROL DEL PODER.
+
+---
+
+# 11 · El órgano competente
+
+El órgano competente debe:
+
+- conocer;
+- instruir;
+- impulsar;
+- intervenir;
+- y, cuando corresponda, resolver.
+
+La competencia constituye:
+
+## UNA ATRIBUCIÓN JURÍDICA.
+
+Pero también:
+
+## UN DEBER DE EJERCICIO.
+
+El órgano al que el ordenamiento atribuye una competencia:
+
+> no puede simplemente desentenderse del trámite.
+
+---
+
+# Instrucción y decisión
+
+Dentro de un mismo procedimiento pueden intervenir múltiples órganos.
+
+Por ejemplo:
+
+```text
+ÓRGANO INSTRUCTOR
+       ↓
+ÁREA TÉCNICA
+       ↓
+SERVICIO JURÍDICO
+       ↓
+ÓRGANO DECISOR
+```
+
+No todos cumplen la misma función.
+
+Debe distinguirse entre:
+
+- quien impulsa;
+- quien informa;
+- quien dictamina;
+- quien decide.
+
+La decisión final pertenece:
+
+## AL ÓRGANO COMPETENTE.
+
+---
+
+# Recusación y excusación
+
+Aunque la Administración no sea un tercero imparcial en el mismo sentido que el juez, el ordenamiento prevé mecanismos destinados a proteger:
+
+## OBJETIVIDAD.
+
+Entre ellos:
+
+- recusación;
+- excusación.
+
+Estos institutos buscan evitar que intervenga un funcionario cuando existen circunstancias que:
+
+> comprometen jurídicamente su objetividad.
+
+No transforman al procedimiento administrativo en un proceso judicial.
+
+Pero establecen:
+
+### límites personales al ejercicio de la competencia.
+
+---
+
+# 12 · El expediente administrativo
+
+Balbín define el expediente como el conjunto ordenado de:
+
+- documentos;
+- escritos;
+- resoluciones;
+- actuaciones;
+
+que integran el trámite administrativo.
+
+El Reglamento lo vincula con:
+
+- antecedentes;
+- fundamento del acto;
+- diligencias necesarias para ejecutarlo.
+
+Por eso:
+
+## EL EXPEDIENTE ES LA MEMORIA JURÍDICA DEL PROCEDIMIENTO.
+
+---
+
+# Funciones del expediente
+
+El expediente permite conocer:
+
+- quién inició el trámite;
+- qué se pidió;
+- qué actuaciones se realizaron;
+- qué información se incorporó;
+- qué prueba existe;
+- qué órganos intervinieron;
+- qué dictámenes se emitieron;
+- cuáles fueron los fundamentos de la decisión.
+
+```text
+EXPEDIENTE
+    │
+    ├── DOCUMENTA
+    ├── ORDENA
+    ├── CONSERVA
+    ├── FUNDAMENTA
+    └── PERMITE CONTROLAR
+```
+
+---
+
+# Expediente y acto administrativo
+
+Existe una relación directa entre expediente y elementos del acto.
+
+```text
+EXPEDIENTE
+      ↓
+ANTECEDENTES
+      ↓
+HECHOS
+      ↓
+CAUSA
+      ↓
+MOTIVACIÓN
+      ↓
+ACTO
+```
+
+Un expediente incompleto puede repercutir sobre:
+
+- causa;
+- motivación;
+- procedimiento;
+- legitimidad del acto final.
+
+Por eso:
+
+> **el expediente no es un simple contenedor físico o digital de documentos.**
+
+---
+
+# Expediente electrónico
+
+La regla contemporánea es:
+
+## EXPEDIENTE ELECTRÓNICO.
+
+Balbín analiza la incorporación de sistemas electrónicos destinados a:
+
+- tramitar;
+- registrar;
+- identificar;
+- conservar;
+- comunicar actuaciones.
+
+La utilización de herramientas digitales puede mejorar:
+
+- trazabilidad;
+- acceso;
+- velocidad;
+- conservación.
+
+Pero:
+
+## EL CAMBIO DE SOPORTE NO ELIMINA LAS GARANTÍAS PROCEDIMENTALES.
+
+---
+
+# Gestión documental electrónica
+
+La digitalización debe garantizar:
+
+- identificación del expediente;
+- continuidad;
+- integridad documental;
+- identificación de las actuaciones;
+- acceso del interesado;
+- posibilidad de control.
+
+El soporte tecnológico no puede convertirse en:
+
+> una nueva barrera burocrática.
+
+Por el contrario, debe servir a:
+
+## SIMPLIFICACIÓN Y BUENA ADMINISTRACIÓN.
+
+---
+
+# Firma digital
+
+La Ley 25.506 permite atribuir eficacia jurídica a la:
+
+## FIRMA DIGITAL.
+
+Su función central consiste en permitir:
+
+- identificación del firmante;
+- verificación de integridad;
+- detección de alteraciones;
+- atribución jurídica del documento.
+
+```text
+DOCUMENTO DIGITAL
+       +
+FIRMA DIGITAL
+       ↓
+IDENTIFICACIÓN
+       +
+INTEGRIDAD
+       +
+EFICACIA JURÍDICA
+```
+
+---
+
+# Presentaciones administrativas
+
+Los escritos del particular deben permitir conocer:
+
+- identidad;
+- domicilio;
+- hechos;
+- fundamentos;
+- petición;
+- prueba;
+- firma.
+
+La finalidad de estos requisitos es:
+
+## HACER INTELIGIBLE LA PRETENSIÓN.
+
+No crear una carrera de obstáculos formales.
+
+Por eso las reglas sobre escritos deben leerse conjuntamente con:
+
+### el principio de informalismo.
+
+---
+
+# Formas de presentación
+
+El procedimiento actual contempla:
+
+- presentaciones electrónicas;
+- plataformas digitales;
+- mecanismos reglamentarios de ingreso de actuaciones.
+
+Balbín relaciona estos mecanismos con:
+
+- simplificación;
+- expediente electrónico;
+- accesibilidad.
+
+Lo relevante es que quede constancia suficiente de:
+
+- presentación;
+- fecha;
+- identidad;
+- contenido.
+
+---
+
+# 13 · Las partes
+
+Balbín analiza tres conceptos que deben mantenerse separados:
+
+```text
+CAPACIDAD
+      ↓
+¿PUEDE ACTUAR?
+
+LEGITIMACIÓN
+      ↓
+¿PUEDE INTERVENIR
+EN ESTE ASUNTO?
+
+REPRESENTACIÓN
+      ↓
+¿ACTÚA PERSONALMENTE
+O POR OTRO?
+```
+
+Confundir estos conceptos lleva a errores importantes.
+
+---
+
+# Capacidad
+
+La capacidad se vincula con la aptitud jurídica de la persona para actuar.
+
+Balbín remite al régimen del:
+
+## CÓDIGO CIVIL Y COMERCIAL.
+
+La cuestión comprende:
+
+- personas plenamente capaces;
+- adolescentes;
+- personas con capacidad restringida;
+- personas que requieren asistencia;
+- representantes legales.
+
+Sin embargo, el procedimiento puede reconocer soluciones específicas para facilitar:
+
+### la participación administrativa.
+
+---
+
+# Legitimación
+
+La legitimación responde a:
+
+> **¿qué relación debe existir entre la persona y la cuestión debatida?**
+
+Balbín considera interesados a titulares de:
+
+- derechos;
+- intereses jurídicamente protegidos.
+
+La legitimación determina:
+
+## QUIÉN PUEDE SER PARTE EN ESE PROCEDIMIENTO CONCRETO.
+
+No depende simplemente de:
+
+- capacidad jurídica general;
+- curiosidad;
+- interés meramente abstracto.
+
+---
+
+# Legitimación y derechos colectivos
+
+El esquema clásico basado exclusivamente en derechos individuales resulta insuficiente.
+
+La evolución constitucional incorporó:
+
+- derechos colectivos;
+- intereses colectivos;
+- legitimaciones ampliadas;
+- mecanismos de representación colectiva.
+
+Por ello:
+
+```text
+LEGITIMACIÓN
+      ↓
+NO DEBE PENSARSE
+EXCLUSIVAMENTE
+      ↓
+EN CLAVE
+INDIVIDUAL
+```
+
+El tipo de derecho discutido condiciona:
+
+### quiénes pueden participar.
+
+---
+
+# Pluralidad de partes
+
+Puede existir un procedimiento con:
+
+- varios interesados;
+- intereses coincidentes;
+- intereses contrapuestos.
+
+Ejemplo estructural:
+
+```text
+       ADMINISTRACIÓN
+        /          \
+       /            \
+INTERESADO A ←→ INTERESADO B
+```
+
+En estos casos deben preservarse:
+
+- contradicción;
+- conocimiento;
+- audiencia;
+- igualdad procedimental razonable;
+- posibilidad de prueba.
+
+---
+
+# Representación
+
+El interesado puede actuar:
+
+## PERSONALMENTE
+
+o por:
+
+## REPRESENTANTE.
+
+La representación no modifica:
+
+- quién es titular del derecho;
+- quién tiene legitimación.
+
+Modifica:
+
+### quién realiza las actuaciones en nombre del interesado.
+
+Debe acreditarse en los términos reglamentarios correspondientes.
+
+---
+
+# Representación y patrocinio
+
+No debe confundirse:
+
+## REPRESENTACIÓN
+
+con:
+
+## PATROCINIO.
+
+El representante:
+
+> actúa en nombre de otra persona.
+
+El patrocinante:
+
+> brinda asistencia profesional.
+
+Una misma persona puede cumplir ambas funciones cuando jurídicamente corresponda.
+
+Pero conceptualmente:
+
+### son instituciones diferentes.
+
+---
+
+# 14 · Los plazos
+
+Los plazos ordenan temporalmente el procedimiento.
+
+Balbín distingue especialmente:
+
+- plazos de la Administración;
+- plazos del interesado;
+- plazos para actuaciones;
+- plazos recursivos;
+- plazos judiciales.
+
+La distinción es esencial.
+
+```text
+PLAZO ADMINISTRATIVO
+        ≠
+PLAZO RECURSIVO
+        ≠
+PLAZO JUDICIAL
+```
+
+Cada uno tiene:
+
+- finalidad;
+- régimen;
+- consecuencias propias.
+
+---
+
+# Días y horas hábiles
+
+Como principio, las actuaciones se desarrollan en:
+
+## DÍAS Y HORAS HÁBILES ADMINISTRATIVOS.
+
+Sin embargo:
+
+- pueden existir habilitaciones;
+- existen reglas especiales;
+- determinados medios electrónicos plantean particularidades;
+- debe analizarse cada plazo según su normativa.
+
+No debe trasladarse automáticamente:
+
+### el régimen procesal judicial al procedimiento administrativo.
+
+---
+
+# Plazos para la Administración
+
+El ordenamiento fija plazos para:
+
+- producir informes;
+- emitir dictámenes;
+- elevar expedientes;
+- resolver;
+- decidir recursos.
+
+Estos plazos buscan impedir:
+
+## LA INDEFINICIÓN ADMINISTRATIVA.
+
+El incumplimiento estatal puede producir consecuencias como:
+
+- responsabilidad;
+- mecanismos frente a la mora;
+- configuración del silencio en los supuestos previstos.
+
+---
+
+# Plazos para el particular
+
+Los plazos del particular pueden tener consecuencias más intensas.
+
+Especialmente cuando se trata de:
+
+- recursos;
+- impugnaciones;
+- actuaciones probatorias;
+- acceso judicial.
+
+Algunos plazos tienen carácter:
+
+## PERENTORIO.
+
+Por eso, vencido el término:
+
+> puede perderse una determinada facultad procedimental.
+
+Este punto explica la importancia posterior de la:
+
+### denuncia de ilegitimidad.
+
+---
+
+# Suspensión e interrupción
+
+No deben confundirse.
+
+## Suspensión
+
+El plazo:
+
+> se detiene y luego continúa computándose desde donde había quedado.
+
+## Interrupción
+
+El plazo:
+
+> pierde el tiempo anteriormente transcurrido y comienza nuevamente.
+
+```text
+SUSPENSIÓN
+3 días + pausa + continúa día 4
+
+INTERRUPCIÓN
+3 días + interrupción
+        ↓
+vuelve a día 1
+```
+
+---
+
+# Vista y plazos
+
+Balbín analiza la incidencia de la vista sobre determinados plazos.
+
+Esto resulta especialmente relevante cuando el interesado necesita acceder al expediente para:
+
+- conocer antecedentes;
+- formular defensa;
+- fundar un recurso.
+
+La lógica es:
+
+```text
+NO PUEDO FUNDAR ADECUADAMENTE
+        ↓
+SI NO PUEDO CONOCER
+        ↓
+EL EXPEDIENTE
+```
+
+Por eso el régimen de vista y cómputo temporal debe interpretarse de modo coherente con:
+
+## EL DERECHO DE DEFENSA.
+
+---
+
+# 15 · La prueba
+
+La prueba permite determinar:
+
+## LOS HECHOS RELEVANTES.
+
+Balbín combina dos reglas:
+
+1. participación probatoria del interesado;
+2. instrucción de oficio de la Administración.
+
+Por ello:
+
+```text
+ACTIVIDAD DE LA PARTE
+        +
+ACTIVIDAD DEL ÓRGANO
+        ↓
+CONOCIMIENTO
+DE LOS HECHOS
+```
+
+La Administración no es un espectador pasivo del debate probatorio.
+
+---
+
+# Carga de la prueba
+
+Como regla general, quien funda una pretensión en determinados hechos debe:
+
+> aportar los elementos que permitan acreditarlos.
+
+Pero Balbín advierte que el procedimiento administrativo no debe copiar mecánicamente:
+
+### el modelo dispositivo del proceso civil.
+
+El órgano administrativo conserva deberes propios de:
+
+- instrucción;
+- averiguación;
+- producción de prueba.
+
+Especialmente cuando los elementos necesarios:
+
+## SE ENCUENTRAN EN PODER DEL ESTADO.
+
+---
+
+# Prueba e instrucción de oficio
+
+La Administración puede:
+
+- requerir documentos;
+- solicitar informes;
+- ordenar pericias;
+- convocar testigos;
+- incorporar antecedentes.
+
+La finalidad no es:
+
+### reemplazar completamente al interesado.
+
+Es evitar que la decisión estatal se apoye sobre:
+
+> una realidad incompleta o artificial.
+
+El procedimiento debe tender al conocimiento de:
+
+## LA VERDAD JURÍDICA OBJETIVA.
+
+---
+
+# Oportunidad para ofrecer prueba
+
+El interesado debe poder ofrecer prueba en las oportunidades previstas por el régimen.
+
+También pueden incorporarse elementos posteriores cuando:
+
+- se trate de hechos nuevos;
+- resulten relevantes;
+- existan circunstancias justificadas.
+
+Lo fundamental es evitar dos extremos:
+
+```text
+RIGORISMO FORMAL
+       ↔
+AUSENCIA TOTAL
+DE ORDEN PROCEDIMENTAL
+```
+
+El procedimiento necesita reglas.
+
+Pero esas reglas deben servir a:
+
+### la decisión correcta.
+
+---
+
+# Admisibilidad de la prueba
+
+La Administración debe admitir prueba:
+
+- pertinente;
+- conducente;
+- útil.
+
+Puede rechazar aquella que:
+
+- no guarde relación con el caso;
+- sea manifiestamente innecesaria;
+- tenga finalidad exclusivamente dilatoria.
+
+Sin embargo, el rechazo no debería ser arbitrario.
+
+Debe poder explicarse:
+
+> **por qué esa prueba no resulta necesaria para resolver.**
+
+---
+
+# Prueba documental
+
+La documental puede consistir en:
+
+- instrumentos aportados por el particular;
+- antecedentes administrativos;
+- documentación en poder del Estado;
+- documentos provenientes de terceros.
+
+El expediente administrativo posee particular relevancia porque:
+
+## DOCUMENTA LA ACTUACIÓN DEL PROPIO ESTADO.
+
+Esto permite luego reconstruir:
+
+- antecedentes;
+- hechos;
+- trámites;
+- fundamentos.
+
+---
+
+# Informes
+
+La prueba de informes permite:
+
+> obtener datos o antecedentes de otros órganos o sujetos.
+
+Los informes pueden provenir de:
+
+- organismos administrativos;
+- dependencias técnicas;
+- terceros;
+- entidades públicas.
+
+Su finalidad principal es:
+
+## INCORPORAR INFORMACIÓN.
+
+No debe confundirse informe con:
+
+### dictamen.
+
+---
+
+# Informes y dictámenes
+
+| Informe | Dictamen |
+|---|---|
+| Incorpora datos o antecedentes | Expresa una opinión |
+| Puede ser técnico o informativo | Puede ser técnico o jurídico |
+| Aporta conocimiento | Valora jurídicamente o técnicamente |
+| No resuelve | No resuelve |
+
+En ambos casos:
+
+## LA DECISIÓN CORRESPONDE AL ÓRGANO COMPETENTE.
+
+La Administración no puede esconder la decisión detrás de:
+
+> “lo dijo el asesor”.
+
+---
+
+# Prueba testimonial
+
+La prueba testimonial consiste en la declaración de personas que:
+
+- presenciaron hechos;
+- conocen circunstancias relevantes.
+
+El testimonio debe incorporarse respetando las reglas reglamentarias.
+
+El valor de la prueba dependerá de:
+
+- conocimiento del testigo;
+- coherencia;
+- relación con otras pruebas;
+- circunstancias del caso.
+
+No existe:
+
+### un valor automático de verdad.
+
+---
+
+# Prueba pericial
+
+La prueba pericial resulta útil cuando el caso requiere conocimientos especializados.
+
+Por ejemplo:
+
+- medicina;
+- ingeniería;
+- contabilidad;
+- arquitectura;
+- informática.
+
+```text
+HECHO TÉCNICAMENTE COMPLEJO
+         ↓
+CONOCIMIENTO ESPECIALIZADO
+         ↓
+PERICIA
+```
+
+El órgano administrativo puede necesitar:
+
+### conocimientos que no posee directamente.
+
+---
+
+# Confesión
+
+Balbín analiza también la prueba confesional dentro del régimen administrativo.
+
+Sin embargo, presenta particularidades respecto del proceso judicial.
+
+La estructura del procedimiento y la presencia del Estado como parte institucional obligan a:
+
+## NO TRASLADAR MECÁNICAMENTE LAS REGLAS DEL PROCESO CIVIL.
+
+La regulación reglamentaria determina:
+
+- sujetos;
+- alcance;
+- forma de producción.
+
+---
+
+# Alegatos
+
+Finalizada la etapa probatoria, el interesado debe poder:
+
+## VALORAR LA PRUEBA PRODUCIDA.
+
+El alegato permite:
+
+- reconstruir los hechos;
+- destacar elementos favorables;
+- cuestionar elementos adversos;
+- vincular hechos con normas;
+- formular la conclusión pretendida.
+
+Por eso:
+
+```text
+PRUEBA
+   ↓
+CONTRADICCIÓN
+   ↓
+ALEGATO
+   ↓
+DECISIÓN
+```
+
+---
+
+# 16 · Dirección del procedimiento
+
+El órgano instructor ejerce facultades destinadas a:
+
+- ordenar;
+- impulsar;
+- evitar dilaciones;
+- conducir las actuaciones;
+- preservar el desarrollo normal del trámite.
+
+También puede ejercer facultades disciplinarias.
+
+Pero estas facultades deben respetar:
+
+- competencia;
+- razonabilidad;
+- proporcionalidad.
+
+No existe:
+
+## PODER DISCIPLINARIO PROCEDIMENTAL ILIMITADO.
+
+---
+
+# 17 · Vista del expediente
+
+La vista permite que el interesado:
+
+## ACCEDA Y CONOZCA EL EXPEDIENTE.
+
+Comprende, en principio:
+
+- actuaciones;
+- documentos;
+- informes;
+- dictámenes;
+- anexos;
+- posibilidad de obtener copias.
+
+La vista se vincula directamente con:
+
+## EL DERECHO DE DEFENSA.
+
+No puede existir verdadera defensa frente a antecedentes:
+
+> que el administrado no puede conocer.
+
+---
+
+# Vista y expediente electrónico
+
+En el expediente electrónico la vista adquiere características particulares.
+
+El acceso puede realizarse por medios digitales.
+
+Esto debería facilitar:
+
+- disponibilidad;
+- consulta;
+- copia;
+- conocimiento inmediato.
+
+Sin embargo, la digitalización debe respetar igualmente:
+
+- seguridad;
+- identificación;
+- integridad;
+- acceso efectivo.
+
+La tecnología no puede sustituir:
+
+## LA GARANTÍA JURÍDICA.
+
+---
+
+# Reserva y secreto
+
+La regla general es:
+
+## ACCESO.
+
+La reserva constituye:
+
+## EXCEPCIÓN.
+
+La Administración no debería negar la vista simplemente porque:
+
+> considera inconveniente que el particular conozca determinada actuación.
+
+La reserva debe:
+
+- encontrar fundamento;
+- ser formalmente establecida;
+- interpretarse restrictivamente.
+
+---
+
+# Reserva y defensa
+
+Debe evitarse que la reserva destruya:
+
+## EL DERECHO DE DEFENSA.
+
+Especialmente cuando una actuación reservada:
+
+- constituye fundamento decisivo;
+- contiene información utilizada contra el interesado;
+- determina la resolución.
+
+Debe existir una relación razonable entre:
+
+```text
+INTERÉS EN LA RESERVA
+        ↕
+DERECHO DE DEFENSA
+```
+
+---
+
+# 18 · Las notificaciones
+
+La notificación es el mecanismo por medio del cual se comunica:
+
+## DE MODO CIERTO Y FEHACIENTE
+
+una actuación al interesado.
+
+La notificación posee consecuencias sobre:
+
+- conocimiento;
+- eficacia;
+- recursos;
+- plazos;
+- defensa.
+
+No es una formalidad secundaria.
+
+---
+
+# Notificación y eficacia del acto
+
+Recordemos lo estudiado sobre actos administrativos.
+
+```text
+ACTO PARTICULAR
+      ↓
+DICTADO
+      ↓
+NOTIFICACIÓN
+      ↓
+EFICACIA RESPECTO
+DEL INTERESADO
+```
+
+La existencia jurídica del acto y su eficacia frente al particular:
+
+> no deben confundirse.
+
+La notificación cumple una función central en esa transición.
+
+---
+
+# Contenido de la notificación
+
+La notificación debe permitir que el interesado conozca adecuadamente:
+
+- contenido del acto;
+- fundamentos;
+- parte dispositiva;
+- recursos cuando corresponda;
+- plazos aplicables.
+
+Una comunicación incompleta puede afectar:
+
+## LA POSIBILIDAD REAL DE IMPUGNAR.
+
+El Estado no debería obtener ventaja:
+
+> de sus propios defectos de notificación.
+
+---
+
+# Medios de notificación
+
+El reglamento contempla distintos medios.
+
+Entre ellos pueden encontrarse:
+
+- acceso directo;
+- notificación electrónica;
+- cédula;
+- telegrama;
+- correo;
+- otros medios reglamentariamente admitidos.
+
+El elemento común es:
+
+## LA FEHACIENCIA.
+
+Debe poder determinarse:
+
+- qué se notificó;
+- a quién;
+- cuándo.
+
+---
+
+# Notificación y publicación
+
+No son conceptos equivalentes.
+
+```text
+ACTO PARTICULAR
+       ↓
+NOTIFICACIÓN
+
+ACTO GENERAL
+       ↓
+PUBLICACIÓN
+```
+
+La notificación procura conocimiento jurídico individual.
+
+La publicación:
+
+> pone en conocimiento general la decisión normativa o de alcance general.
+
+Esta diferencia será importante al analizar:
+
+## IMPUGNACIÓN DE REGLAMENTOS.
+
+---
+
+# 19 · Medidas cautelares administrativas
+
+Balbín analiza las medidas cautelares dentro del procedimiento.
+
+Su finalidad es:
+
+> **evitar que el tiempo necesario para decidir vuelva inútil la resolución final.**
+
+Pueden buscar:
+
+- conservar una situación;
+- impedir agravamiento;
+- proteger bienes;
+- evitar frustración de la decisión.
+
+Pero su utilización debe someterse a:
+
+- juridicidad;
+- competencia;
+- razonabilidad;
+- proporcionalidad.
+
+---
+
+# Suspensión del acto administrativo
+
+Un supuesto especialmente relevante es la:
+
+## SUSPENSIÓN DE LOS EFECTOS DEL ACTO.
+
+Recordemos:
+
+- el acto goza, en principio, de presunción de legitimidad;
+- puede tener fuerza ejecutoria;
+- la interposición de un recurso no implica automáticamente su suspensión.
+
+Por ello:
+
+```text
+RECURSO ADMINISTRATIVO
+       ↓
+NO =
+SUSPENSIÓN AUTOMÁTICA
+```
+
+La suspensión depende de:
+
+### los supuestos jurídicamente previstos.
+
+---
+
+# Cautela y ponderación
+
+La decisión sobre suspensión exige valorar:
+
+- interés público;
+- derechos del interesado;
+- gravedad del daño;
+- apariencia de ilegitimidad;
+- consecuencias de ejecutar;
+- consecuencias de suspender.
+
+Por ello:
+
+```text
+EJECUTAR AHORA
+       ↔
+SUSPENDER
+       ↓
+PONDERACIÓN
+```
+
+No debería utilizarse:
+
+### una regla mecánica desligada del caso concreto.
+
+---
+
+# 20 · Conclusión del procedimiento
+
+Balbín distingue:
+
+## MODOS NORMALES
+
+y:
+
+## MODOS ANORMALES
+
+de conclusión.
+
+La forma normal es:
+
+### LA RESOLUCIÓN.
+
+Pero el procedimiento también puede concluir por:
+
+- desistimiento;
+- renuncia;
+- caducidad;
+- otros supuestos previstos.
+
+El silencio posee un régimen particular como respuesta jurídica a:
+
+### la inactividad estatal.
+
+---
+
+# Resolución expresa
+
+La resolución expresa debe considerar:
+
+- pretensiones;
+- planteos;
+- argumentos;
+- prueba;
+- antecedentes;
+- derecho aplicable.
+
+El órgano puede:
+
+- admitir;
+- rechazar;
+- modificar;
+- sustituir;
+- revocar cuando corresponda.
+
+La resolución debe:
+
+## PONER FIN A LA CUESTIÓN SOMETIDA A DECISIÓN.
+
+---
+
+# Resolución y congruencia
+
+La Administración debe resolver:
+
+> las cuestiones relevantes sometidas a su conocimiento.
+
+No debería:
+
+- ignorar planteos centrales;
+- decidir sobre bases completamente ajenas;
+- omitir prueba decisiva;
+- utilizar fundamentos sorpresivos sin permitir defensa.
+
+La resolución debe guardar relación con:
+
+```text
+PETICIÓN
+   +
+HECHOS
+   +
+PRUEBA
+   +
+DERECHO
+   ↓
+DECISIÓN
+```
+
+---
+
+# Desistimiento
+
+El desistimiento supone:
+
+## ABANDONAR EL PROCEDIMIENTO O PETICIÓN.
+
+No significa necesariamente abandonar:
+
+### EL DERECHO SUSTANCIAL.
+
+El interesado puede, en determinadas condiciones:
+
+> volver a formular posteriormente su pretensión.
+
+Por eso:
+
+```text
+DESISTIMIENTO
+      =
+ABANDONO DEL TRÁMITE
+```
+
+No debe confundirse con:
+
+### renuncia.
+
+---
+
+# Renuncia
+
+La renuncia afecta:
+
+## EL DERECHO O LA PRETENSIÓN SUSTANCIAL.
+
+Por eso tiene consecuencias más intensas.
+
+```text
+DESISTIMIENTO
+      ↓
+TRÁMITE
+
+RENUNCIA
+      ↓
+DERECHO
+```
+
+La renuncia sólo puede operar respecto de:
+
+> derechos jurídicamente renunciables.
+
+No todos los derechos quedan librados a la disponibilidad del interesado.
+
+---
+
+# Caducidad
+
+La caducidad constituye otro modo anormal de conclusión.
+
+Puede operar cuando:
+
+- el procedimiento se paraliza;
+- la causa es imputable al interesado;
+- existe una actuación que él debe cumplir;
+- la Administración realiza la intimación correspondiente;
+- transcurre el plazo legal.
+
+No cualquier demora permite declarar:
+
+## CADUCIDAD.
+
+Debe respetarse el procedimiento previsto.
+
+---
+
+# Caducidad e impulso de oficio
+
+Aquí aparece una tensión interesante.
+
+Por un lado:
+
+## LA ADMINISTRACIÓN DEBE IMPULSAR DE OFICIO.
+
+Por otro:
+
+## EL PARTICULAR PUEDE TENER CARGAS.
+
+La caducidad sólo tiene sentido cuando:
+
+```text
+ACTUACIÓN NECESARIA
+      ↓
+DEPENDE DEL PARTICULAR
+      ↓
+NO LA CUMPLE
+      ↓
+INTIMACIÓN
+      ↓
+PERSISTE LA INACTIVIDAD
+```
+
+---
+
+# Silencio administrativo
+
+La falta de resolución expresa puede producir:
+
+## SILENCIO ADMINISTRATIVO.
+
+Pero debemos recordar:
+
+```text
+SILENCIO
+      ≠
+ACTO ADMINISTRATIVO
+```
+
+El silencio es:
+
+> una consecuencia jurídica que el ordenamiento atribuye a la inactividad.
+
+Su finalidad principal es impedir que:
+
+## LA FALTA DE RESPUESTA DEL ESTADO ENCIERRE AL PARTICULAR EN LA ADMINISTRACIÓN.
+
+---
+
+# Silencio y deber de resolver
+
+El silencio no libera a la Administración de:
+
+## SU DEBER DE RESOLVER.
+
+La lógica es:
+
+```text
+ADMINISTRACIÓN
+NO RESPONDE
+       ↓
+EL ORDENAMIENTO
+PROTEGE AL PARTICULAR
+       ↓
+LE PERMITE CONTINUAR
+```
+
+No significa:
+
+> “la Administración tiene derecho a callar”.
+
+La obligación de decidir subsiste.
+
+---
+
+# 21 · Impugnación de las decisiones estatales
+
+Entramos ahora en la segunda gran parte del tema.
+
+Una vez dictada una decisión surge la pregunta:
+
+> **¿cómo puede cuestionarla el administrado?**
+
+Balbín distingue:
+
+```text
+CONTROL ADMINISTRATIVO
+          ↓
+LA PROPIA ADMINISTRACIÓN
+REVISA SU CONDUCTA
+
+CONTROL JUDICIAL
+          ↓
+EL PODER JUDICIAL
+REVISA LA CONDUCTA ESTATAL
+```
+
+Entre ambos aparece:
+
+## EL AGOTAMIENTO DE LAS VÍAS ADMINISTRATIVAS.
+
+---
+
+# La paradoja del sistema
+
+El sistema presenta una característica peculiar.
+
+```text
+ADMINISTRACIÓN
+DICTA ACTO
+      ↓
+PARTICULAR
+LO CUESTIONA
+      ↓
+ADMINISTRACIÓN
+LO REVISA
+      ↓
+RECIÉN DESPUÉS
+PUEDE INTERVENIR
+EL JUEZ
+```
+
+Por eso Balbín analiza el agotamiento como:
+
+## UNA PRERROGATIVA ESTATAL.
+
+El Estado obtiene la posibilidad de:
+
+> revisar previamente su propia conducta.
+
+---
+
+# ¿Qué es el agotamiento?
+
+El agotamiento significa, como principio:
+
+> **que el particular debe recorrer las vías administrativas previstas antes de acceder a la revisión judicial.**
+
+```text
+ACTUACIÓN ESTATAL
+       ↓
+IMPUGNACIÓN
+ADMINISTRATIVA
+       ↓
+AGOTAMIENTO
+       ↓
+JUSTICIA
+```
+
+No existe, sin embargo:
+
+### un único camino para toda conducta estatal.
+
+Depende de:
+
+## QUÉ SE ESTÁ IMPUGNANDO.
+
+---
+
+# Fundamentos tradicionales del agotamiento
+
+Entre las razones habitualmente utilizadas se encuentran:
+
+- permitir autocontrol administrativo;
+- corregir errores;
+- evitar litigios;
+- dar al Estado oportunidad de revisar;
+- delimitar el conflicto;
+- permitir conocimiento previo de la pretensión.
+
+Sin embargo, Balbín formula una mirada crítica.
+
+El agotamiento:
+
+> **no puede transformarse en un mecanismo que impida irrazonablemente el acceso a la Justicia.**
+
+---
+
+# Agotamiento y tutela judicial efectiva
+
+La interpretación de las reglas de agotamiento debe articularse con:
+
+- defensa;
+- acceso a la Justicia;
+- tutela judicial efectiva;
+- principio pro actione.
+
+Por eso:
+
+```text
+AGOTAMIENTO
+     =
+REQUISITO PREVIO
+
+PERO
+
+AGOTAMIENTO
+     ≠
+BARRERA IRRAZONABLE
+AL CONTROL JUDICIAL
+```
+
+La forma no debe destruir:
+
+### el derecho de acceso al juez.
+
+---
+
+# Jurisprudencia · “Astorga Bracht”
+
+## Corte Suprema de Justicia de la Nación
+
+### Autos
+
+**“Astorga Bracht, Sergio y otro c/ COMFER”**
+
+### Hechos relevantes
+
+El caso se vinculó con una reglamentación dictada por el COMFER en materia de procedimientos relacionados con licencias de radiodifusión.
+
+La normativa establecía determinadas condiciones respecto de quienes participaban del procedimiento administrativo.
+
+Entre ellas aparecían restricciones que podían comprometer:
+
+## EL ACCESO POSTERIOR AL CONTROL JUDICIAL.
+
+---
+
+# “Astorga Bracht” · problema jurídico
+
+El problema podía formularse así:
+
+> **¿puede la Administración diseñar un procedimiento de modo tal que la participación del interesado implique restricciones irrazonables a la posterior revisión judicial?**
+
+La Corte debía analizar la compatibilidad de esas reglas con:
+
+- defensa;
+- tutela judicial;
+- acceso a la jurisdicción.
+
+La respuesta fue:
+
+## NO.
+
+---
+
+# “Astorga Bracht” · resolución
+
+La Corte invalidó las restricciones incompatibles con:
+
+## EL DERECHO DE ACCESO A LA JUSTICIA.
+
+El precedente demuestra que:
+
+```text
+PROCEDIMIENTO ADMINISTRATIVO
+        ↓
+PUEDE ORGANIZAR
+EL ACCESO POSTERIOR
+        ↓
+PERO NO PUEDE
+ANULARLO
+```
+
+La Administración no puede convertir:
+
+> una regla procedimental en una renuncia forzada al control judicial.
+
+---
+
+# “Astorga Bracht” · relevancia
+
+Para Balbín, el caso es importante porque obliga a interpretar el procedimiento desde:
+
+## LA TUTELA JUDICIAL EFECTIVA.
+
+Esto repercute sobre:
+
+- agotamiento;
+- recursos;
+- requisitos formales;
+- plazos;
+- acceso posterior al juez.
+
+La regla puede sintetizarse así:
+
+> **las prerrogativas procedimentales estatales deben ser compatibles con el derecho del administrado a obtener control judicial suficiente.**
+
+---
+
+# 22 · ¿Qué instrumento corresponde?
+
+Balbín propone ordenar el sistema según:
+
+## LA CONDUCTA ESTATAL IMPUGNADA.
+
+```text
+ACTO DE ALCANCE PARTICULAR
+          ↓
+RECURSOS ADMINISTRATIVOS
+
+ACTO DE ALCANCE GENERAL
+          ↓
+RECLAMO / IMPUGNACIÓN
+DEL REGLAMENTO
+
+OTRAS PRETENSIONES
+CONTRA EL ESTADO
+          ↓
+RECLAMO ADMINISTRATIVO PREVIO
+```
+
+Además existen:
+
+### excepciones al agotamiento.
+
+---
+
+# Acto particular
+
+Cuando el particular cuestiona:
+
+## UN ACTO ADMINISTRATIVO DE ALCANCE PARTICULAR
+
+la vía típica es:
+
+## RECURSOS ADMINISTRATIVOS.
+
+Debe determinarse:
+
+- qué tipo de acto es;
+- qué órgano lo dictó;
+- qué recurso procede;
+- cuál es el plazo;
+- qué órgano resuelve;
+- cuándo se considera agotada la vía.
+
+---
+
+# Acto general
+
+Cuando se cuestiona:
+
+## UN REGLAMENTO
+
+el mecanismo es diferente.
+
+La LPA contempla la impugnación de actos de alcance general.
+
+Puede existir:
+
+- impugnación directa;
+- impugnación indirecta mediante el acto particular de aplicación.
+
+Por ello:
+
+```text
+ACTO PARTICULAR
+       ≠
+REGLAMENTO
+```
+
+y tampoco son iguales:
+
+```text
+RECURSO
+       ≠
+RECLAMO CONTRA
+ACTO GENERAL
+```
+
+---
+
+# Otras pretensiones contra el Estado
+
+Existen pretensiones que no consisten simplemente en:
+
+> pedir la nulidad de un acto administrativo particular.
+
+En esos casos puede resultar aplicable:
+
+## EL RECLAMO ADMINISTRATIVO PREVIO.
+
+Por ejemplo, el interesado puede pretender:
+
+- una conducta estatal;
+- reconocimiento de una situación;
+- cumplimiento de una obligación;
+- otras pretensiones comprendidas en el régimen.
+
+El instrumento depende:
+
+### del objeto del reclamo.
+
+---
+
+# Excepciones al agotamiento
+
+Balbín analiza diversos supuestos donde no es necesario recorrer previamente las vías administrativas.
+
+El régimen contempla casos vinculados con:
+
+- determinadas pretensiones indemnizatorias;
+- ciertos supuestos de repetición;
+- hechos;
+- vías de hecho;
+- silencio;
+- otros casos previstos legalmente.
+
+La razón común es:
+
+> **no imponer un procedimiento previo que carezca de utilidad o que perjudique irrazonablemente al particular.**
+
+---
+
+# Hechos administrativos
+
+Recordemos:
+
+## HECHO ADMINISTRATIVO
+
+es el:
+
+> comportamiento material de la Administración.
+
+Por ejemplo:
+
+- ejecutar;
+- construir;
+- retirar;
+- trasladar;
+- clausurar materialmente.
+
+No debe confundirse con:
+
+## ACTO ADMINISTRATIVO
+
+que consiste en:
+
+> una declaración estatal con efectos jurídicos.
+
+---
+
+# Vías de hecho
+
+La vía de hecho supone una actuación material estatal que se aparta de las condiciones jurídicas que habilitan su ejercicio.
+
+Puede presentarse, por ejemplo, cuando:
+
+1. existe comportamiento material ilegítimo sin acto previo suficiente;
+2. existe un acto, pero la ejecución material excede ilegítimamente lo autorizado.
+
+```text
+ACTUACIÓN MATERIAL
+       +
+FALTA DE COBERTURA
+JURÍDICA SUFICIENTE
+       ↓
+VÍA DE HECHO
+```
+
+---
+
+# Vías de hecho y agotamiento
+
+La particular gravedad de la vía de hecho explica que el ordenamiento no obligue al administrado a:
+
+> recorrer primero una cadena de recursos contra un acto que quizá ni siquiera existe.
+
+Por ello:
+
+```text
+VÍA DE HECHO
+      ↓
+NO SE APLICA
+MECÁNICAMENTE
+      ↓
+EL SISTEMA DE RECURSOS
+CONTRA ACTOS
+```
+
+Este régimen protege especialmente:
+
+## EL ACCESO RÁPIDO A LA TUTELA JUDICIAL.
+
+---
+
+# 23 · Reclamo administrativo previo
+
+El reclamo administrativo previo constituye una vía para plantear una pretensión contra el Estado antes de:
+
+## DEMANDAR JUDICIALMENTE.
+
+Su lógica es:
+
+```text
+PRETENSIÓN
+CONTRA EL ESTADO
+       ↓
+RECLAMO ADMINISTRATIVO
+       ↓
+OPORTUNIDAD DE
+RESOLVER
+       ↓
+VÍA JUDICIAL
+```
+
+Es una manifestación del privilegio estatal de:
+
+> conocer previamente el conflicto.
+
+---
+
+# Contenido del reclamo
+
+El reclamo debe permitir conocer:
+
+- pretensión;
+- hechos;
+- fundamento;
+- alcance de lo solicitado.
+
+Su finalidad no es:
+
+> satisfacer una ceremonia burocrática.
+
+Debe permitir que el Estado:
+
+## COMPRENDA QUÉ SE LE RECLAMA.
+
+Sólo así tiene sentido la oportunidad previa de:
+
+- analizar;
+- aceptar;
+- rechazar;
+- solucionar la controversia.
+
+---
+
+# Resolución del reclamo
+
+La Administración debe resolver dentro del régimen temporal previsto.
+
+Puede:
+
+- hacer lugar;
+- rechazar;
+- reconocer parcialmente;
+- adoptar otra solución jurídicamente pertinente.
+
+Pero también puede:
+
+## NO RESPONDER.
+
+Allí aparece nuevamente:
+
+### EL SILENCIO ADMINISTRATIVO.
+
+---
+
+# Silencio frente al reclamo
+
+La inactividad no debe encerrar al particular.
+
+```text
+RECLAMO
+   ↓
+ADMINISTRACIÓN
+NO RESUELVE
+   ↓
+SILENCIO
+   ↓
+HABILITACIÓN
+PARA CONTINUAR
+EN LOS TÉRMINOS LEGALES
+```
+
+La finalidad del silencio es:
+
+## PROTEGER AL ADMINISTRADO.
+
+No castigarle por:
+
+> la falta de respuesta estatal.
+
+---
+
+# Denegación expresa y silencio
+
+Es fundamental distinguir:
+
+```text
+DENEGACIÓN EXPRESA
+        ↓
+HAY ACTO
+        ↓
+HAY NOTIFICACIÓN
+        ↓
+RÉGIMEN DE PLAZOS
+CORRESPONDIENTE
+```
+
+de:
+
+```text
+SILENCIO
+       ↓
+NO HAY
+DENEGATORIA EXPRESA
+       ↓
+RÉGIMEN DIFERENTE
+```
+
+Esta diferencia es central en el régimen actual de:
+
+## HABILITACIÓN DE LA INSTANCIA JUDICIAL.
+
+---
+
+# Silencio y caducidad
+
+Balbín destaca que el régimen actual diferencia claramente:
+
+- decisión expresa;
+- silencio.
+
+La falta de respuesta administrativa:
+
+## NO DEBE SER EQUIPARADA SIN MÁS A UNA DENEGATORIA EXPRESA NOTIFICADA.
+
+La razón es conceptual:
+
+> no existe un acto denegatorio comunicado al interesado.
+
+Por eso el régimen temporal judicial debe examinarse:
+
+### de manera diferente.
+
+---
+
+# 24 · Recursos administrativos
+
+Los recursos son instrumentos que permiten:
+
+## IMPUGNAR ACTOS ADMINISTRATIVOS.
+
+El interesado puede cuestionar el acto por razones vinculadas con:
+
+- legitimidad;
+- oportunidad;
+
+según el recurso y el marco normativo correspondiente.
+
+La finalidad puede ser obtener:
+
+- revocación;
+- modificación;
+- sustitución;
+- revisión.
+
+---
+
+# ¿Qué actos pueden recurrirse?
+
+Balbín distingue:
+
+### Acto definitivo
+
+Resuelve la cuestión de fondo.
+
+### Acto asimilable a definitivo
+
+No resuelve formalmente el fondo, pero:
+
+- impide totalmente continuar;
+- o produce un perjuicio jurídicamente relevante en los términos del régimen.
+
+### Acto de mero trámite
+
+Impulsa el procedimiento sin resolver el fondo.
+
+Esta clasificación determina:
+
+## LA PROCEDENCIA DE LOS RECURSOS.
+
+---
+
+# Ejemplo didáctico · acto definitivo
+
+Una persona solicita una pensión.
+
+La Administración dicta:
+
+> **“Recházase la solicitud de pensión formulada por…”**
+
+Ese acto:
+
+- resuelve la cuestión sustancial;
+- pone fin al planteo administrativo de fondo.
+
+Por tanto:
+
+## ES UN ACTO DEFINITIVO.
+
+---
+
+# Ejemplo didáctico · asimilable a definitivo
+
+En el mismo procedimiento, la Administración resuelve:
+
+> **“Recházase la intervención del solicitante por falta de legitimación.”**
+
+Formalmente no resuelve:
+
+> si corresponde o no la pensión.
+
+Pero impide:
+
+## CONTINUAR CON EL TRÁMITE.
+
+Por ello puede ser:
+
+### asimilable a definitivo.
+
+---
+
+# Ejemplo didáctico · acto de trámite
+
+La Administración dispone:
+
+> **“Cítese al testigo propuesto para el día 15 de septiembre.”**
+
+Ese acto:
+
+- ordena el procedimiento;
+- no resuelve la cuestión sustancial.
+
+Es:
+
+## ACTO INTERLOCUTORIO O DE MERO TRÁMITE.
+
+No todos los actos de trámite poseen idéntico régimen recursivo.
+
+---
+
+# Motivos de los recursos
+
+Los recursos pueden plantear cuestiones de:
+
+## ILEGITIMIDAD
+
+cuando se sostiene que el acto:
+
+> contradice el ordenamiento jurídico.
+
+Y, en determinados casos:
+
+## OPORTUNIDAD
+
+cuando se cuestiona la conveniencia de la decisión dentro del margen administrativo.
+
+```text
+ILEGITIMIDAD
+      ↓
+PROBLEMA JURÍDICO
+
+OPORTUNIDAD
+      ↓
+PROBLEMA DE
+CONVENIENCIA ADMINISTRATIVA
+```
+
+---
+
+# Recurso y principio de informalismo
+
+El sistema recursivo no debería convertirse en:
+
+## UNA TRAMPA NOMINAL.
+
+Si el particular:
+
+- identifica el acto;
+- expresa su disconformidad;
+- explica qué pretende;
+- formula agravios;
+
+pero denomina incorrectamente el recurso:
+
+> debe considerarse su verdadero contenido.
+
+Balbín vincula esta solución con:
+
+## EL INFORMALISMO A FAVOR DEL ADMINISTRADO.
+
+---
+
+# Recurso presentado ante órgano incompetente
+
+Otro supuesto es que el particular presente el recurso:
+
+> ante una oficina u órgano incorrecto.
+
+El informalismo exige evitar, cuando corresponda:
+
+### el rechazo automático.
+
+La Administración debe procurar:
+
+- recibir;
+- identificar;
+- remitir;
+- encauzar.
+
+La estructura burocrática del Estado:
+
+## NO DEBERÍA SER TRASLADADA ÍNTEGRAMENTE COMO CARGA AL PARTICULAR.
+
+---
+
+# 25 · Recurso de reconsideración
+
+El recurso de reconsideración se interpone:
+
+## ANTE EL MISMO ÓRGANO QUE DICTÓ EL ACTO.
+
+Su finalidad es obtener:
+
+> que el propio órgano revise su decisión.
+
+```text
+ÓRGANO
+DICTA ACTO
+    ↓
+PARTICULAR
+RECURRE
+    ↓
+MISMO ÓRGANO
+RECONSIDERA
+```
+
+Es una técnica de:
+
+## AUTOCONTROL ADMINISTRATIVO.
+
+---
+
+# Actos recurribles por reconsideración
+
+Balbín explica que la reconsideración puede proceder contra:
+
+- actos definitivos;
+- actos asimilables a definitivos;
+- determinados actos interlocutorios o de mero trámite que lesionen derechos o intereses jurídicamente protegidos.
+
+Por eso posee:
+
+## UN CAMPO DE PROCEDENCIA AMPLIO.
+
+Sin embargo:
+
+> su interposición no es necesariamente obligatoria para agotar la vía.
+
+---
+
+# Reconsideración · plazo
+
+Balbín desarrolla el plazo previsto por el régimen reglamentario para:
+
+## INTERPONER EL RECURSO.
+
+Es fundamental distinguir:
+
+```text
+PLAZO PARA
+INTERPONER
+       ≠
+PLAZO PARA
+RESOLVER
+```
+
+El incumplimiento del primer plazo puede afectar:
+
+- admisibilidad del recurso.
+
+El incumplimiento del segundo:
+
+- genera las consecuencias previstas para la falta de resolución.
+
+---
+
+# Reconsideración · resolución
+
+El mismo órgano que dictó el acto debe:
+
+## RESOLVER EL RECURSO.
+
+Puede:
+
+- rechazarlo;
+- admitirlo;
+- modificar;
+- sustituir;
+- revocar;
+
+según el contenido y el régimen jurídico aplicable.
+
+Si no resuelve dentro del término correspondiente:
+
+> opera la consecuencia reglamentaria prevista respecto del recurso.
+
+---
+
+# Jerárquico subsidiario
+
+Una característica importante es la relación entre:
+
+## RECONSIDERACIÓN
+
+y:
+
+## JERÁRQUICO.
+
+Cuando la reconsideración es rechazada, el sistema contempla:
+
+```text
+RECONSIDERACIÓN
+       ↓
+RECHAZO
+       ↓
+JERÁRQUICO
+EN SUBSIDIO
+       ↓
+SUPERIOR
+```
+
+Esto evita obligar al particular a:
+
+> iniciar desde cero toda la impugnación.
+
+---
+
+# ¿Es obligatoria la reconsideración?
+
+## NO.
+
+Ésta es una diferencia fundamental.
+
+El interesado puede, cuando corresponda:
+
+- plantear reconsideración;
+- o interponer directamente jerárquico.
+
+Por ello:
+
+```text
+RECONSIDERACIÓN
+      =
+OPTATIVA
+PARA AGOTAR
+LA VÍA
+```
+
+No debe enseñarse como:
+
+> primera etapa obligatoria de todo recurso administrativo.
+
+---
+
+# 26 · Recurso jerárquico
+
+Balbín caracteriza el jerárquico como:
+
+## EL RECURSO TÍPICO Y CENTRAL DEL SISTEMA.
+
+Permite que:
+
+> un órgano superior revise el acto dictado por un inferior.
+
+```text
+ÓRGANO INFERIOR
+      ↓
+ACTO
+      ↓
+RECURSO JERÁRQUICO
+      ↓
+ÓRGANO SUPERIOR
+```
+
+Su importancia se relaciona directamente con:
+
+## EL AGOTAMIENTO DE LA VÍA.
+
+---
+
+# Procedencia del jerárquico
+
+El recurso jerárquico procede contra:
+
+- actos definitivos;
+- actos asimilables a definitivos;
+
+dictados por órganos inferiores.
+
+En principio no está diseñado para:
+
+## CUALQUIER ACTO DE MERO TRÁMITE.
+
+La lógica es que el control jerárquico obligatorio se concentre en decisiones que:
+
+- resuelven;
+- o impiden sustancialmente continuar.
+
+---
+
+# Jerárquico · autonomía
+
+El recurso jerárquico es:
+
+## AUTÓNOMO.
+
+No requiere haber presentado previamente:
+
+### reconsideración.
+
+Por ello existen dos caminos posibles:
+
+```text
+ACTO
+  ↓
+JERÁRQUICO
+```
+
+o:
+
+```text
+ACTO
+  ↓
+RECONSIDERACIÓN
+  ↓
+JERÁRQUICO SUBSIDIARIO
+```
+
+Esto debe quedar muy claro para evitar:
+
+> exigir recursos inexistentes o innecesarios.
+
+---
+
+# Jerárquico y agotamiento
+
+A diferencia de la reconsideración:
+
+## EL JERÁRQUICO ES EL CAMINO OBLIGATORIO DE AGOTAMIENTO CUANDO RESULTA PROCEDENTE.
+
+La secuencia es:
+
+```text
+ACTO DEL INFERIOR
+       ↓
+JERÁRQUICO
+       ↓
+ÓRGANO SUPERIOR
+       ↓
+DECISIÓN
+       ↓
+AGOTAMIENTO
+       ↓
+VÍA JUDICIAL
+```
+
+Por eso tiene especial relevancia:
+
+### para la habilitación posterior del control judicial.
+
+---
+
+# ¿Quién resuelve el jerárquico?
+
+La autoridad competente depende de:
+
+- órgano que dictó el acto;
+- estructura ministerial;
+- organización administrativa.
+
+Balbín analiza el régimen correspondiente a:
+
+- Jefatura de Gabinete;
+- ministros;
+- secretarios;
+- Presidente;
+
+según los casos.
+
+La idea estructural es:
+
+## EL SUPERIOR REVISA AL INFERIOR.
+
+---
+
+# Dictamen jurídico en el jerárquico
+
+Antes de la resolución adquiere especial importancia:
+
+## EL DICTAMEN JURÍDICO.
+
+Recordemos:
+
+```text
+SERVICIO JURÍDICO
+      ↓
+DICTAMINA
+
+AUTORIDAD COMPETENTE
+      ↓
+DECIDE
+```
+
+El dictamen:
+
+- asesora;
+- analiza juridicidad;
+- formula opinión.
+
+Pero no sustituye:
+
+## LA DECISIÓN DEL ÓRGANO COMPETENTE.
+
+---
+
+# Falta de elevación del recurso
+
+Puede ocurrir que el órgano inferior:
+
+> no eleve correctamente el recurso al superior.
+
+En tal caso, el régimen reconoce mecanismos para evitar que:
+
+### la omisión burocrática frustre la impugnación.
+
+Uno de ellos es:
+
+## LA QUEJA.
+
+Esto refleja nuevamente un principio:
+
+> el administrado no debe cargar con todas las consecuencias de la inactividad del propio aparato estatal.
+
+---
+
+# 27 · Recurso de alzada
+
+El recurso de alzada se aplica en el marco de:
+
+## ENTES DESCENTRALIZADOS AUTÁRQUICOS.
+
+Debe distinguirse del jerárquico.
+
+Entre la Administración central y el ente descentralizado:
+
+> no existe la misma relación jerárquica que dentro de un ministerio.
+
+Existe:
+
+## TUTELA O CONTROL ADMINISTRATIVO.
+
+---
+
+# Alzada y estructura administrativa
+
+El esquema es:
+
+```text
+ENTE DESCENTRALIZADO
+       ↓
+ÓRGANO SUPERIOR
+DEL ENTE
+       ↓
+ACTO
+       ↓
+RECURSO DE ALZADA
+       ↓
+ADMINISTRACIÓN CENTRAL
+```
+
+La Administración central controla:
+
+> dentro del alcance permitido por el régimen de descentralización.
+
+No puede desconocerse:
+
+### la personalidad y competencia propia del ente.
+
+---
+
+# Alzada y jerárquico
+
+| Jerárquico | Alzada |
+|---|---|
+| Relación jerárquica | Relación de tutela |
+| Órgano inferior → superior | Ente descentralizado → Administración central |
+| Control propio de jerarquía | Control sobre ente autárquico |
+| Camino obligatorio de agotamiento cuando corresponde | Recurso optativo |
+
+La diferencia institucional explica:
+
+## EL DISTINTO ALCANCE DEL CONTROL.
+
+---
+
+# Alzada · carácter optativo
+
+Balbín destaca que:
+
+## EL RECURSO DE ALZADA ES OPTATIVO.
+
+Una vez agotada la vía dentro del ente, el particular puede:
+
+```text
+ACTO DEL ENTE
+      ↓
+JUSTICIA
+```
+
+o:
+
+```text
+ACTO DEL ENTE
+      ↓
+ALZADA
+      ↓
+ADMINISTRACIÓN CENTRAL
+```
+
+No está obligado a utilizar:
+
+> el control de tutela antes de acudir a la Justicia.
+
+---
+
+# Alcance del control de alzada
+
+El alcance puede variar según:
+
+## EL MODO DE CREACIÓN DEL ENTE.
+
+Balbín distingue especialmente:
+
+- entes creados por ley;
+- entes creados por decreto.
+
+La intensidad del control central no es necesariamente igual.
+
+La razón es:
+
+> una entidad creada directamente por el legislador posee un ámbito de competencia que la Administración central no puede desconocer libremente.
+
+---
+
+# 28 · Recurso de queja
+
+La queja permite actuar frente a:
+
+- defectos de tramitación;
+- incumplimiento de plazos;
+- omisiones procedimentales.
+
+Se plantea ante:
+
+## EL SUPERIOR.
+
+No tiene como objeto principal:
+
+> revisar el fondo del acto administrativo.
+
+Busca:
+
+## CORREGIR EL FUNCIONAMIENTO DEL PROCEDIMIENTO.
+
+---
+
+# Queja · finalidad
+
+El superior puede adoptar medidas destinadas a:
+
+- ordenar el trámite;
+- exigir cumplimiento;
+- corregir irregularidades;
+- impulsar actuaciones.
+
+Incluso pueden derivarse consecuencias para:
+
+### el funcionario responsable de la demora.
+
+La queja demuestra que el procedimiento no protege únicamente frente a:
+
+> decisiones incorrectas.
+
+También frente a:
+
+## UNA TRAMITACIÓN DEFECTUOSA.
+
+---
+
+# 29 · Recurso de revisión
+
+La revisión posee carácter:
+
+## EXTRAORDINARIO.
+
+Se dirige contra:
+
+### ACTOS FIRMES.
+
+Esto significa que no estamos ante:
+
+> una continuación ordinaria del sistema recursivo.
+
+La revisión sólo procede por:
+
+## CAUSALES ESPECÍFICAS.
+
+---
+
+# Revisión y acto firme
+
+La firmeza busca proteger:
+
+## SEGURIDAD JURÍDICA.
+
+Pero pueden aparecer situaciones excepcionales en las cuales mantener el acto resulte incompatible con:
+
+- juridicidad;
+- verdad;
+- buena fe.
+
+Por ello:
+
+```text
+FIRMEZA
+   ↕
+ILEGITIMIDAD
+EXCEPCIONAL
+```
+
+El sistema admite revisión:
+
+> solamente en supuestos especialmente previstos.
+
+---
+
+# Causales de revisión
+
+Balbín analiza causales vinculadas con circunstancias como:
+
+- aparición de documentación decisiva;
+- falsedad documental;
+- fraude;
+- hechos graves que afectaron la decisión.
+
+La idea común es:
+
+## EXISTE UN ELEMENTO EXCEPCIONAL QUE JUSTIFICA REABRIR UN ACTO FIRME.
+
+No puede utilizarse la revisión:
+
+> como sustituto de un recurso ordinario que el particular dejó vencer.
+
+---
+
+# Revisión · ilegitimidad
+
+Balbín señala que el recurso de revisión se relaciona con:
+
+## RAZONES DE ILEGITIMIDAD.
+
+No funciona como:
+
+> un nuevo examen general de oportunidad.
+
+Esto se explica por su carácter extraordinario.
+
+La firmeza sólo se rompe cuando existe:
+
+### una razón jurídicamente cualificada.
+
+---
+
+# 30 · Recurso extemporáneo
+
+¿Qué sucede cuando el particular interpone:
+
+> un recurso después de vencido el plazo?
+
+Como regla:
+
+```text
+PLAZO RECURSIVO
+       ↓
+VENCE
+       ↓
+EL RECURSO
+ORDINARIO
+YA NO ES TEMPESTIVO
+```
+
+Pero el ordenamiento contempla:
+
+## LA DENUNCIA DE ILEGITIMIDAD.
+
+---
+
+# Denuncia de ilegitimidad
+
+La presentación extemporánea puede ser considerada:
+
+## DENUNCIA DE ILEGITIMIDAD.
+
+Esto no significa:
+
+> que el plazo recursivo deje de tener importancia.
+
+La denuncia tiene un régimen diferente.
+
+Permite que la Administración:
+
+- conozca la presunta ilegitimidad;
+- examine el planteo;
+- eventualmente corrija su actuación.
+
+---
+
+# Recurso en término y denuncia de ilegitimidad
+
+No son equivalentes.
+
+| Recurso tempestivo | Denuncia de ilegitimidad |
+|---|---|
+| Se presenta dentro del plazo | Aparece después del vencimiento |
+| Integra el sistema recursivo ordinario | Tiene naturaleza excepcional |
+| Puede servir para agotar la vía | No produce automáticamente los mismos efectos |
+| Tiene régimen impugnatorio propio | Posee limitaciones particulares |
+
+Por eso:
+
+## NO DEBE DECIRSE QUE LA DENUNCIA “REVIVE” EL RECURSO.
+
+---
+
+# Seguridad jurídica
+
+Balbín explica que la Administración puede considerar ciertos límites vinculados con:
+
+## SEGURIDAD JURÍDICA.
+
+La posibilidad de revisar indefinidamente actos firmes podría generar:
+
+- incertidumbre;
+- inestabilidad;
+- afectación de terceros;
+- alteración de situaciones consolidadas.
+
+Por ello existe una tensión:
+
+```text
+JURIDICIDAD
+      ↕
+SEGURIDAD
+JURÍDICA
+```
+
+---
+
+# Control judicial y denuncia de ilegitimidad
+
+Uno de los aspectos problemáticos señalados por Balbín es:
+
+> el alcance del control judicial frente al rechazo de una denuncia de ilegitimidad.
+
+El sistema tradicional ha impuesto:
+
+### fuertes restricciones.
+
+Esto plantea una cuestión relevante:
+
+```text
+ILEGITIMIDAD
+      ↓
+ADMINISTRACIÓN
+RECHAZA REVISAR
+      ↓
+¿QUÉ CONTROL
+JUDICIAL EXISTE?
+```
+
+---
+
+# Jurisprudencia · “Gorordo”
+
+## Corte Suprema de Justicia de la Nación
+
+### Autos
+
+**“Gorordo Allaria de Kralj, Haydée María c/ Ministerio de Cultura y Educación”**
+
+Balbín menciona el precedente al analizar:
+
+## DENUNCIA DE ILEGITIMIDAD Y CONTROL JUDICIAL.
+
+El caso se convirtió en una referencia clásica respecto de:
+
+> las consecuencias de impugnar fuera del plazo administrativo correspondiente.
+
+---
+
+# “Gorordo” · problema jurídico
+
+La cuestión central se vinculaba con un acto que no había sido recurrido tempestivamente.
+
+Posteriormente se intentó cuestionar la situación mediante:
+
+## DENUNCIA DE ILEGITIMIDAD.
+
+El problema fue determinar si el rechazo administrativo de esa denuncia:
+
+> podía abrir nuevamente el camino judicial del mismo modo que un recurso interpuesto en término.
+
+La Corte respondió:
+
+## NO.
+
+---
+
+# “Gorordo” · resolución
+
+La Corte consideró que:
+
+> no corresponde otorgar a la denuncia de ilegitimidad los mismos efectos que a un recurso administrativo presentado tempestivamente.
+
+De ese modo:
+
+```text
+RECURSO EN TÉRMINO
+        ≠
+DENUNCIA DE ILEGITIMIDAD
+EXTEMPORÁNEA
+```
+
+La decisión administrativa que rechaza la denuncia:
+
+### no genera automáticamente una nueva oportunidad para cuestionar judicialmente el acto originario.
+
+---
+
+# “Gorordo” · relevancia y crítica
+
+El precedente es importante porque muestra:
+
+## LA FUERZA DE LOS PLAZOS ADMINISTRATIVOS.
+
+Pero también permite discutir críticamente:
+
+- acceso a la Justicia;
+- juridicidad;
+- seguridad jurídica;
+- rigorismo formal;
+- tutela judicial efectiva.
+
+Balbín analiza la tensión entre:
+
+```text
+ESTABILIDAD
+Y SEGURIDAD JURÍDICA
+        ↕
+CONTROL DE LA
+ILEGITIMIDAD ESTATAL
+```
+
+---
+
+# 31 · Impugnación de reglamentos
+
+Los actos de alcance general poseen:
+
+## UN RÉGIMEN DE IMPUGNACIÓN DIFERENTE.
+
+Balbín distingue básicamente:
+
+```text
+REGLAMENTO
+    │
+    ├── IMPUGNACIÓN DIRECTA
+    │
+    └── IMPUGNACIÓN INDIRECTA
+        MEDIANTE ACTO
+        DE APLICACIÓN
+```
+
+La diferencia depende de:
+
+- existencia de afectación;
+- aplicación concreta;
+- instrumento procedimental utilizado.
+
+---
+
+# Impugnación directa
+
+El particular cuestiona:
+
+## DIRECTAMENTE EL ACTO GENERAL.
+
+El régimen se vincula con:
+
+### ART. 24 LPA.
+
+En este caso:
+
+- no existe necesariamente un acto individual previo;
+- el cuestionamiento se dirige contra la regla general;
+- interviene el órgano que dictó el reglamento según el régimen legal.
+
+Este mecanismo suele denominarse:
+
+## RECLAMO IMPROPIO.
+
+---
+
+# ¿Por qué “reclamo impropio”?
+
+Porque no estamos ante:
+
+## EL RECLAMO ADMINISTRATIVO PREVIO DEL ART. 30
+
+ni ante:
+
+## UN RECURSO CONTRA ACTO PARTICULAR.
+
+Es un mecanismo específico de impugnación del:
+
+### acto de alcance general.
+
+La terminología debe mantenerse separada para evitar confusiones.
+
+---
+
+# Impugnación indirecta
+
+Puede ocurrir que el reglamento:
+
+> no produzca todavía una lesión individual concreta.
+
+Luego la Administración dicta:
+
+## UN ACTO PARTICULAR DE APLICACIÓN.
+
+Entonces el interesado puede cuestionar:
+
+- el acto individual;
+- y, a través de éste, la norma general que le sirve de fundamento.
+
+```text
+REGLAMENTO
+      ↓
+ACTO PARTICULAR
+      ↓
+LESIÓN CONCRETA
+      ↓
+IMPUGNACIÓN
+      ↓
+CUESTIONAMIENTO
+DEL REGLAMENTO
+```
+
+---
+
+# Impugnación directa e indirecta
+
+| Directa | Indirecta |
+|---|---|
+| Se cuestiona el reglamento | Se cuestiona el acto de aplicación |
+| No requiere necesariamente acto individual previo | Existe acto particular |
+| Ataque inmediato al acto general | Ataque al acto y a su fundamento normativo |
+| Régimen propio del art. 24 | Se articula desde el acto individual |
+
+La elección depende:
+
+## DE LA FORMA EN QUE SE PRODUCE LA AFECTACIÓN.
+
+---
+
+# Excepciones al reclamo contra reglamentos
+
+Balbín analiza casos en los cuales no es necesario cumplir previamente:
+
+## EL RECLAMO ADMINISTRATIVO.
+
+Entre ellos se encuentran supuestos asociados con:
+
+- amparo;
+- procesos urgentes;
+- determinadas normas emanadas del Poder Ejecutivo;
+- otros casos previstos por la legislación.
+
+La explicación vuelve a ser:
+
+> **el procedimiento previo no puede frustrar una tutela judicial que necesita ser inmediata.**
+
+---
+
+# 32 · Integración del sistema
+
+Ahora podemos conectar todo el capítulo.
+
+```text
+PETICIÓN / ACTUACIÓN DE OFICIO
+            ↓
+        EXPEDIENTE
+            ↓
+       INSTRUCCIÓN
+            ↓
+      PARTICIPACIÓN
+            ↓
+         PRUEBA
+            ↓
+        DICTÁMENES
+            ↓
+        RESOLUCIÓN
+            ↓
+       NOTIFICACIÓN
+            ↓
+       IMPUGNACIÓN
+            ↓
+       AGOTAMIENTO
+            ↓
+     CONTROL JUDICIAL
+```
+
+El procedimiento acompaña:
+
+## TODO EL CICLO DE LA DECISIÓN ADMINISTRATIVA.
+
+---
+
+# Procedimiento y acto administrativo
+
+La clase anterior y ésta están directamente relacionadas.
+
+| Procedimiento | Acto administrativo |
+|---|---|
+| Incorpora antecedentes | Causa |
+| Determina quién debe intervenir | Competencia |
+| Permite defensa y prueba | Procedimiento |
+| Define alternativas | Objeto |
+| Produce fundamentos | Motivación |
+| Identifica finalidad pública | Finalidad |
+| Conduce a una decisión | Acto |
+
+Por eso:
+
+> **los vicios del procedimiento pueden proyectarse sobre la validez del acto.**
+
+---
+
+# Procedimiento y causa
+
+La Administración debe decidir sobre:
+
+## HECHOS REALES Y ADECUADAMENTE ACREDITADOS.
+
+El procedimiento permite:
+
+- obtener documentos;
+- producir informes;
+- recibir testimonios;
+- realizar pericias;
+- conocer antecedentes.
+
+Esos elementos construyen:
+
+### la base fáctica del acto.
+
+Por eso:
+
+```text
+DEFECTO EN LA INSTRUCCIÓN
+        ↓
+PUEDE PRODUCIR
+        ↓
+DEFECTO EN LA CAUSA
+DEL ACTO
+```
+
+---
+
+# Procedimiento y motivación
+
+La motivación debe exteriorizar:
+
+> por qué la Administración llegó a determinada conclusión.
+
+Pero esa explicación sólo puede ser sólida si existe previamente:
+
+- expediente;
+- prueba;
+- informes;
+- argumentos;
+- análisis.
+
+```text
+PROCEDIMIENTO
+       ↓
+CONSTRUYE LAS RAZONES
+       ↓
+MOTIVACIÓN
+       ↓
+LAS EXTERIORIZA
+```
+
+---
+
+# Procedimiento y defensa
+
+El procedimiento obliga a integrar la perspectiva del administrado antes de decidir.
+
+Esto permite:
+
+- detectar errores;
+- incorporar información;
+- aclarar hechos;
+- discutir interpretaciones;
+- evitar decisiones arbitrarias.
+
+La defensa no debe entenderse solamente como:
+
+## UNA CONCESIÓN AL PARTICULAR.
+
+También puede mejorar:
+
+## LA CALIDAD DE LA DECISIÓN ESTATAL.
+
+---
+
+# Procedimiento y control judicial
+
+El expediente administrativo tendrá luego enorme importancia ante el juez.
+
+El tribunal podrá revisar:
+
+- competencia;
+- hechos;
+- prueba;
+- motivación;
+- procedimiento;
+- razonabilidad.
+
+Por eso:
+
+```text
+EXPEDIENTE ADMINISTRATIVO
+       ↓
+NO TERMINA SU IMPORTANCIA
+CON EL ACTO
+       ↓
+ES TAMBIÉN
+MATERIAL DEL
+CONTROL JUDICIAL
+```
+
+---
+
+# 33 · Caso integrador · Ejemplo didáctico
+
+Una empresa solicita a la Administración una autorización para desarrollar determinada actividad.
+
+El expediente incluye:
+
+1. solicitud inicial;
+2. documentación técnica;
+3. informe de un organismo especializado;
+4. observaciones de terceros;
+5. prueba ofrecida por la empresa;
+6. dictamen jurídico;
+7. resolución denegatoria;
+8. notificación.
+
+La empresa considera que:
+
+- no se produjo una prueba decisiva;
+- la resolución utiliza argumentos genéricos;
+- el informe técnico contiene errores;
+- quiere impugnar.
+
+---
+
+# Caso integrador · Primera pregunta
+
+## ¿Qué principios aparecen?
+
+Entre otros:
+
+- tutela administrativa efectiva;
+- juridicidad;
+- razonabilidad;
+- proporcionalidad;
+- impulso de oficio;
+- verdad jurídica objetiva;
+- informalismo;
+- plazo razonable;
+- transparencia;
+- buena administración.
+
+La clave es advertir que:
+
+> **los principios no aparecen aisladamente.**
+
+Actúan conjuntamente sobre:
+
+### el mismo procedimiento.
+
+---
+
+# Caso integrador · Prueba
+
+Si la empresa ofreció una prueba:
+
+- pertinente;
+- conducente;
+- relevante;
+
+la Administración no debería ignorarla sin explicación.
+
+Debe:
+
+- producirla;
+- o justificar jurídicamente su rechazo.
+
+Si el hecho sobre el que versa esa prueba es decisivo:
+
+```text
+OMISIÓN PROBATORIA
+       ↓
+PUEDE AFECTAR
+       ↓
+DEFENSA
+       +
+CAUSA
+       +
+MOTIVACIÓN
+```
+
+---
+
+# Caso integrador · Informe técnico
+
+La existencia de un informe técnico:
+
+## NO RESUELVE AUTOMÁTICAMENTE EL CASO.
+
+La empresa debe poder:
+
+- conocerlo;
+- cuestionarlo;
+- ofrecer contraprueba.
+
+Y el órgano decisor debe:
+
+- valorarlo;
+- relacionarlo con otros antecedentes;
+- explicar por qué lo sigue o se aparta.
+
+El informe:
+
+```text
+APORTA CONOCIMIENTO
+       ≠
+DECIDE
+```
+
+---
+
+# Caso integrador · Motivación
+
+Supongamos que la resolución expresa:
+
+> “Recházase la autorización por no resultar conveniente al interés público.”
+
+¿Es suficiente?
+
+## NO NECESARIAMENTE.
+
+La Administración debe explicar:
+
+- cuáles son los hechos relevantes;
+- qué evidencia los demuestra;
+- qué norma aplica;
+- por qué la autorización afecta el interés público;
+- cuál es la conexión entre antecedentes y conclusión.
+
+Una frase general:
+
+### NO REEMPLAZA LA MOTIVACIÓN.
+
+---
+
+# Caso integrador · Impugnación
+
+Si existe:
+
+## ACTO ADMINISTRATIVO PARTICULAR DEFINITIVO
+
+la vía típica será:
+
+## EL SISTEMA DE RECURSOS ADMINISTRATIVOS.
+
+El interesado deberá determinar:
+
+- recurso procedente;
+- plazo;
+- órgano ante el cual se presenta;
+- órgano que resuelve;
+- efecto sobre el agotamiento.
+
+```text
+ACTO
+  ↓
+RECURSO
+  ↓
+AGOTAMIENTO
+  ↓
+CONTROL JUDICIAL
+```
+
+---
+
+# 34 · Segundo caso · Ejemplo didáctico
+
+La Administración considera que un comercio incumple determinadas condiciones.
+
+Sin dictar previamente un acto de clausura:
+
+> agentes administrativos concurren al establecimiento y lo cierran materialmente.
+
+La situación no presenta simplemente:
+
+## UN ACTO ADMINISTRATIVO ILEGÍTIMO.
+
+En realidad:
+
+```text
+NO HAY ACTO PREVIO
+       ↓
+EXISTE ACTUACIÓN MATERIAL
+       ↓
+AFECTA AL PARTICULAR
+       ↓
+VÍA DE HECHO
+```
+
+---
+
+# Caso · consecuencia procedimental
+
+No tendría sentido exigir al comerciante:
+
+> “interponga primero reconsideración contra el acto”.
+
+¿Por qué?
+
+## PORQUE NO EXISTE ESE ACTO.
+
+Lo que existe es:
+
+### una actuación material.
+
+Por eso el régimen de agotamiento contempla soluciones diferentes frente a:
+
+- actos;
+- hechos;
+- vías de hecho;
+- silencio.
+
+Esta distinción es fundamental.
+
+---
+
+# 35 · Tercer caso · Ejemplo didáctico
+
+Una persona formula un reclamo administrativo.
+
+La Administración:
+
+- recibe;
+- tramita parcialmente;
+- y luego permanece inactiva.
+
+Pasan los plazos legales sin resolución.
+
+La pregunta es:
+
+> **¿el particular debe esperar indefinidamente?**
+
+## NO.
+
+El silencio administrativo existe precisamente para:
+
+> impedir que la inactividad del Estado bloquee el acceso a etapas posteriores.
+
+---
+
+# Silencio · idea para recordar
+
+```text
+SILENCIO
+      =
+PROTECCIÓN
+DEL ADMINISTRADO
+FRENTE A
+LA INACTIVIDAD
+```
+
+No debe transformarse en:
+
+```text
+SILENCIO
+      =
+CASTIGO AL
+ADMINISTRADO
+PORQUE EL ESTADO
+NO RESPONDIÓ
+```
+
+Esta lógica es esencial para interpretar:
+
+### las reglas de acceso judicial.
+
+---
+
+# 36 · Errores frecuentes
+
+### Error 1
+
+> “Procedimiento y proceso son lo mismo.”
+
+**Incorrecto.**
+
+### Error 2
+
+> “El procedimiento sólo protege al particular.”
+
+**Incorrecto.**
+
+También organiza la función administrativa y contribuye a alcanzar el interés público.
+
+### Error 3
+
+> “Informalismo significa que no existen formas.”
+
+**Incorrecto.**
+
+Las formas existen, pero no deben utilizarse irrazonablemente contra el administrado.
+
+---
+
+# Más errores frecuentes
+
+### Error 4
+
+> “La Administración puede esperar a que el particular impulse siempre el expediente.”
+
+**Incorrecto.**
+
+Rige el impulso de oficio, sin perjuicio de las cargas particulares.
+
+### Error 5
+
+> “Todo recurso administrativo suspende el acto.”
+
+**Incorrecto.**
+
+La regla general no es la suspensión automática.
+
+### Error 6
+
+> “Toda actuación estatal se impugna mediante recursos.”
+
+**Incorrecto.**
+
+Debe distinguirse entre:
+
+- actos;
+- reglamentos;
+- hechos;
+- vías de hecho;
+- silencio;
+- otras pretensiones.
+
+---
+
+# Más errores frecuentes
+
+### Error 7
+
+> “La reconsideración siempre debe interponerse antes del jerárquico.”
+
+**Incorrecto.**
+
+La reconsideración no es obligatoria para agotar la vía.
+
+### Error 8
+
+> “Jerárquico y alzada son iguales.”
+
+**Incorrecto.**
+
+Uno se apoya en:
+
+### JERARQUÍA.
+
+El otro:
+
+### TUTELA SOBRE UN ENTE DESCENTRALIZADO.
+
+---
+
+# Más errores frecuentes
+
+### Error 9
+
+> “Si venció el plazo, la denuncia de ilegitimidad produce los mismos efectos que el recurso.”
+
+**Incorrecto.**
+
+La denuncia posee un régimen diferente.
+
+### Error 10
+
+> “El silencio es una decisión administrativa tácita idéntica a un acto expreso.”
+
+**Incorrecto.**
+
+El silencio es una:
+
+### técnica jurídica frente a la inactividad.
+
+No debe confundirse con:
+
+### una decisión expresa notificada.
+
+---
+
+# 37 · Síntesis de los principios
+
+```text
+                 PROCEDIMIENTO
+                ADMINISTRATIVO
+                      │
+        ┌─────────────┼─────────────┐
+        ↓             ↓             ↓
+      TUTELA       JURIDICIDAD   SIMPLIFICACIÓN
+     EFECTIVA                       │
+        │                           ↓
+        ↓                        celeridad
+     ser oído                    economía
+     prueba                      sencillez
+     decisión                    eficacia
+     fundada                     eficiencia
+     plazo
+     razonable
+```
+
+A ellos se agregan:
+
+- buena fe;
+- confianza legítima;
+- transparencia;
+- proporcionalidad;
+- buena administración;
+- informalismo;
+- impulso de oficio.
+
+---
+
+# Síntesis · tutela efectiva
+
+```text
+TUTELA ADMINISTRATIVA EFECTIVA
+              │
+              ├── SER OÍDO
+              │
+              ├── OFRECER Y
+              │   PRODUCIR PRUEBA
+              │
+              ├── OBTENER DECISIÓN
+              │   FUNDADA
+              │
+              └── OBTENERLA
+                  EN PLAZO RAZONABLE
+```
+
+La tutela efectiva no consiste:
+
+> en cumplir formalidades.
+
+Consiste en asegurar:
+
+## UNA POSIBILIDAD REAL DE DEFENSA.
+
+---
+
+# Síntesis · formación del acto
+
+```text
+INICIO
+  ↓
+EXPEDIENTE
+  ↓
+INSTRUCCIÓN
+  ↓
+PARTICIPACIÓN
+  ↓
+PRUEBA
+  ↓
+VISTA
+  ↓
+ALEGATO
+  ↓
+DICTÁMENES
+  ↓
+DECISIÓN
+  ↓
+NOTIFICACIÓN
+```
+
+Este recorrido permite comprender:
+
+> **cómo se forma jurídicamente una decisión administrativa.**
+
+---
+
+# Síntesis · control
+
+```text
+ACTO ADMINISTRATIVO
+        ↓
+IMPUGNACIÓN
+ADMINISTRATIVA
+        ↓
+AGOTAMIENTO
+        ↓
+CONTROL
+JUDICIAL
+```
+
+Pero este esquema:
+
+## NO ES UNIVERSAL.
+
+Debe adaptarse cuando existen:
+
+- reglamentos;
+- hechos;
+- vías de hecho;
+- silencio;
+- excepciones legales.
+
+---
+
+# Síntesis · medios de impugnación
+
+| Conducta estatal | Vía principal |
+|---|---|
+| Acto particular | Recursos administrativos |
+| Reglamento | Reclamo / impugnación del acto general |
+| Pretensión contra el Estado no canalizada mediante recurso | Reclamo administrativo previo |
+| Hecho | Régimen específico |
+| Vía de hecho | No requiere el mismo agotamiento que el acto |
+| Silencio | Habilita mecanismos frente a la inactividad |
+
+La primera pregunta antes de impugnar debería ser:
+
+## ¿QUÉ CONDUCTA ESTATAL TENGO DELANTE?
+
+---
+
+# Síntesis · recursos administrativos
+
+| Instrumento | Característica central |
+|---|---|
+| Reconsideración | El mismo órgano revisa su acto |
+| Jerárquico | Revisión por el superior |
+| Alzada | Control sobre ente descentralizado |
+| Queja | Corrige demoras o defectos de trámite |
+| Revisión | Revisión extraordinaria de acto firme |
+| Denuncia de ilegitimidad | Presentación extemporánea con régimen propio |
+
+No existe:
+
+### un único “recurso administrativo”.
+
+Cada instituto responde a:
+
+## UNA FUNCIÓN DIFERENTE.
+
+---
+
+# Reconsideración vs. jerárquico
+
+| Reconsideración | Jerárquico |
+|---|---|
+| Mismo órgano | Superior |
+| Autorrevisión | Revisión jerárquica |
+| Puede alcanzar actos de trámite en los supuestos reglamentarios | Se concentra en definitivos y asimilables |
+| No es obligatorio para agotar | Es obligatorio cuando constituye la vía de agotamiento |
+| Puede generar jerárquico subsidiario | Agota según el nivel orgánico correspondiente |
+
+Ésta es una distinción:
+
+## CENTRAL PARA EL EXAMEN.
+
+---
+
+# Jerárquico vs. alzada
+
+| Jerárquico | Alzada |
+|---|---|
+| Jerarquía | Tutela |
+| Administración central | Ente descentralizado y Administración central |
+| Superior revisa inferior | Administración central controla ente |
+| Obligatorio cuando corresponde para agotar | Optativo |
+| Control jerárquico | Alcance condicionado por autonomía del ente |
+
+No debe confundirse:
+
+```text
+DESCENTRALIZACIÓN
+      ≠
+DESCONCENTRACIÓN
+```
+
+porque de ello depende:
+
+### el tipo de vínculo existente.
+
+---
+
+# Recurso tempestivo vs. denuncia de ilegitimidad
+
+```text
+RECURSO
+EN TÉRMINO
+    ↓
+VÍA ORDINARIA
+DE IMPUGNACIÓN
+
+RECURSO
+FUERA DE TÉRMINO
+    ↓
+PUEDE SER TRATADO
+COMO DENUNCIA
+DE ILEGITIMIDAD
+```
+
+Pero:
+
+```text
+DENUNCIA
+      ≠
+RECURSO TEMPESTIVO
+```
+
+Esta diferencia explica:
+
+- firmeza;
+- seguridad jurídica;
+- restricciones posteriores.
+
+---
+
+# Procedimiento y buena administración
+
+El modelo actual puede sintetizarse como un desplazamiento desde:
+
+```text
+PROCEDIMIENTO
+COMO FORMALIDAD
+BUROCRÁTICA
+```
+
+hacia:
+
+```text
+PROCEDIMIENTO
+COMO SISTEMA
+DE DECISIÓN
+       +
+GARANTÍA
+       +
+PARTICIPACIÓN
+       +
+CONTROL
+```
+
+El objetivo no es:
+
+### más trámites.
+
+Es:
+
+## MEJOR ADMINISTRACIÓN DENTRO DEL DERECHO.
+
+---
+
+# Procedimiento y Estado de Derecho
+
+El Estado dispone de potestades:
+
+- regulatorias;
+- sancionatorias;
+- autorizatorias;
+- organizativas;
+- expropiatorias;
+- contractuales.
+
+El procedimiento impone:
+
+> condiciones jurídicas para ejercerlas.
+
+Por eso:
+
+```text
+POTESTAD
+      +
+PROCEDIMIENTO
+      +
+GARANTÍAS
+      ↓
+ACTUACIÓN
+JURÍDICAMENTE
+CONTROLABLE
+```
+
+---
+
+# ¿Formalidad o garantía?
+
+Un error frecuente consiste en pensar que:
+
+> “el procedimiento es burocracia”.
+
+Las formas pueden convertirse en burocracia cuando:
+
+- carecen de finalidad;
+- se duplican;
+- son innecesarias.
+
+Pero determinadas formas existen porque:
+
+### PROTEGEN DERECHOS.
+
+Por ejemplo:
+
+- vista;
+- prueba;
+- audiencia;
+- dictamen;
+- motivación;
+- notificación.
+
+No debe confundirse:
+
+```text
+FORMALISMO INÚTIL
+        ≠
+GARANTÍA PROCEDIMENTAL
+```
+
+---
+
+# La tensión permanente
+
+Todo el procedimiento administrativo está atravesado por una tensión:
+
+```text
+EFICACIA
+DE LA ADMINISTRACIÓN
+        ↕
+GARANTÍAS
+DEL ADMINISTRADO
+```
+
+Una lectura incorrecta supone que:
+
+> para administrar eficazmente hay que reducir garantías.
+
+Balbín propone una concepción diferente.
+
+La buena administración exige:
+
+- eficacia;
+- juridicidad;
+- defensa;
+- razonabilidad;
+- transparencia.
+
+No son necesariamente objetivos incompatibles.
+
+---
+
+# Las prerrogativas estatales
+
+El procedimiento también refleja la posición institucional especial del Estado.
+
+Por ejemplo:
+
+- agotamiento previo;
+- ejecutoriedad;
+- ciertos plazos;
+- sistema recursivo interno.
+
+Estas instituciones pueden calificarse como:
+
+## PRERROGATIVAS.
+
+Pero no son absolutas.
+
+Deben interpretarse a la luz de:
+
+- Constitución;
+- tratados;
+- tutela administrativa;
+- tutela judicial.
+
+---
+
+# El administrado no es un mero objeto
+
+El modelo contemporáneo abandona la idea de que el particular es simplemente:
+
+> destinatario pasivo de la decisión estatal.
+
+El administrado es:
+
+## SUJETO DEL PROCEDIMIENTO.
+
+Puede:
+
+- participar;
+- argumentar;
+- probar;
+- acceder;
+- impugnar;
+- exigir resolución.
+
+Esto transforma:
+
+```text
+ADMINISTRADO
+COMO DESTINATARIO
+        ↓
+ADMINISTRADO
+COMO SUJETO
+DE DERECHOS
+```
+
+---
+
+# La Administración tampoco es un litigante privado
+
+A la vez, el Estado:
+
+> no es simplemente “otra parte”.
+
+La Administración tiene deberes especiales derivados de:
+
+- juridicidad;
+- interés público;
+- verdad objetiva;
+- impulso de oficio;
+- buena administración.
+
+Por eso no debería actuar con la lógica:
+
+> “si el particular no pudo probarlo, mejor para mí”.
+
+Debe procurar:
+
+## LA DECISIÓN JURÍDICAMENTE CORRECTA.
+
+---
+
+# Procedimiento y verdad
+
+La búsqueda de la verdad jurídica objetiva explica por qué el órgano administrativo:
+
+- puede ordenar prueba;
+- debe analizar antecedentes;
+- no debe aprovechar meros errores formales;
+- debe considerar los hechos relevantes.
+
+La finalidad es:
+
+```text
+NO SIMPLEMENTE
+"GANAR" EL PROCEDIMIENTO
+        ↓
+SINO
+RESOLVER CORRECTAMENTE
+```
+
+Ésta es una diferencia conceptual importante respecto de:
+
+### una lógica puramente adversarial.
+
+---
+
+# Procedimiento y tiempo
+
+El tiempo atraviesa múltiples instituciones:
+
+- impulso;
+- plazos;
+- prueba;
+- recursos;
+- silencio;
+- caducidad;
+- acceso judicial.
+
+Por eso debemos distinguir:
+
+```text
+DEMORA DEL ESTADO
+      ↓
+SILENCIO / MORA /
+PLAZO RAZONABLE
+
+DEMORA DEL PARTICULAR
+      ↓
+PÉRDIDA DE FACULTADES /
+CADUCIDAD EN LOS
+SUPUESTOS LEGALES
+```
+
+No producen:
+
+## LAS MISMAS CONSECUENCIAS.
+
+---
+
+# Procedimiento y silencio
+
+El silencio resume una de las grandes tensiones del sistema.
+
+La Administración tiene:
+
+## DEBER DE RESOLVER.
+
+Pero puede incumplirlo.
+
+El Derecho responde creando:
+
+## UNA FICCIÓN O TÉCNICA DE HABILITACIÓN
+
+para evitar que:
+
+> el incumplimiento estatal perjudique indefinidamente al particular.
+
+Por ello:
+
+### EL SILENCIO ES UNA GARANTÍA FRENTE A LA INACTIVIDAD.
+
+---
+
+# Procedimiento y acceso a la Justicia
+
+El procedimiento administrativo puede ser:
+
+## PREVIO AL PROCESO JUDICIAL.
+
+Pero la etapa administrativa no debe funcionar como:
+
+> una jurisdicción cerrada sobre sí misma.
+
+Finalmente:
+
+```text
+ADMINISTRACIÓN
+       ↓
+DECIDE
+       ↓
+PUEDE REVISAR
+       ↓
+PERO
+       ↓
+EL JUEZ
+DEBE PODER CONTROLAR
+```
+
+Ésta es una dimensión esencial del:
+
+## ESTADO DE DERECHO.
+
+---
+
+# Jurisprudencia trabajada en el capítulo
+
+Dentro del desarrollo de Balbín pueden identificarse precedentes relevantes para distintos problemas.
+
+| Caso | Tema |
+|---|---|
+| **Baena Ricardo y otros vs. Panamá** | Debido proceso ante autoridades administrativas |
+| **Losicer** | Plazo razonable en procedimiento sancionatorio |
+| **Navarrine** | Duración razonable y tutela efectiva |
+| **Astorga Bracht** | Acceso a la Justicia y límites a restricciones administrativas |
+| **Gorordo** | Denuncia de ilegitimidad y efectos del recurso extemporáneo |
+
+Los fallos deben utilizarse para:
+
+## COMPRENDER LA REGLA JURÍDICA
+
+y no simplemente:
+
+> memorizar nombres.
+
+---
+
+# Mapa jurisprudencial
+
+```text
+DEBIDO PROCESO
+      ↓
+BAENA RICARDO
+
+PLAZO RAZONABLE
+      ↓
+LOSICER
+NAVARRINE
+
+ACCESO A LA JUSTICIA
+      ↓
+ASTORGA BRACHT
+
+RECURSO EXTEMPORÁNEO
+Y FIRMEZA
+      ↓
+GORORDO
+```
+
+Cada línea jurisprudencial responde a:
+
+## UN PROBLEMA DIFERENTE DEL PROCEDIMIENTO.
+
+---
+
+# Preguntas para trabajar en clase
+
+1. ¿Por qué el procedimiento administrativo es simultáneamente un instrumento del Estado y una garantía del particular?
+
+2. ¿Puede el impulso de oficio coexistir con cargas del interesado?
+
+3. ¿El informalismo significa ausencia de formas?
+
+4. ¿Por qué la Administración debe buscar la verdad jurídica objetiva?
+
+5. ¿Qué relación existe entre expediente, causa y motivación?
+
+6. ¿Por qué el agotamiento puede ser considerado una prerrogativa estatal?
+
+7. ¿Qué diferencia existe entre reconsideración, jerárquico y alzada?
+
+8. ¿Por qué la denuncia de ilegitimidad no equivale a un recurso tempestivo?
+
+---
+
+# Pregunta de integración
+
+Una persona recibe una resolución administrativa que rechaza su petición.
+
+La resolución:
+
+- fue notificada;
+- es definitiva;
+- fue dictada por un órgano inferior;
+- el interesado considera que existe un error de hecho y un vicio jurídico.
+
+## ¿Qué debe analizar primero?
+
+```text
+1. QUÉ ACTO ES
+       ↓
+2. QUÉ RECURSO PROCEDE
+       ↓
+3. QUÉ PLAZO TIENE
+       ↓
+4. QUÉ ÓRGANO RESUELVE
+       ↓
+5. CÓMO AGOTA LA VÍA
+       ↓
+6. CUÁNDO PUEDE
+IR A LA JUSTICIA
+```
+
+---
+
+# Otra pregunta de integración
+
+La Administración ingresa materialmente a un inmueble y retira bienes.
+
+No existe un acto administrativo previo que autorice esa actuación.
+
+## ¿Debe el particular presentar reconsideración?
+
+### NO.
+
+Primero debe identificar correctamente:
+
+## LA NATURALEZA DE LA CONDUCTA ESTATAL.
+
+```text
+NO HAY ACTO
+     ↓
+HAY CONDUCTA MATERIAL
+     ↓
+POSIBLE VÍA DE HECHO
+```
+
+El régimen de tutela es:
+
+### diferente del sistema recursivo contra actos.
+
+---
+
+# Otra pregunta de integración
+
+Un interesado presenta un recurso fuera de plazo y sostiene:
+
+> “Como mi acto es ilegítimo, la Administración está obligada a tramitarlo exactamente igual.”
+
+## ¿Es correcto?
+
+### NO.
+
+Debe distinguirse:
+
+```text
+RECURSO
+TEMPESTIVO
+      ↓
+RÉGIMEN RECURSIVO
+ORDINARIO
+
+PRESENTACIÓN
+EXTEMPORÁNEA
+      ↓
+POSIBLE DENUNCIA
+DE ILEGITIMIDAD
+```
+
+No producen:
+
+## LOS MISMOS EFECTOS.
+
+---
+
+# Procedimiento administrativo · idea central
+
+Podemos definir conceptualmente el procedimiento como:
+
+> **el conjunto ordenado de principios, reglas y actuaciones mediante el cual la Administración forma, exterioriza y revisa sus decisiones en ejercicio de la función administrativa.**
+
+Pero la definición debe completarse.
+
+El procedimiento cumple dos grandes funciones:
+
+```text
+PERMITIR
+DECIDIR AL ESTADO
+       +
+LIMITAR
+CÓMO DECIDE
+EL ESTADO
+```
+
+---
+
+# Las dos caras del procedimiento
+
+```text
+               PROCEDIMIENTO
+              ADMINISTRATIVO
+                    │
+          ┌─────────┴─────────┐
+          ↓                   ↓
+       POTESTAD             GARANTÍA
+       ESTATAL            DEL PARTICULAR
+          │                   │
+          ↓                   ↓
+       decidir              participar
+       gestionar            defenderse
+       controlar            probar
+       ejecutar fines       recurrir
+                            acceder al juez
+```
+
+El procedimiento existe:
+
+## PARA AMBAS FUNCIONES.
+
+---
+
+# Conclusiones
+
+1. El procedimiento administrativo es el **cauce jurídico de la función administrativa**.
+
+2. No constituye una simple sucesión de trámites.
+
+3. Es simultáneamente:
+   - instrumento de decisión;
+   - límite al poder;
+   - garantía del particular.
+
+4. Los principios contemporáneos refuerzan:
+   - tutela administrativa efectiva;
+   - juridicidad;
+   - razonabilidad;
+   - proporcionalidad;
+   - buena fe;
+   - confianza legítima;
+   - transparencia;
+   - buena administración.
+
+5. La Administración debe:
+   - instruir;
+   - impulsar;
+   - probar;
+   - escuchar;
+   - fundamentar;
+   - resolver.
+
+---
+
+# Conclusiones · impugnación
+
+6. El sistema de impugnación depende de:
+
+## LA CONDUCTA ESTATAL CUESTIONADA.
+
+7. Debemos distinguir:
+
+- acto particular;
+- reglamento;
+- hecho;
+- vía de hecho;
+- silencio;
+- otras pretensiones contra el Estado.
+
+8. El agotamiento sigue siendo un elemento central del régimen.
+
+9. Pero debe interpretarse conforme:
+
+- tutela judicial efectiva;
+- acceso a la Justicia;
+- defensa.
+
+10. Los recursos administrativos no son equivalentes entre sí.
+
+---
+
+# Para recordar
+
+```text
+PROCEDIMIENTO
+       =
+FORMA JURÍDICA
+DE EJERCICIO
+DEL PODER
+```
+
+Pero también:
+
+```text
+PROCEDIMIENTO
+       =
+GARANTÍA
+FRENTE AL
+PODER
+```
+
+Estas dos afirmaciones:
+
+## NO SE CONTRADICEN.
+
+Constituyen:
+
+### LAS DOS DIMENSIONES FUNDAMENTALES DEL PROCEDIMIENTO ADMINISTRATIVO.
+
+---
+
+# Bibliografía
+
+## Fuente doctrinaria exclusiva
+
+**BALBÍN, Carlos F., Manual de Derecho Administrativo, Capítulo XX: “El procedimiento administrativo”.**
+
+La estructura conceptual y doctrinaria de esta presentación sigue el desarrollo efectuado por Balbín en el capítulo indicado.
+
+No se incorporan desarrollos doctrinarios autónomos de otros autores.
+
+---
+
+# Normativa principal
+
+- **Constitución Nacional**, especialmente art. 18 y garantías relacionadas con defensa y tutela judicial.
+- **Convención Americana sobre Derechos Humanos**, especialmente art. 8.
+- **Ley 19.549**, Ley Nacional de Procedimientos Administrativos, texto vigente.
+- **Decreto 1759/72**, Reglamento de Procedimientos Administrativos, texto ordenado y modificatorias.
+- **Ley 25.506**, Firma Digital.
+- **Código Civil y Comercial de la Nación**, en los puntos a los que remite Balbín respecto de capacidad y otras cuestiones.
+
+---
+
+# Cierre
+
+## El procedimiento administrativo
+
+**Juridicidad · debido proceso · participación · eficacia · buena administración · control**
+
+
+**Prof. Maximiliano Romei**

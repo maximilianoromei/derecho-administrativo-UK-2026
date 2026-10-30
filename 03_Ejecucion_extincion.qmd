@@ -1,0 +1,118 @@
+---
+title: "Ejecución, modificación y extinción"
+subtitle: "Derecho Administrativo · Contratos"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: fade
+    incremental: false
+lang: es
+---
+
+## Una vez celebrado el contrato
+
+- Obligaciones recíprocas
+- Control de ejecución
+- Equilibrio y finalización
+
+<small>Referencia: Balbín, pp. 367–373</small>
+
+---
+
+## Derechos y deberes de las partes
+
+- Contratista: ejecutar correctamente
+- Estado: recibir y pagar según contrato
+- Buena fe y colaboración
+
+<small>Referencia: Balbín, pp. 345–346 y 369; Decreto 1023, art. 13</small>
+
+---
+
+## Dirección y fiscalización
+
+- Inspeccionar y controlar
+- Verificar calidad y plazos
+- Exigir correcciones
+
+<small>Referencia: Balbín, pp. 367–369; Decreto 1023, art. 12</small>
+
+---
+
+## Ius variandi
+
+- Modificación unilateral por interés público
+- Límites normativos y contractuales
+- Respeto del equilibrio económico
+
+<small>Referencia: Balbín, pp. 364–366; Decreto 1023, art. 12</small>
+
+---
+
+## Hecho del príncipe
+
+- Decisión estatal general y externa al vínculo
+- Impacto sobre la ejecución
+- Analizar causalidad y reparación
+
+<small>Referencia: Balbín, pp. 361–362</small>
+
+---
+
+## Teoría de la imprevisión
+
+- Acontecimiento extraordinario e imprevisible
+- Alteración excesiva de prestaciones
+- Art. 1091 CCyC: referencia supletoria según régimen
+
+<small>Referencia: Balbín, pp. 362–364; Código Civil y Comercial, art. 1091</small>
+
+---
+
+## Incumplimiento y sanciones
+
+- Mora y penalidades
+- Garantías
+- Rescisión por culpa
+
+<small>Referencia: Balbín, pp. 369–371; Decreto 1023, art. 29</small>
+
+---
+
+## Extinción del contrato
+
+- Cumplimiento y vencimiento
+- Rescisión por incumplimiento
+- Revocación o extinción por interés público
+
+<small>Referencia: Balbín, pp. 366–372; Decreto 1023, art. 12</small>
+
+---
+
+## Caso integrador
+
+- Aumento extraordinario de costos
+- Ampliación del servicio
+- Incumplimiento y decisión de extinguir
+
+<small>Referencia: Caso didáctico; Balbín, pp. 361–371</small>
+
+---
+
+## Cierre de la unidad
+
+- Prerrogativas no son arbitrariedad
+- Cada remedio tiene presupuestos propios
+- Siempre identificar régimen y fuente
+
+<small>Referencia: Balbín, pp. 361–373; Decreto 1023, arts. 12, 13 y 29</small>
+
+---
+
+## Fuentes y enlaces
+
+- Carlos F. Balbín, *La teoría del contrato administrativo*, capítulo XVII, material suministrado.
+- [Decreto 1023/2001 — texto actualizado](https://www.argentina.gob.ar/normativa/nacional/decreto-1023-2001-68396/actualizacion)
+- [Decreto 1030/2016 — texto actualizado](https://www.argentina.gob.ar/normativa/nacional/decreto-1030-2016-265506/actualizacion)
+- [COMPR.AR — portal oficial](https://comprar.gob.ar/)

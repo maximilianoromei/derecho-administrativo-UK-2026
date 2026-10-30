@@ -395,3 +395,228 @@
     padding: 24px 28px;
   }
 }
+
+/* =========================================================
+   PROCEDIMIENTO ADMINISTRATIVO — COMPONENTES ESPECÍFICOS
+   ========================================================= */
+
+/* Texto normativo */
+.reveal .norma {
+  background: #f4f8fc;
+  border-left: 6px solid var(--azul);
+  border-radius: 8px;
+  padding: 0.65em 0.85em;
+  margin: 0.65em 0;
+}
+
+.reveal .norma::before {
+  content: "NORMA";
+  display: block;
+  font-size: 0.55em;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  color: var(--azul);
+  margin-bottom: 0.35em;
+}
+
+
+/* Doctrina — Balbín */
+.reveal .balbin {
+  background: var(--crema);
+  border-left: 6px solid var(--dorado);
+  border-radius: 8px;
+  padding: 0.65em 0.85em;
+  margin: 0.65em 0;
+}
+
+.reveal .balbin::before {
+  content: "DOCTRINA · BALBÍN";
+  display: block;
+  font-size: 0.55em;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  color: #8a641b;
+  margin-bottom: 0.35em;
+}
+
+
+/* Regla fundamental */
+.reveal .regla {
+  background: #eef6f2;
+  border-left: 6px solid #39735b;
+  border-radius: 8px;
+  padding: 0.65em 0.85em;
+  margin: 0.65em 0;
+}
+
+.reveal .regla::before {
+  content: "REGLA";
+  display: block;
+  font-size: 0.55em;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  color: #39735b;
+  margin-bottom: 0.35em;
+}
+
+
+/* Excepción */
+.reveal .excepcion {
+  background: #fff5eb;
+  border-left: 6px solid #c96c25;
+  border-radius: 8px;
+  padding: 0.65em 0.85em;
+  margin: 0.65em 0;
+}
+
+.reveal .excepcion::before {
+  content: "EXCEPCIÓN";
+  display: block;
+  font-size: 0.55em;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  color: #a65017;
+  margin-bottom: 0.35em;
+}
+
+
+/* Ejemplo práctico */
+.reveal .ejemplo {
+  background: var(--gris-claro);
+  border-left: 6px solid var(--azul-claro);
+  border-radius: 8px;
+  padding: 0.65em 0.85em;
+  margin: 0.65em 0;
+}
+
+.reveal .ejemplo::before {
+  content: "EJEMPLO";
+  display: block;
+  font-size: 0.55em;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  color: var(--azul-claro);
+  margin-bottom: 0.35em;
+}
+
+
+/* Secuencias procedimentales */
+.reveal .secuencia {
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+  gap: 0.35em;
+  margin: 1em auto;
+  flex-wrap: wrap;
+}
+
+.reveal .secuencia .paso {
+  background: var(--gris-claro);
+  border: 2px solid var(--azul-claro);
+  border-radius: 8px;
+  padding: 0.5em 0.7em;
+  text-align: center;
+  font-size: 0.72em;
+  font-weight: 650;
+}
+
+.reveal .secuencia .flecha {
+  display: flex;
+  align-items: center;
+  font-size: 1.15em;
+  font-weight: bold;
+  color: var(--dorado);
+}
+
+
+/* Artículo destacado */
+.reveal .articulo {
+  color: var(--azul);
+  font-weight: 800;
+  white-space: nowrap;
+}
+
+
+/* Plazos */
+.reveal .plazo {
+  display: inline-block;
+  background-color: #16324F !important;
+  color: #FFFFFF !important;
+  font-weight: 800;
+  font-size: 0.95em;
+  padding: 0.12em 0.42em;
+  margin: 0 0.08em;
+  border-radius: 6px;
+  line-height: 1.2;
+  vertical-align: baseline;
+}
+
+.reveal .plazo strong,
+.reveal strong .plazo {
+  color: #FFFFFF !important;
+}
+/* =========================================================
+   CAJAS GENERALES
+   ========================================================= */
+
+/* Caja celeste */
+.reveal .caja-celeste {
+  background: #eef6fb;
+  border-left: 6px solid var(--azul-claro);
+  border-radius: 8px;
+  padding: 0.65em 0.85em;
+  margin: 0.65em 0;
+}
+
+.reveal .caja-celeste p:last-child {
+  margin-bottom: 0;
+}
+
+.reveal .caja-celeste strong {
+  color: var(--azul);
+}
+
+
+/* Caja naranja */
+.reveal .caja-naranja {
+  background: #fff4e8;
+  border-left: 6px solid #d97706;
+  border-radius: 8px;
+  padding: 0.65em 0.85em;
+  margin: 0.65em 0;
+}
+
+.reveal .caja-naranja p:last-child {
+  margin-bottom: 0;
+}
+
+.reveal .caja-naranja strong {
+  color: #a64b00;
+}
+
+
+/* =========================================================
+   TARJETA GENERAL
+   ========================================================= */
+
+.reveal .tarjeta {
+  background: var(--gris-claro);
+  border: 1px solid #d9e0e5;
+  border-radius: 9px;
+  padding: 0.7em 0.9em;
+  margin: 0.65em 0;
+}
+
+
+/* Cita doctrinaria */
+.reveal .tarjeta.cita {
+  background: #faf9f5;
+  border-left: 5px solid var(--dorado);
+  font-style: italic;
+  text-align: justify;
+}
+
+.reveal .tarjeta.cita strong {
+  font-style: normal;
+  color: var(--azul);
+}

@@ -1,0 +1,4417 @@
+---
+title: "Derecho Administrativo"
+subtitle: "Acto administrativo · Régimen jurídico, elementos, caracteres, nulidades y extinción"
+format:
+  revealjs:
+    slide-level: 1
+    slide-number: true
+    scrollable: true
+    hash: true
+    transition: slide
+    navigation-mode: linear
+    width: 1600
+    height: 900
+    center: false
+    controls: true
+    progress: true
+    css: styles.css
+lang: es
+---
+
+# Derecho Administrativo
+
+## El acto administrativo
+
+**Concepto · Elementos · Caracteres · Nulidades · Extinción**
+
+Fuente exclusiva:
+
+**Carlos F. Balbín, Manual de Derecho Administrativo, Capítulo XVI**
+
+---
+
+# El mapa de la clase
+
+En esta clase analizaremos:
+
+1. El concepto de **acto administrativo**
+2. Su distinción respecto de otros actos estatales
+3. Los **elementos esenciales**
+4. Los elementos accesorios
+5. La notificación
+6. Los caracteres del acto administrativo
+7. La extinción del acto
+8. La revocación
+9. La caducidad
+10. El régimen de nulidades
+11. Los vicios del acto
+12. El saneamiento
+13. Los hechos administrativos
+14. Las vías de hecho
+15. El silencio y las omisiones estatales
+16. Los reglamentos
+
+---
+
+# 1 · Punto de partida
+
+## ¿Cómo actúa jurídicamente la Administración?
+
+El Estado desarrolla su actividad a través de distintos medios o instrumentos.
+
+Balbín enumera:
+
+- el **acto administrativo**;
+- el reglamento;
+- el contrato;
+- los hechos;
+- las vías de hecho;
+- el silencio;
+- las omisiones.
+
+No todos estos instrumentos poseen el mismo régimen jurídico.
+
+---
+
+# Una primera distinción
+
+El acto administrativo debe diferenciarse de:
+
+### Reglamento
+
+Produce efectos generales.
+
+### Contrato
+
+Supone, en principio, acuerdo de voluntades.
+
+### Hecho administrativo
+
+Consiste en un comportamiento material.
+
+### Silencio
+
+Supone ausencia de una declaración estatal expresa.
+
+### Vía de hecho
+
+Implica determinadas actuaciones materiales irregulares de la Administración.
+
+---
+
+# 2 · Concepto de acto administrativo
+
+Balbín parte del concepto general de:
+
+## ACTO JURÍDICO
+
+El Código Civil y Comercial define al acto jurídico como un acto voluntario lícito cuyo fin inmediato es:
+
+> adquirir, modificar o extinguir relaciones o situaciones jurídicas.
+
+Pero el acto administrativo posee características propias.
+
+---
+
+# ¿Qué es un acto administrativo?
+
+Para Balbín, el concepto debe construirse considerando varios elementos.
+
+El acto administrativo es:
+
+## una declaración estatal
+
+dictada en:
+
+## ejercicio de funciones administrativas
+
+que produce:
+
+## efectos jurídicos directos e inmediatos
+
+sobre terceros.
+
+---
+
+# Concepto operativo
+
+Podemos sintetizarlo así:
+
+> **El acto administrativo es una declaración unilateral realizada en ejercicio de funciones administrativas que produce efectos jurídicos directos e inmediatos sobre terceros.**
+
+Cada una de estas expresiones tiene importancia.
+
+---
+
+# Primer elemento conceptual
+
+## EJERCICIO DE FUNCIÓN ADMINISTRATIVA
+
+No debemos identificar:
+
+```text
+ACTO ADMINISTRATIVO
+        =
+ACTO DEL PODER EJECUTIVO
+```
+
+El criterio de Balbín es:
+
+## funcional.
+
+Lo relevante no es solamente:
+
+> quién dicta el acto,
+
+sino:
+
+> qué función está ejerciendo.
+
+---
+
+# Consecuencia
+
+También pueden existir actos administrativos provenientes de:
+
+- Poder Legislativo;
+- Poder Judicial;
+
+cuando estos ejercen:
+
+## funciones materialmente administrativas.
+
+Por ejemplo:
+
+- designación de personal;
+- administración de recursos;
+- decisiones organizativas internas con efectos jurídicos sobre terceros.
+
+---
+
+# ¿Todo acto del Poder Ejecutivo es administrativo?
+
+## NO.
+
+Balbín excluye, entre otros:
+
+- reglamentos;
+- contratos;
+- hechos;
+- vías de hecho;
+- silencio;
+- actos institucionales o políticos.
+
+Por tanto:
+
+```text
+PODER EJECUTIVO
+      │
+      ├── actos administrativos
+      ├── reglamentos
+      ├── contratos
+      ├── hechos
+      ├── vías de hecho
+      ├── silencio
+      └── actos institucionales
+```
+
+---
+
+# Segundo elemento
+
+## UNILATERALIDAD
+
+El acto administrativo constituye una:
+
+> **declaración unilateral del Estado.**
+
+Esto permite distinguirlo del contrato.
+
+En el acto administrativo:
+
+## la voluntad estatal basta para producir el efecto jurídico.
+
+---
+
+# Acto y contrato
+
+| Acto administrativo | Contrato |
+|---|---|
+| Unilateral | Bilateral |
+| Voluntad estatal | Acuerdo de voluntades |
+| Efectos directos sobre terceros | Relación entre partes |
+| Formación unilateral | Formación bilateral |
+
+---
+
+# Una cuestión problemática
+
+## ¿Existen actos administrativos bilaterales?
+
+Balbín analiza críticamente esta posibilidad.
+
+En ciertos casos existe:
+
+- petición del particular;
+- consentimiento;
+- aceptación;
+- participación del interesado.
+
+Sin embargo, esto no convierte necesariamente al acto en contrato.
+
+---
+
+# El consentimiento del particular
+
+Ejemplo:
+
+Una persona solicita una:
+
+## licencia.
+
+La Administración concede la licencia.
+
+Existen:
+
+- solicitud;
+- intervención del particular;
+- decisión estatal.
+
+Pero el efecto jurídico inmediato proviene de:
+
+## la decisión administrativa.
+
+Por eso seguimos frente a un:
+
+# ACTO ADMINISTRATIVO
+
+---
+
+# Tercer elemento
+
+## EFECTOS JURÍDICOS DIRECTOS
+
+El acto administrativo debe producir efectos jurídicos.
+
+No alcanza con una mera:
+
+- opinión;
+- actuación preparatoria;
+- actividad material.
+
+Debe existir una consecuencia jurídica.
+
+---
+
+# ¿Qué significa "efecto directo"?
+
+Balbín explica que el acto debe producir por sí mismo una modificación en la situación jurídica.
+
+Puede:
+
+- crear derechos;
+- reconocer derechos;
+- imponer obligaciones;
+- extinguir derechos;
+- modificar relaciones jurídicas.
+
+---
+
+# Ejemplos
+
+### Concesión de una licencia
+
+Crea o reconoce una situación jurídica.
+
+### Aplicación de una multa
+
+Impone una obligación.
+
+### Revocación de una autorización
+
+Extingue una situación jurídica.
+
+### Designación de un agente
+
+Crea una relación jurídica.
+
+---
+
+# Cuarto elemento
+
+## EFECTOS SOBRE TERCEROS
+
+Balbín utiliza este elemento para distinguir el acto administrativo de determinados:
+
+## actos internos.
+
+El acto administrativo proyecta sus efectos jurídicos fuera del ámbito puramente interno de la Administración.
+
+---
+
+# Alcance particular
+
+El acto administrativo posee:
+
+## alcance individual o particular.
+
+Sus destinatarios son:
+
+- determinados;
+- o determinables.
+
+Esto permite distinguirlo del:
+
+## REGLAMENTO.
+
+---
+
+# Acto administrativo y reglamento
+
+| Acto administrativo | Reglamento |
+|---|---|
+| Alcance particular | Alcance general |
+| Destinatarios determinados o determinables | Destinatarios indeterminados |
+| Efectos individuales | Efectos generales |
+| Caso concreto | Regla general |
+
+---
+
+# Ejemplo de Balbín
+
+Supongamos que el Estado dicta un acto ordenando que:
+
+> el propietario de determinado inmueble tribute una tasa especial.
+
+Tenemos:
+
+- destinatario individualizado;
+- inmueble determinado;
+- obligación concreta.
+
+Estamos ante un:
+
+## acto administrativo.
+
+---
+
+# Otro supuesto
+
+El Estado dicta una regla según la cual:
+
+> todos los propietarios de determinada zona deben pagar una tasa.
+
+Los destinatarios no están individualizados en el acto.
+
+Estamos ante una decisión de:
+
+## alcance general.
+
+---
+
+# Distinción fundamental
+
+```text
+DESTINATARIOS
+     │
+ ┌───┴────┐
+ │        │
+cerrados  abiertos
+ │        │
+ ↓        ↓
+ACTO    REGLAMENTO
+ADMIN.
+```
+
+---
+
+# 3 · ¿Quiénes pueden dictar actos administrativos?
+
+Balbín analiza distintos sujetos.
+
+### Poder Ejecutivo
+
+Es el supuesto típico.
+
+### Poder Legislativo y Judicial
+
+Cuando ejercen funciones administrativas.
+
+### Entes descentralizados
+
+Cuando ejercen funciones administrativas.
+
+### Personas públicas no estatales
+
+Cuando ejercen potestades públicas atribuidas por ley.
+
+### Personas privadas
+
+En determinados casos, cuando ejercen potestades públicas legalmente otorgadas.
+
+---
+
+# Empresas y sociedades estatales
+
+Balbín señala una particularidad.
+
+Las empresas públicas, sociedades estatales y sociedades con participación estatal:
+
+> **no dictan, como regla, actos administrativos.**
+
+Sin embargo, pueden hacerlo cuando:
+
+## ejercen potestades administrativas atribuidas jurídicamente.
+
+---
+
+# Personas privadas
+
+También pueden existir actos administrativos dictados por personas privadas cuando:
+
+> **ejercen potestades públicas otorgadas por ley.**
+
+La clave vuelve a ser:
+
+# LA FUNCIÓN EJERCIDA
+
+y no simplemente la naturaleza pública o privada del sujeto.
+
+---
+
+# 4 · Los elementos esenciales del acto
+
+La Ley de Procedimientos Administrativos permite identificar como elementos esenciales:
+
+1. **competencia**
+2. **causa**
+3. **objeto**
+4. **procedimiento**
+5. **motivación**
+6. **finalidad**
+
+A ellos debemos agregar:
+
+## la forma.
+
+---
+
+# Mapa de los elementos
+
+```text
+ACTO ADMINISTRATIVO
+        │
+        ├── competencia
+        ├── causa
+        ├── objeto
+        ├── procedimiento
+        ├── motivación
+        ├── finalidad
+        └── forma
+```
+
+---
+
+# 5 · Competencia
+
+La competencia constituye:
+
+> **la aptitud del órgano estatal para obrar y cumplir así con sus fines.**
+
+El Estado solamente puede actuar cuando:
+
+## el ordenamiento jurídico lo habilita.
+
+---
+
+# Regla fundamental
+
+En el Estado democrático de Derecho:
+
+> **el Estado no puede actuar salvo que la ley lo autorice.**
+
+Por eso:
+
+```text
+PARTICULAR
+todo lo no prohibido
+está permitido
+
+
+ESTADO
+todo lo no permitido
+está prohibido
+```
+
+---
+
+# Competencia y acto administrativo
+
+Para saber si el acto es válido debemos preguntarnos:
+
+### ¿Quién decidió?
+
+### ¿Tenía atribución jurídica para hacerlo?
+
+### ¿Sobre esa materia?
+
+### ¿En ese territorio?
+
+### ¿En ese momento?
+
+### ¿En ese grado?
+
+---
+
+# Clasificación de la competencia
+
+Balbín analiza la competencia según:
+
+1. **materia**
+2. **territorio**
+3. **tiempo**
+4. **grado**
+
+---
+
+# Competencia por materia
+
+Determina:
+
+> **sobre qué asuntos puede decidir el órgano.**
+
+Ejemplo:
+
+una autoridad sanitaria no puede ejercer competencias tributarias si el ordenamiento no se las atribuye.
+
+---
+
+# Competencia territorial
+
+Determina:
+
+> **en qué espacio puede ejercer válidamente sus potestades.**
+
+Ejemplo:
+
+una autoridad local no puede ejercer sus competencias fuera del ámbito territorial que le corresponde.
+
+---
+
+# Competencia temporal
+
+Determina:
+
+> **durante qué período puede ejercerse la potestad.**
+
+Un funcionario cuyo mandato terminó no puede continuar ejerciendo competencias sin habilitación jurídica.
+
+---
+
+# Competencia por grado
+
+Determina:
+
+> **qué nivel de la estructura administrativa debe adoptar la decisión.**
+
+Ejemplo:
+
+una competencia atribuida a un ministro no puede ser ejercida automáticamente por un director nacional.
+
+---
+
+# ¿Por qué importa distinguirlas?
+
+Porque el régimen de nulidades no trata del mismo modo todos los vicios de competencia.
+
+Balbín destaca especialmente que los vicios por:
+
+- materia;
+- territorio;
+- tiempo;
+
+pueden producir consecuencias más graves.
+
+---
+
+# 6 · Causa
+
+La causa está integrada por:
+
+## los hechos y antecedentes
+
+que justifican el dictado del acto.
+
+La LPA exige que el acto:
+
+> se sustente en los hechos y antecedentes que le sirven de causa y en el derecho aplicable.
+
+---
+
+# La causa tiene dos dimensiones
+
+```text
+CAUSA
+  │
+  ├── HECHOS
+  │
+  └── DERECHO
+```
+
+El acto debe apoyarse simultáneamente en:
+
+- antecedentes fácticos;
+- fundamento jurídico.
+
+---
+
+# Ejemplo
+
+La Administración sanciona a un agente porque supuestamente:
+
+> faltó cinco días sin justificación.
+
+Para que exista causa válida debe comprobarse:
+
+1. que las ausencias existieron;
+2. que fueron injustificadas;
+3. que la norma permite aplicar la sanción.
+
+---
+
+# ¿Qué ocurre si el hecho no existió?
+
+Si la Administración afirma:
+
+> "el agente faltó cinco días"
+
+pero el agente concurrió normalmente:
+
+## falta la causa fáctica.
+
+El acto se encuentra viciado.
+
+---
+
+# ¿Y si el hecho existió pero la norma no permite esa consecuencia?
+
+También existe un problema en la causa.
+
+Porque Balbín entiende que la causa comprende:
+
+- hechos;
+- antecedentes;
+- derecho aplicable.
+
+---
+
+# Momento de la causa
+
+Los antecedentes deben ser:
+
+## PREVIOS
+
+al dictado del acto.
+
+El Estado no puede:
+
+> inventar o completar posteriormente la causa del acto para justificarlo.
+
+---
+
+# Una regla importante
+
+```text
+HECHOS + DERECHO
+       ↓
+deben existir
+ANTES DEL ACTO
+```
+
+No es jurídicamente correcto:
+
+```text
+ACTO
+ ↓
+después buscamos
+cómo justificarlo
+```
+
+---
+
+# 7 · Objeto
+
+El objeto es:
+
+> **aquello que el acto decide, resuelve o declara.**
+
+Es el contenido concreto de la decisión administrativa.
+
+---
+
+# Ejemplos
+
+### "Desígnase a X..."
+
+Objeto:
+
+## la designación.
+
+### "Aplícase una multa de..."
+
+Objeto:
+
+## la sanción.
+
+### "Otórgase la licencia..."
+
+Objeto:
+
+## el otorgamiento.
+
+### "Revócase la autorización..."
+
+Objeto:
+
+## la extinción de la autorización.
+
+---
+
+# Requisitos del objeto
+
+El objeto debe ser:
+
+- cierto;
+- claro;
+- preciso;
+- jurídicamente posible;
+- materialmente posible.
+
+Además debe guardar relación con:
+
+- la causa;
+- la finalidad.
+
+---
+
+# Ejemplo problemático
+
+La Administración ordena:
+
+> demoler un inmueble que ya fue demolido.
+
+El objeto resulta:
+
+## materialmente imposible.
+
+---
+
+# Otro ejemplo
+
+La Administración dispone una consecuencia que:
+
+> el ordenamiento jurídico prohíbe.
+
+El objeto resulta:
+
+## jurídicamente imposible.
+
+---
+
+# Congruencia
+
+Balbín señala además que el objeto debe resolver las cuestiones planteadas.
+
+Debe existir:
+
+## congruencia.
+
+La Administración no debería decidir sobre cuestiones completamente ajenas al procedimiento.
+
+---
+
+# 8 · Procedimiento
+
+El procedimiento también constituye un:
+
+## elemento esencial.
+
+La Administración no puede decidir válidamente:
+
+> de cualquier manera.
+
+Debe respetar los procedimientos jurídicamente establecidos.
+
+---
+
+# Procedimiento y derechos
+
+El procedimiento administrativo cumple una doble función.
+
+### Para la Administración
+
+Permite construir una decisión:
+
+- racional;
+- informada;
+- jurídicamente fundada.
+
+### Para el particular
+
+Constituye una:
+
+## GARANTÍA.
+
+---
+
+# Debido procedimiento
+
+El procedimiento debe asegurar:
+
+- participación;
+- conocimiento;
+- posibilidad de alegar;
+- posibilidad de ofrecer prueba;
+- defensa;
+- decisión fundada.
+
+---
+
+# El dictamen jurídico
+
+Balbín destaca especialmente el supuesto del:
+
+## dictamen jurídico previo obligatorio.
+
+Cuando el acto puede afectar derechos o intereses jurídicamente protegidos:
+
+> el dictamen jurídico constituye un trámite esencial.
+
+---
+
+# ¿Por qué?
+
+Porque cumple una función de:
+
+## CONTROL PREVENTIVO DE LEGALIDAD.
+
+Antes de decidir, la Administración debe analizar jurídicamente:
+
+- competencia;
+- procedimiento;
+- causa;
+- objeto;
+- finalidad;
+- marco normativo.
+
+---
+
+# Dictamen ≠ decisión
+
+El dictamen:
+
+## es obligatorio cuando corresponde producirlo,
+
+pero:
+
+## no necesariamente es vinculante.
+
+Esto significa:
+
+```text
+DEBE PEDIRSE
+     ≠
+DEBE SEGUIRSE
+```
+
+---
+
+# 9 · Motivación
+
+La motivación es uno de los elementos más importantes del acto.
+
+Balbín la define como:
+
+> **la expresión de las razones que inducen a emitir el acto.**
+
+---
+
+# No confundir
+
+## CAUSA
+
+con
+
+## MOTIVACIÓN.
+
+La causa son:
+
+> los antecedentes de hecho y de derecho.
+
+La motivación es:
+
+> la exteriorización de las razones que conectan esos antecedentes con la decisión.
+
+---
+
+# Causa y motivación
+
+```text
+CAUSA
+hechos + derecho
+      │
+      ↓
+MOTIVACIÓN
+explicación racional
+      │
+      ↓
+OBJETO
+decisión
+```
+
+---
+
+# Ejemplo
+
+La Administración debe cubrir un cargo.
+
+### Causa
+
+- existe una vacante;
+- existe una norma que autoriza la designación;
+- existen candidatos.
+
+### Objeto
+
+> designar a X.
+
+### Motivación
+
+> explicar por qué, considerando los antecedentes relevantes, se adopta esa decisión.
+
+---
+
+# ¿Por qué motivar?
+
+La motivación permite:
+
+1. conocer por qué decidió el Estado;
+2. controlar la razonabilidad;
+3. ejercer adecuadamente el derecho de defensa;
+4. impugnar la decisión;
+5. permitir el control judicial.
+
+---
+
+# Motivación y control
+
+Si el particular desconoce:
+
+> **por qué decidió el Estado,**
+
+difícilmente pueda demostrar:
+
+> **por qué la decisión es ilegítima.**
+
+Por eso la motivación constituye una garantía.
+
+---
+
+# Motivación insuficiente
+
+No alcanza con fórmulas vacías como:
+
+> "por razones de servicio"
+
+o:
+
+> "por resultar conveniente"
+
+si el caso exige una explicación concreta.
+
+La motivación debe ser:
+
+- racional;
+- suficiente;
+- vinculada con los antecedentes;
+- vinculada con el objeto.
+
+---
+
+# Actos discrecionales
+
+La motivación adquiere especial importancia en los:
+
+## ACTOS DISCRECIONALES.
+
+La existencia de discrecionalidad:
+
+> **no elimina el deber de motivar.**
+
+Por el contrario, Balbín exige un estándar especialmente cuidadoso.
+
+---
+
+# Discrecionalidad ≠ arbitrariedad
+
+```text
+DISCRECIONALIDAD
+      ≠
+ARBITRARIEDAD
+```
+
+La Administración puede disponer de cierto margen de decisión.
+
+Pero debe explicar:
+
+- qué antecedentes consideró;
+- qué criterios utilizó;
+- por qué eligió esa alternativa;
+- cómo se vincula con la finalidad legal.
+
+---
+
+# Jurisprudencia · "Punte"
+
+Balbín cita el precedente:
+
+## CSJN, "Punte" (1997)
+
+para destacar la importancia de la motivación.
+
+La Corte exige que la decisión administrativa encuentre sustento suficiente y que puedan conocerse las razones que la justifican.
+
+---
+
+# "Punte" · enseñanza
+
+El precedente permite comprender que:
+
+> **la motivación no constituye una formalidad decorativa.**
+
+Es un requisito que permite:
+
+- conocer;
+- discutir;
+- controlar
+
+la decisión administrativa.
+
+---
+
+# Jurisprudencia · "Schnaiderman"
+
+Balbín también analiza:
+
+## CSJN, "Schnaiderman" (2008)
+
+El caso se relaciona con la validez de una decisión administrativa y la necesidad de que exista una fundamentación suficiente.
+
+---
+
+# "Schnaiderman" · problema
+
+La cuestión central es:
+
+> ¿puede considerarse suficientemente motivado un acto mediante afirmaciones genéricas o fórmulas que no permiten conocer las razones concretas de la decisión?
+
+La respuesta que surge del análisis de Balbín es negativa.
+
+---
+
+# "Schnaiderman" · enseñanza
+
+La motivación debe permitir:
+
+## reconstruir el razonamiento administrativo.
+
+No basta una fórmula genérica si ella impide conocer:
+
+- antecedentes;
+- criterios;
+- razones;
+- conexión con la decisión.
+
+---
+
+# Jurisprudencia · "Silva Tamayo"
+
+Balbín cita:
+
+## CSJN, "Silva Tamayo" (2011)
+
+El precedente permite precisar el alcance del deber de motivación.
+
+La motivación debe ser suficiente para explicar:
+
+> **por qué se adopta la medida concreta.**
+
+---
+
+# "Silva Tamayo" · enseñanza
+
+No necesariamente debe evaluarse de modo expreso y exhaustivo:
+
+> toda la historia personal y profesional del interesado.
+
+Pero sí debe especificarse:
+
+## cuál es el motivo concreto
+
+que justifica la decisión adoptada.
+
+---
+
+# Jurisprudencia · "Rodríguez, Nelson"
+
+Balbín analiza también:
+
+## "Rodríguez, Nelson" (2012)
+
+El caso se vincula con la valoración administrativa de antecedentes y con la suficiencia de la motivación.
+
+---
+
+# "Rodríguez, Nelson" · enseñanza
+
+Cuando la Administración utiliza conceptos como:
+
+- mérito;
+- idoneidad;
+- calificación;
+
+no puede limitarse a una afirmación puramente conclusiva.
+
+Debe existir una explicación suficiente que permita comprender:
+
+> **cómo llegó a esa valoración.**
+
+---
+
+# 10 · Finalidad
+
+Todo acto administrativo debe perseguir:
+
+## EL FIN PREVISTO POR EL ORDENAMIENTO.
+
+La competencia estatal no es concedida para que el funcionario persiga:
+
+- intereses personales;
+- objetivos privados;
+- finalidades diferentes.
+
+---
+
+# Finalidad y poder
+
+```text
+NORMA
+  │
+  ↓
+atribuye competencia
+  │
+  ↓
+para cumplir
+UN FIN PÚBLICO
+```
+
+Por tanto:
+
+> la competencia no puede separarse de su finalidad.
+
+---
+
+# Desviación de poder
+
+Cuando el órgano utiliza una competencia válida:
+
+> **para perseguir una finalidad diferente de aquella para la cual fue atribuida,**
+
+aparece la:
+
+# DESVIACIÓN DE PODER
+
+---
+
+# Ejemplo
+
+La Administración posee potestad para reorganizar una dependencia.
+
+Utiliza formalmente esa competencia para:
+
+> perjudicar personalmente a un agente.
+
+La competencia puede existir.
+
+El procedimiento puede parecer correcto.
+
+Pero la finalidad real es ilegítima.
+
+---
+
+# Finalidad y proporcionalidad
+
+Balbín vincula también la finalidad con:
+
+## la proporcionalidad.
+
+Las medidas elegidas deben guardar una relación razonable con:
+
+> el fin que se pretende alcanzar.
+
+---
+
+# 11 · Forma
+
+La forma es:
+
+> **el modo de exteriorización de la voluntad administrativa.**
+
+Como principio, el acto debe manifestarse:
+
+## por escrito.
+
+---
+
+# Contenido de la forma
+
+Balbín menciona, entre otros aspectos:
+
+- fecha;
+- lugar;
+- firma;
+- identificación del órgano;
+- exteriorización clara de la decisión.
+
+---
+
+# Firma
+
+La firma permite identificar:
+
+> la autoridad que adoptó la decisión.
+
+Puede tratarse, conforme al régimen aplicable, de:
+
+- firma ológrafa;
+- firma digital.
+
+---
+
+# ¿Qué ocurre si falta la firma?
+
+Balbín distingue entre:
+
+### ausencia de firma
+
+y
+
+### defectos formales menores.
+
+No todo defecto formal tiene necesariamente la misma consecuencia.
+
+La gravedad dependerá de:
+
+- la naturaleza del requisito;
+- su finalidad;
+- el régimen legal aplicable.
+
+---
+
+# 12 · Elementos accesorios
+
+Además de los elementos esenciales pueden existir:
+
+## elementos accidentales o accesorios.
+
+Balbín analiza:
+
+1. **modo**
+2. **condición**
+3. **plazo**
+
+---
+
+# Modo
+
+El modo impone:
+
+> una obligación accesoria al beneficiario del acto.
+
+Ejemplo:
+
+se otorga una autorización pero se impone al beneficiario una determinada carga.
+
+---
+
+# Condición
+
+La condición vincula los efectos del acto con:
+
+## un hecho futuro e incierto.
+
+Puede ser:
+
+### suspensiva
+
+El acto comienza a producir ciertos efectos si ocurre el hecho.
+
+### resolutoria
+
+Los efectos cesan si ocurre el hecho.
+
+---
+
+# Plazo
+
+El plazo vincula los efectos con:
+
+## un hecho futuro y cierto.
+
+Ejemplo:
+
+> una autorización otorgada por seis meses.
+
+Sabemos que el tiempo transcurrirá.
+
+Lo que existe es una delimitación temporal de sus efectos.
+
+---
+
+# 13 · Notificación
+
+La notificación constituye un elemento esencial para la eficacia del:
+
+## acto administrativo de alcance particular.
+
+El acto puede existir jurídicamente.
+
+Pero para adquirir eficacia frente al interesado debe:
+
+# SER NOTIFICADO.
+
+---
+
+# Existencia y eficacia
+
+```text
+DICTADO DEL ACTO
+      │
+      ↓
+EXISTENCIA
+      │
+      ↓
+NOTIFICACIÓN
+      │
+      ↓
+EFICACIA
+frente al interesado
+```
+
+---
+
+# Jurisprudencia · "La Internacional Empresa de Transporte"
+
+Balbín cita:
+
+## "La Internacional Empresa de Transporte" (2001)
+
+La Corte sostuvo que el acto administrativo:
+
+> **solo puede producir efectos propios a partir de su notificación al interesado.**
+
+---
+
+# Enseñanza del precedente
+
+No debe confundirse:
+
+## existencia del acto
+
+con:
+
+## eficacia frente al particular.
+
+La notificación cumple precisamente la función de hacer posible que la decisión:
+
+- produzca efectos;
+- sea conocida;
+- pueda ser cumplida;
+- pueda ser impugnada.
+
+---
+
+# 14 · Caracteres del acto administrativo
+
+Balbín analiza dos caracteres clásicos:
+
+1. **presunción de legitimidad**
+2. **fuerza ejecutoria**
+
+---
+
+# Presunción de legitimidad
+
+La LPA establece que el acto administrativo:
+
+> **goza de presunción de legitimidad.**
+
+Esto significa que el acto se presume válido:
+
+## mientras no sea desplazado jurídicamente.
+
+---
+
+# Consecuencia
+
+En principio:
+
+```text
+ACTO ADMINISTRATIVO
+        ↓
+se presume legítimo
+        ↓
+produce efectos
+```
+
+El particular que cuestiona su validez debe:
+
+> impugnarlo por las vías correspondientes.
+
+---
+
+# Una presunción relativa
+
+Balbín aclara que se trata de una presunción:
+
+## IURIS TANTUM.
+
+Puede ser destruida cuando se demuestra:
+
+> la invalidez del acto.
+
+---
+
+# Jurisprudencia clásica
+
+Balbín cita como antecedentes de la presunción de legitimidad:
+
+- **"Los Lagos" (1941)**
+- **"López" (1961)**
+- **"Pustelnik" (1975)**
+
+Estos precedentes resultan relevantes para comprender la construcción jurisprudencial del régimen de validez del acto administrativo.
+
+---
+
+# "Los Lagos"
+
+Balbín utiliza **"Los Lagos"** como uno de los precedentes fundamentales en la construcción del régimen administrativo de nulidades.
+
+El Derecho Administrativo argentino tomó inicialmente categorías del Derecho Civil.
+
+Pero posteriormente fue construyendo:
+
+## un régimen propio.
+
+---
+
+# "Pustelnik"
+
+## CSJN, "Pustelnik" (1975)
+
+Es un precedente especialmente relevante.
+
+Balbín destaca que la Corte diferencia entre:
+
+- actos con vicios graves;
+- actos con vicios que no presentan la misma intensidad.
+
+---
+
+# "Pustelnik" · idea central
+
+La presunción de legitimidad:
+
+> **no puede operar del mismo modo frente a cualquier irregularidad.**
+
+Cuando el vicio es:
+
+## manifiesto y grave,
+
+la protección derivada de la presunción se debilita.
+
+---
+
+# Gobierno de la Nación c. Alou Hnos.
+
+Balbín cita también:
+
+## "Gobierno de la Nación c. Alou Hnos. por nulidad de contrato" (1976)
+
+para insistir en que la presunción de legitimidad:
+
+> **no puede concebirse de manera absoluta.**
+
+Especialmente frente a vicios graves o manifiestos.
+
+---
+
+# 15 · Fuerza ejecutoria
+
+El segundo gran carácter es:
+
+## LA EJECUTORIEDAD.
+
+En determinados casos la Administración puede:
+
+> hacer cumplir sus actos sin necesidad de obtener previamente una sentencia judicial.
+
+---
+
+# Ejecutividad y ejecutoriedad
+
+Conviene comprender el concepto cuidadosamente.
+
+El acto administrativo:
+
+- obliga;
+- produce efectos;
+- puede, en ciertos supuestos, ser ejecutado por la propia Administración.
+
+Pero Balbín advierte que:
+
+## la ejecución forzosa no constituye un poder ilimitado.
+
+---
+
+# Regla de la LPA
+
+La Administración puede utilizar la fuerza contra las personas:
+
+> solamente cuando una ley la autoriza expresamente.
+
+Esto establece un límite fundamental.
+
+---
+
+# Medios de ejecución
+
+Balbín menciona, entre otros:
+
+### embargo y ejecución
+
+cuando se trata de sumas líquidas;
+
+### cumplimiento subsidiario
+
+hacer por otro y a cargo del destinatario;
+
+### astreintes;
+
+### ejecución directa
+
+en los casos expresamente autorizados.
+
+---
+
+# Ejemplo
+
+La Administración impone una obligación de hacer.
+
+El destinatario no cumple.
+
+¿Puede la Administración:
+
+> ingresar por la fuerza a su domicilio y ejecutar materialmente cualquier medida?
+
+## NO AUTOMÁTICAMENTE.
+
+Debe existir:
+
+- habilitación jurídica;
+- respeto de derechos;
+- proporcionalidad;
+- procedimiento correspondiente.
+
+---
+
+# Excepción: intervención judicial
+
+Balbín señala que existen casos en los cuales la Administración debe:
+
+> acudir al juez.
+
+Por ejemplo, cuando la ejecución afecta determinados derechos y no existe habilitación suficiente para la autotutela ejecutiva.
+
+---
+
+# Suspensión del acto
+
+La interposición de recursos administrativos o acciones judiciales:
+
+## no suspende por sí sola
+
+el carácter ejecutorio del acto.
+
+Sin embargo, existen supuestos en los cuales:
+
+> la ejecución debe suspenderse.
+
+---
+
+# 14 · Caracteres del acto administrativo
+
+Balbín analiza el régimen jurídico particular del acto administrativo.
+
+Para comprenderlo estudiaremos tres características fundamentales:
+
+1. **presunción de legitimidad**;
+2. **fuerza ejecutoria**;
+3. **estabilidad del acto administrativo**.
+
+Estas características responden a problemas diferentes.
+
+---
+
+# Tres problemas diferentes
+
+```text
+ACTO ADMINISTRATIVO
+        │
+        ├── ¿SE PRESUME VÁLIDO?
+        │          ↓
+        │   PRESUNCIÓN DE LEGITIMIDAD
+        │
+        ├── ¿PUEDE EJECUTARLO
+        │   LA ADMINISTRACIÓN?
+        │          ↓
+        │      EJECUTORIEDAD
+        │
+        └── ¿PUEDE LA ADMINISTRACIÓN
+            DEJARLO SIN EFECTO
+            CUANDO QUIERA?
+                   ↓
+              ESTABILIDAD
+```
+
+No debemos confundir estos tres problemas.
+
+---
+
+# Presunción de legitimidad
+
+La LPA establece que el acto administrativo:
+
+> **goza de presunción de legitimidad.**
+
+Esto significa que el acto se presume válido:
+
+## mientras no sea desplazado jurídicamente.
+
+---
+
+# Consecuencia
+
+En principio:
+
+```text
+ACTO ADMINISTRATIVO
+        ↓
+SE PRESUME LEGÍTIMO
+        ↓
+PRODUCE SUS EFECTOS
+```
+
+El particular que considera que el acto es ilegítimo debe:
+
+> impugnarlo por las vías correspondientes.
+
+---
+
+# Una presunción relativa
+
+Balbín aclara que se trata de una presunción:
+
+## IURIS TANTUM.
+
+Por tanto:
+
+## puede ser destruida.
+
+La existencia de presunción de legitimidad:
+
+### NO SIGNIFICA
+
+que el acto sea necesariamente legítimo.
+
+Significa que:
+
+> **el ordenamiento presume inicialmente su legitimidad.**
+
+---
+
+# Jurisprudencia · “Los Lagos”
+
+## CSJN, “Los Lagos” (1941)
+
+Es uno de los precedentes fundamentales en la construcción de la:
+
+# PRESUNCIÓN DE LEGITIMIDAD.
+
+La Corte construye un régimen propio de nulidades administrativas.
+
+El acto estatal se encuentra inicialmente protegido por una:
+
+## PRESUNCIÓN DE VALIDEZ.
+
+---
+
+# “Los Lagos” · regla
+
+La existencia de un posible vicio:
+
+## NO HACE DESAPARECER AUTOMÁTICAMENTE EL ACTO.
+
+En el esquema clásico:
+
+```text
+ACTO ADMINISTRATIVO
+        ↓
+PRESUNCIÓN DE VALIDEZ
+        ↓
+POSIBLE ILEGALIDAD
+        ↓
+DEBE SER CUESTIONADA
+```
+
+La presunción constituye así una prerrogativa propia del régimen administrativo.
+
+---
+
+# Jurisprudencia · “Pustelnik”
+
+## CSJN, “Pustelnik” (1975)
+
+“Pustelnik” introduce una precisión fundamental.
+
+La presunción de legitimidad:
+
+> **no puede constituirse frente a una invalidez evidente y manifiesta.**
+
+Por tanto:
+
+```text
+ACTO ADMINISTRATIVO
+        ↓
+REGLA
+        ↓
+PRESUNCIÓN DE LEGITIMIDAD
+
+        PERO
+
+INVALIDEZ EVIDENTE
+Y MANIFIESTA
+        ↓
+NO PUEDE CONSTITUIRSE
+LA PRESUNCIÓN
+```
+
+---
+
+# De “Los Lagos” a “Pustelnik”
+
+```text
+LOS LAGOS
+    ↓
+CONSTRUYE LA REGLA
+    ↓
+PRESUNCIÓN
+DE LEGITIMIDAD
+
+
+PUSTELNIK
+    ↓
+PRECISA EL LÍMITE
+    ↓
+INVALIDEZ
+EVIDENTE Y MANIFIESTA
+```
+
+La presunción:
+
+# NO ES ABSOLUTA.
+
+---
+
+# 15 · Fuerza ejecutoria
+
+Otra característica del acto administrativo es:
+
+# LA EJECUTORIEDAD.
+
+En determinados casos la Administración puede:
+
+> hacer cumplir sus actos sin necesidad de obtener previamente una sentencia judicial.
+
+Pero esta potestad:
+
+## NO ES ILIMITADA.
+
+---
+
+# Ejecutividad y ejecutoriedad
+
+El acto administrativo:
+
+- obliga;
+- produce efectos;
+- puede, en ciertos supuestos, ser ejecutado por la propia Administración.
+
+Sin embargo:
+
+> **la Administración no posee un poder general e ilimitado para utilizar la fuerza.**
+
+---
+
+# Límite de la ejecutoriedad
+
+Balbín señala que la Administración puede utilizar la fuerza contra las personas:
+
+## solamente cuando una ley la autoriza.
+
+Por tanto:
+
+```text
+ACTO ADMINISTRATIVO
+        ↓
+EJECUTORIEDAD
+        ≠
+PODER ILIMITADO
+DE EJECUCIÓN
+```
+
+---
+
+# 16 · Estabilidad del acto administrativo
+
+Llegamos a una tercera cuestión:
+
+# LA ESTABILIDAD.
+
+La pregunta es diferente:
+
+> **¿puede la Administración volver libremente sobre un acto que ella misma dictó?**
+
+## NO.
+
+En determinadas circunstancias, el acto adquiere:
+
+# ESTABILIDAD.
+
+---
+
+# ¿Qué significa estabilidad?
+
+La estabilidad supone una:
+
+## LIMITACIÓN A LA POTESTAD REVOCATORIA DE LA ADMINISTRACIÓN.
+
+La Administración dictó un acto.
+
+Ese acto produjo una situación jurídica favorable para el particular.
+
+Entonces aparece una tensión:
+
+```text
+PODER DE LA ADMINISTRACIÓN
+PARA REVISAR SUS ACTOS
+          ↕
+SEGURIDAD JURÍDICA
+          ↕
+DERECHOS DEL PARTICULAR
+```
+
+---
+
+# Un ejemplo sencillo
+
+La Administración dicta un acto mediante el cual:
+
+## reconoce una jubilación.
+
+El acto:
+
+- fue dictado;
+- fue notificado;
+- reconoció un derecho;
+- el particular comienza a cobrarla.
+
+Tiempo después, la Administración cambia de criterio.
+
+Pregunta:
+
+> **¿puede simplemente dictar otro acto y quitarle la jubilación?**
+
+La estabilidad responde:
+
+# NO NECESARIAMENTE.
+
+---
+
+# ¿Por qué existe la estabilidad?
+
+Porque el particular debe poder confiar en ciertas decisiones estatales.
+
+Si la Administración pudiera:
+
+```text
+RECONOCER UN DERECHO
+        ↓
+CAMBIAR DE OPINIÓN
+        ↓
+ELIMINARLO
+        ↓
+VOLVER A RECONOCERLO
+        ↓
+VOLVER A ELIMINARLO
+```
+
+no existiría:
+
+## SEGURIDAD JURÍDICA.
+
+---
+
+# Estabilidad ≠ presunción de legitimidad
+
+Es fundamental no confundirlas.
+
+### Presunción de legitimidad
+
+Pregunta:
+
+> **¿cómo consideramos inicialmente al acto?**
+
+Respuesta:
+
+## presumimos que es legítimo.
+
+### Estabilidad
+
+Pregunta:
+
+> **¿puede la propia Administración extinguir libremente el acto?**
+
+Respuesta:
+
+## existen límites.
+
+---
+
+# Comparación
+
+| Característica | Pregunta |
+|---|---|
+| **Presunción de legitimidad** | ¿El acto se presume válido? |
+| **Ejecutoriedad** | ¿Puede la Administración ejecutarlo por sí misma? |
+| **Estabilidad** | ¿Puede la Administración revocarlo libremente? |
+
+Son:
+
+# TRES PROBLEMAS DIFERENTES.
+
+---
+
+# El origen jurisprudencial de la estabilidad
+
+Antes de la Ley 19.549, la Corte Suprema fue construyendo jurisprudencialmente esta protección.
+
+Uno de los precedentes fundamentales es:
+
+# “CARMAN DE CANTÓN”
+
+Balbín lo identifica como antecedente de la denominada:
+
+## COSA JUZGADA ADMINISTRATIVA.
+
+---
+
+# CSJN · “Carman de Cantón”
+
+## El problema
+
+El caso se vincula con un acto administrativo que había reconocido una situación jurídica favorable al particular.
+
+La cuestión central era:
+
+> **¿puede la propia Administración dejar posteriormente sin efecto un acto que reconoció un derecho?**
+
+La respuesta de la Corte marca un cambio fundamental respecto de una concepción amplia de la potestad revocatoria estatal.
+
+---
+
+# Antes de “Carman de Cantón”
+
+Una concepción amplia de la autotutela permitiría pensar:
+
+```text
+LA ADMINISTRACIÓN
+DICTÓ EL ACTO
+        ↓
+LA ADMINISTRACIÓN
+PUEDE REVISARLO
+        ↓
+LA ADMINISTRACIÓN
+PUEDE REVOCARLO
+```
+
+Pero esto genera un problema:
+
+## ¿QUÉ OCURRE CON LOS DERECHOS DEL PARTICULAR?
+
+---
+
+# “Carman de Cantón” · El cambio
+
+La Corte comienza a reconocer que existen actos administrativos que:
+
+## NO PUEDEN SER LIBREMENTE REVOCADOS POR LA ADMINISTRACIÓN.
+
+Cuando el acto ha reconocido un derecho y la situación jurídica se encuentra consolidada:
+
+> **la propia Administración encuentra límites para volver sobre su decisión.**
+
+---
+
+# La llamada “cosa juzgada administrativa”
+
+La expresión utilizada históricamente fue:
+
+# COSA JUZGADA ADMINISTRATIVA.
+
+Pero debemos utilizarla con cuidado.
+
+No significa que el acto administrativo tenga exactamente el mismo efecto que:
+
+## una sentencia judicial firme.
+
+La idea apunta a otra cuestión:
+
+> **la estabilidad del acto frente a la propia Administración que lo dictó.**
+
+---
+
+# Cosa juzgada judicial ≠ estabilidad administrativa
+
+```text
+SENTENCIA FIRME
+      ↓
+COSA JUZGADA JUDICIAL
+      ↓
+INMUTABILIDAD PROPIA
+DE LA DECISIÓN JUDICIAL
+```
+
+No es exactamente igual a:
+
+```text
+ACTO ADMINISTRATIVO
+      ↓
+ESTABILIDAD
+      ↓
+LÍMITE A LA REVOCACIÓN
+POR LA PROPIA ADMINISTRACIÓN
+```
+
+Por eso resulta más preciso hablar de:
+
+# ESTABILIDAD DEL ACTO ADMINISTRATIVO.
+
+---
+
+# ¿Qué protege “Carman de Cantón”?
+
+El principio protege fundamentalmente:
+
+## LA SEGURIDAD JURÍDICA DEL ADMINISTRADO.
+
+La Administración no puede comportarse como si sus propias decisiones:
+
+> carecieran completamente de consecuencias jurídicas.
+
+Si reconoció un derecho bajo determinadas condiciones:
+
+## su propia actuación posterior queda jurídicamente limitada.
+
+---
+
+# ¿Significa que un acto estable nunca puede caer?
+
+## NO.
+
+Este punto es fundamental.
+
+Estabilidad significa:
+
+> **la Administración no puede revocarlo libremente en su propia sede.**
+
+No significa necesariamente:
+
+> **el acto es intocable para siempre.**
+
+En determinados supuestos puede ser necesario:
+
+# ACUDIR AL PODER JUDICIAL.
+
+---
+
+# El puente con la LPA
+
+La doctrina jurisprudencial sobre estabilidad fue posteriormente recogida por:
+
+## LA LEY 19.549.
+
+Especialmente en el régimen de:
+
+- acto regular;
+- acto irregular;
+- revocación por ilegitimidad;
+- derechos subjetivos;
+- límites a la revocación administrativa.
+
+Por eso:
+
+```text
+CARMAN DE CANTÓN
+        ↓
+CONSTRUCCIÓN JURISPRUDENCIAL
+DE LA ESTABILIDAD
+        ↓
+LPA
+        ↓
+RÉGIMEN LEGAL
+DE REVOCACIÓN
+```
+
+---
+
+# Estabilidad y acto irregular
+
+Acá aparece una cuestión importante.
+
+Supongamos que el acto tiene:
+
+# NULIDAD ABSOLUTA.
+
+Estamos ante un:
+
+## ACTO IRREGULAR.
+
+Como principio, la Administración debe:
+
+## REVOCARLO POR ILEGITIMIDAD.
+
+Pero esa regla:
+
+# TIENE LÍMITES.
+
+---
+
+# El límite del art. 17 LPA
+
+Cuando el acto irregular:
+
+- fue notificado;
+- generó derechos subjetivos;
+- esos derechos se encuentran en cumplimiento;
+- o se cumplió totalmente su objeto;
+
+la Administración:
+
+## NO PUEDE SIMPLEMENTE REVOCARLO EN SU PROPIA SEDE.
+
+En esos supuestos aparece la necesidad de:
+
+# INTERVENCIÓN JUDICIAL.
+
+---
+
+# Ejemplo didáctico
+
+La Administración concede mediante acto administrativo un determinado beneficio.
+
+Luego descubre que el acto estaba afectado por un vicio grave.
+
+Pero:
+
+- el acto ya fue notificado;
+- reconoció un derecho;
+- el beneficiario está ejerciendo ese derecho.
+
+No alcanza con decir:
+
+> “Como mi acto era ilegítimo, lo elimino.”
+
+La estabilidad impone:
+
+## LÍMITES A LA AUTOTUTELA ADMINISTRATIVA.
+
+---
+
+# La relación entre “Carman de Cantón” y el art. 17
+
+```text
+CARMAN DE CANTÓN
+        ↓
+LA ADMINISTRACIÓN
+NO PUEDE VOLVER
+LIBREMENTE SOBRE
+SUS PROPIOS ACTOS
+        ↓
+ESTABILIDAD
+        ↓
+DESARROLLO POSTERIOR
+EN LA LPA
+        ↓
+LÍMITES A LA
+REVOCACIÓN ADMINISTRATIVA
+```
+
+---
+
+# Estabilidad y legalidad
+
+Puede parecer contradictorio:
+
+> **Si el acto es ilegal, ¿por qué impedir que la Administración lo elimine?**
+
+Porque el ordenamiento protege simultáneamente:
+
+```text
+PRINCIPIO DE LEGALIDAD
+        ↕
+SEGURIDAD JURÍDICA
+        ↕
+DERECHOS DEL PARTICULAR
+```
+
+La solución no consiste siempre en permitir que la Administración:
+
+## REVOQUE UNILATERALMENTE.
+
+En ciertos casos, debe solicitar judicialmente la nulidad.
+
+---
+
+# Tres precedentes, tres ideas
+
+## “Los Lagos”
+
+### PRESUNCIÓN DE LEGITIMIDAD
+
+El acto administrativo ingresa al ordenamiento revestido de una presunción de validez.
+
+---
+
+## “Pustelnik”
+
+### LÍMITE A LA PRESUNCIÓN
+
+La presunción no puede constituirse frente a una invalidez evidente y manifiesta.
+
+---
+
+## “Carman de Cantón”
+
+### ESTABILIDAD
+
+La Administración encuentra límites para volver sobre actos que han generado situaciones jurídicas protegidas.
+
+---
+
+# Mapa final de los caracteres
+
+```text
+                   ACTO ADMINISTRATIVO
+                          │
+        ┌─────────────────┼─────────────────┐
+        │                 │                 │
+        ↓                 ↓                 ↓
+  PRESUNCIÓN         EJECUTORIEDAD      ESTABILIDAD
+DE LEGITIMIDAD
+        │                 │                 │
+        ↓                 ↓                 ↓
+¿SE PRESUME          ¿PUEDE EL          ¿PUEDE LA
+  VÁLIDO?             ESTADO             ADMINISTRACIÓN
+                      EJECUTARLO?         REVOCARLO
+                                         LIBREMENTE?
+        │                 │                 │
+        ↓                 ↓                 ↓
+      SÍ             EN CIERTOS             NO
+                       CASOS
+```
+
+---
+
+# Jurisprudencia para recordar
+
+| Fallo | Regla central |
+|---|---|
+| **Los Lagos (1941)** | construcción de la presunción de legitimidad y del régimen administrativo de nulidades |
+| **Pustelnik (1975)** | la invalidez evidente y manifiesta impide que opere normalmente la presunción |
+| **Carman de Cantón** | antecedente fundamental de la estabilidad o “cosa juzgada administrativa” |
+
+---
+
+# Para examen
+
+## PRESUNCIÓN DE LEGITIMIDAD
+
+> El acto se presume legítimo mientras esa presunción no sea jurídicamente desplazada.
+
+## EJECUTORIEDAD
+
+> En los casos admitidos por el ordenamiento, la Administración puede ejecutar el acto sin obtener previamente una sentencia.
+
+## ESTABILIDAD
+
+> La Administración no posee una potestad ilimitada para revocar sus propios actos cuando éstos han generado situaciones jurídicas protegidas.
+
+### Precedente fundamental:
+
+# “CARMAN DE CANTÓN”
+
+---
+# Criterios de suspensión
+
+Balbín analiza situaciones vinculadas con:
+
+- razones de interés público;
+- perjuicios graves;
+- nulidad manifiesta;
+- circunstancias expresamente previstas por el ordenamiento.
+
+---
+
+# 16 · Extinción del acto administrativo
+
+Balbín distingue tres grandes modos de extinción:
+
+1. **revocación**
+2. **caducidad**
+3. **nulidad**
+
+---
+
+# Mapa
+
+```text
+ACTO ADMINISTRATIVO
+       │
+       ↓
+   EXTINCIÓN
+       │
+ ┌─────┼─────┐
+ │     │     │
+REV.  CAD.  NUL.
+```
+
+Pero los tres institutos poseen:
+
+## fundamentos diferentes.
+
+---
+
+# 17 · Revocación
+
+La revocación constituye:
+
+> **un modo de extinción dispuesto por el propio Poder Ejecutivo respecto de sus actos.**
+
+Puede fundarse en:
+
+### ilegitimidad
+
+o
+
+### oportunidad, mérito o conveniencia.
+
+---
+
+# Dos tipos
+
+```text
+REVOCACIÓN
+     │
+ ┌───┴────┐
+ │        │
+ILEGIT.  OPORTUNIDAD
+ │        │
+ ↓        ↓
+vicio   cambio de valoración
+```
+
+---
+
+# Revocación por ilegitimidad
+
+El acto presenta un:
+
+## vicio jurídico.
+
+La Administración procura restaurar:
+
+> el principio de legalidad.
+
+---
+
+# Revocación por oportunidad
+
+El acto puede ser:
+
+## legítimo.
+
+Pero la Administración considera que:
+
+> ya no resulta conveniente mantenerlo.
+
+Aquí no existe necesariamente un vicio.
+
+Existe un cambio en la valoración del:
+
+- interés público;
+- oportunidad;
+- mérito;
+- conveniencia.
+
+---
+
+# La estabilidad del acto
+
+Aparece una tensión central:
+
+```text
+LEGALIDAD
+   ↕
+ESTABILIDAD
+   ↕
+DERECHOS ADQUIRIDOS
+```
+
+¿Puede el Estado revocar libremente cualquier acto que él mismo dictó?
+
+## NO.
+
+---
+
+# Actos favorables
+
+Cuando un acto:
+
+- fue notificado;
+- generó derechos;
+- esos derechos están siendo cumplidos;
+
+la posibilidad de revocación administrativa se encuentra:
+
+## fuertemente limitada.
+
+---
+
+# Jurisprudencia · "Carman de Cantón"
+
+Balbín cita:
+
+## "Carman de Cantón"
+
+como uno de los antecedentes fundamentales de la doctrina de:
+
+# ESTABILIDAD DEL ACTO ADMINISTRATIVO
+
+---
+
+# "Carman de Cantón" · enseñanza
+
+La Administración no dispone de una libertad ilimitada para:
+
+> volver sobre sus propios actos.
+
+Cuando el acto ha generado una situación jurídica consolidada:
+
+> la estabilidad constituye una garantía del particular.
+
+---
+
+# Jurisprudencia · "Pustelnik"
+
+Balbín vuelve a utilizar:
+
+## "Pustelnik"
+
+para analizar la estabilidad de los actos y la gravedad de los vicios.
+
+La posibilidad de revocación depende, entre otras cuestiones, de:
+
+- naturaleza del vicio;
+- carácter manifiesto;
+- conocimiento del interesado;
+- derechos generados.
+
+---
+
+# Jurisprudencia · "Furlotti"
+
+Balbín cita también:
+
+## "Furlotti" (1975)
+
+en relación con los límites de la revocación y la protección de situaciones jurídicas derivadas de actos administrativos.
+
+---
+
+# Jurisprudencia · "Almagro"
+
+Balbín analiza:
+
+## CSJN, "Almagro" (1998)
+
+La cuestión se relaciona con la posibilidad estatal de revocar actos que han generado derechos.
+
+---
+
+# "Almagro" · regla
+
+Balbín extrae del precedente la importancia de determinar:
+
+> **si el derecho generado por el acto se encuentra en cumplimiento.**
+
+La respuesta incide directamente sobre:
+
+## la posibilidad de revocación administrativa.
+
+---
+
+# ¿Cuándo puede revocarse?
+
+Balbín analiza, entre otras circunstancias:
+
+1. que el acto establezca una ley especial;
+2. que el interesado conozca el vicio;
+3. que la revocación favorezca al interesado;
+4. que el derecho haya sido otorgado expresa y válidamente a título precario.
+
+---
+
+# Actos regulares
+
+Balbín distingue:
+
+## actos regulares
+
+de
+
+## actos irregulares.
+
+La estabilidad y el régimen de revocación no son idénticos en ambos casos.
+
+---
+
+# Revocación por oportunidad
+
+También un acto legítimo puede ser revocado por:
+
+- oportunidad;
+- mérito;
+- conveniencia.
+
+Pero aparece un problema:
+
+## LA INDEMNIZACIÓN.
+
+---
+
+# ¿Debe indemnizarse?
+
+Balbín entiende que, cuando el Estado revoca por razones de oportunidad un acto que generó derechos:
+
+> puede existir deber de indemnizar.
+
+La razón es clara:
+
+el particular soporta una pérdida no porque su derecho fuese ilegítimo, sino porque:
+
+## el Estado cambió su decisión por razones de interés público.
+
+---
+
+# Jurisprudencia · "Motor Once"
+
+Balbín cita:
+
+## "Motor Once" (1989)
+
+al analizar el alcance de la indemnización derivada de decisiones estatales lícitas.
+
+---
+
+# Jurisprudencia · "Juncalán"
+
+También cita:
+
+## "Juncalán" (1989)
+
+para examinar el alcance del resarcimiento y la cuestión del:
+
+## lucro cesante.
+
+---
+
+# Jurisprudencia · "El Jacarandá"
+
+Balbín incorpora:
+
+## CSJN, "El Jacarandá S.A." (2005)
+
+La Corte admite que, en principio, puede corresponder indemnización amplia en supuestos de actividad estatal lícita.
+
+---
+
+# "El Jacarandá" · enseñanza
+
+La discusión no consiste simplemente en:
+
+> "acto lícito = no hay responsabilidad".
+
+La actividad estatal legítima también puede generar:
+
+## RESPONSABILIDAD.
+
+La cuestión es determinar:
+
+- existencia del daño;
+- relación causal;
+- requisitos legales;
+- alcance de la reparación.
+
+---
+
+# 18 · Caducidad
+
+La caducidad es otro modo de extinción.
+
+Se produce cuando el interesado:
+
+> **incumple las condiciones fijadas en el acto.**
+
+---
+
+# Ejemplo
+
+La Administración otorga una autorización sujeta a ciertas obligaciones.
+
+El beneficiario incumple.
+
+La Administración puede declarar:
+
+## LA CADUCIDAD.
+
+---
+
+# Caducidad ≠ revocación
+
+### Revocación
+
+La Administración vuelve sobre el acto por:
+
+- ilegitimidad;
+- oportunidad.
+
+### Caducidad
+
+La extinción se vincula con:
+
+## el incumplimiento del particular.
+
+---
+
+# Requisitos
+
+Balbín señala que deben cumplirse determinadas condiciones.
+
+Entre ellas:
+
+- incumplimiento;
+- constitución en mora cuando corresponda;
+- intimación;
+- plazo para cumplir;
+- decisión administrativa.
+
+---
+
+# Consecuencia
+
+En principio, la caducidad:
+
+> **no genera derecho a indemnización para el incumplidor.**
+
+La razón es que la extinción deriva:
+
+## de su propio incumplimiento.
+
+---
+
+# 19 · Nulidades
+
+El tercer gran modo de extinción se vincula con:
+
+## LA INVALIDEZ DEL ACTO.
+
+Aquí el problema no es:
+
+- oportunidad;
+- conveniencia;
+- incumplimiento posterior.
+
+El problema está en:
+
+## los vicios del propio acto.
+
+---
+
+# Antecedente histórico
+
+Balbín explica que el Derecho Administrativo argentino recurrió inicialmente a categorías del:
+
+## DERECHO CIVIL.
+
+Pero progresivamente construyó:
+
+## un régimen propio de nulidades administrativas.
+
+---
+
+# Jurisprudencia · "Los Lagos"
+
+## CSJN, "Los Lagos" (1941)
+
+Es uno de los precedentes fundamentales en este proceso.
+
+Balbín lo utiliza para mostrar:
+
+> la construcción de una teoría administrativa de las nulidades.
+
+---
+
+# Del Derecho Civil al Administrativo
+
+El problema era:
+
+> ¿debemos aplicar simplemente las categorías civiles al acto estatal?
+
+La respuesta evolucionó hacia:
+
+## NO.
+
+El acto administrativo presenta:
+
+- presunción de legitimidad;
+- ejecutoriedad;
+- interés público;
+- régimen propio;
+
+que justifican categorías específicas.
+
+---
+
+# Régimen actual
+
+Balbín explica que la LPA distingue fundamentalmente entre:
+
+### actos de nulidad absoluta
+
+y
+
+### actos de nulidad relativa.
+
+---
+
+# Nulidad absoluta
+
+Se vincula con:
+
+## vicios graves.
+
+El acto resulta incompatible de manera intensa con:
+
+- legalidad;
+- orden público;
+- elementos esenciales.
+
+---
+
+# Nulidad relativa
+
+Existe un vicio:
+
+## menos intenso.
+
+El ordenamiento permite, en ciertos casos:
+
+- saneamiento;
+- confirmación;
+- conservación del acto.
+
+---
+
+# Una precisión terminológica
+
+Balbín advierte que la legislación utiliza diferentes expresiones:
+
+- acto regular;
+- acto irregular;
+- nulidad absoluta;
+- nulidad relativa.
+
+Lo verdaderamente importante no es:
+
+## el nombre,
+
+sino:
+
+## la gravedad jurídica del vicio y sus consecuencias.
+
+---
+
+# 20 · Vicios del acto
+
+Para estudiar la invalidez debemos volver a los elementos.
+
+```text
+ELEMENTO
+    ↓
+posible
+VICIO
+    ↓
+consecuencia
+sobre la
+VALIDEZ
+```
+
+---
+
+# Vicios de competencia
+
+La incompetencia puede presentarse por:
+
+- materia;
+- territorio;
+- tiempo;
+- grado.
+
+Los primeros supuestos pueden conducir a:
+
+## nulidad absoluta.
+
+La incompetencia por grado presenta un tratamiento diferente y puede, en ciertos casos, admitir saneamiento.
+
+---
+
+# Ejemplo
+
+Una autoridad tributaria dicta una resolución sobre una materia que corresponde exclusivamente a una autoridad sanitaria.
+
+Tenemos:
+
+## incompetencia material.
+
+El vicio afecta directamente la habilitación jurídica del órgano.
+
+---
+
+# Vicios de la voluntad
+
+Balbín analiza:
+
+- error;
+- dolo;
+- violencia;
+- simulación;
+- grave defecto en la formación de la voluntad de un órgano colegiado.
+
+---
+
+# Error
+
+Existe cuando la voluntad administrativa se forma sobre:
+
+> una representación equivocada de la realidad.
+
+Ejemplo:
+
+la Administración sanciona a Juan creyendo que era el titular de un establecimiento cuando en realidad el titular era Pedro.
+
+---
+
+# Dolo
+
+Existe una alteración intencional en la formación de la voluntad.
+
+El régimen jurídico debe analizar:
+
+- quién provocó el engaño;
+- cómo incidió;
+- si fue determinante para la decisión.
+
+---
+
+# Violencia
+
+La voluntad del órgano se encuentra condicionada mediante:
+
+- fuerza;
+- presión ilegítima;
+- amenaza.
+
+También aquí el problema es:
+
+## la formación válida de la voluntad estatal.
+
+---
+
+# Vicios de la causa
+
+La causa puede estar viciada cuando:
+
+1. el hecho es falso;
+2. el hecho es inexistente;
+3. el derecho invocado no existe;
+4. el derecho no está vigente;
+5. existe contradicción entre antecedentes y decisión.
+
+---
+
+# Ejemplo
+
+La Administración sanciona a un comercio porque:
+
+> "carecía de habilitación el 1 de marzo".
+
+Pero del expediente surge que:
+
+> la habilitación había sido otorgada el 15 de febrero.
+
+La causa invocada:
+
+## no existe.
+
+---
+
+# Vicios del objeto
+
+El objeto puede ser inválido cuando:
+
+- viola la ley;
+- es oscuro;
+- es impreciso;
+- es ambiguo;
+- es materialmente imposible;
+- es jurídicamente imposible;
+- no guarda congruencia con las cuestiones planteadas.
+
+---
+
+# Ejemplo
+
+La Administración dispone:
+
+> "sanciónese al responsable en la medida que corresponda"
+
+sin precisar:
+
+- qué sanción;
+- cuál es su alcance;
+- qué obligación concreta impone.
+
+Puede existir un problema de:
+
+## determinación del objeto.
+
+---
+
+# Vicios del procedimiento
+
+El procedimiento puede estar viciado cuando se omiten:
+
+## trámites esenciales.
+
+Balbín presta especial atención a:
+
+- audiencia;
+- defensa;
+- prueba;
+- dictamen obligatorio;
+- participación del interesado.
+
+---
+
+# Procedimiento y defensa
+
+No toda irregularidad procedimental genera necesariamente la misma consecuencia.
+
+Debe analizarse:
+
+- importancia del trámite;
+- derecho comprometido;
+- incidencia sobre la defensa;
+- gravedad de la omisión.
+
+---
+
+# Vicios de motivación
+
+Balbín sistematiza los principales problemas:
+
+### falta de motivación;
+
+### contradicción entre causa, objeto y finalidad;
+
+### motivación insuficiente;
+
+### motivación irrazonable;
+
+### ausencia de explicación del nexo entre antecedentes y decisión.
+
+---
+
+# Ejemplo
+
+La Administración afirma:
+
+> "Se rechaza la solicitud por no resultar conveniente."
+
+Pero no explica:
+
+- qué antecedentes consideró;
+- qué norma aplicó;
+- por qué no resulta conveniente;
+- cómo llega a esa conclusión.
+
+La motivación puede resultar:
+
+## insuficiente.
+
+---
+
+# Vicios de finalidad
+
+Existe vicio cuando la Administración:
+
+> utiliza la competencia para perseguir un fin distinto del previsto por el ordenamiento.
+
+Es la clásica:
+
+# DESVIACIÓN DE PODER.
+
+---
+
+# Vicios de forma
+
+Balbín señala que no todos los defectos de forma tienen la misma gravedad.
+
+La ley admite que ciertas irregularidades:
+
+> no produzcan nulidad cuando la forma utilizada permitió cumplir igualmente la finalidad jurídica.
+
+---
+
+# 21 · Saneamiento
+
+Los actos inválidos pueden, en ciertos supuestos:
+
+## SER SANEADOS.
+
+El saneamiento busca:
+
+> corregir determinados vicios y conservar el acto cuando jurídicamente sea posible.
+
+---
+
+# Dos técnicas
+
+Balbín analiza:
+
+### ratificación
+
+y
+
+### confirmación.
+
+---
+
+# Ratificación
+
+Puede operar, por ejemplo, frente a determinados supuestos de:
+
+## incompetencia por grado.
+
+El órgano competente:
+
+> ratifica lo actuado.
+
+---
+
+# Confirmación
+
+El órgano:
+
+> corrige o supera determinados defectos del acto.
+
+Pero el saneamiento tiene límites.
+
+---
+
+# Límite
+
+No cualquier acto puede sanearse.
+
+La posibilidad depende de:
+
+- naturaleza del vicio;
+- gravedad;
+- régimen legal;
+- posibilidad jurídica de conservación.
+
+---
+
+# Conversión
+
+Balbín analiza además la:
+
+## CONVERSIÓN.
+
+Un acto inválido puede convertirse en otro acto válido cuando:
+
+- contiene los elementos necesarios;
+- el nuevo acto resulta jurídicamente posible;
+- se mantiene el objeto y finalidad compatibles;
+- no se vulneran derechos.
+
+---
+
+# Conservación
+
+Detrás de estas técnicas existe una idea:
+
+> **no destruir innecesariamente la actividad administrativa cuando el defecto puede ser jurídicamente corregido.**
+
+Pero esta idea nunca puede utilizarse para:
+
+## convalidar cualquier ilegalidad.
+
+---
+
+# 22 · Manifestación y no manifestación
+
+Balbín distingue también:
+
+### actos manifiestos
+
+y
+
+### actos no manifiestos.
+
+La distinción resulta importante para analizar:
+
+- presunción de legitimidad;
+- suspensión;
+- tutela judicial;
+- gravedad del vicio.
+
+---
+
+# Vicio manifiesto
+
+El vicio es manifiesto cuando:
+
+> puede advertirse claramente mediante una confrontación jurídica simple.
+
+No exige:
+
+- complejas investigaciones;
+- reconstrucciones extraordinarias;
+- análisis probatorios extensos.
+
+---
+
+# Vicio no manifiesto
+
+Requiere:
+
+- mayor análisis;
+- prueba;
+- interpretación;
+- reconstrucción jurídica.
+
+Esta distinción influye en el régimen de protección del acto.
+
+---
+
+# 23 · Acto y hecho administrativo
+
+Hasta aquí analizamos:
+
+## declaraciones estatales.
+
+Pero el Estado también:
+
+## ACTÚA MATERIALMENTE.
+
+Debemos distinguir entonces:
+
+# ACTO
+
+de
+
+# HECHO.
+
+---
+
+# Hecho administrativo
+
+Balbín entiende por hecho administrativo:
+
+> **el comportamiento material de la Administración.**
+
+Ejemplos:
+
+- construir;
+- demoler;
+- cerrar;
+- trasladar;
+- ejecutar físicamente una decisión.
+
+---
+
+# Acto vs. hecho
+
+```text
+ACTO
+declaración jurídica
+
+       ↓
+
+HECHO
+comportamiento material
+```
+
+---
+
+# Ejemplo
+
+### Acto
+
+La Administración dispone:
+
+> "Clausúrese el establecimiento."
+
+### Hecho
+
+Los agentes concurren al lugar y:
+
+> colocan la faja de clausura.
+
+Son fenómenos jurídicos distintos.
+
+---
+
+# Relación normal
+
+El esquema ordinario es:
+
+```text
+ACTO
+  ↓
+orden jurídica
+  ↓
+HECHO
+ejecución material
+```
+
+El hecho ejecuta:
+
+## una decisión administrativa previa.
+
+---
+
+# 24 · Vías de hecho
+
+La vía de hecho aparece cuando la actuación material del Estado:
+
+> se aparta de las condiciones jurídicas que permiten su actuación.
+
+Balbín analiza distintos supuestos.
+
+---
+
+# Primer supuesto
+
+## comportamiento material ilegítimo no precedido de acto.
+
+Ejemplo:
+
+la Administración demuele directamente un inmueble:
+
+- sin acto previo;
+- sin procedimiento;
+- sin habilitación suficiente.
+
+---
+
+# Segundo supuesto
+
+Existe un acto previo legítimo.
+
+Pero la Administración lo ejecuta:
+
+## de manera ilegítima.
+
+Ejemplo:
+
+el acto autoriza retirar determinados bienes.
+
+Los agentes:
+
+> retiran además otros bienes no comprendidos.
+
+---
+
+# Tercer supuesto
+
+Existe un acto.
+
+Pero la ejecución material:
+
+> no guarda correspondencia con aquello que el acto ordenó.
+
+La irregularidad está en:
+
+## la ejecución.
+
+---
+
+# Cuarto supuesto
+
+El cumplimiento material del acto:
+
+> exige intervención judicial.
+
+Sin embargo, la Administración actúa directamente.
+
+También puede configurarse una:
+
+## vía de hecho.
+
+---
+
+# Vías de hecho y tutela judicial
+
+El régimen de las vías de hecho busca evitar que la Administración:
+
+> utilice su poder material por fuera del ordenamiento.
+
+El particular puede acudir a la tutela judicial:
+
+## sin necesidad de tolerar previamente la actuación ilegítima.
+
+---
+
+# Diferencia fundamental
+
+```text
+ACTO ILEGÍTIMO
+     │
+existe una decisión
+administrativa
+     │
+debe impugnarse
+
+
+VÍA DE HECHO
+     │
+actuación material
+ilegítima
+     │
+protección judicial
+específica
+```
+
+---
+
+# 25 · Silencio administrativo
+
+El silencio es:
+
+> **un modo de expresión jurídicamente construido frente a la ausencia de una decisión expresa.**
+
+La Administración no responde.
+
+El ordenamiento decide:
+
+> qué consecuencia atribuir a esa falta de respuesta.
+
+---
+
+# Regla general
+
+El silencio no significa naturalmente:
+
+> "sí"
+
+o:
+
+> "no".
+
+Es la ley la que determina:
+
+## qué valor jurídico tiene.
+
+---
+
+# Silencio negativo
+
+Como regla tradicional:
+
+```text
+SOLICITUD
+   ↓
+ADMINISTRACIÓN
+NO RESPONDE
+   ↓
+SILENCIO
+   ↓
+efecto negativo
+```
+
+Esto permite al particular:
+
+> continuar con las vías de impugnación correspondientes.
+
+---
+
+# ¿Por qué existe?
+
+El silencio negativo funciona como una:
+
+## GARANTÍA.
+
+Evita que la Administración pueda bloquear indefinidamente al particular:
+
+> simplemente no resolviendo.
+
+---
+
+# La paradoja
+
+La Administración tiene:
+
+## obligación de resolver.
+
+Pero si no resuelve:
+
+> el particular no puede quedar atrapado para siempre.
+
+Por eso el ordenamiento construye una ficción jurídica.
+
+---
+
+# Silencio positivo
+
+Balbín analiza también el:
+
+## SILENCIO POSITIVO.
+
+En ciertos casos, el ordenamiento puede atribuir a la falta de respuesta:
+
+> efectos favorables al interesado.
+
+---
+
+# Régimen actual
+
+Balbín explica que, luego de las reformas legislativas recientes, el silencio positivo posee un campo específico de aplicación.
+
+Especialmente en determinados procedimientos relativos a:
+
+## autorizaciones regladas.
+
+---
+
+# Precaución
+
+Silencio positivo no significa:
+
+> "si el Estado no responde, todo está automáticamente autorizado".
+
+Debe analizarse:
+
+- régimen legal;
+- tipo de autorización;
+- requisitos;
+- exclusiones;
+- plazo;
+- materia involucrada.
+
+---
+
+# Materias excluidas
+
+Balbín menciona exclusiones en ámbitos particularmente sensibles.
+
+Entre ellas:
+
+- salud pública;
+- medio ambiente;
+- prestación de servicios públicos;
+- bienes de dominio público;
+- determinadas materias especialmente protegidas.
+
+---
+
+# 26 · Omisiones estatales
+
+Balbín distingue:
+
+## SILENCIO
+
+de
+
+## OMISIÓN.
+
+No son conceptos equivalentes.
+
+---
+
+# Silencio
+
+Existe un procedimiento.
+
+El particular solicita una decisión.
+
+La Administración:
+
+> no responde dentro del plazo.
+
+---
+
+# Omisión
+
+El Estado tiene:
+
+> **una obligación jurídica concreta de hacer o decidir**
+
+y no la cumple.
+
+El problema no consiste simplemente en interpretar una falta de respuesta.
+
+Consiste en:
+
+## incumplir un deber jurídico.
+
+---
+
+# Ejemplo
+
+Una norma obliga a la Administración a:
+
+> realizar una prestación concreta.
+
+El Estado no actúa.
+
+Puede existir:
+
+## omisión estatal.
+
+No necesariamente estamos frente al silencio administrativo en sentido técnico.
+
+---
+
+# 27 · Actos de alcance general
+
+Balbín cierra el capítulo analizando los:
+
+## REGLAMENTOS.
+
+Son actos estatales de:
+
+## alcance general.
+
+---
+
+# Acto particular vs. reglamento
+
+| Acto administrativo | Reglamento |
+|---|---|
+| Alcance particular | Alcance general |
+| Destinatarios determinados | Destinatarios indeterminados |
+| Caso concreto | Regla general |
+| Efectos individuales | Efectos generales |
+
+---
+
+# Elaboración de reglamentos
+
+Balbín explica que el procedimiento reglamentario debe contemplar distintas etapas.
+
+Entre ellas:
+
+1. elaboración del proyecto;
+2. informes técnicos;
+3. informes sociales;
+4. informes económicos;
+5. informes jurídicos;
+6. participación de otros órganos;
+7. publicidad;
+8. participación social;
+9. respuestas fundadas;
+10. aprobación;
+11. publicación.
+
+---
+
+# ¿Por qué procedimiento?
+
+El reglamento produce:
+
+## efectos generales.
+
+Por eso su elaboración requiere:
+
+- racionalidad;
+- transparencia;
+- participación;
+- fundamentación;
+- control.
+
+---
+
+# 28 · Régimen jurídico de los reglamentos
+
+Balbín destaca varios aspectos:
+
+1. **inderogabilidad singular**
+2. aplicación de la LPA
+3. impugnación
+4. legitimación
+5. revocación
+6. nulidad.
+
+---
+
+# Inderogabilidad singular
+
+La Administración no puede:
+
+> dictar una regla general y luego dejar de aplicarla arbitrariamente a un caso individual.
+
+---
+
+# Ejemplo
+
+La Administración dicta un reglamento:
+
+> "Para obtener la autorización se requieren A, B y C."
+
+Luego concede a Juan la autorización:
+
+> aunque no cumple A, B ni C,
+
+sin fundamento jurídico que permita una excepción.
+
+Esto vulnera:
+
+# LA INDEROGABILIDAD SINGULAR DEL REGLAMENTO
+
+---
+
+# ¿Por qué?
+
+Porque admitirlo permitiría:
+
+```text
+REGLA GENERAL
+      ↓
+se aplica a todos
+      ↓
+EXCEPTO
+a quien arbitrariamente
+decida la Administración
+```
+
+Ello comprometería:
+
+- legalidad;
+- igualdad;
+- seguridad jurídica.
+
+---
+
+# Eficacia del reglamento
+
+El acto de alcance general adquiere eficacia:
+
+## desde su publicación
+
+o desde el momento que establezca el régimen jurídico aplicable.
+
+La publicación cumple respecto del reglamento una función semejante a la notificación respecto del acto particular.
+
+---
+
+# Comparación
+
+```text
+ACTO PARTICULAR
+      ↓
+NOTIFICACIÓN
+      ↓
+EFICACIA
+
+
+REGLAMENTO
+      ↓
+PUBLICACIÓN
+      ↓
+EFICACIA
+```
+
+---
+
+# 29 · Impugnación del reglamento
+
+Balbín analiza dos grandes posibilidades:
+
+### impugnación directa
+
+Se cuestiona:
+
+## el propio reglamento.
+
+### impugnación indirecta
+
+Se cuestiona:
+
+## el acto particular que aplica el reglamento.
+
+---
+
+# Impugnación directa
+
+El interesado sostiene:
+
+> "El reglamento es ilegítimo."
+
+No espera necesariamente la existencia de un acto individual de aplicación.
+
+Cuestiona directamente:
+
+## la regla general.
+
+---
+
+# Impugnación indirecta
+
+Existe un acto particular dictado con fundamento en el reglamento.
+
+El interesado impugna:
+
+## el acto particular
+
+y, a través de él:
+
+## la legitimidad del reglamento que le sirve de fundamento.
+
+---
+
+# Esquema
+
+```text
+REGLAMENTO
+   │
+   ├── impugnación directa
+   │
+   └── ACTO DE APLICACIÓN
+            │
+            ↓
+       impugnación indirecta
+```
+
+---
+
+# 30 · Cuadro general de la clase
+
+| Instituto | Naturaleza |
+|---|---|
+| Acto administrativo | Declaración unilateral particular |
+| Reglamento | Declaración general |
+| Contrato | Acuerdo de voluntades |
+| Hecho administrativo | Comportamiento material |
+| Vía de hecho | Comportamiento material ilegítimo |
+| Silencio | Consecuencia jurídica de la falta de respuesta |
+| Omisión | Incumplimiento de un deber estatal |
+
+---
+
+# Elementos esenciales
+
+```text
+COMPETENCIA
+     +
+CAUSA
+     +
+OBJETO
+     +
+PROCEDIMIENTO
+     +
+MOTIVACIÓN
+     +
+FINALIDAD
+     +
+FORMA
+     ↓
+ACTO ADMINISTRATIVO
+```
+
+---
+
+# El razonamiento jurídico
+
+Frente a cualquier acto administrativo conviene seguir siempre el mismo recorrido.
+
+### 1. ¿Quién decidió?
+
+→ competencia.
+
+### 2. ¿Sobre qué antecedentes?
+
+→ causa.
+
+### 3. ¿Qué decidió?
+
+→ objeto.
+
+### 4. ¿Cómo llegó a decidir?
+
+→ procedimiento.
+
+---
+
+# El razonamiento jurídico II
+
+### 5. ¿Explicó por qué?
+
+→ motivación.
+
+### 6. ¿Para qué utilizó la competencia?
+
+→ finalidad.
+
+### 7. ¿Cómo exteriorizó la decisión?
+
+→ forma.
+
+### 8. ¿Fue notificado?
+
+→ eficacia.
+
+---
+
+# Caso integrador
+
+La Administración recibe una denuncia contra un establecimiento.
+
+Sin producir prueba ni dar intervención al interesado, dicta una resolución que expresa:
+
+> "Por razones de interés público, clausúrase el establecimiento por 90 días."
+
+### Analicemos el acto.
+
+---
+
+# Caso integrador · competencia
+
+Primera pregunta:
+
+> **¿Qué órgano dictó la clausura?**
+
+Debemos verificar:
+
+- materia;
+- territorio;
+- tiempo;
+- grado.
+
+Si el órgano carece de atribución:
+
+## existe vicio de competencia.
+
+---
+
+# Caso integrador · causa
+
+Segunda pregunta:
+
+> **¿Qué hechos justifican la clausura?**
+
+La expresión:
+
+> "por razones de interés público"
+
+no nos dice:
+
+- qué ocurrió;
+- qué prueba existe;
+- qué norma fue infringida.
+
+Puede existir un problema de:
+
+## CAUSA.
+
+---
+
+# Caso integrador · procedimiento
+
+Tercera pregunta:
+
+> **¿Se respetó el procedimiento?**
+
+No se permitió:
+
+- intervención;
+- defensa;
+- producción de prueba.
+
+Debemos analizar si se omitieron:
+
+## trámites esenciales.
+
+---
+
+# Caso integrador · motivación
+
+Cuarta pregunta:
+
+> **¿Por qué 90 días?**
+
+¿Por qué:
+
+- clausura;
+- y no otra medida?
+
+¿Por qué:
+
+- 90 días;
+- y no 10, 30 o 60?
+
+El acto debe explicar:
+
+## la relación entre antecedentes y decisión.
+
+---
+
+# Caso integrador · finalidad
+
+Quinta pregunta:
+
+> **¿Para qué se utilizó la potestad?**
+
+Si se utilizó para proteger el interés previsto por la ley:
+
+→ finalidad legítima.
+
+Si se utilizó para perjudicar al titular por motivos personales:
+
+→ posible:
+
+## DESVIACIÓN DE PODER.
+
+---
+
+# Caso integrador · objeto
+
+Finalmente:
+
+> ¿la clausura es una medida permitida por la ley?
+
+¿Es:
+
+- clara;
+- precisa;
+- jurídicamente posible;
+- proporcional?
+
+Aquí analizamos:
+
+## OBJETO + FINALIDAD.
+
+---
+
+# Segundo caso
+
+La Administración dicta válidamente:
+
+> "Ordénase retirar el cartel ubicado sobre la vereda."
+
+Al ejecutar la decisión, los agentes:
+
+- retiran el cartel;
+- ingresan al comercio;
+- secuestran computadoras;
+- clausuran el local.
+
+### ¿Cuál es el problema?
+
+---
+
+# Segundo caso · respuesta
+
+El acto puede ser:
+
+## válido.
+
+Pero la ejecución material excedió:
+
+> aquello que había sido ordenado.
+
+Estamos ante un problema de:
+
+# VÍA DE HECHO
+
+La ilegalidad no necesariamente está en el acto.
+
+Puede estar en:
+
+## el comportamiento material de ejecución.
+
+---
+
+# Tercer caso
+
+Una persona solicita una autorización reglada.
+
+Cumple todos los requisitos.
+
+La Administración no responde durante meses.
+
+### Pregunta
+
+¿Existe automáticamente una autorización?
+
+## NO PODEMOS RESPONDER SIN EXAMINAR EL RÉGIMEN APLICABLE.
+
+---
+
+# Tercer caso · análisis
+
+Debemos preguntarnos:
+
+1. ¿existe silencio positivo o negativo?
+2. ¿se trata de una autorización reglada?
+3. ¿transcurrió el plazo?
+4. ¿se cumplieron los requisitos?
+5. ¿la materia está excluida?
+6. ¿qué efectos atribuye la ley al silencio?
+
+---
+
+# Jurisprudencia trabajada por Balbín
+
+A lo largo del capítulo Balbín utiliza, entre otros, los siguientes precedentes:
+
+- **Los Lagos** (1941)
+- **López** (1961)
+- **Pustelnik** (1975)
+- **Gobierno de la Nación c. Alou Hnos.** (1976)
+- **Carman de Cantón**
+- **Furlotti** (1975)
+- **Motor Once** (1989)
+- **Juncalán** (1989)
+- **Almagro** (1998)
+- **La Internacional Empresa de Transporte** (2001)
+- **El Jacarandá S.A.** (2005)
+- **Schnaiderman** (2008)
+- **Silva Tamayo** (2011)
+- **Rodríguez, Nelson** (2012)
+
+---
+
+# ¿Para qué usa Balbín esos precedentes?
+
+No aparecen como una lista aislada.
+
+Balbín los utiliza para construir problemas concretos:
+
+| Problema | Jurisprudencia utilizada |
+|---|---|
+| Presunción de legitimidad | Los Lagos · López · Pustelnik |
+| Vicios manifiestos | Pustelnik · Alou Hnos. |
+| Estabilidad | Carman de Cantón · Furlotti · Almagro |
+| Notificación y eficacia | La Internacional Empresa de Transporte |
+| Motivación | Punte · Schnaiderman · Silva Tamayo · Rodríguez, Nelson |
+| Responsabilidad por actividad lícita | Motor Once · Juncalán · El Jacarandá |
+
+---
+
+# La idea transversal
+
+Toda la teoría del acto administrativo puede resumirse en una tensión:
+
+```text
+PODER ESTATAL
+      │
+      ↓
+ACTO ADMINISTRATIVO
+      │
+      ↓
+PRESUNCIÓN + EJECUTORIEDAD
+
+          ↕
+
+LEGALIDAD + PROCEDIMIENTO
++ MOTIVACIÓN + CONTROL
++ DERECHOS
+```
+
+---
+
+# ¿Por qué tantos requisitos?
+
+Porque el acto administrativo posee una característica singular:
+
+> **el Estado puede modificar unilateralmente situaciones jurídicas de las personas.**
+
+Por eso el ordenamiento exige:
+
+- competencia;
+- causa;
+- procedimiento;
+- objeto;
+- motivación;
+- finalidad;
+- forma.
+
+---
+
+# Poder y garantías
+
+Cuanto mayor es la potestad estatal:
+
+## mayor relevancia adquieren las garantías.
+
+El acto administrativo no es solamente:
+
+> una herramienta de actuación estatal.
+
+Es también:
+
+> **una estructura jurídica destinada a limitar y controlar el ejercicio del poder.**
+
+---
+
+# Regla para el examen
+
+Ante cualquier caso de acto administrativo:
+
+```text
+1. IDENTIFICAR EL ACTO
+        ↓
+2. IDENTIFICAR LA COMPETENCIA
+        ↓
+3. RECONSTRUIR LA CAUSA
+        ↓
+4. PRECISAR EL OBJETO
+        ↓
+5. REVISAR EL PROCEDIMIENTO
+        ↓
+6. ANALIZAR LA MOTIVACIÓN
+        ↓
+7. CONTROLAR LA FINALIDAD
+        ↓
+8. REVISAR LA FORMA
+        ↓
+9. DETERMINAR EL VICIO
+        ↓
+10. DETERMINAR SU CONSECUENCIA
+```
+
+---
+
+# Pregunta de integración
+
+Una resolución administrativa:
+
+- fue dictada por órgano competente;
+- siguió el procedimiento;
+- se encuentra firmada;
+- cita correctamente la ley;
+- pero se funda en un hecho inexistente.
+
+### ¿El acto es válido?
+
+## NO.
+
+La legalidad del acto:
+
+> **no depende del cumplimiento aislado de algunos requisitos.**
+
+La inexistencia del hecho afecta:
+
+# LA CAUSA.
+
+---
+
+# Otra pregunta
+
+La Administración posee competencia.
+
+Los hechos existen.
+
+El objeto es lícito.
+
+Pero la resolución solamente expresa:
+
+> "por razones de oportunidad resulta conveniente adoptar esta decisión."
+
+### ¿Es suficiente?
+
+## DEPENDE DEL CASO, PERO NO NECESARIAMENTE.
+
+Debe existir una motivación:
+
+- concreta;
+- racional;
+- vinculada con los antecedentes;
+- suficiente para permitir el control.
+
+---
+
+# Otra pregunta
+
+Un acto legítimo otorgó un derecho a un particular.
+
+Dos años después la Administración considera que:
+
+> ya no es conveniente mantenerlo.
+
+### ¿Puede simplemente dejarlo sin efecto?
+
+## NO DEBE CONFUNDIRSE LEGALIDAD CON OPORTUNIDAD.
+
+Debemos analizar:
+
+- estabilidad;
+- derechos generados;
+- cumplimiento;
+- régimen de revocación;
+- indemnización.
+
+---
+
+# Otra pregunta
+
+Existe un acto administrativo inválido.
+
+### ¿Siempre debe desaparecer?
+
+## NO.
+
+Antes debemos analizar:
+
+- gravedad del vicio;
+- nulidad absoluta o relativa;
+- posibilidad de saneamiento;
+- ratificación;
+- confirmación;
+- conversión.
+
+---
+
+# El método de Balbín
+
+El análisis del acto no puede reducirse a:
+
+> memorizar una lista de elementos.
+
+Debemos reconstruir:
+
+```text
+NORMA
+  ↓
+COMPETENCIA
+  ↓
+HECHOS
+  ↓
+PROCEDIMIENTO
+  ↓
+DECISIÓN
+  ↓
+MOTIVACIÓN
+  ↓
+FINALIDAD
+  ↓
+EFECTOS
+  ↓
+CONTROL
+```
+
+---
+
+# Cierre
+
+## ACTO ADMINISTRATIVO
+
+es:
+
+### PODER
+
+porque permite al Estado decidir unilateralmente.
+
+Pero simultáneamente es:
+
+### GARANTÍA
+
+porque el ejercicio de ese poder queda jurídicamente condicionado por:
+
+- competencia;
+- causa;
+- objeto;
+- procedimiento;
+- motivación;
+- finalidad;
+- forma;
+- control administrativo;
+- control judicial.
+
+---
+
+# Idea final
+
+> **La Administración no solamente debe decidir conforme a Derecho.**
+
+Debe poder explicar:
+
+## QUIÉN DECIDIÓ
+
+## POR QUÉ DECIDIÓ
+
+## SOBRE QUÉ HECHOS
+
+## CON QUÉ FUNDAMENTO
+
+## MEDIANTE QUÉ PROCEDIMIENTO
+
+## Y PARA QUÉ FINALIDAD
+
+Ese conjunto de exigencias constituye el núcleo jurídico del:
+
+# ACTO ADMINISTRATIVO

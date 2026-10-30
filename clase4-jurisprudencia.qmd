@@ -1,0 +1,1650 @@
+---
+title: "Derecho Administrativo"
+subtitle: "Clase 4 · Jurisprudencia sobre el acto administrativo"
+format:
+  revealjs:
+    slide-level: 1
+    slide-number: true
+    scrollable: true
+    hash: true
+    transition: slide
+    navigation-mode: linear
+    width: 1600
+    height: 900
+    center: false
+    controls: true
+    progress: true
+    css: styles.css
+lang: es
+---
+
+# Jurisprudencia sobre el acto administrativo
+
+## Los casos utilizados por Balbín
+
+En esta presentación analizaremos los precedentes que Balbín utiliza para explicar:
+
+- concepto de acto administrativo;
+- unilateralidad;
+- motivación;
+- discrecionalidad;
+- notificación;
+- presunción de legitimidad;
+- nulidades;
+- estabilidad;
+- revocación;
+- responsabilidad derivada de la revocación.
+
+---
+
+# Cómo leer los fallos
+
+En cada precedente seguiremos cuatro preguntas:
+
+### 1. ¿Qué pasó?
+
+**HECHOS**
+
+### 2. ¿Qué problema jurídico llegó a la Corte?
+
+**CONTROVERSIA**
+
+### 3. ¿Qué decidió el tribunal?
+
+**RESOLUCIÓN**
+
+### 4. ¿Por qué lo estudia Balbín?
+
+**RELEVANCIA**
+
+---
+
+# I · ACTO ADMINISTRATIVO Y BILATERALIDAD
+
+## "Metalmecánica SACI c. Nación Argentina" (1976)
+
+Este precedente aparece al comienzo de la construcción del concepto de acto administrativo.
+
+La cuestión es especialmente interesante porque obliga a distinguir:
+
+## ACTO ADMINISTRATIVO
+
+de
+
+## CONTRATO ADMINISTRATIVO
+
+---
+
+# "Metalmecánica" · Hechos
+
+El caso se produjo en el marco del:
+
+## régimen de promoción de la industria automotriz.
+
+La actividad estaba reglamentada.
+
+Para incorporarse al régimen era necesario:
+
+1. que el interesado manifestara su voluntad;
+2. que la Administración aceptara esa incorporación.
+
+Por tanto, en la formación de la relación intervenían:
+
+- voluntad del particular;
+- voluntad de la Administración.
+
+---
+
+# "Metalmecánica" · Problema jurídico
+
+La pregunta era:
+
+> **¿seguimos estando ante un acto administrativo cuando en su formación intervienen tanto la voluntad del particular como la de la Administración?**
+
+La cuestión era importante porque podía conducir a considerar la relación como:
+
+## contractual.
+
+---
+
+# "Metalmecánica" · Resolución
+
+La Corte reconoció la existencia de un:
+
+## acto administrativo bilateral.
+
+Según la reconstrucción que hace Balbín:
+
+- la voluntad del interesado era necesaria para incorporarse al régimen;
+- posteriormente debía intervenir la voluntad administrativa;
+- ambas voluntades concurrían en la formación del acto.
+
+La Corte consideró que el acto era:
+
+> bilateral en su formación y también en sus efectos.
+
+---
+
+# "Metalmecánica" · Relevancia
+
+Balbín utiliza el caso para mostrar una dificultad conceptual.
+
+Históricamente la Corte aceptó:
+
+```text
+ACTO ADMINISTRATIVO
+       │
+       ├── unilateral
+       │
+       └── bilateral
+```
+
+Balbín, sin embargo, considera más útil distinguir claramente entre:
+
+## ACTO
+
+y
+
+## CONTRATO
+
+y no construir una categoría autónoma de actos administrativos bilaterales.
+
+---
+
+# "Compañía Azucarera Concepción SA" (1999)
+
+El segundo precedente permite observar:
+
+## el problema inverso.
+
+Aquí la Corte rechazó la existencia de una relación contractual.
+
+---
+
+# "Compañía Azucarera" · Hechos
+
+La empresa había realizado:
+
+## exportaciones.
+
+Las divisas provenientes de esas operaciones fueron liquidadas utilizando:
+
+> un tipo de cambio distinto del autorizado por el Banco Central.
+
+La empresa sostuvo que existía:
+
+## incumplimiento de un convenio previo con el Estado.
+
+---
+
+# "Compañía Azucarera" · Controversia
+
+La cuestión consistía en determinar la naturaleza de la responsabilidad estatal.
+
+Si existía un convenio previo:
+
+```text
+INCUMPLIMIENTO
+      ↓
+RESPONSABILIDAD CONTRACTUAL
+```
+
+Si no existía:
+
+```text
+ACTUACIÓN ESTATAL
+      ↓
+FALTA DE SERVICIO
+      ↓
+RESPONSABILIDAD EXTRACONTRACTUAL
+```
+
+---
+
+# "Compañía Azucarera" · Resolución
+
+La Corte rechazó la construcción contractual.
+
+Consideró que la liquidación de las divisas por un tipo de cambio diferente:
+
+> no constituía el incumplimiento de un convenio preexistente entre las partes.
+
+La conducta debía analizarse como:
+
+## FALTA DE SERVICIO.
+
+Por tanto:
+
+## responsabilidad extracontractual del Estado.
+
+---
+
+# "Compañía Azucarera" · Relevancia
+
+Balbín utiliza el caso para demostrar que:
+
+> la existencia de una relación entre el Estado y el particular no convierte automáticamente la situación en contractual.
+
+Debe analizarse:
+
+## cómo se formó jurídicamente la relación.
+
+La Corte entendió que en este caso no existió acto bilateral sino:
+
+## actuación unilateral estatal.
+
+---
+
+# II · MOTIVACIÓN Y DISCRECIONALIDAD
+
+## "Schnaiderman" (2008)
+
+Este es uno de los precedentes más importantes utilizados por Balbín para explicar:
+
+# MOTIVACIÓN
+
++
+
+# DISCRECIONALIDAD
+
+---
+
+# "Schnaiderman" · Hechos
+
+El actor era:
+
+## agente público.
+
+Se encontraba todavía dentro del:
+
+## período de prueba,
+
+es decir, antes de adquirir estabilidad plena en el empleo público.
+
+La Administración decidió:
+
+> cancelar su designación.
+
+La resolución no explicó concretamente:
+
+## por qué se dejaba sin efecto el nombramiento.
+
+---
+
+# "Schnaiderman" · Problema jurídico
+
+La Administración contaba con una potestad discrecional para cancelar la designación durante el período de prueba.
+
+La pregunta era:
+
+> **¿la existencia de esa facultad discrecional permite cancelar el nombramiento sin expresar los motivos de la decisión?**
+
+---
+
+# "Schnaiderman" · Resolución
+
+## NO.
+
+La Corte sostuvo que la resolución:
+
+> omitía invocar un fundamento que hiciera razonable la revocación del nombramiento.
+
+Por ello consideró afectado un:
+
+## requisito esencial del acto administrativo:
+
+# LA MOTIVACIÓN.
+
+---
+
+# "Schnaiderman" · Regla
+
+La Corte sostuvo que:
+
+```text
+POTESTAD DISCRECIONAL
+        ≠
+LIBERTAD PARA NO MOTIVAR
+```
+
+Por el contrario:
+
+> el ejercicio de potestades discrecionales exige respetar los requisitos establecidos por la Ley 19.549.
+
+La discrecionalidad no permite:
+
+## una decisión arbitraria.
+
+---
+
+# "Schnaiderman" · Relevancia
+
+Balbín utiliza el precedente para construir una de las reglas centrales de su teoría:
+
+> **las potestades discrecionales también son jurídicamente controlables.**
+
+El juez puede revisar:
+
+- competencia;
+- forma;
+- causa;
+- finalidad;
+- razonabilidad;
+- motivación.
+
+---
+
+# "Silva Tamayo" (2011)
+
+Balbín utiliza este precedente para:
+
+## profundizar el estándar de motivación.
+
+La cuestión vuelve a plantearse frente al ejercicio de:
+
+## facultades discrecionales.
+
+---
+
+# "Silva Tamayo" · Problema
+
+La Administración había puesto fin anticipadamente a una designación.
+
+La decisión se apoyaba en formulaciones genéricas vinculadas con:
+
+- razones operativas;
+- reorganización;
+- reasignación de funcionarios.
+
+El problema era determinar:
+
+> si esas expresiones bastaban para satisfacer el deber de motivación.
+
+---
+
+# "Silva Tamayo" · Resolución
+
+La Corte sostuvo que:
+
+## NO EXISTEN FÓRMULAS RÍGIDAS
+
+para motivar un acto.
+
+Pero esto no significa que cualquier expresión sea suficiente.
+
+No pueden admitirse:
+
+- fórmulas vacías;
+- expresiones excesivamente generales;
+- simples citas legales;
+- referencias a potestades genéricas sin vinculación con el caso concreto.
+
+---
+
+# "Silva Tamayo" · Regla
+
+La Administración debía:
+
+## especificar el motivo concreto
+
+por el cual se adoptaba la decisión.
+
+Por eso:
+
+```text
+"razones de servicio"
+"razones operativas"
+"reorganización"
+
+          ↓
+
+NO BASTAN POR SÍ SOLAS
+```
+
+cuando no permiten comprender la decisión concreta.
+
+---
+
+# "Silva Tamayo" · Relevancia
+
+Balbín utiliza el caso para reafirmar que:
+
+> **la discrecionalidad no exime de motivar.**
+
+La motivación debe conectar:
+
+```text
+ANTECEDENTES
+     ↓
+RAZONES
+     ↓
+DECISIÓN
+```
+
+---
+
+# "Rodríguez, Nelson" (2012)
+
+Este precedente permite aplicar la misma doctrina a:
+
+## las fuerzas de seguridad.
+
+El actor pertenecía a la:
+
+## Policía Federal.
+
+---
+
+# "Rodríguez, Nelson" · Hechos
+
+El actor fue evaluado por la:
+
+## Junta de Calificaciones de la Policía Federal.
+
+Fue calificado como:
+
+> "prescindible para el servicio efectivo".
+
+Como consecuencia de ello se dispuso:
+
+1. su pase a disponibilidad;
+2. posteriormente, su retiro obligatorio.
+
+El agente promovió demanda contra el Estado Nacional solicitando:
+
+## la nulidad de esos actos.
+
+---
+
+# "Rodríguez, Nelson" · El fundamento administrativo
+
+La Junta debía evaluar aspectos como:
+
+- aptitudes morales;
+- aptitudes profesionales;
+- aptitudes físicas;
+- aptitudes intelectuales;
+- conducta;
+- concepto;
+- antecedentes.
+
+Sin embargo, según explica Balbín, la Junta se limitó esencialmente a:
+
+> citar la Resolución 670/2004 del Ministerio del Interior.
+
+---
+
+# "Rodríguez, Nelson" · Problema jurídico
+
+La apreciación de la Junta respecto de:
+
+- ascensos;
+- conservación del grado;
+- disponibilidad;
+- retiro;
+
+constituye una actividad:
+
+## DISCRECIONAL.
+
+La pregunta era:
+
+> **¿puede el Poder Judicial controlar esa decisión?**
+
+---
+
+# "Rodríguez, Nelson" · Resolución
+
+La Corte sostuvo que estas evaluaciones son, en principio:
+
+## discrecionales.
+
+Pero admitió su control cuando se demuestra:
+
+## IRRAZONABILIDAD.
+
+En el caso concreto concluyó que no existió:
+
+> una verdadera valoración de las aptitudes y antecedentes del actor.
+
+---
+
+# "Rodríguez, Nelson" · Motivación
+
+La mera referencia a una resolución ministerial:
+
+## NO ERA SUFICIENTE.
+
+No permitía conocer:
+
+- qué antecedentes fueron considerados;
+- cómo fueron valorados;
+- por qué el agente era prescindible;
+- por qué correspondía su retiro.
+
+La Corte consideró incumplido:
+
+# EL DEBER DE MOTIVACIÓN ADECUADA.
+
+---
+
+# "Rodríguez, Nelson" · Relevancia
+
+El caso refuerza la ecuación:
+
+```text
+DISCRECIONALIDAD
+      +
+MOTIVACIÓN
+      +
+RAZONABILIDAD
+      +
+CONTROL JUDICIAL
+```
+
+No es suficiente que el ordenamiento otorgue:
+
+## margen de apreciación.
+
+La Administración debe demostrar que:
+
+> efectivamente ejerció esa apreciación de manera racional.
+
+---
+
+# "Scarpa" (2019) y "Alaguibe" (2023)
+
+Balbín menciona ambos precedentes inmediatamente después de:
+
+- Schnaiderman;
+- Silva Tamayo;
+- Rodríguez, Nelson.
+
+Los utiliza para señalar que la Corte:
+
+## mantuvo posteriormente ese criterio.
+
+---
+
+# "Scarpa" y "Alaguibe" · límite de la fuente
+
+En el fragmento utilizado por Balbín para desarrollar la teoría del acto administrativo:
+
+> **no se reconstruyen con el mismo detalle los hechos de estos dos casos.**
+
+Por ello, para mantener esta presentación exclusivamente dentro de Balbín:
+
+## no agregamos hechos externos.
+
+Su relevancia dentro del manual es confirmar la continuidad de la doctrina sobre:
+
+# MOTIVACIÓN DE ACTOS DISCRECIONALES.
+
+---
+
+# III · NOTIFICACIÓN Y EFICACIA
+
+## "La Internacional Empresa de Transporte" (2001)
+
+Este precedente aparece al analizar:
+
+# LA NOTIFICACIÓN.
+
+La cuestión es determinar qué relación existe entre:
+
+- existencia;
+- validez;
+- eficacia
+
+del acto administrativo.
+
+---
+
+# "La Internacional..." · Problema jurídico
+
+La pregunta central es:
+
+> **¿qué ocurre cuando un acto administrativo no fue debidamente notificado al interesado?**
+
+¿El acto es:
+
+### inválido?
+
+o simplemente:
+
+### ineficaz frente al particular?
+
+---
+
+# "La Internacional..." · Resolución
+
+La Corte sostuvo que:
+
+> el acto administrativo sólo puede producir sus efectos propios a partir de la notificación al interesado.
+
+Pero agregó una distinción fundamental:
+
+## la falta de notificación no afecta necesariamente la validez del acto.
+
+Afecta:
+
+# SU EFICACIA.
+
+---
+
+# "La Internacional..." · Regla
+
+```text
+ACTO DICTADO
+     ↓
+EXISTENCIA / VALIDEZ
+
+     +
+
+NOTIFICACIÓN
+     ↓
+
+EFICACIA
+frente al interesado
+```
+
+---
+
+# "La Internacional..." · Relevancia
+
+Balbín utiliza el precedente para diferenciar claramente:
+
+## VALIDEZ
+
+de
+
+## EFICACIA.
+
+Por ello:
+
+> un acto puede existir y ser válido pero todavía no resultar eficaz frente al destinatario.
+
+---
+
+# IV · PRESUNCIÓN DE LEGITIMIDAD Y NULIDADES
+
+## "Los Lagos" (1941)
+
+Estamos ante uno de los precedentes históricos más importantes de la teoría argentina del:
+
+# ACTO ADMINISTRATIVO.
+
+Balbín lo utiliza fundamentalmente para estudiar:
+
+- nulidades;
+- presunción de legitimidad;
+- autonomía del Derecho Administrativo.
+
+---
+
+# "Los Lagos" · La cuestión
+
+Antes de la Ley 19.549 existía un problema fundamental:
+
+> **¿cómo construir el régimen de invalidez de los actos administrativos?**
+
+Una posibilidad consistía en aplicar directamente:
+
+## las categorías del Derecho Civil.
+
+La Corte comenzó a construir una solución propia del:
+
+## Derecho Público.
+
+---
+
+# "Los Lagos" · Resolución
+
+Según la reconstrucción de Balbín, la Corte estableció varias reglas.
+
+### Primera
+
+La teoría de las nulidades administrativas es:
+
+## autónoma respecto del Derecho Privado.
+
+### Segunda
+
+Los actos estatales gozan de:
+
+## PRESUNCIÓN DE VALIDEZ.
+
+---
+
+# "Los Lagos" · Resolución II
+
+La Corte sostuvo además, en la construcción histórica analizada por Balbín, que la invalidez del acto administrativo no debía tratarse exactamente igual que la nulidad del acto civil.
+
+El régimen administrativo debía considerar:
+
+- naturaleza del acto estatal;
+- interés público;
+- presunción de legitimidad;
+- particularidades del Derecho Público.
+
+---
+
+# "Los Lagos" · Relevancia
+
+El precedente marca el comienzo de una construcción:
+
+```text
+DERECHO CIVIL
+     ↓
+categorías iniciales
+
+     ↓
+
+DERECHO ADMINISTRATIVO
+     ↓
+RÉGIMEN AUTÓNOMO
+DE NULIDADES
+```
+
+Balbín lo utiliza como antecedente indispensable de la LPA.
+
+---
+
+# "Pustelnik" (1975)
+
+"Pustelnik" es probablemente el precedente que más veces reaparece en este capítulo.
+
+Se utiliza para estudiar:
+
+- nulidades;
+- presunción de legitimidad;
+- vicios manifiestos;
+- estabilidad;
+- autonomía del Derecho Administrativo.
+
+---
+
+# "Pustelnik" · Contexto jurídico
+
+El fallo fue dictado en:
+
+## 1975,
+
+es decir:
+
+## después de la Ley 19.549.
+
+Por eso Balbín considera que la Corte comenzó a trabajar ya sobre:
+
+> los lineamientos de la LPA.
+
+---
+
+# "Pustelnik" · Resolución sobre nulidades
+
+La Corte sostuvo que:
+
+> la invalidez de los actos de Derecho Público debe juzgarse conforme a las normas y principios propios del Derecho Público.
+
+Las categorías civiles pueden utilizarse:
+
+## únicamente cuando resulten compatibles
+
+con:
+
+- naturaleza;
+- fines;
+- garantías
+
+del acto administrativo.
+
+---
+
+# "Pustelnik" · Presunción de legitimidad
+
+El caso también es fundamental porque la Corte sostuvo que:
+
+> la presunción de legitimidad no puede constituirse frente a actos que presentan una invalidez evidente y manifiesta.
+
+Por tanto:
+
+```text
+ACTO ADMINISTRATIVO
+       ↓
+PRESUNCIÓN DE LEGITIMIDAD
+
+PERO
+
+VICIO EVIDENTE + MANIFIESTO
+       ↓
+LA PRESUNCIÓN CEDE
+```
+
+---
+
+# "Pustelnik" · Relevancia
+
+Balbín utiliza el precedente para demostrar que:
+
+## la presunción de legitimidad no es absoluta.
+
+Y también para diferenciar:
+
+- nulidad absoluta;
+- nulidad relativa;
+
+de otra clasificación:
+
+- vicio manifiesto;
+- vicio no manifiesto.
+
+---
+
+# "Gobierno de la Nación c. Alou Hnos." (1976)
+
+Este precedente continúa el problema analizado en:
+
+## "Pustelnik".
+
+La cuestión vuelve a ser:
+
+# PRESUNCIÓN DE LEGITIMIDAD.
+
+---
+
+# "Alou Hnos." · Resolución
+
+La Corte sostuvo que la presunción de legalidad constituye una garantía de:
+
+- seguridad;
+- estabilidad.
+
+Pero esa presunción:
+
+## CEDE
+
+cuando la decisión presenta:
+
+- vicios formales;
+- vicios sustanciales;
+- presupuestos fácticos manifiestamente irregulares.
+
+---
+
+# "Alou Hnos." · Regla
+
+En condiciones normales:
+
+> quien invoca la nulidad debe alegarla y probarla.
+
+Pero no puede utilizarse la presunción de legitimidad como una:
+
+## cobertura de ilegalidades manifiestas.
+
+---
+
+# "Alou Hnos." · Relevancia
+
+El caso complementa a:
+
+## "Pustelnik".
+
+Ambos permiten construir la idea:
+
+```text
+PRESUNCIÓN DE LEGITIMIDAD
+          │
+          ↓
+       REGLA
+
+ILEGALIDAD MANIFIESTA
+          │
+          ↓
+       LÍMITE
+```
+
+---
+
+# V · ESTABILIDAD Y REVOCACIÓN
+
+## "Carman de Cantón"
+
+Balbín menciona este precedente como uno de los antecedentes históricos centrales del:
+
+# PRINCIPIO DE ESTABILIDAD.
+
+Es anterior a la Ley 19.549.
+
+---
+
+# "Carman de Cantón" · Relevancia
+
+La doctrina que interesa a Balbín es que:
+
+> la Administración no posee una potestad ilimitada para volver sobre sus propios actos.
+
+Especialmente cuando del acto han nacido:
+
+## derechos subjetivos.
+
+---
+
+# "Carman de Cantón" · límite de nuestra fuente
+
+En el tramo del manual utilizado para esta clase, Balbín:
+
+> **menciona el precedente como antecedente histórico de la estabilidad, pero no desarrolla allí suficientemente sus hechos particulares.**
+
+Por ello no incorporamos una reconstrucción fáctica externa.
+
+Lo que debemos retener para la clase es:
+
+# ESTABILIDAD DEL ACTO ADMINISTRATIVO.
+
+---
+
+# "Cerámica San Lorenzo" (1976)
+
+Balbín lo menciona inmediatamente después de:
+
+- Carman de Cantón;
+- Pustelnik.
+
+Su importancia radica en que la Corte:
+
+> aplicó directamente las disposiciones de la LPA.
+
+---
+
+# "Cerámica San Lorenzo" · Relevancia
+
+La evolución puede representarse así:
+
+```text
+CARMAN DE CANTÓN
+jurisprudencia previa
+
+        ↓
+
+LEY 19.549
+
+        ↓
+
+PUSTELNIK
+interpretación de la LPA
+
+        ↓
+
+CERÁMICA SAN LORENZO
+aplicación directa de la LPA
+```
+
+---
+
+# "Furlotti" (1991)
+
+Balbín menciona este precedente al analizar:
+
+## la excepción a la potestad revocatoria.
+
+El problema gira alrededor de la expresión legal:
+
+> derechos subjetivos que se estén cumpliendo.
+
+---
+
+# "Furlotti" · Resolución
+
+La Corte sostuvo que la limitación a la potestad revocatoria:
+
+> debe interpretarse estrictamente.
+
+Esto se debe a que constituye una excepción dentro del régimen legal de revocación.
+
+---
+
+# "Furlotti" · Relevancia
+
+El precedente obliga a analizar cuidadosamente:
+
+```text
+ACTO
+ ↓
+DERECHO SUBJETIVO
+ ↓
+¿SE ESTÁ CUMPLIENDO?
+```
+
+No basta afirmar genéricamente:
+
+> "el acto creó un derecho".
+
+Debe estudiarse:
+
+## la situación concreta del derecho generado.
+
+---
+
+# "Almagro" (1998)
+
+Balbín utiliza "Almagro" para analizar las:
+
+## EXCEPCIONES A LA ESTABILIDAD.
+
+La Corte había establecido un criterio que luego aparece reflejado en el régimen legal.
+
+---
+
+# "Almagro" · Resolución
+
+Balbín señala que la Corte admitió que las excepciones previstas respecto de la revocación podían operar:
+
+## tanto respecto de actos regulares como irregulares.
+
+Entre los supuestos relevantes aparecen:
+
+- conducta dolosa del particular;
+- revocación favorable sin perjuicio de terceros;
+- precariedad del derecho.
+
+---
+
+# "Almagro" · Relevancia
+
+La enseñanza es que la estabilidad:
+
+## NO ES ABSOLUTA.
+
+Debe analizarse conjuntamente con:
+
+- naturaleza del acto;
+- comportamiento del particular;
+- derechos de terceros;
+- carácter precario o estable de la situación jurídica.
+
+---
+
+# VI · REVOCACIÓN POR OPORTUNIDAD E INDEMNIZACIÓN
+
+## El problema
+
+Supongamos que el acto es:
+
+# PERFECTAMENTE LEGÍTIMO.
+
+Pero posteriormente el Estado considera inconveniente mantenerlo.
+
+Puede revocarlo por:
+
+- oportunidad;
+- mérito;
+- conveniencia.
+
+Entonces aparece otra pregunta:
+
+# ¿QUÉ DEBE INDEMNIZAR?
+
+---
+
+# "Motor Once" (1989)
+
+Balbín utiliza este precedente para mostrar una:
+
+## posición restrictiva
+
+respecto de la indemnización derivada de la actividad estatal lícita.
+
+---
+
+# "Motor Once" · Problema jurídico
+
+La cuestión era determinar si, cuando el Estado responde por:
+
+## actos lícitos
+
+realizados en ejercicio de sus facultades de policía, la reparación debe comprender:
+
+## el lucro cesante.
+
+---
+
+# "Motor Once" · Resolución
+
+La Corte sostuvo:
+
+## NO.
+
+Consideró improcedente indemnizar el lucro cesante.
+
+Para llegar a esa conclusión aplicó analógicamente:
+
+# LA LEY DE EXPROPIACIONES.
+
+---
+
+# "Motor Once" · Relevancia
+
+Representa la posición:
+
+## RESTRICTIVA.
+
+```text
+RESPONSABILIDAD
+POR ACTIVIDAD LÍCITA
+        ↓
+DAÑO EMERGENTE
+
+pero
+
+NO LUCRO CESANTE
+```
+
+Balbín muestra que esta posición posteriormente coexistió con criterios diferentes de la propia Corte.
+
+---
+
+# "Juncalán" (1989)
+
+El mismo año la Corte resolvió otro caso con una orientación:
+
+# MÁS AMPLIA.
+
+---
+
+# "Juncalán" · Hechos
+
+La Provincia de Buenos Aires realizó:
+
+## obras públicas.
+
+Como consecuencia de esos trabajos:
+
+> se produjo la inundación de un campo perteneciente a la actora.
+
+La actuación estatal era:
+
+## legítima.
+
+Pero había provocado:
+
+## un perjuicio concreto al particular.
+
+---
+
+# "Juncalán" · Problema jurídico
+
+La pregunta era:
+
+> **¿debe el particular soportar sin indemnización el daño producido por una actividad estatal legítima realizada en interés público?**
+
+Y, en caso de indemnización:
+
+> **¿debe repararse solamente el daño emergente o también el lucro cesante?**
+
+---
+
+# "Juncalán" · Resolución
+
+La Corte sostuvo que:
+
+## la licitud de la conducta estatal no excluye la responsabilidad.
+
+Existía relación causal entre:
+
+- obra pública;
+- inundación;
+- daño sufrido por el particular.
+
+---
+
+# "Juncalán" · Daños
+
+La prueba pericial demostró:
+
+- existencia cierta del daño;
+- necesidad de realizar gastos;
+- necesidad de recuperar productivamente el suelo.
+
+La Corte rechazó aplicar analógicamente:
+
+## la Ley de Expropiaciones.
+
+---
+
+# "Juncalán" · Lucro cesante
+
+La Corte concluyó que correspondía reconocer:
+
+## LUCRO CESANTE.
+
+Por tanto:
+
+```text
+ACTUACIÓN ESTATAL LÍCITA
+        +
+DAÑO CIERTO
+        +
+RELACIÓN CAUSAL
+        ↓
+INDEMNIZACIÓN
+        ↓
+DAÑO + LUCRO CESANTE
+```
+
+---
+
+# "Juncalán" · Relevancia
+
+Balbín utiliza el caso para contraponerlo con:
+
+## "Motor Once".
+
+Tenemos así:
+
+| Motor Once | Juncalán |
+|---|---|
+| criterio restrictivo | criterio amplio |
+| daño emergente | daño emergente |
+| excluye lucro cesante | admite lucro cesante |
+| analogía con expropiación | rechaza esa analogía |
+
+---
+
+# "El Jacarandá S.A." (2005)
+
+Este precedente permite completar la evolución.
+
+El caso se relaciona directamente con:
+
+## una decisión administrativa favorable posteriormente dejada sin efecto.
+
+---
+
+# "El Jacarandá" · Hechos
+
+La sociedad actora había resultado:
+
+## adjudicataria de una licencia
+
+para explotar:
+
+## una estación de radiodifusión sonora.
+
+Posteriormente solicitó:
+
+> la posesión de la emisora.
+
+Pero esa posesión:
+
+## nunca se concretó.
+
+---
+
+# "El Jacarandá" · Actuación estatal posterior
+
+Posteriormente el Poder Ejecutivo:
+
+## dejó sin efecto la adjudicación.
+
+Además ordenó:
+
+> determinar la reparación correspondiente al daño emergente.
+
+La empresa promovió entonces una demanda solicitando:
+
+## la nulidad del acto que había dejado sin efecto la adjudicación.
+
+---
+
+# "El Jacarandá" · Problema jurídico
+
+Una de las cuestiones centrales era:
+
+> **¿qué alcance debe tener la reparación cuando una actividad administrativa lícita sacrifica un derecho particular en beneficio del interés general?**
+
+Especialmente:
+
+# ¿INCLUYE LUCRO CESANTE?
+
+---
+
+# "El Jacarandá" · Regla general
+
+La Corte sostuvo que cuando:
+
+- existe actividad estatal lícita;
+- esa actividad persigue el interés colectivo;
+- provoca un perjuicio particular;
+- existe relación causal directa;
+
+puede existir:
+
+## RESPONSABILIDAD DEL ESTADO POR ACTIVIDAD LÍCITA.
+
+---
+
+# "El Jacarandá" · Lucro cesante
+
+La Corte sostuvo que:
+
+> **no existe, como principio, razón para limitar necesariamente la reparación al daño emergente.**
+
+Puede comprender:
+
+## LUCRO CESANTE
+
+entendido como:
+
+> ventajas económicas esperadas según probabilidades objetivas estrictamente comprobadas.
+
+---
+
+# "El Jacarandá" · Pero...
+
+Esto es fundamental.
+
+La Corte reconoció:
+
+## EN ABSTRACTO
+
+la posibilidad de indemnizar el lucro cesante.
+
+Pero en el caso concreto consideró que:
+
+## NO HABÍA SIDO PROBADO.
+
+La empresa no demostró concretamente la pérdida de ventajas económicas esperadas con el grado requerido.
+
+---
+
+# "El Jacarandá" · Resolución
+
+Por tanto:
+
+```text
+¿LUCRO CESANTE ES JURÍDICAMENTE ADMISIBLE?
+             ↓
+             SÍ
+
+¿FUE PROBADO EN EL CASO?
+             ↓
+             NO
+```
+
+Esta distinción es central.
+
+---
+
+# "El Jacarandá" · Relevancia
+
+Balbín lo utiliza para mostrar que:
+
+> **la actividad lícita puede generar responsabilidad estatal.**
+
+Y que el lucro cesante:
+
+- no está necesariamente excluido;
+- pero debe acreditarse;
+- debe responder a probabilidades objetivas;
+- debe existir relación causal suficiente.
+
+---
+
+# Evolución de la reparación
+
+```text
+MOTOR ONCE
+1989
+   ↓
+criterio restrictivo
+sin lucro cesante
+
+        ↓
+
+JUNCALÁN
+1989
+   ↓
+criterio amplio
+admite lucro cesante
+
+        ↓
+
+EL JACARANDÁ
+2005
+   ↓
+admite en principio
+lucro cesante
+
+PERO EXIGE PRUEBA
+```
+
+---
+
+# VII · MAPA GENERAL DE LA JURISPRUDENCIA
+
+| Caso | Problema principal | Resolución relevante |
+|---|---|---|
+| Metalmecánica | Acto bilateral | Admite acto administrativo bilateral |
+| Compañía Azucarera | Acto/contrato | No hubo convenio; falta de servicio |
+| Schnaiderman | Discrecionalidad | Exige motivación |
+| Silva Tamayo | Motivación | Rechaza fórmulas genéricas |
+| Rodríguez, Nelson | Discrecionalidad | Anula por motivación insuficiente |
+| La Internacional | Notificación | Condición de eficacia |
+| Los Lagos | Nulidades | Régimen propio del Derecho Público |
+| Pustelnik | Nulidad manifiesta | Cede presunción de legitimidad |
+| Alou Hnos. | Presunción | Cede ante vicios manifiestos |
+| Carman de Cantón | Estabilidad | Límite a la revocación |
+| Furlotti | Estabilidad | Interpretación estricta |
+| Almagro | Revocación | Admite excepciones legales |
+| Motor Once | Indemnización | Criterio restrictivo |
+| Juncalán | Indemnización | Admite reparación amplia |
+| El Jacarandá | Lucro cesante | Admisible si se acredita |
+
+---
+
+# Tres líneas jurisprudenciales
+
+La jurisprudencia estudiada puede ordenarse en:
+
+## 1. VALIDEZ
+
+**Los Lagos → Pustelnik → Alou Hnos.**
+
+---
+
+## 2. MOTIVACIÓN Y DISCRECIONALIDAD
+
+**Schnaiderman → Silva Tamayo → Rodríguez, Nelson**
+
+---
+
+## 3. ESTABILIDAD Y RESPONSABILIDAD
+
+**Carman de Cantón → Furlotti → Almagro**
+
+y
+
+**Motor Once → Juncalán → El Jacarandá**
+
+---
+
+# Línea 1 · Validez
+
+```text
+LOS LAGOS
+   ↓
+autonomía de las
+nulidades administrativas
+
+PUSTELNIK
+   ↓
+vicios manifiestos
+
+ALOU HNOS.
+   ↓
+límites a la presunción
+de legitimidad
+```
+
+---
+
+# Línea 2 · Discrecionalidad
+
+```text
+POTESTAD DISCRECIONAL
+         ↓
+NO SIGNIFICA
+         ↓
+ARBITRARIEDAD
+
+SCHNAIDERMAN
+         ↓
+SILVA TAMAYO
+         ↓
+RODRÍGUEZ, NELSON
+         ↓
+MOTIVACIÓN + RAZONABILIDAD
++ CONTROL JUDICIAL
+```
+
+---
+
+# Línea 3 · Estabilidad
+
+```text
+ACTO ADMINISTRATIVO
+       ↓
+GENERA DERECHOS
+       ↓
+ESTABILIDAD
+
+pero
+
+ESTABILIDAD
+       ≠
+IRREVOCABILIDAD ABSOLUTA
+```
+
+Los casos permiten determinar:
+
+> cuándo puede la Administración volver sobre sus propios actos.
+
+---
+
+# Línea 4 · Actividad lícita
+
+La última secuencia muestra una discusión distinta:
+
+> **el acto estatal puede ser perfectamente legítimo y, sin embargo, producir un daño indemnizable.**
+
+```text
+LEGALIDAD
+    ≠
+AUSENCIA DE RESPONSABILIDAD
+```
+
+---
+
+# Caso para discutir en clase
+
+La Administración otorga a una empresa una licencia por diez años.
+
+Dos años después:
+
+- considera inconveniente mantenerla;
+- la revoca por razones de interés público;
+- la empresa había realizado inversiones;
+- demuestra gastos;
+- reclama además las ganancias que esperaba obtener durante los ocho años restantes.
+
+### Preguntas
+
+1. ¿Estamos ante revocación por ilegitimidad?
+2. ¿Es legítima la revocación por oportunidad?
+3. ¿Debe indemnizarse?
+4. ¿Qué daños?
+5. ¿Qué diferencia existe entre daño emergente y lucro cesante?
+6. ¿Qué aportan Motor Once, Juncalán y El Jacarandá?
+
+---
+
+# Resolución orientativa
+
+No estamos necesariamente ante:
+
+## un acto ilegítimo.
+
+El problema es:
+
+## REVOCACIÓN POR OPORTUNIDAD.
+
+Si la decisión estatal sacrifica derechos del particular:
+
+> aparece el deber de indemnizar.
+
+Respecto del lucro cesante, la evolución jurisprudencial estudiada muestra que:
+
+## no puede rechazarse automáticamente.
+
+Pero debe:
+
+- acreditarse;
+- existir probabilidad objetiva;
+- demostrarse relación causal.
+
+---
+
+# Pregunta final
+
+¿Qué tienen en común todos estos precedentes?
+
+## LIMITAN EL PODER ADMINISTRATIVO.
+
+No eliminan:
+
+- discrecionalidad;
+- autotutela;
+- revocación;
+- presunción de legitimidad.
+
+Pero someten esas potestades a:
+
+# LEGALIDAD
+
+# MOTIVACIÓN
+
+# RAZONABILIDAD
+
+# ESTABILIDAD
+
+# RESPONSABILIDAD
+
+# CONTROL JUDICIAL
+
+---
+
+# Cierre
+
+La jurisprudencia permite comprender que la teoría del acto administrativo no es una simple enumeración de requisitos.
+
+Es un sistema destinado a responder:
+
+> **¿bajo qué condiciones puede el Estado modificar unilateralmente la situación jurídica de las personas?**
+
+La respuesta de Balbín se construye sobre:
+
+```text
+POTESTAD ESTATAL
+        +
+ELEMENTOS REGLADOS
+        +
+MOTIVACIÓN
+        +
+RAZONABILIDAD
+        +
+ESTABILIDAD
+        +
+RESPONSABILIDAD
+        +
+CONTROL JUDICIAL
+```

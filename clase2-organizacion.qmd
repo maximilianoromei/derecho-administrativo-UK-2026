@@ -1429,6 +1429,968 @@ el tratamiento jurídico cambia.
 
 La especialización puede limitar el poder jerárquico del superior.
 
+# Tribunales administrativos
+
+## Un problema especial de competencia
+
+Hasta aquí vimos que cada órgano estatal sólo puede actuar dentro de las
+competencias que el ordenamiento jurídico le atribuye.
+
+Pero existe un supuesto particularmente problemático:
+
+## ¿PUEDE LA ADMINISTRACIÓN RESOLVER CONTROVERSIAS?
+
+Existen órganos que:
+
+- forman parte del Poder Ejecutivo;
+- no integran el Poder Judicial;
+- pero resuelven controversias entre partes.
+
+Son los denominados:
+
+## TRIBUNALES ADMINISTRATIVOS
+
+---
+
+# ¿Qué hacen los tribunales administrativos?
+
+Ejercen funciones:
+
+## MATERIALMENTE JURISDICCIONALES
+
+porque resuelven conflictos.
+
+Esos conflictos pueden producirse entre:
+
+- el Estado y los particulares;
+- particulares entre sí.
+
+::: {.idea-central}
+El órgano continúa perteneciendo a la **Administración Pública**.
+
+Lo particular es la **naturaleza material de la función que ejerce**.
+:::
+
+---
+
+# El problema constitucional
+
+El punto de partida es el:
+
+## artículo 109 de la Constitución Nacional
+
+> En ningún caso el Presidente de la Nación puede ejercer funciones judiciales,
+> arrogarse el conocimiento de causas pendientes o restablecer las fenecidas.
+
+Por lo tanto aparece una tensión:
+
+**Poder Ejecutivo**
+
+→ puede ejercer función administrativa.
+
+**Poder Judicial**
+
+→ ejerce la función judicial.
+
+::: {.pregunta}
+¿Cómo puede entonces un órgano perteneciente al Poder Ejecutivo
+resolver una controversia entre partes?
+:::
+
+---
+
+# Dos posiciones
+
+## Primera posición · criterio estricto
+
+El Poder Ejecutivo:
+
+- ejecuta las leyes;
+- reglamenta las leyes;
+- administra.
+
+Pero no puede ejercer funciones correspondientes al Poder Judicial.
+
+Esta posición encuentra fundamento, entre otros, en:
+
+- art. 18 CN;
+- art. 109 CN;
+- principio de división de poderes.
+
+---
+
+# Segunda posición · criterio flexible
+
+La división de poderes no exige una separación absolutamente rígida de funciones.
+
+Los órganos de un poder pueden ejercer, excepcionalmente:
+
+## funciones materialmente propias de otro poder.
+
+De allí surge la posibilidad de admitir:
+
+## FUNCIONES JURISDICCIONALES ADMINISTRATIVAS
+
+Pero sometidas a límites constitucionales.
+
+---
+
+# Judicial y jurisdiccional
+
+La distinción es importante.
+
+## Función jurisdiccional
+
+Supone:
+
+**resolver una controversia entre partes.**
+
+## Función judicial
+
+Supone que esa controversia sea decidida:
+
+- por un órgano judicial;
+- independiente;
+- imparcial;
+- con posibilidad de producir una decisión judicial definitiva.
+
+::: {.idea-central}
+La Administración puede ejercer ciertas funciones
+**materialmente jurisdiccionales**.
+
+Lo que no puede hacer es sustituir definitivamente al:
+
+## PODER JUDICIAL
+:::
+
+---
+
+# ¿Por qué existen tribunales administrativos?
+
+Existen razones prácticas que explican su creación.
+
+Entre ellas:
+
+1. especialización técnica;
+2. experiencia administrativa;
+3. uniformidad de criterios;
+4. gran cantidad de controversias;
+5. necesidad de respuestas más rápidas;
+6. vinculación entre regulación y resolución de conflictos.
+
+Pero estas ventajas:
+
+## NO RESUELVEN POR SÍ SOLAS
+
+el problema constitucional.
+
+---
+
+# Un ejemplo importante
+
+## Entes reguladores
+
+La cuestión adquirió particular relevancia con los entes reguladores de servicios públicos.
+
+Estos organismos pueden ejercer funciones de:
+
+- regulación;
+- fiscalización;
+- control;
+- sanción;
+
+y, en determinados casos:
+
+## RESOLUCIÓN DE CONTROVERSIAS.
+
+---
+
+# El ENRE
+
+La Ley 24.065 atribuyó al ente regulador competencias respecto de determinadas
+controversias vinculadas con el mercado eléctrico.
+
+Por ejemplo, conflictos entre:
+
+- generadores;
+- transportistas;
+- distribuidores;
+- grandes usuarios.
+
+Tenemos entonces:
+
+## UN ÓRGANO ADMINISTRATIVO
+
+que puede resolver determinadas controversias.
+
+La cuestión constitucional pasa a ser inevitable.
+
+---
+
+# La pregunta
+
+::: {.pregunta}
+¿Es constitucional que un órgano perteneciente al Poder Ejecutivo
+resuelva controversias?
+
+¿O toda controversia debe ser decidida exclusivamente por el
+Poder Judicial?
+:::
+
+La Corte Suprema respondió progresivamente esta cuestión.
+
+---
+
+# CSJN · Fernández Arias
+
+## 1960
+
+Es el precedente fundamental para comenzar a estudiar el problema.
+
+La Corte admitió que órganos administrativos puedan ejercer:
+
+## FUNCIONES JURISDICCIONALES
+
+pero estableció una condición fundamental:
+
+# CONTROL JUDICIAL SUFICIENTE
+
+---
+
+# Fernández Arias
+
+El problema no consiste solamente en preguntar:
+
+## ¿EXISTE UN RECURSO JUDICIAL?
+
+También debemos preguntar:
+
+## ¿QUÉ PUEDE REVISAR EL JUEZ?
+
+Porque una revisión judicial meramente formal puede resultar insuficiente.
+
+---
+
+# ¿Qué debe poder controlar el juez?
+
+El control judicial debe comprender suficientemente:
+
+- el derecho;
+- los hechos;
+- la prueba.
+
+Por lo tanto:
+
+## DECISIÓN ADMINISTRATIVA
+
+↓
+
+## CONTROL JUDICIAL
+
+↓
+
+## DERECHO + HECHOS + PRUEBA
+
+---
+
+# El problema en Fernández Arias
+
+El régimen cuestionado contemplaba una posibilidad de revisión judicial.
+
+Pero esa revisión era:
+
+## INSUFICIENTE.
+
+No permitía un examen judicial amplio de:
+
+- los hechos;
+- las pruebas;
+- todos los aspectos relevantes de la controversia.
+
+::: {.idea-central}
+No alcanza con que exista formalmente un recurso.
+
+El control debe ser:
+
+## SUFICIENTE.
+:::
+
+---
+
+# La regla de Fernández Arias
+
+La Corte no dijo:
+
+> todo tribunal administrativo es inconstitucional.
+
+La regla fue diferente:
+
+## la jurisdicción administrativa puede admitirse
+
+si existe posteriormente:
+
+# CONTROL JUDICIAL SUFICIENTE.
+
+---
+
+# Una distinción fundamental
+
+## CONTROL JUDICIAL FORMAL
+
+No necesariamente satisface la Constitución.
+
+## CONTROL JUDICIAL SUFICIENTE
+
+Permite al Poder Judicial revisar efectivamente la decisión administrativa.
+
+::: {.pregunta}
+Si el juez puede revisar el derecho pero no puede revisar los hechos
+ni la prueba:
+
+¿existe un control judicial suficiente?
+:::
+
+## Fernández Arias → NO.
+
+---
+
+# La evolución jurisprudencial
+
+La doctrina de **Fernández Arias** no terminó en 1960.
+
+Décadas después la Corte volvió sobre el problema en:
+
+# ÁNGEL ESTRADA
+
+## CSJN · 2005
+
+---
+
+# Ángel Estrada
+
+El caso involucraba al:
+
+## ENRE
+
+y planteaba hasta dónde llegaban sus competencias para resolver controversias entre:
+
+- usuarios;
+- distribuidoras eléctricas.
+
+El problema ya no era solamente:
+
+## ¿PUEDE JUZGAR LA ADMINISTRACIÓN?
+
+Ahora aparecía otra pregunta:
+
+## ¿QUÉ PUEDE JUZGAR?
+
+---
+
+# La cuestión
+
+Una cosa es atribuir al ENRE competencia para resolver cuestiones relacionadas con:
+
+- regulación eléctrica;
+- calidad del servicio;
+- obligaciones regulatorias;
+- cuestiones técnicas propias del sector.
+
+Otra distinta es permitirle resolver:
+
+## cualquier controversia
+
+que involucre a una empresa eléctrica.
+
+---
+
+# Daños y perjuicios
+
+El problema concreto alcanzaba las controversias sobre:
+
+# RESPONSABILIDAD POR DAÑOS Y PERJUICIOS
+
+fundadas en reglas del derecho común.
+
+::: {.pregunta}
+¿La especialización técnica del ENRE en materia eléctrica significa que
+puede resolver cualquier conflicto entre una distribuidora y un usuario?
+:::
+
+---
+
+# Respuesta de la Corte
+
+## NO.
+
+La atribución de facultades jurisdiccionales a órganos administrativos debe interpretarse:
+
+# RESTRICTIVAMENTE.
+
+La jurisdicción administrativa constituye una situación excepcional.
+
+Por eso:
+
+## NO PUEDE PRESUMIRSE.
+
+---
+
+# Ángel Estrada · regla de competencia
+
+Esto conecta directamente con lo que estudiamos sobre competencia.
+
+El órgano administrativo necesita:
+
+## HABILITACIÓN LEGAL
+
+para ejercer la potestad.
+
+Y cuando se trata de facultades jurisdiccionales:
+
+## la interpretación debe ser restrictiva.
+
+---
+
+# Especialización no significa competencia universal
+
+El ENRE posee:
+
+## ESPECIALIZACIÓN EN REGULACIÓN ELÉCTRICA.
+
+Pero:
+
+## ESPECIALIZACIÓN TÉCNICA
+
+**no equivale a**
+
+## COMPETENCIA JURISDICCIONAL GENERAL.
+
+La competencia debe mantenerse dentro de los límites fijados por el ordenamiento.
+
+---
+
+# Requisitos
+
+La doctrina permite identificar varios recaudos para admitir el ejercicio
+de funciones jurisdiccionales por órganos administrativos.
+
+## 1 · Base legal
+
+La atribución debe tener fundamento suficiente en:
+
+## LA LEY.
+
+---
+
+# Segundo requisito
+
+## INDEPENDENCIA E IMPARCIALIDAD
+
+El órgano que decide la controversia debe reunir condiciones adecuadas de:
+
+- independencia;
+- imparcialidad.
+
+No basta con que posea:
+
+## CONOCIMIENTO TÉCNICO.
+
+---
+
+# Tercer requisito
+
+## FINALIDAD RAZONABLE
+
+La atribución de funciones jurisdiccionales debe responder a una finalidad que justifique:
+
+## la intervención especializada de la Administración.
+
+Por ejemplo:
+
+- complejidad técnica;
+- especialización;
+- eficiencia;
+- características particulares del sector regulado.
+
+---
+
+# Cuarto requisito
+
+## COMPETENCIA DELIMITADA
+
+La Administración no recibe:
+
+## PODER GENERAL DE JUZGAR.
+
+Sólo puede decidir las controversias comprendidas dentro de:
+
+## LA COMPETENCIA LEGALMENTE ATRIBUIDA.
+
+---
+
+# Quinto requisito
+
+Se mantiene la exigencia central de:
+
+# FERNÁNDEZ ARIAS
+
+Debe existir:
+
+# CONTROL JUDICIAL AMPLIO Y SUFICIENTE.
+
+---
+
+# Entonces
+
+La Administración puede:
+
+## resolver inicialmente una controversia.
+
+Pero no puede:
+
+## excluir al Poder Judicial.
+
+La decisión administrativa debe permanecer sometida a una revisión judicial suficiente.
+
+---
+
+# Después de Ángel Estrada
+
+La cuestión volvió a plantearse respecto del propio ENRE.
+
+## Plenario Edesur
+
+### 2011
+
+La Cámara Nacional de Apelaciones en lo Contencioso Administrativo Federal
+analizó específicamente la posibilidad de determinar:
+
+## DAÑO EMERGENTE.
+
+---
+
+# Edesur
+
+El tribunal admitió, en determinadas condiciones, que el ENRE pudiera
+determinar el valor del daño emergente cuando el usuario acudiera voluntariamente
+a esa vía.
+
+Por ejemplo:
+
+## CORTE DE ENERGÍA
+
+↓
+
+## ELECTRODOMÉSTICO DAÑADO
+
+↓
+
+## DETERMINACIÓN DE SU VALOR
+
+---
+
+# ¿Contradice Ángel Estrada?
+
+## No necesariamente.
+
+**Ángel Estrada**
+
+→ rechaza una competencia general del ENRE para resolver pretensiones de
+daños y perjuicios regidas por el derecho común.
+
+**Edesur**
+
+→ admite una intervención más acotada respecto del daño emergente concreto.
+
+La diferencia está nuevamente en:
+
+# EL ALCANCE DE LA COMPETENCIA.
+
+---
+
+# Un nuevo capítulo
+
+La discusión volvió a la Corte Suprema en:
+
+# POGONZA
+
+## CSJN · 2021
+
+Esta vez el problema no involucraba servicios públicos.
+
+Involucraba:
+
+## COMISIONES MÉDICAS
+
+del sistema de riesgos del trabajo.
+
+---
+
+# Pogonza
+
+La legislación establecía una instancia administrativa para resolver determinadas
+controversias vinculadas con:
+
+## RIESGOS DEL TRABAJO.
+
+Nuevamente:
+
+::: {.pregunta}
+¿Puede obligarse al particular a acudir inicialmente ante un órgano
+administrativo que resolverá una controversia?
+:::
+
+---
+
+# La respuesta
+
+La Corte consideró constitucional el sistema analizado.
+
+Pero la respuesta dependió del cumplimiento de determinados:
+
+# REQUISITOS.
+
+Pogonza permite observar con claridad la evolución iniciada en:
+
+**Fernández Arias**
+
+y continuada por:
+
+**Ángel Estrada**.
+
+---
+
+# Pogonza · primer requisito
+
+## LEY FORMAL
+
+Las comisiones médicas habían sido creadas por ley.
+
+Además:
+
+## SU COMPETENCIA
+
+para intervenir en esas controversias también tenía fundamento legal.
+
+---
+
+# Segundo requisito
+
+## INDEPENDENCIA E IMPARCIALIDAD
+
+Las comisiones debían satisfacer las exigencias de:
+
+- independencia;
+- imparcialidad;
+
+en relación con:
+
+## LA MATERIA ESPECÍFICA
+
+sobre la que debían intervenir.
+
+---
+
+# Tercer requisito
+
+## FINALIDAD RAZONABLE
+
+El sistema perseguía una finalidad vinculada con:
+
+- rapidez;
+- especialización;
+- criterios estandarizados;
+- acceso a prestaciones;
+- disminución de costos y tiempos.
+
+La creación de la instancia administrativa tenía entonces:
+
+## UNA JUSTIFICACIÓN RAZONABLE.
+
+---
+
+# Cuarto requisito
+
+## COMPETENCIA ESPECÍFICA Y ACOTADA
+
+La intervención administrativa estaba vinculada con una:
+
+## MATERIA ESPECIALIZADA.
+
+No se reconocía a las comisiones médicas:
+
+## UNA POTESTAD GENERAL DE JUZGAR.
+
+---
+
+# Quinto requisito
+
+Finalmente reaparece la exigencia decisiva:
+
+# CONTROL JUDICIAL AMPLIO.
+
+La decisión administrativa podía ser sometida posteriormente al:
+
+## PODER JUDICIAL.
+
+---
+
+# ¿Qué significa control amplio?
+
+El juez debe poder controlar:
+
+- el derecho;
+- los hechos;
+- la prueba;
+- las cuestiones técnicas relevantes.
+
+Por eso:
+
+## EL TRIBUNAL ADMINISTRATIVO PUEDE DECIDIR PRIMERO
+
+pero:
+
+# NO TIENE LA ÚLTIMA PALABRA JUDICIAL.
+
+---
+
+# Evolución jurisprudencial
+
+## Fernández Arias · 1960
+
+Admite jurisdicción administrativa.
+
+↓
+
+Exige:
+
+## CONTROL JUDICIAL SUFICIENTE.
+
+↓
+
+## Ángel Estrada · 2005
+
+Mantiene la doctrina.
+
+↓
+
+Agrega especial énfasis en:
+
+- interpretación restrictiva;
+- competencia material delimitada;
+- independencia;
+- imparcialidad.
+
+↓
+
+## Pogonza · 2021
+
+Aplica y sistematiza los recaudos de constitucionalidad.
+
+---
+
+# El test
+
+Ante un tribunal administrativo debemos preguntar:
+
+## 1
+
+¿Existe una:
+
+### BASE LEGAL SUFICIENTE?
+
+## 2
+
+¿El órgano reúne condiciones de:
+
+### INDEPENDENCIA E IMPARCIALIDAD?
+
+## 3
+
+¿La atribución responde a una:
+
+### FINALIDAD RAZONABLE?
+
+## 4
+
+¿Su competencia se encuentra:
+
+### MATERIALMENTE DELIMITADA?
+
+## 5
+
+¿Existe posteriormente:
+
+# CONTROL JUDICIAL AMPLIO Y SUFICIENTE?
+
+---
+
+# Caso para discutir
+
+Una ley crea la:
+
+## Agencia Nacional de Servicios Digitales
+
+y establece que resolverá las controversias entre:
+
+- plataformas digitales;
+- usuarios.
+
+La Agencia:
+
+- fue creada por ley;
+- cuenta con especialistas;
+- recibe prueba;
+- celebra audiencias;
+- dicta decisiones obligatorias.
+
+Pero la ley agrega:
+
+> Las decisiones de la Agencia serán definitivas y no podrán ser
+> revisadas judicialmente.
+
+::: {.pregunta}
+## ¿Es constitucional?
+:::
+
+---
+
+# Aplicación de Fernández Arias
+
+El problema no consiste necesariamente en que:
+
+## LA ADMINISTRACIÓN RESUELVA.
+
+El problema decisivo es que:
+
+## SU DECISIÓN SEA IRREVISABLE.
+
+Falta el requisito fundamental:
+
+# CONTROL JUDICIAL SUFICIENTE.
+
+---
+
+# Segundo caso
+
+La Agencia puede resolver cuestiones sobre:
+
+- facturación;
+- calidad del servicio;
+- cumplimiento de estándares técnicos.
+
+Pero decide condenar a una plataforma a pagar:
+
+## DAÑO MORAL
+
+por el perjuicio sufrido por un usuario.
+
+::: {.pregunta}
+¿Qué debemos analizar?
+:::
+
+---
+
+# Aplicación de Ángel Estrada
+
+La pregunta pasa a ser:
+
+## ¿ESA MATERIA ESTÁ COMPRENDIDA EN SU COMPETENCIA?
+
+No alcanza con afirmar:
+
+> “La Agencia regula plataformas digitales”.
+
+Debemos determinar:
+
+## qué competencia jurisdiccional le atribuyó concretamente la ley.
+
+---
+
+# Síntesis
+
+## TRIBUNALES ADMINISTRATIVOS
+
+Pueden ejercer:
+
+### FUNCIONES MATERIALMENTE JURISDICCIONALES.
+
+Pero esa posibilidad es:
+
+## EXCEPCIONAL
+
+y exige:
+
+- base legal;
+- competencia delimitada;
+- independencia;
+- imparcialidad;
+- finalidad razonable;
+- control judicial amplio.
+
+---
+
+# Regla para recordar
+
+## ADMINISTRACIÓN
+
+puede resolver determinadas controversias
+
+↓
+
+## COMPETENCIA LEGAL Y RESTRICTIVA
+
+↓
+
+puede existir una decisión administrativa inicial
+
+↓
+
+## CONTROL JUDICIAL AMPLIO
+
+↓
+
+# EL PODER JUDICIAL CONSERVA LA REVISIÓN FINAL
+
+---
+
+# Conexión con esta clase
+
+Este problema reúne varios conceptos que estudiamos hoy.
+
+## ÓRGANO
+
+El tribunal administrativo forma parte de la organización administrativa.
+
+## COMPETENCIA
+
+Sólo puede ejercer las potestades atribuidas por el ordenamiento.
+
+## ESPECIALIDAD
+
+La materia especializada delimita su campo de actuación.
+
+## IMPARCIALIDAD
+
+Condiciona la legitimidad de la función jurisdiccional.
+
+## CONTROL JUDICIAL
+
+Preserva las garantías constitucionales y la división de poderes.
+
+---
+
+# Pregunta final
+
+::: {.pregunta}
+¿El problema constitucional está en que la Administración
+**resuelva inicialmente** una controversia...
+
+o en que pretenda resolverla de manera
+
+## DEFINITIVA E IRREVISABLE?
+:::
+
 # 6 · Jerarquía
 
 ## Concepto

@@ -1,0 +1,977 @@
+---
+title: "Derecho Administrativo"
+subtitle: "Jurisprudencia · Presunción de legitimidad"
+author: "Prof. Maximiliano Romei"
+
+format:
+  revealjs:
+    slide-level: 1
+    slide-number: true
+    scrollable: true
+    hash: true
+    transition: slide
+    navigation-mode: linear
+    width: 1600
+    height: 900
+    center: false
+    controls: true
+    progress: true
+    css: styles.css
+
+lang: es
+---
+
+# Jurisprudencia sobre la presunción de legitimidad
+
+## CSJN · “Los Lagos” y “Pustelnik”
+
+### Dos precedentes fundamentales en la construcción del régimen del acto administrativo
+
+**Objetivo de la clase**
+
+Analizar cómo la Corte Suprema construyó y posteriormente precisó la **presunción de legitimidad del acto administrativo**.
+
+---
+
+# 1 · “Los Lagos” · Los hechos del caso
+
+## CSJN, “Los Lagos S.A. Ganadera c. Gobierno Nacional” (1941)
+
+El conflicto se originó en una serie de actos administrativos vinculados con:
+
+## tierras fiscales ubicadas en el sur del país.
+
+La Administración había realizado actos de disposición sobre esas tierras.
+
+Posteriormente, el propio Estado cuestionó la validez de aquellas decisiones.
+
+La controversia llegó a la Corte Suprema.
+
+---
+
+# 2 · “Los Lagos” · El problema de fondo
+
+El caso presentaba una cuestión que excedía ampliamente el conflicto patrimonial concreto:
+
+> **¿Qué régimen jurídico debe aplicarse para determinar la validez o invalidez de un acto administrativo?**
+
+En ese momento no existía todavía la Ley Nacional de Procedimientos Administrativos 19.549.
+
+La Corte debía construir judicialmente una:
+
+## TEORÍA DE LAS NULIDADES ADMINISTRATIVAS.
+
+---
+
+# 3 · “Los Lagos” · El problema jurídico
+
+La cuestión podía plantearse de este modo:
+
+```text
+ACTO DICTADO POR EL ESTADO
+          ↓
+POSIBLE ILEGALIDAD
+          ↓
+¿QUÉ RÉGIMEN DE NULIDADES APLICAMOS?
+```
+
+Una posibilidad era trasladar directamente las categorías del:
+
+## DERECHO CIVIL.
+
+La Corte rechazó una aplicación mecánica de esas reglas.
+
+---
+
+# 4 · “Los Lagos” · Derecho público y derecho privado
+
+La Corte comenzó a construir una doctrina fundamental:
+
+> **la teoría de las nulidades de los actos administrativos presenta particularidades propias del Derecho Público.**
+
+Esto significa que:
+
+```text
+NULIDAD CIVIL
+      ≠
+NULIDAD ADMINISTRATIVA
+```
+
+Las categorías del Derecho Privado podían servir como referencia.
+
+Pero no podían trasladarse automáticamente al:
+
+## ACTO ADMINISTRATIVO.
+
+---
+
+# 5 · “Los Lagos” · ¿Por qué un régimen diferente?
+
+Porque el acto administrativo no es simplemente:
+
+> un acto jurídico realizado por una persona particular.
+
+Es una decisión adoptada por:
+
+## EL ESTADO
+
+en ejercicio de potestades públicas.
+
+Por ello, la Corte consideró necesario tener en cuenta las características propias de la:
+
+## ACTIVIDAD ADMINISTRATIVA.
+
+---
+
+# 6 · “Los Lagos” · La presunción de validez
+
+A partir de allí aparece una regla fundamental.
+
+Los actos estatales poseen una:
+
+# PRESUNCIÓN DE VALIDEZ
+
+La Administración no necesita obtener previamente una sentencia judicial que declare válido cada acto que dicta.
+
+Como principio:
+
+```text
+ACTO ADMINISTRATIVO
+        ↓
+SE PRESUME VÁLIDO
+```
+
+---
+
+# 7 · “Los Lagos” · ¿Qué significa presumir?
+
+La presunción no significa que:
+
+## todos los actos administrativos sean efectivamente legítimos.
+
+Un acto puede estar viciado.
+
+Lo que significa es que:
+
+> **el ordenamiento parte inicialmente de su validez mientras esa presunción no sea destruida.**
+
+Por ello existe una diferencia entre:
+
+```text
+VALIDEZ REAL DEL ACTO
+```
+
+y
+
+```text
+PRESUNCIÓN DE VALIDEZ
+```
+
+---
+
+# 8 · “Los Lagos” · Consecuencia procesal
+
+La construcción tiene una consecuencia muy importante.
+
+Si el particular considera que el acto es ilegítimo:
+
+## debe impugnarlo.
+
+La mera afirmación de que el acto es inválido no hace desaparecer sus efectos.
+
+La lógica es:
+
+```text
+ACTO ADMINISTRATIVO
+        ↓
+PRESUNCIÓN DE VALIDEZ
+        ↓
+IMPUGNACIÓN DEL PARTICULAR
+        ↓
+CONTROL DE LEGITIMIDAD
+```
+
+---
+
+# 9 · “Los Lagos” · Nulidad absoluta
+
+La Corte admitió incluso que un acto administrativo podía estar afectado por:
+
+## NULIDAD ABSOLUTA.
+
+Pero, en la construcción de “Los Lagos”, la nulidad administrativa no era considerada:
+
+## MANIFIESTA.
+
+¿Por qué?
+
+Precisamente por la:
+
+# PRESUNCIÓN DE VALIDEZ.
+
+---
+
+# 10 · “Los Lagos” · El juez
+
+De esa construcción se desprendía otra consecuencia.
+
+Si las nulidades administrativas no eran manifiestas:
+
+> **el juez no podía declarar de oficio la nulidad del acto administrativo.**
+
+Era necesario que la invalidez:
+
+- fuese planteada;
+- fuese discutida;
+- fuese acreditada en el proceso.
+
+---
+
+# 11 · “Los Lagos” · El esquema de la Corte
+
+```text
+ACTO ADMINISTRATIVO
+        ↓
+PRESUNCIÓN DE VALIDEZ
+        ↓
+PUEDE ESTAR VICIADO
+        ↓
+PERO LA NULIDAD
+NO SE CONSIDERA MANIFIESTA
+        ↓
+DEBE SER IMPUGNADA
+        ↓
+EL JUEZ NO LA DECLARA
+DE OFICIO
+```
+
+---
+
+# 12 · “Los Lagos” · La importancia histórica
+
+“Los Lagos” es anterior a:
+
+## la Ley 19.549.
+
+Por eso su importancia es particularmente grande.
+
+La Corte estaba construyendo jurisprudencialmente categorías que posteriormente serían reguladas legislativamente.
+
+Entre ellas:
+
+- acto administrativo;
+- nulidades administrativas;
+- presunción de legitimidad;
+- control judicial del acto.
+
+---
+
+# 13 · “Los Lagos” · Una aclaración conceptual
+
+La presunción es una:
+
+## PRESUNCIÓN JURÍDICA.
+
+No significa:
+
+> “la Administración siempre actúa correctamente”.
+
+Tampoco significa:
+
+> “el acto administrativo no puede ser anulado”.
+
+Significa que el acto ingresa al ordenamiento con una:
+
+## APARIENCIA JURÍDICA DE VALIDEZ.
+
+---
+
+# 14 · “Los Lagos” · ¿Para qué sirve?
+
+La explicación está vinculada con el funcionamiento mismo de la Administración.
+
+Si cada acto estatal necesitara previamente una declaración judicial de validez:
+
+```text
+ADMINISTRACIÓN
+      ↓
+DICTA ACTO
+      ↓
+NECESITA SENTENCIA
+      ↓
+RECIÉN PUEDE ACTUAR
+```
+
+el ejercicio ordinario de la función administrativa sería extremadamente dificultoso.
+
+---
+
+# 15 · “Los Lagos” · La prerrogativa administrativa
+
+La presunción de legitimidad forma parte de una posición jurídica particular de la Administración.
+
+El Estado dicta unilateralmente:
+
+## ACTOS ADMINISTRATIVOS.
+
+Y esos actos ingresan al mundo jurídico revestidos de:
+
+## PRESUNCIÓN DE LEGITIMIDAD.
+
+Pero esa prerrogativa:
+
+## NO ELIMINA EL CONTROL JUDICIAL.
+
+---
+
+# 16 · “Los Lagos” · El particular
+
+El destinatario conserva la posibilidad de:
+
+- cuestionar el acto;
+- alegar sus vicios;
+- solicitar su nulidad;
+- obtener control judicial.
+
+Por tanto:
+
+```text
+PRESUNCIÓN DE LEGITIMIDAD
+          ≠
+INMUNIDAD JUDICIAL
+```
+
+---
+
+# 17 · “Los Lagos” · La tensión
+
+El precedente intenta resolver una tensión característica del Derecho Administrativo:
+
+| Necesidad estatal | Garantía del particular |
+|---|---|
+| eficacia administrativa | control de legalidad |
+| presunción de validez | derecho de impugnación |
+| continuidad de la actividad estatal | tutela judicial |
+| autoridad | juridicidad |
+
+La presunción intenta compatibilizar:
+
+## EFICACIA + LEGALIDAD.
+
+---
+
+# 18 · “Los Lagos” · La regla que debemos recordar
+
+Para Balbín, “Los Lagos” permite identificar cuatro afirmaciones de la Corte:
+
+1. la teoría de las nulidades administrativas es autónoma respecto del Derecho Privado;
+2. los actos estatales gozan de presunción de validez;
+3. las nulidades administrativas no son consideradas manifiestas;
+4. aun ante una nulidad absoluta, el juez no puede declararla de oficio.
+
+---
+
+# 19 · “Los Lagos” · Relevancia para la presunción de legitimidad
+
+## ¿Qué aporta el precedente?
+
+Construye una versión:
+
+# FUERTE
+
+de la presunción de legitimidad.
+
+El punto de partida es:
+
+> **el acto administrativo se presume válido.**
+
+La eventual existencia de un vicio no elimina automáticamente esa presunción.
+
+---
+
+# 20 · “Los Lagos” · Resolución judicial y legado
+
+## RESOLUCIÓN / DOCTRINA JUDICIAL RELEVANTE
+
+La Corte construyó un régimen propio de nulidades administrativas y reconoció como principio:
+
+# LA PRESUNCIÓN DE VALIDEZ DE LOS ACTOS ESTATALES.
+
+En ese esquema, incluso la nulidad absoluta:
+
+- no era considerada manifiesta;
+- debía ser planteada por quien cuestionaba el acto;
+- no podía ser declarada de oficio por el juez.
+
+### Para recordar
+
+```text
+“LOS LAGOS”
+      ↓
+ACTO ADMINISTRATIVO
+      ↓
+PRESUNCIÓN DE VALIDEZ
+      ↓
+NULIDAD NO MANIFIESTA
+      ↓
+NECESIDAD DE IMPUGNACIÓN
+```
+
+---
+
+# “PUSTELNIK” (1975)
+
+## De la afirmación de la presunción a la construcción de sus límites
+
+Ahora veremos qué ocurre cuando la ilegalidad del acto:
+
+# ES EVIDENTE Y MANIFIESTA.
+
+---
+
+# 1 · “Pustelnik” · Los hechos del caso
+
+## CSJN, “Pustelnik” (1975)
+
+El conflicto se produjo a raíz de una:
+
+## AUTORIZACIÓN MUNICIPAL PARA CONSTRUIR.
+
+La autoridad administrativa había autorizado un proyecto edilicio en:
+
+## Palermo Chico, Ciudad de Buenos Aires.
+
+Posteriormente, la propia Municipalidad decidió dejar sin efecto aquella autorización.
+
+---
+
+# 2 · “Pustelnik” · El acto originario
+
+La Secretaría de Obras Públicas había autorizado la construcción de:
+
+## un edificio en torre.
+
+El proyecto se encontraba en la zona de Palermo Chico.
+
+Por tanto, existía inicialmente:
+
+```text
+SOLICITUD DEL PARTICULAR
+        ↓
+INTERVENCIÓN ADMINISTRATIVA
+        ↓
+AUTORIZACIÓN PARA CONSTRUIR
+        ↓
+SITUACIÓN JURÍDICA FAVORABLE
+```
+
+---
+
+# 3 · “Pustelnik” · El cambio de criterio
+
+Posteriormente, la Municipalidad cambió su posición.
+
+El Intendente dictó una decisión que:
+
+## dejó sin efecto la autorización.
+
+Además, se exigió la adecuación del proyecto a las normas urbanísticas que la Administración consideraba aplicables.
+
+El conflicto llegó a la Justicia.
+
+---
+
+# 4 · “Pustelnik” · La verdadera pregunta
+
+La cuestión no consistía simplemente en decidir:
+
+> **¿puede la Municipalidad impedir una construcción?**
+
+El verdadero problema era:
+
+> **¿cuál era la naturaleza jurídica de la autorización que la propia Administración había otorgado?**
+
+¿Era un acto:
+
+## REGULAR
+
+o
+
+## IRREGULAR?
+
+---
+
+# 5 · “Pustelnik” · ¿Por qué importa?
+
+Porque la respuesta condicionaba la posibilidad de revocarlo.
+
+Si la autorización era:
+
+## ILEGÍTIMA DE MODO MANIFIESTO
+
+podía considerarse un acto irregular.
+
+Pero si no existía una ilegalidad evidente:
+
+## no podía calificárselo simplemente como irregular.
+
+---
+
+# 6 · “Pustelnik” · La posición de la Cámara
+
+La Cámara había considerado que la autorización originaria presentaba:
+
+## ILEGITIMIDAD.
+
+Desde esa perspectiva:
+
+```text
+AUTORIZACIÓN
+      ↓
+ACTO ILEGÍTIMO
+      ↓
+REVOCACIÓN
+POR ILEGITIMIDAD
+```
+
+La Administración estaría simplemente eliminando un acto contrario al ordenamiento.
+
+---
+
+# 7 · “Pustelnik” · La Corte cambia el enfoque
+
+La Corte Suprema no aceptó esa caracterización.
+
+El punto central fue que la supuesta invalidez de la autorización:
+
+## NO ERA EVIDENTE Y MANIFIESTA.
+
+La determinación de su eventual ilegalidad exigía:
+
+- analizar las normas;
+- interpretarlas;
+- establecer su alcance;
+- relacionarlas con el proyecto autorizado.
+
+---
+
+# 8 · “Pustelnik” · Apariencia de legitimidad
+
+La autorización presentaba:
+
+# APARIENCIA DE LEGITIMIDAD.
+
+Esto resulta decisivo.
+
+Si para descubrir el supuesto vicio es necesario realizar una interpretación jurídica:
+
+> **no estamos necesariamente ante una invalidez manifiesta.**
+
+---
+
+# 9 · “Pustelnik” · La regla sobre la presunción
+
+La Corte formula entonces una regla fundamental:
+
+> **la presunción de legitimidad no puede constituirse frente a actos que presentan una invalidez evidente y manifiesta.**
+
+La frase contiene:
+
+## LA REGLA
+
+y también:
+
+## SU LÍMITE.
+
+---
+
+# 10 · “Pustelnik” · La regla general
+
+Como principio:
+
+```text
+ACTO ADMINISTRATIVO
+        ↓
+PRESUNCIÓN DE LEGITIMIDAD
+```
+
+El Estado no debe demostrar previamente la validez de cada acto.
+
+El particular que pretende desplazarlo debe:
+
+## CUESTIONAR SU LEGITIMIDAD.
+
+---
+
+# 11 · “Pustelnik” · La excepción
+
+Pero imaginemos un acto cuyo vicio surge de manera:
+
+- evidente;
+- clara;
+- manifiesta.
+
+En ese supuesto:
+
+```text
+ACTO
+   +
+INVALIDEZ MANIFIESTA
+        ↓
+NO PUEDE CONSTITUIRSE
+LA PRESUNCIÓN
+DE LEGITIMIDAD
+```
+
+---
+
+# 12 · “Pustelnik” · Ejemplo didáctico
+
+## Supuesto A
+
+Un órgano dicta un acto dentro de una cuestión jurídicamente discutible.
+
+Para establecer el vicio necesitamos:
+
+- interpretar varias normas;
+- reconstruir antecedentes;
+- resolver distintas interpretaciones posibles.
+
+### No existe necesariamente una invalidez manifiesta.
+
+---
+
+## Supuesto B
+
+El vicio resulta evidente de la simple confrontación entre:
+
+```text
+ACTO
+  +
+NORMA APLICABLE
+```
+
+### Estamos frente a una invalidez manifiesta.
+
+---
+
+# 13 · “Pustelnik” · Dos clasificaciones diferentes
+
+El fallo es útil para no confundir:
+
+## GRAVEDAD DEL VICIO
+
+con:
+
+## CARÁCTER MANIFIESTO DEL VICIO.
+
+Primera clasificación:
+
+- nulidad absoluta;
+- nulidad relativa.
+
+Segunda clasificación:
+
+- nulidad manifiesta;
+- nulidad no manifiesta.
+
+---
+
+# 14 · “Pustelnik” · ¿Son lo mismo?
+
+## NO.
+
+```text
+ABSOLUTA / RELATIVA
+        ↓
+GRAVEDAD JURÍDICA
+DEL VICIO
+```
+
+Mientras que:
+
+```text
+MANIFIESTA / NO MANIFIESTA
+        ↓
+EVIDENCIA
+DEL VICIO
+```
+
+Por eso no debemos utilizar ambas clasificaciones como sinónimos.
+
+---
+
+# 15 · “Pustelnik” · Acto regular
+
+Esta cuestión ayuda a comprender otra categoría.
+
+## ACTO REGULAR
+
+En el esquema explicado por Balbín, comprende:
+
+- el acto legítimo;
+- el acto ilegítimo afectado por nulidad relativa.
+
+Por tanto:
+
+> **regular no significa necesariamente perfectamente válido.**
+
+Puede existir un acto regular que presente un vicio.
+
+---
+
+# 16 · “Pustelnik” · Acto irregular
+
+En cambio:
+
+## ACTO IRREGULAR
+
+es el acto afectado por:
+
+# NULIDAD ABSOLUTA.
+
+La LPA establece actualmente que:
+
+> el acto administrativo de alcance particular afectado de nulidad absoluta se considera irregular.
+
+Esta diferencia tiene consecuencias fundamentales respecto de su:
+
+## REVOCACIÓN.
+
+---
+
+# 17 · “Pustelnik” · Aplicación al caso
+
+Volvamos al permiso de construcción.
+
+La Corte no encontró una:
+
+## ILEGALIDAD MANIFIESTA
+
+que permitiera tratar la autorización originaria como un acto irregular en los términos pretendidos.
+
+Por ello, el razonamiento:
+
+```text
+EL PERMISO ES ILEGÍTIMO
+        ↓
+ES IRREGULAR
+        ↓
+LO REVOCO POR ILEGITIMIDAD
+```
+
+no podía sostenerse de ese modo.
+
+---
+
+# 18 · “Pustelnik” · Revocación por oportunidad
+
+La extinción del acto debía ser analizada desde otro fundamento:
+
+# OPORTUNIDAD, MÉRITO O CONVENIENCIA.
+
+La diferencia es enorme.
+
+```text
+ILEGITIMIDAD
+      ↓
+EL PROBLEMA ESTÁ
+EN LA VALIDEZ DEL ACTO
+```
+
+Frente a:
+
+```text
+OPORTUNIDAD
+      ↓
+EL ACTO NO ES ELIMINADO
+POR SU ILEGALIDAD
+      ↓
+EL ESTADO CAMBIA
+SU VALORACIÓN
+```
+
+---
+
+# 19 · “Pustelnik” · Relevancia para la presunción de legitimidad
+
+“Pustelnik” introduce una precisión fundamental respecto de la construcción de “Los Lagos”.
+
+## “Los Lagos”
+
+```text
+ACTO ADMINISTRATIVO
+        ↓
+PRESUNCIÓN DE VALIDEZ
+```
+
+## “Pustelnik”
+
+```text
+ACTO ADMINISTRATIVO
+        ↓
+PRESUNCIÓN DE LEGITIMIDAD
+
+        PERO
+
+INVALIDEZ EVIDENTE
+Y MANIFIESTA
+        ↓
+LA PRESUNCIÓN
+NO PUEDE CONSTITUIRSE
+```
+
+La presunción:
+
+# NO ES ABSOLUTA.
+
+---
+
+# 20 · “Pustelnik” · Resolución judicial
+
+## ¿QUÉ RESOLVIÓ LA CORTE?
+
+La Corte rechazó la caracterización según la cual la autorización originaria debía considerarse simplemente un acto irregular por ilegitimidad manifiesta.
+
+La autorización:
+
+- no exhibía una invalidez evidente y manifiesta;
+- conservaba apariencia de legitimidad;
+- no podía ser tratada como un acto irregular sobre esa base.
+
+La decisión administrativa debía encuadrarse como una:
+
+# REVOCACIÓN POR RAZONES DE OPORTUNIDAD, MÉRITO O CONVENIENCIA
+
+con las consecuencias jurídicas propias de ese tipo de extinción.
+
+### Regla jurisprudencial fundamental
+
+> **La presunción de legitimidad del acto administrativo no puede constituirse cuando la invalidez es evidente y manifiesta.**
+
+---
+
+# Comparación final · “Los Lagos” y “Pustelnik”
+
+| | **Los Lagos (1941)** | **Pustelnik (1975)** |
+|---|---|---|
+| Contexto | anterior a la LPA | posterior a la LPA |
+| Problema | régimen de nulidades | alcance de la presunción |
+| Punto de partida | presunción de validez | presunción de legitimidad |
+| Nulidad manifiesta | criterio restrictivo | reconoce la categoría |
+| Vicio evidente | no destruye automáticamente el esquema de presunción | impide que se constituya la presunción |
+| Aporte | construcción de la regla | construcción del límite |
+
+---
+
+# La evolución jurisprudencial
+
+```text
+LOS LAGOS
+1941
+        ↓
+FUERTE PRESUNCIÓN
+DE VALIDEZ
+        ↓
+RÉGIMEN AUTÓNOMO
+DE DERECHO PÚBLICO
+
+        ↓
+
+PUSTELNIK
+1975
+        ↓
+MANTIENE LA PRESUNCIÓN
+        +
+RECONOCE SUS LÍMITES
+        ↓
+INVALIDEZ EVIDENTE
+Y MANIFIESTA
+```
+
+---
+
+# La idea que debe llevarse el alumno
+
+## PRIMERA REGLA
+
+El acto administrativo:
+
+# SE PRESUME LEGÍTIMO.
+
+## SEGUNDA REGLA
+
+Presumir legítimo:
+
+# NO SIGNIFICA QUE SEA LEGÍTIMO.
+
+## TERCERA REGLA
+
+La presunción:
+
+# PUEDE SER DESTRUIDA.
+
+## CUARTA REGLA
+
+Ante una invalidez:
+
+# EVIDENTE Y MANIFIESTA
+
+la presunción de legitimidad:
+
+# NO PUEDE CONSTITUIRSE.
+
+---
+
+# Pregunta para cerrar
+
+La Administración dicta un acto.
+
+El particular sostiene que es nulo.
+
+## ¿Puede simplemente ignorarlo?
+
+### En principio, no.
+
+El acto goza de:
+
+## PRESUNCIÓN DE LEGITIMIDAD.
+
+Pero debemos preguntar:
+
+> **¿qué ocurriría si el vicio fuese evidente y manifiesto?**
+
+Ahí aparece:
+
+# “PUSTELNIK”.
+
+---
+
+# Síntesis para examen
+
+### “Los Lagos”
+
+> **Construye una teoría autónoma de las nulidades administrativas y reconoce como principio la presunción de validez de los actos estatales.**
+
+### “Pustelnik”
+
+> **Mantiene la presunción de legitimidad, pero establece que ésta no puede constituirse frente a una invalidez evidente y manifiesta.**
+
+### Relación entre ambos
+
+```text
+LOS LAGOS
+     ↓
+LA REGLA
+
+PRESUNCIÓN
+DE LEGITIMIDAD
+
+
+PUSTELNIK
+     ↓
+EL LÍMITE
+
+INVALIDEZ
+EVIDENTE Y MANIFIESTA
+```

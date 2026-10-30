@@ -1,0 +1,1217 @@
+---
+title: "Agotamiento de la vía administrativa"
+subtitle: "Impugnación administrativa y acceso a la instancia judicial"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: simple
+    css: styles.css
+    slide-number: true
+    transition: slide
+    navigation-mode: linear
+    controls: true
+    progress: true
+    center: false
+    scrollable: true
+    width: 1600
+    height: 900
+    margin: 0.06
+    pdf-separate-fragments: false
+    embed-resources: false
+slide-level: 1
+lang: es
+---
+
+# Agotamiento de la vía administrativa
+
+::: {.caja-celeste}
+**Pregunta central de la clase**
+
+¿Cuándo puede el particular dejar la sede administrativa y acudir a la Justicia?
+:::
+
+La respuesta depende, ante todo, de **qué conducta estatal se pretende cuestionar**.
+
+---
+
+# El problema
+
+::: {.balbin}
+Balbín propone abandonar una visión exclusivamente centrada en el acto administrativo y observar también **la pretensión del particular** y **el objeto de impugnación**.
+:::
+
+El régimen vigente, sin embargo, conserva como regla diversos mecanismos administrativos previos al acceso judicial.
+
+**Idea central:** no existe un único camino de agotamiento.
+
+---
+
+# ¿Qué significa “agotar la vía”?
+
+::: {.caja-celeste}
+**Agotar la vía administrativa** significa cumplir el recorrido administrativo que el ordenamiento exige —cuando lo exige— antes de habilitar la impugnación judicial.
+:::
+
+No significa necesariamente:
+
+- interponer **todos** los recursos existentes;
+- formular siempre un reclamo administrativo previo;
+- obtener necesariamente una decisión expresa.
+
+
+## Fundamento tradicional
+
+Se han invocado, entre otros, tres fundamentos:
+
+1. permitir que la Administración **revise sus propias decisiones**;
+2. posibilitar el **control de los órganos superiores** sobre los inferiores;
+3. generar una oportunidad de solución del conflicto antes del proceso judicial.
+
+::: {.caja-naranja}
+Para Balbín, este privilegio debe interpretarse restrictivamente y a la luz del **derecho de defensa, tutela judicial efectiva y principio pro actione**.
+:::
+
+
+## La crítica de Balbín
+
+::: {.balbin}
+Balbín cuestiona la constitucionalidad del carácter obligatorio del agotamiento, especialmente por su aptitud para restringir el acceso a la Justicia mediante plazos breves y consecuencias preclusivas.
+:::
+
+Sin embargo, reconoce que el instituto **continúa previsto en el derecho positivo** y que, por ello, debe ser aplicado e interpretado.
+
+---
+
+# Primera clave: identificar el objeto
+
+| Conducta estatal | Vía administrativa típica |
+|---|---|
+| **Acto de alcance particular** | Recursos administrativos |
+| **Acto de alcance general** | Reclamo del art. 24 o impugnación indirecta |
+| **Omisión estatal** | Reclamo administrativo previo |
+| **Silencio** | Habilitación en los términos de la LNPA |
+| **Vía de hecho** | Acceso judicial sin agotamiento |
+
+::: {.regla}
+Antes de preguntar **qué recurso corresponde**, preguntar **qué conducta estatal estoy impugnando**.
+:::
+
+---
+
+# El mapa general
+
+::: {.secuencia}
+::: {.paso}
+ACTO PARTICULAR
+:::
+::: {.flecha}
+→
+:::
+::: {.paso}
+RECURSOS
+:::
+::: {.flecha}
+→
+:::
+::: {.paso}
+AGOTAMIENTO
+:::
+::: {.flecha}
+→
+:::
+::: {.paso}
+JUSTICIA
+:::
+:::
+
+::: {.secuencia}
+::: {.paso}
+ACTO GENERAL
+:::
+::: {.flecha}
+→
+:::
+::: {.paso}
+ART. 24
+:::
+::: {.flecha}
+→
+:::
+::: {.paso}
+JUSTICIA
+:::
+:::
+
+::: {.secuencia}
+::: {.paso}
+OMISIÓN
+:::
+::: {.flecha}
+→
+:::
+::: {.paso}
+RECLAMO PREVIO
+:::
+::: {.flecha}
+→
+:::
+::: {.paso}
+JUSTICIA
+:::
+:::
+
+---
+
+# Actos de alcance particular
+
+::: {.norma}
+**Art. 23 LNPA**
+
+Los actos definitivos y aquellos que impidan totalmente la tramitación de la pretensión pueden ser impugnados judicialmente, pero —como regla— previamente debe agotarse la vía administrativa.
+:::
+
+También contempla expresamente el **silencio** y las **vías de hecho**.
+
+---
+
+# ¿Qué acto interesa para el agotamiento?
+
+## Acto definitivo
+
+Resuelve el fondo de la cuestión.
+
+::: {.ejemplo}
+Se solicita una pensión. La Administración dicta un acto que **concede o rechaza** el beneficio.
+:::
+
+## Acto asimilable a definitivo
+
+No decide necesariamente el fondo, pero **impide totalmente continuar la pretensión**.
+
+::: {.ejemplo}
+Se rechaza la petición por considerar que el interesado carece de legitimación.
+:::
+
+
+## ¿Y los actos de mero trámite?
+
+Los actos interlocutorios o de mero trámite impulsan el procedimiento sin resolver la cuestión de fondo.
+
+Pueden ser objeto de reconsideración cuando lesionan derechos o intereses jurídicamente tutelados.
+
+::: {.caja-naranja}
+Pero el **recurso jerárquico** no procede, como regla general, contra simples actos de trámite: su objeto son los actos definitivos o los que impiden totalmente continuar la pretensión.
+:::
+
+
+## Los recursos administrativos
+
+::: {.norma}
+**Art. 73 RLPA**
+
+Los actos administrativos individuales y los actos generales a los que se hubiera dado o comenzado a dar aplicación pueden ser impugnados mediante los recursos previstos reglamentariamente.
+:::
+
+Los recursos pueden fundarse en:
+
+- **ilegitimidad**;
+- **inoportunidad, falta de mérito o inconveniencia**.
+
+---
+
+# Silencio y vías de hecho: ejemplos
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+### Silencio administrativo
+
+::: {.caja-celeste}
+**Ejemplo:** un particular solicita una autorización a la Administración.
+
+Transcurre el plazo legal para resolver y **la Administración no dicta ninguna decisión**.
+
+No existe un acto expreso que recurrir.
+
+**La falta de respuesta puede habilitar el acceso a la vía judicial** en los términos de los arts. 10 y 23 LNPA.
+:::
+
+:::
+
+::: {.column width="50%"}
+
+### Vía de hecho administrativa
+
+::: {.caja-naranja}
+**Ejemplo:** la Administración clausura materialmente un establecimiento **sin que exista un acto administrativo previo que ordene la medida**.
+
+El particular no tiene que esperar que la Administración dicte un acto para luego recurrirlo.
+
+**Puede acudir directamente a la Justicia frente a la actuación material ilegítima.**
+:::
+
+:::
+
+::::
+
+**Diferencia clave:** en el **silencio**, la Administración *no decide*; en la **vía de hecho**, la Administración *actúa materialmente sin el respaldo jurídico exigible*.
+---
+
+# Recurso de reconsideración
+
+::: {.norma}
+**Art. 84 RLPA**
+:::
+
+Procede contra:
+
+- actos definitivos;
+- actos que impidan totalmente la tramitación;
+- actos interlocutorios o de mero trámite que lesionen un derecho o interés jurídicamente tutelado.
+
+Se interpone ante **el mismo órgano que dictó el acto**.
+
+---
+
+# Reconsideración: PLAZOS
+
+::: {.caja-naranja}
+**INTERPOSICIÓN:** 20 días hábiles administrativos desde la notificación.
+
+**RESOLUCIÓN:** 30 días.
+:::
+
+Si no se resuelve dentro del plazo:
+
+::: {.regla}
+El interesado puede reputarlo **denegado por silencio**, sin necesidad de pronto despacho.
+:::
+
+**Arts. 84, 86 y 87 RLPA.**
+
+
+## ¿La reconsideración es obligatoria?
+
+::: {.caja-naranja}
+**NO.**
+:::
+
+Para agotar la vía contra un acto definitivo, el interesado puede:
+
+- interponer reconsideración —que lleva el jerárquico en subsidio—; o
+- interponer **directamente el recurso jerárquico**.
+
+::: {.regla}
+La reconsideración no es un paso obligatorio previo al jerárquico.
+:::
+
+
+## Reconsideración + jerárquico en subsidio
+
+::: {.norma}
+**Art. 88 RLPA**
+:::
+
+La reconsideración contra actos definitivos o asimilables lleva el **recurso jerárquico en subsidio**.
+
+Si la reconsideración es rechazada —expresamente o por silencio—:
+
+::: {.secuencia}
+::: {.paso}
+RECHAZO
+:::
+::: {.flecha}
+→
+:::
+::: {.paso}
+ELEVACIÓN
+:::
+::: {.flecha}
+→
+:::
+::: {.paso}
+SUPERIOR
+:::
+:::
+
+La elevación debe realizarse dentro de **[5 días]{.plazo}**.
+
+---
+
+# El recurso jerárquico
+
+::: {.caja-celeste}
+Es el recurso central para comprender el **agotamiento de la vía administrativa**.
+:::
+
+::: {.balbin}
+Balbín lo caracteriza como el recurso típico y más relevante porque su resolución permite agotar la instancia administrativa y habilitar la vía judicial.
+:::
+
+**Arts. 89 a 92 RLPA.**
+
+
+## ¿Contra qué procede el jerárquico?
+
+::: {.norma}
+**Art. 89 RLPA**
+:::
+
+Procede contra:
+
+- actos administrativos **definitivos**;
+- actos que **impidan totalmente** la tramitación del reclamo o pretensión.
+
+No es necesario haber interpuesto previamente reconsideración.
+
+---
+
+# Jerárquico: PLAZO DE INTERPOSICIÓN
+
+::: {.caja-celeste}
+**30 días hábiles administrativos** desde la notificación del acto.
+:::
+
+Se presenta ante **la autoridad que dictó el acto impugnado**.
+
+El órgano emisor debe elevarlo de oficio dentro de **5 días**.
+
+**Art. 90 RLPA.**
+
+
+## Jerárquico: ¿quién resuelve?
+
+Como regla, resuelve definitivamente:
+
+- Jefatura de Gabinete;
+- Ministerio;
+- Secretaría de la Presidencia;
+
+según la jurisdicción del órgano emisor.
+
+Si el acto impugnado proviene de alguna de esas autoridades, resuelve el **Poder Ejecutivo Nacional**.
+
+::: {.regla}
+La resolución del jerárquico **agota la instancia administrativa**.
+:::
+
+
+## Jerárquico: PLAZO PARA RESOLVER
+
+::: {.caja-celeste}
+**30 días hábiles administrativos**
+:::
+
+Se cuentan desde:
+
+- la recepción de las actuaciones por la autoridad competente; o
+- si hubo prueba, desde el alegato o el vencimiento del plazo para alegar.
+
+::: {.caja-naranja}
+No es necesario pedir **pronto despacho** para configurar la denegatoria por silencio.
+:::
+
+**Art. 91 RLPA.**
+
+---
+
+# Ejemplo completo
+
+::: {.ejemplo}
+Una Dirección Nacional dicta un acto definitivo que rechaza una pretensión de Juan.
+:::
+
+### Opción A
+
+**30 días** → jerárquico directo → decisión del superior → **vía agotada**.
+
+### Opción B
+
+**20 días** → reconsideración → rechazo → jerárquico en subsidio → decisión del superior → **vía agotada**.
+
+::: {.caja-naranja}
+No hay que interponer reconsideración **y luego iniciar desde cero** un jerárquico.
+:::
+
+---
+
+# ¿Cuándo la vía ya está agotada?
+
+El art. 23 LNPA contempla supuestos en los que el acto ya proviene de una autoridad cuya decisión causa estado.
+
+Entre ellos:
+
+- resolución del **recurso jerárquico**;
+- actos del **Presidente de la Nación**;
+- actos del **órgano superior de un ente descentralizado**;
+- actos de órganos con competencia resolutoria final del Congreso, Poder Judicial o Ministerio Público en ejercicio de función administrativa.
+
+
+## Un error frecuente
+
+::: {.caja-naranja}
+**“Para agotar siempre hay que interponer jerárquico.”**
+:::
+
+No necesariamente.
+
+El jerárquico es el camino típico **cuando existe un superior jerárquico al que debe llegarse**.
+
+Pero si el acto proviene de una autoridad cuya decisión ya agota la instancia, no existe otro escalón obligatorio.
+
+
+## Entes autárquicos
+
+Aquí aparece una distinción importante.
+
+Si el acto fue dictado por un **órgano inferior** del ente:
+
+- primero debe recorrerse el régimen recursivo interno;
+- si no existe régimen especial, se aplican las reglas generales.
+
+Cuando se llega al **órgano superior del ente**, la situación cambia.
+
+---
+
+# Recurso de alzada
+
+::: {.norma}
+**Art. 94 RLPA**
+:::
+
+Contra el acto definitivo del órgano superior de un ente autárquico, el interesado puede optar por:
+
+- reconsideración;
+- **recurso de alzada**;
+- **acción judicial pertinente**.
+
+::: {.regla}
+La alzada es **optativa**, no un requisito para agotar la vía.
+:::
+
+---
+
+# Alzada: PLAZOS
+
+Por aplicación de las reglas reglamentarias correspondientes:
+
+::: {.caja-celeste}
+**INTERPOSICIÓN:** [30 días hábiles administrativos]{.plazo}
+
+**RESOLUCIÓN:** [30 días hábiles administrativos]{.plazo}
+:::
+
+Pero la clave no es el plazo.
+
+::: {.caja-naranja}
+El interesado puede **prescindir de la alzada e ir directamente a la Justicia**.
+:::
+
+
+## Alzada: elección de vías
+
+::: {.norma}
+**Art. 95 RLPA**
+:::
+
+Si se elige primero la **vía judicial**, se pierde la administrativa.
+
+Si se interpone primero **alzada**:
+
+- puede desistirse y acudir a la Justicia; o
+- puede esperarse su resolución y luego promover la acción judicial.
+
+
+## Primera gran excepción al recorrido
+
+::: {.caja-celeste}
+**Acto del órgano superior de un ente autárquico**
+:::
+
+::: {.secuencia}
+::: {.paso}
+ACTO DEL ÓRGANO SUPERIOR
+:::
+::: {.flecha}
+→
+:::
+::: {.paso}
+ALZADA OPTATIVA
+:::
+::: {.flecha}
+→
+:::
+::: {.paso}
+JUSTICIA
+:::
+:::
+
+O bien:
+
+::: {.secuencia}
+::: {.paso}
+ACTO DEL ÓRGANO SUPERIOR
+:::
+::: {.flecha}
+→
+:::
+::: {.paso}
+JUSTICIA
+:::
+:::
+
+---
+
+# Excepciones del art. 23 LNPA
+
+Aun frente a actos definitivos o asimilables, la ley **dispensa del agotamiento** en determinados casos.
+
+::: {.excepcion}
+La excepción no significa que “no exista conflicto administrativo”; significa que **no se exige completar el recorrido administrativo previo para acceder al juez**.
+:::
+
+---
+
+# Excepción 1: cuestión constitucional
+
+No se exige agotamiento cuando la impugnación se basa **exclusivamente** en la invalidez o inconstitucionalidad de la norma de jerarquía legal o superior que aplica el acto.
+
+::: {.ejemplo}
+La Administración dicta un acto aplicando directamente una ley. El cuestionamiento del particular se dirige exclusivamente contra la constitucionalidad de esa ley.
+:::
+
+**Art. 23, inc. b, LNPA.**
+
+---
+
+# Excepción 2: ritualismo inútil
+
+::: {.excepcion}
+No se exige agotamiento cuando existe una conducta estatal clara que permite presumir la **ineficacia cierta del procedimiento**.
+:::
+
+No basta con afirmar:
+
+> “Seguramente me van a rechazar.”
+
+Debe existir una conducta estatal suficientemente clara que torne el trámite previo un **ritualismo inútil**.
+
+
+## Ejemplo: ritualismo inútil
+
+::: {.ejemplo}
+La Administración ha exteriorizado de manera inequívoca y reiterada una posición que demuestra que el trámite previo carecería de toda utilidad en el caso concreto.
+:::
+
+::: {.caja-naranja}
+Es una **excepción**. No conviene convertirla en una presunción general cada vez que el particular considere improbable obtener una respuesta favorable.
+:::
+
+---
+
+# Excepción 3: amparo y procesos urgentes
+
+::: {.excepcion}
+No se exige agotamiento cuando se interpone una **acción de amparo u otro proceso urgente**.
+:::
+
+La razón es evidente:
+
+exigir el recorrido administrativo completo puede ser incompatible con la **urgencia** que justifica esa tutela judicial.
+
+**Art. 23, inc. b, LNPA.**
+
+
+## Excepción 4: proceso judicial ya concluido
+
+La LNPA contempla también la dispensa respecto de actos dictados sobre una cuestión que es materia de un proceso judicial, **con posterioridad a una sentencia definitiva y firme**, en los términos del art. 23.
+
+::: {.caja-celeste}
+La finalidad es evitar imponer un nuevo recorrido administrativo respecto de una controversia que ya atravesó el control judicial en las condiciones previstas legalmente.
+:::
+
+---
+
+# Silencio administrativo
+
+El silencio merece un tratamiento separado.
+
+::: {.caja-celeste}
+Si la Administración no decide, el particular no puede quedar atrapado indefinidamente dentro de la propia Administración.
+:::
+
+La LNPA reconoce al silencio como supuesto habilitante en las condiciones del **art. 10** y lo conecta con la impugnación judicial en el **art. 23**.
+
+---
+
+# Vías de hecho
+
+::: {.norma}
+Los arts. 9 y 23 LNPA contemplan la protección frente a las **vías de hecho administrativas**.
+:::
+
+::: {.regla}
+No se exige al afectado recorrer previamente la vía recursiva contra un acto que, precisamente, no constituye el presupuesto regular de la actuación material estatal.
+:::
+
+Además:
+
+**no existe plazo de caducidad del art. 25 para impugnar vías de hecho**, sin perjuicio de la prescripción.
+
+---
+
+# Actos de alcance general
+
+La impugnación de reglamentos tiene **dos caminos**.
+
+::: {.secuencia}
+::: {.paso}
+DIRECTO
+:::
+::: {.flecha}
+→
+:::
+::: {.paso}
+RECLAMO ART. 24 a)
+:::
+:::
+
+::: {.secuencia}
+::: {.paso}
+INDIRECTO
+:::
+::: {.flecha}
+→
+:::
+::: {.paso}
+ACTO DE APLICACIÓN
+:::
+::: {.flecha}
+→
+:::
+::: {.paso}
+RECURSOS
+:::
+:::
+
+---
+
+# Impugnación directa del reglamento
+
+::: {.norma}
+**Art. 24, inc. a, LNPA**
+:::
+
+Cuando el acto general afecta o puede afectar de modo cierto e inminente derechos o intereses jurídicamente tutelados:
+
+1. se formula reclamo ante la autoridad que lo dictó;
+2. el resultado debe ser adverso o configurarse el supuesto legal de silencio;
+3. queda habilitada la impugnación judicial.
+
+Doctrinalmente suele denominarse **reclamo impropio**.
+
+---
+
+# Reclamo impropio: PLAZOS
+
+::: {.caja-celeste}
+**INTERPOSICIÓN:** la LNPA **no establece un plazo específico**.
+
+**RESOLUCIÓN:** [60 días]{.plazo}.
+
+**ACCIÓN JUDICIAL:** [180 días hábiles judiciales]{.plazo} ante denegatoria expresa, según el art. 25.
+:::
+
+::: {.caja-naranja}
+No confundir la inexistencia de un plazo específico para formular el reclamo con la inexistencia de límites derivados de prescripción, firmeza de actos individuales u otras reglas aplicables.
+:::
+
+---
+
+# Reglamento: excepciones al reclamo
+
+El art. 24 dispensa del reclamo administrativo previo en dos grupos:
+
+::: {.excepcion}
+**1. Amparo u otros procesos urgentes.**
+:::
+
+::: {.excepcion}
+**2. Impugnación de determinados decretos del PEN:** los dictados en ejercicio de las facultades de los arts. **76, 80 y 99 inc. 3 CN**.
+:::
+
+Es decir: delegación legislativa, promulgación parcial y decretos de necesidad y urgencia, en los términos constitucionales respectivos.
+
+---
+
+# Impugnación indirecta del reglamento
+
+::: {.norma}
+**Art. 24, inc. b, LNPA**
+:::
+
+La Administración dicta un **acto particular de aplicación** del reglamento.
+
+Entonces:
+
+::: {.secuencia}
+::: {.paso}
+REGLAMENTO
+:::
+::: {.flecha}
+→
+:::
+::: {.paso}
+ACTO PARTICULAR
+:::
+::: {.flecha}
+→
+:::
+::: {.paso}
+RECURSOS
+:::
+::: {.flecha}
+→
+:::
+::: {.paso}
+JUSTICIA
+:::
+:::
+
+
+## Una regla importante del art. 24
+
+::: {.regla}
+No haber impugnado directamente el reglamento **no impide** cuestionar posteriormente sus actos particulares de aplicación.
+:::
+
+Y la falta de impugnación de un acto particular de aplicación tampoco impide, por sí sola, cuestionar el acto general, **sin perjuicio de los efectos propios del acto particular que haya quedado firme**.
+
+---
+
+# Reclamo administrativo previo
+
+Ahora cambiamos de escenario.
+
+::: {.caja-celeste}
+No estoy necesariamente recurriendo un acto administrativo: tengo una **pretensión contra el Estado** que requiere el reclamo previo previsto en los arts. 30 y 31 LNPA.
+:::
+
+Balbín vincula especialmente esta vía con las **omisiones estatales**.
+
+---
+
+# Reclamo previo: ejemplo
+
+::: {.ejemplo}
+Una norma reconoce, bajo condiciones regladas, determinada prestación. El particular reúne los requisitos, pero el Estado **omite cumplir el deber que ya pesa sobre él**.
+:::
+
+Balbín distingue esta hipótesis del simple **silencio frente a una petición**:
+
+- omisión: existe un deber estatal preexistente;
+- silencio: el particular peticiona para obtener una decisión estatal.
+
+
+## Reclamo previo: ¿ante quién?
+
+::: {.norma}
+**Art. 30 LNPA**
+:::
+
+Se dirige al:
+
+- Ministerio;
+- Secretaría de la Presidencia; o
+- autoridad superior de la entidad descentralizada,
+
+según corresponda.
+
+::: {.caja-naranja}
+No confundir **reclamo administrativo previo** con **recurso administrativo**.
+:::
+
+---
+
+# Reclamo previo: PLAZOS
+
+::: {.caja-celeste}
+**INTERPOSICIÓN:** la ley no fija un plazo específico.
+
+**RESOLUCIÓN:** [90 días]{.plazo}.
+
+Vencidos → puede pedirse **pronto despacho**.
+
+Luego: [45 días]{.plazo}.
+:::
+
+Si tampoco existe respuesta, puede iniciarse la demanda.
+
+**Art. 31 LNPA.**
+
+
+## Reclamo previo: posible ampliación
+
+Por razones de complejidad o emergencia pública, el Poder Ejecutivo puede ampliar fundadamente los plazos, a requerimiento del organismo interviniente.
+
+::: {.caja-celeste}
+Hasta **[120 días]{.plazo}** para el primer período.
+
+Hasta **[60 días]{.plazo}** para el período posterior al pronto despacho.
+:::
+
+**Art. 31 LNPA.**
+
+
+## Denegatoria expresa del reclamo
+
+Si el reclamo es rechazado expresamente:
+
+::: {.regla}
+El particular **puede** recurrir administrativamente la denegatoria, pero esa opción no convierte al recurso en un requisito obligatorio adicional para acceder a la Justicia.
+:::
+
+La ley reconoce expresamente la opción recursiva.
+
+
+## Reclamo previo: plazo judicial
+
+Ante **denegatoria expresa**:
+
+::: {.caja-celeste}
+La demanda debe interponerse dentro de **[180 días hábiles judiciales]{.plazo}** desde su notificación.
+:::
+
+Si el particular optó por recurrir administrativamente esa denegatoria, el cómputo se vincula con la notificación de la denegatoria expresa del recurso, conforme al art. 31.
+
+Ante silencio, la propia norma permite demandar sin sujetar esa posibilidad al mismo plazo de caducidad, sin perjuicio de la **prescripción**.
+
+---
+
+# Excepciones al reclamo previo
+
+::: {.norma}
+**Art. 32 LNPA**
+:::
+
+No es necesario el reclamo previo, entre otros supuestos, cuando:
+
+1. se pretende repetir lo pagado al Estado por ejecución o un gravamen indebidamente pagado;
+2. se reclaman daños por responsabilidad contractual o extracontractual;
+3. se promueve desalojo contra el Estado o una acción que no tramite por vía ordinaria;
+4. existe **ritualismo inútil**.
+
+---
+
+# Ejemplo: daños contra el Estado
+
+::: {.ejemplo}
+Un vehículo estatal ocasiona un accidente y el damnificado pretende reclamar judicialmente la indemnización.
+:::
+
+::: {.excepcion}
+El art. 32 dispensa del **reclamo administrativo previo** para la acción de daños y perjuicios.
+:::
+
+Por eso sería incorrecto buscar aquí un recurso jerárquico:
+
+**no existe un acto administrativo definitivo que necesitemos recurrir para construir esa pretensión resarcitoria.**
+
+---
+
+# El plazo judicial general
+
+::: {.norma}
+**Art. 25 LNPA**
+:::
+
+La acción judicial de impugnación prevista en los arts. 23 y 24 debe deducirse, como regla, dentro de:
+
+::: {.caja-celeste}
+**[180 días hábiles judiciales]{.plazo}**
+:::
+
+La fecha inicial depende del objeto de impugnación.
+
+---
+
+# ¿Desde cuándo corren los 180 días?
+
+| Supuesto | Inicio del cómputo |
+|---|---|
+| Acto particular | Desde la notificación correspondiente conforme al régimen legal |
+| Acto general con reclamo directo | Desde la notificación de la denegatoria expresa |
+| Reglamento atacado mediante acto de aplicación | Desde la notificación del acto expreso que agota la instancia |
+| Hecho administrativo | Desde que fue conocido por el afectado |
+
+::: {.caja-naranja}
+**Vía de hecho:** no tiene plazo de caducidad del art. 25, sin perjuicio de la prescripción.
+:::
+
+---
+
+# Cuando la impugnación judicial es por recurso
+
+::: {.norma}
+**Art. 25 bis LNPA**
+:::
+
+Si una norma expresa establece que la impugnación judicial debe tramitar por **vía de recurso**:
+
+::: {.caja-celeste}
+PLAZO: **[30 días hábiles judiciales]{.plazo}** desde la notificación de la resolución definitiva que agota la instancia administrativa.
+:::
+
+No confundir este plazo con los **30 días hábiles administrativos** del recurso jerárquico.
+
+---
+
+# Vista de las actuaciones y plazos
+
+La solicitud de vista para recurrir tiene efectos sobre el cómputo de los plazos en los términos de la LNPA y del **art. 76 RLPA**.
+
+::: {.caja-naranja}
+En la práctica profesional, antes de computar mecánicamente el vencimiento de un recurso debe verificarse:
+
+- notificación válida;
+- eventual pedido de vista;
+- interrupciones legalmente previstas;
+- recurso previamente interpuesto.
+:::
+
+---
+
+# Recurso extemporáneo
+
+¿Qué ocurre si venció el plazo para recurrir?
+
+::: {.caja-naranja}
+Como regla, se pierde el derecho a interponer el recurso administrativo ordinario.
+:::
+
+Pero el ordenamiento admite que el planteo extemporáneo sea tratado como **denuncia de ilegitimidad**, dentro de sus límites.
+
+---
+
+# Denuncia de ilegitimidad
+
+::: {.balbin}
+Balbín la presenta como una “válvula de escape” frente a la firmeza producida por el vencimiento de los breves plazos recursivos.
+:::
+
+La Administración puede rechazar su tramitación por razones de seguridad jurídica o por haberse excedido pautas temporales razonables.
+
+La LNPA establece actualmente un límite máximo de **[180 días]{.plazo}** desde la notificación del acto para esas pautas temporales.
+
+---
+
+# “Gorordo Allaria de Kralj”
+
+::: {.tarjeta .cita}
+**CSJN, “Gorordo Allaria de Kralj, Haydée M. c/ Estado Nacional – Ministerio de Cultura y Educación”, 4/2/1999, Fallos 322:73.**
+:::
+
+La Corte sostuvo, bajo el régimen entonces aplicable, que el rechazo administrativo de una **denuncia de ilegitimidad** no podía recibir el mismo efecto que un recurso deducido en término a los fines de reabrir la impugnación judicial.
+
+Balbín critica la solución desde una concepción amplia del **control judicial**.
+
+[Referencia: Fallos 322:73 – doctrina citada por la CSJN](https://sjservicios.csjn.gov.ar/sj/verTomo?tomoId=409)
+
+
+## Gorordo: por qué importa
+
+::: {.caja-celeste}
+El caso muestra la consecuencia más grave de confundir los plazos:
+:::
+
+**RECURSO EN TÉRMINO**
+
+→ recorrido administrativo regular  
+→ agotamiento  
+→ acceso judicial en las condiciones legales.
+
+**RECURSO EXTEMPORÁNEO / DENUNCIA**
+
+→ remedio administrativo excepcional  
+→ **no equivale automáticamente** a reconstruir la vía judicial perdida.
+
+---
+
+# Cuadro general de PLAZOS
+
+| Instituto | Interposición | Resolución |
+|---|---:|---:|
+| Reconsideración | **20 días háb. adm.** | **30 días** |
+| Jerárquico | **30 días háb. adm.** | **30 días** |
+| Elevación del jerárquico | **5 días** | — |
+| Alzada | **30 días háb. adm.** | **30 días** |
+| Reclamo art. 24 | Sin plazo específico | **60 días** |
+| Reclamo previo art. 30 | Sin plazo específico | **90 + pronto despacho + 45** |
+| Revisión | **30 días** | **30 días** |
+| Acción judicial arts. 23/24 | — | **180 días háb. jud.** |
+| Recurso judicial art. 25 bis | — | **30 días háb. jud.** |
+
+---
+
+# Caso práctico 1
+
+::: {.ejemplo}
+Una Dirección dicta un acto definitivo y lo notifica hoy. El interesado quiere cuestionar el fondo.
+:::
+
+¿Qué debe mirar primero?
+
+1. ¿Existe un régimen especial?
+2. ¿Hay alguna excepción del art. 23?
+3. Si no la hay: **recurso jerárquico dentro de 30 días hábiles administrativos**.
+4. Puede optar por reconsideración dentro de **20 días**, pero no es obligatoria.
+5. Agotada la vía: controlar inmediatamente el **plazo judicial**.
+
+---
+
+# Caso práctico 2
+
+::: {.ejemplo}
+El órgano superior de un ente autárquico dicta un acto definitivo.
+:::
+
+¿Debe interponerse alzada antes de demandar?
+
+::: {.caja-naranja}
+**No.**
+:::
+
+La alzada es **optativa**.
+
+Puede elegirse directamente la acción judicial pertinente.
+
+---
+
+# Caso práctico 3
+
+::: {.ejemplo}
+Un reglamento afecta de manera cierta e inminente un interés jurídicamente tutelado, pero todavía no existe acto particular de aplicación.
+:::
+
+Camino ordinario:
+
+**reclamo del art. 24 inc. a → resultado adverso/silencio → Justicia.**
+
+Pero verificar siempre las **dispensas legales**: amparo/proceso urgente y determinados decretos constitucionales del PEN.
+
+---
+
+# Caso práctico 4
+
+::: {.ejemplo}
+Existe una omisión estatal respecto de una prestación jurídicamente debida.
+:::
+
+Camino:
+
+**reclamo administrativo previo → 90 días → pronto despacho → 45 días → demanda.**
+
+::: {.caja-naranja}
+Antes de iniciar el reclamo, verificar si el caso está comprendido en alguna **excepción del art. 32**.
+:::
+
+
+## Caso práctico 5
+
+::: {.ejemplo}
+El particular dejó vencer el plazo de 30 días para interponer el jerárquico y presenta su escrito varios meses después.
+:::
+
+Ya no estamos ante el recurso ordinario deducido en término.
+
+Puede entrar en juego la **denuncia de ilegitimidad**, con sus límites.
+
+::: {.regla}
+La denuncia de ilegitimidad no debe confundirse con una segunda oportunidad automática para reconstruir el agotamiento y el acceso judicial.
+:::
+
+---
+
+# Cómo resolver cualquier caso
+
+::: {.secuencia}
+::: {.paso}
+1. IDENTIFICAR LA CONDUCTA
+:::
+::: {.flecha}
+→
+:::
+::: {.paso}
+2. IDENTIFICAR LA VÍA
+:::
+::: {.flecha}
+→
+:::
+::: {.paso}
+3. BUSCAR EXCEPCIÓN
+:::
+::: {.flecha}
+→
+:::
+::: {.paso}
+4. COMPUTAR PLAZOS
+:::
+::: {.flecha}
+→
+:::
+::: {.paso}
+5. CONTROLAR ACCESO JUDICIAL
+:::
+:::
+
+---
+
+# Síntesis final
+
+::: {.regla}
+**ACTO PARTICULAR** → recursos → jerárquico como vía típica de agotamiento.
+:::
+
+::: {.regla}
+**ACTO GENERAL** → reclamo art. 24 o impugnación mediante acto particular de aplicación.
+:::
+
+::: {.regla}
+**OMISIÓN / pretensión comprendida en arts. 30 y 31** → reclamo administrativo previo.
+:::
+
+::: {.excepcion}
+En todos los casos corresponde preguntar si existe una **dispensa legal del trámite previo**.
+:::
+
+---
+
+# La pregunta que evita el lío
+
+::: {.caja-celeste}
+Antes de preguntar:
+
+**“¿Qué recurso tengo que interponer?”**
+
+preguntar:
+
+### **“¿QUÉ CONDUCTA DEL ESTADO QUIERO LLEVAR ANTE EL JUEZ?”**
+:::
+
+A partir de esa respuesta se ordenan:
+
+**la vía administrativa → el agotamiento → las excepciones → los plazos → el acceso judicial.**
+
+---
+
+# Fuentes
+
+- **Ley Nacional de Procedimientos Administrativos 19.549**, texto actualizado.
+- **Decreto 1759/72 – Reglamento de Procedimientos Administrativos**, texto actualizado.
+- **Balbín, Carlos F.**, desarrollo sobre procedimientos de impugnación de las decisiones estatales, material de la clase.
+- **CSJN**, *Gorordo Allaria de Kralj, Haydée M. c/ Estado Nacional – Ministerio de Cultura y Educación*, 4/2/1999, Fallos 322:73.
+
+[Texto actualizado de la LNPA](https://www.argentina.gob.ar/normativa/nacional/22363/actualizacion)
+
+[Texto actualizado del Decreto 1759/72](https://www.argentina.gob.ar/normativa/nacional/21715/actualizacion)
