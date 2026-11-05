@@ -132,7 +132,7 @@ Ver presentación
 ::: {.material-card}
 #### Procedimiento Administrativo
 
-<a href="clase5-procedimiento.qmd" target="_blank" class="btn-class">
+<a href="clase5-procedimiento.html" target="_blank" class="btn-class">
 Ver presentación
 </a>
 :::
@@ -140,7 +140,7 @@ Ver presentación
 ::: {.material-card}
 #### Agotamiento de la vía administrativa
 
-<a href="agotamiento-via-administrativa.qmd" target="_blank" class="btn-class">
+<a href="agotamiento-via-administrativa.html" target="_blank" class="btn-class">
 Ver presentación
 </a>
 :::
